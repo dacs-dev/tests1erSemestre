@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tests</title>
+    <link rel="stylesheet" href="./tests.css" />
+  </head>
+  <body>
+    <div>
+      <h2>Tests</h2>
+      <div id="test_menu"></div>
+    </div>
+    <div>
+      <h2>Test actual</h2>
+      <div id="selected_test"></div>
+    </div>
+    <script>
+      const alphabet = "abcdefghijklmnñopqrstivwxyz";
+      function buttonClick() {
+        const selectedDiv = document.getElementById("selected_test");
+        while (selectedDiv.firstChild) {
+          selectedDiv.removeChild(selectedDiv.firstChild);
+        }
+        const pos = event.target.id;
+        const test = tests[pos];
+        test.preguntas.forEach((element) => {
+          const container = document.createElement("div");
+          const enunciado = document.createElement("p");
+          enunciado.className = "enunciado";
+          enunciado.textContent = element.enunciado;
+          selectedDiv.appendChild(enunciado);
+          element.respuestas.forEach((element, index) => {
+            const answer = document.createElement("input");
+            answer.type = "radio";
+            answer.name = "question" + pos;
+            answer.id = "question" + pos + "answer" + index;
+            const label = document.createElement("label");
+            label.textContent = `${alphabet[index]}) + ${element}`;
+            label.htmlFor = "question" + pos + "answer" + index;
+            const respuestaContainer = document.createElement("div");
+            respuestaContainer.className = "respuesta-container";
+            respuestaContainer.appendChild(answer);
+            respuestaContainer.appendChild(label);
+            selectedDiv.appendChild(respuestaContainer);
+          });
+        });
+      }
+
+      const testSelector = document.getElementById("test_menu");
+      let tests = null;
+
+      fetch("./atencion.json").then((response) => {
+        if (!response.ok) {
+          throw new Error(`Error al leer el archivo: ${response.statusText}`);
+        }
+        return response.json().then((data) => {
+          tests = data.tests;
+          for (let i = 0; i < data.tests.length; i++) {
+            const button = document.createElement("button");
+            button.textContent =
+              (window.innerWidth > 768 ? "Test " : "") + (i + 1);
+            button.id = i;
+            button.onclick = buttonClick;
+            testSelector.appendChild(button);
+          }
+        });
+      });
+    </script>
+  </body>
+</html>

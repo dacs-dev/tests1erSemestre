@@ -1,0 +1,1982 @@
+[
+  {
+    "question": "¿Qué es la digitalización en las empresas?",
+    "points": 2,
+    "options": [
+      "Adaptar procesos analógicos a su versión digital.",
+      "Automatizar tareas repetitivas con máquinas.",
+      "Implementar estrategias de marketing en redes sociales.",
+      "Crear nuevas áreas de negocio utilizando IA."
+    ],
+    "correct_answer": "Adaptar procesos analógicos a su versión digital."
+  },
+  {
+    "question": "¿Cuál es una característica principal de la Cuarta Revolución Industrial?",
+    "points": 2,
+    "options": [
+      "El uso del vapor para mover máquinas.",
+      "La convergencia de tecnologías disruptivas como IoT e IA.",
+      "El desarrollo de semiconductores.",
+      "La invención de la imprenta."
+    ],
+    "correct_answer": "La convergencia de tecnologías disruptivas como IoT e IA."
+  },
+  {
+    "question": "¿Qué función tiene la capa de percepción en un sistema ciberfísico?",
+    "points": 2,
+    "options": [
+      "Coordinar la comunicación entre sensores y actuadores.",
+      "Procesar datos para tomar decisiones.",
+      "Capturar datos del entorno físico mediante sensores.",
+      "Ejecutar comandos en los actuadores."
+    ],
+    "correct_answer": "Capturar datos del entorno físico mediante sensores."
+  },
+  {
+    "question": "¿Qué ventaja ofrece la digitalización de una empresa?",
+    "points": 2,
+    "options": [
+      "Reduce la eficiencia de los procesos.",
+      "Incrementa los costes operativos.",
+      "Mejora la experiencia del cliente.",
+      "Limita el acceso a nuevos mercados."
+    ],
+    "correct_answer": "Mejora la experiencia del cliente."
+  },
+  {
+    "question": "¿Qué es un sistema ciberfísico (CPS)?",
+    "points": 2,
+    "options": [
+      "Un sistema de impresión 3D.",
+      "Una red de comunicación entre dispositivos móviles.",
+      "Un sistema que integra computación con elementos físicos mediante redes.",
+      "Un software de gestión empresarial."
+    ],
+    "correct_answer": "Un sistema que integra computación con elementos físicos mediante redes."
+  },
+  {
+    "question": "¿Qué es el big data?",
+    "points": 2,
+    "options": [
+      "Un documento en formato XML.",
+      "Un sistema de almacenamiento de datos distribuido.",
+      "La capacidad de analizar grandes volúmenes de datos para obtener patrones.",
+      "Un dispositivo de almacenamiento externo."
+    ],
+    "correct_answer": "La capacidad de analizar grandes volúmenes de datos para obtener patrones."
+  },
+  {
+    "question": "¿Cuál es una función principal de la capa de transmisión en un CPS?",
+    "points": 2,
+    "options": [
+      "Tomar decisiones basadas en datos.",
+      "Facilitar la comunicación entre sensores, procesadores y actuadores.",
+      "Analizar información recibida de múltiples fuentes.",
+      "Monitorear cambios en el entorno físico."
+    ],
+    "correct_answer": "Facilitar la comunicación entre sensores, procesadores y actuadores."
+  },
+  {
+    "question": "¿Qué diferencia principal existe entre IT y OT?",
+    "points": 2,
+    "options": [
+      "IT procesa datos empresariales; OT controla procesos físicos.",
+      "OT incluye tecnologías inalámbricas; IT no las utiliza.",
+      "OT se centra en marketing; IT, en producción.",
+      "IT y OT no tienen ninguna relación."
+    ],
+    "correct_answer": "IT procesa datos empresariales; OT controla procesos físicos."
+  },
+  {
+    "question": "¿Qué tecnología permite la comunicación sin cables en un CPS?",
+    "points": 2,
+    "options": [
+      "Redes cableadas como Ethernet.",
+      "Wi-Fi, Bluetooth y 5G.",
+      "Sistemas de control distribuidos (DCS).",
+      "Dispositivos de almacenamiento externo."
+    ],
+    "correct_answer": "Wi-Fi, Bluetooth y 5G."
+  },
+  {
+    "question": "¿Cuál es un ejemplo de tecnología utilizada en la capa de aplicación de un CPS?",
+    "points": 2,
+    "options": [
+      "Sensores de temperatura.",
+      "Algoritmos de machine learning.",
+      "Redes de comunicación LAN.",
+      "Cortafuegos y sistemas IDS/IPS."
+    ],
+    "correct_answer": "Algoritmos de machine learning."
+  },
+  {
+      "question": "¿Cuál es la diferencia principal entre digitalización y transformación digital?",
+      "points": 2,
+      "options": [
+        "La digitalización adapta procesos analógicos a su versión digital, mientras que la transformación digital busca generar más valor a través de cambios internos.",
+        "La transformación digital es lo mismo que la digitalización, pero incluye marketing digital.",
+        "La digitalización implica usar inteligencia artificial en todos los procesos empresariales.",
+        "No hay diferencia entre ambos términos."
+      ],
+      "correct_answer": "La digitalización adapta procesos analógicos a su versión digital, mientras que la transformación digital busca generar más valor a través de cambios internos."
+    },
+    {
+      "question": "¿Qué tecnología es un ejemplo de comunicación sin cables en un sistema CPS?",
+      "points": 2,
+      "options": [
+        "Ethernet y fibra óptica.",
+        "Wi-Fi, Bluetooth y 5G.",
+        "Protocolos como MQTT y HTTP.",
+        "Redes cableadas de alta velocidad."
+      ],
+      "correct_answer": "Wi-Fi, Bluetooth y 5G."
+    },
+    {
+      "question": "¿Qué caracteriza a los sistemas ciberfísicos (CPS) en la industria 4.0?",
+      "points": 2,
+      "options": [
+        "Uso exclusivo de sensores de temperatura y presión.",
+        "Capacidad de autoevaluación, análisis de datos y toma de decisiones autónomas.",
+        "Dependencia de supervisión humana constante.",
+        "Incapacidad para procesar grandes volúmenes de datos."
+      ],
+      "correct_answer": "Capacidad de autoevaluación, análisis de datos y toma de decisiones autónomas."
+    },
+    {
+      "question": "¿Qué función principal tiene la capa de aplicación en un sistema ciberfísico?",
+      "points": 2,
+      "options": [
+        "Capturar datos del entorno físico mediante sensores.",
+        "Transmitir datos entre sensores y procesadores.",
+        "Tomar decisiones informadas y ejecutar acciones basadas en algoritmos avanzados.",
+        "Controlar directamente dispositivos físicos sin procesar datos."
+      ],
+      "correct_answer": "Tomar decisiones informadas y ejecutar acciones basadas en algoritmos avanzados."
+    },
+    {
+      "question": "¿Qué ventaja clave ofrece la digitalización a las empresas?",
+      "points": 2,
+      "options": [
+        "Incrementa los costos operativos.",
+        "Reduce la eficiencia de los procesos.",
+        "Facilita el acceso a nuevos mercados y clientes.",
+        "Elimina completamente la intervención humana."
+      ],
+      "correct_answer": "Facilita el acceso a nuevos mercados y clientes."
+    },
+    {
+      "question": "¿Quién acuñó el término Cuarta Revolución Industrial y en qué año?",
+      "points": 2,
+      "options": [
+        "James Watt, en 1760.",
+        "Klaus Schwab, en 2016.",
+        "Henry Ford, en 1870.",
+        "Bill Gates, en 2000."
+      ],
+      "correct_answer": "Klaus Schwab, en 2016."
+    },
+    {
+      "question": "¿Cuál es un componente principal de las tecnologías OT?",
+      "points": 2,
+      "options": [
+        "Sistemas de control industrial como PLC y SCADA.",
+        "Software de gestión empresarial como SAP.",
+        "Redes inalámbricas como Wi-Fi y 5G.",
+        "Sistemas de almacenamiento en la nube."
+      ],
+      "correct_answer": "Sistemas de control industrial como PLC y SCADA."
+    },
+    {
+      "question": "¿Qué impacto tiene la Cuarta Revolución Industrial en el mercado laboral?",
+      "points": 2,
+      "options": [
+        "Elimina la necesidad de adquirir nuevas competencias.",
+        "Reconfigura puestos de trabajo y demanda nuevas habilidades.",
+        "Reduce la eficiencia de los procesos productivos.",
+        "Genera mayor dependencia en trabajos no cualificados."
+      ],
+      "correct_answer": "Reconfigura puestos de trabajo y demanda nuevas habilidades."
+    },
+    {
+      "question": "¿Qué es un ejemplo de una interfaz hombre-máquina (HMI) en un sistema OT?",
+      "points": 2,
+      "options": [
+        "Paneles de control y sistemas SCADA.",
+        "Sensores de temperatura y presión.",
+        "Protocolos de comunicación como MQTT.",
+        "Sistemas de almacenamiento distribuido."
+      ],
+      "correct_answer": "Paneles de control y sistemas SCADA."
+    },
+    {
+      "question": "¿Qué objetivo tiene la convergencia de IT y OT en una empresa digitalizada?",
+      "points": 2,
+      "options": [
+        "Eliminar el uso de datos empresariales.",
+        "Mejorar la eficiencia y flexibilidad en la producción.",
+        "Limitar la interconexión entre dispositivos y sistemas.",
+        "Fomentar la dependencia en procesos analógicos."
+      ],
+      "correct_answer": "Mejorar la eficiencia y flexibilidad en la producción."
+    },
+    {
+      "question": "¿Qué objetivo final persigue la transformación digital de una empresa?",
+      "points": 2,
+      "options": [
+        "Aumentar los costes operativos.",
+        "Adaptarse al contexto actual en un mundo interconectado e hiperactivo.",
+        "Sustituir completamente los procesos analógicos.",
+        "Eliminar la necesidad de innovar en el mercado."
+      ],
+      "correct_answer": "Adaptarse al contexto actual en un mundo interconectado e hiperactivo."
+    },
+    {
+      "question": "¿Qué caracteriza a la Cuarta Revolución Industrial?",
+      "points": 2,
+      "options": [
+        "El uso del vapor como fuente de energía.",
+        "La producción en masa mediante líneas de montaje.",
+        "La interacción entre distintas tecnologías disruptivas.",
+        "La invención de la imprenta y su impacto en la comunicación."
+      ],
+      "correct_answer": "La interacción entre distintas tecnologías disruptivas."
+    },
+    {
+      "question": "¿Qué son los sistemas ciberfísicos (CPS)?",
+      "points": 2,
+      "options": [
+        "Sistemas de impresión 3D utilizados en la industria.",
+        "Sistemas integrados de computación capaces de controlar y colaborar con sistemas físicos mediante redes.",
+        "Tecnologías utilizadas exclusivamente en redes sociales.",
+        "Equipos destinados al análisis de datos en la nube."
+      ],
+      "correct_answer": "Sistemas integrados de computación capaces de controlar y colaborar con sistemas físicos mediante redes."
+    },
+    {
+      "question": "¿Qué tecnologías destacan en la Cuarta Revolución Industrial?",
+      "points": 2,
+      "options": [
+        "El ferrocarril y los barcos a vapor.",
+        "La nanotecnología, la inteligencia artificial y la computación cuántica.",
+        "La línea de montaje y la electrificación.",
+        "Los semiconductores y las telecomunicaciones."
+      ],
+      "correct_answer": "La nanotecnología, la inteligencia artificial y la computación cuántica."
+    },
+    {
+      "question": "¿Cuál es la función de la capa de percepción en un sistema ciberfísico?",
+      "points": 2,
+      "options": [
+        "Interconectar sensores con procesadores y actuadores.",
+        "Procesar datos para tomar decisiones automatizadas.",
+        "Obtener datos del entorno físico mediante sensores.",
+        "Garantizar la transmisión de datos entre componentes."
+      ],
+      "correct_answer": "Obtener datos del entorno físico mediante sensores."
+    },
+    {
+      "question": "¿Qué tecnologías se emplean en la capa de transmisión de un CPS?",
+      "points": 2,
+      "options": [
+        "Redes cableadas como Ethernet y redes inalámbricas como Wi-Fi y 5G.",
+        "Sistemas de análisis avanzado y algoritmos de machine learning.",
+        "Actuadores que ejecutan comandos en procesos industriales.",
+        "Interfaces de usuario como paneles de control y aplicaciones móviles."
+      ],
+      "correct_answer": "Redes cableadas como Ethernet y redes inalámbricas como Wi-Fi y 5G."
+    },
+    {
+      "question": "¿Qué avances permiten a los CPS ser más inteligentes y autónomos?",
+      "points": 2,
+      "options": [
+        "La electrificación y la expansión del ferrocarril.",
+        "La convergencia de tecnologías como la inteligencia artificial, el cloud y el big data.",
+        "El desarrollo de máquinas a vapor y la automatización básica.",
+        "El uso exclusivo de sensores de presión y temperatura."
+      ],
+      "correct_answer": "La convergencia de tecnologías como la inteligencia artificial, el cloud y el big data."
+    },
+    {
+      "question": "¿Qué características debe tener una red en la capa de transmisión?",
+      "points": 2,
+      "options": [
+        "Alta latencia y ancho de banda limitado.",
+        "Sincronización de datos, seguridad y confiabilidad.",
+        "Dependencia exclusiva de redes cableadas.",
+        "Falta de protección contra intrusiones externas."
+      ],
+      "correct_answer": "Sincronización de datos, seguridad y confiabilidad."
+    },
+    {
+      "question": "¿Qué herramientas destacan en las tecnologías IT?",
+      "points": 2,
+      "options": [
+        "Sistemas SCADA y sensores de presión.",
+        "Microsoft Azure, AWS y Salesforce.",
+        "Controladores lógicos programables (PLC) y DCS.",
+        "Interfaces hombre-máquina (HMI) y actuadores."
+      ],
+      "correct_answer": "Microsoft Azure, AWS y Salesforce."
+    },
+    {
+      "question": "¿Qué ventaja ofrece la digitalización de los procesos empresariales?",
+      "points": 2,
+      "options": [
+        "Mayor agilidad y velocidad en la toma de decisiones.",
+        "Reducción en el uso de tecnologías digitales.",
+        "Disminución en la eficiencia operativa.",
+        "Limitación en la personalización de servicios."
+      ],
+      "correct_answer": "Mayor agilidad y velocidad en la toma de decisiones."
+    },
+    {
+      "question": "¿Qué caracteriza a las tecnologías habilitadoras digitales (THD)?",
+      "points": 2,
+      "options": [
+        "Promueven la innovación y la personalización.",
+        "Son exclusivas de la industria manufacturera.",
+        "Carecen de escalabilidad.",
+        "No incorporan medidas de seguridad avanzadas."
+      ],
+      "correct_answer": "Promueven la innovación y la personalización."
+    },
+    {
+      "question": "¿Cuál es una ventaja clave de la tecnología 5G?",
+      "points": 2,
+      "options": [
+        "Latencia muy reducida.",
+        "Conexión limitada a dispositivos móviles.",
+        "Alta dependencia de cableado físico.",
+        "Costos elevados en comparación con 4G."
+      ],
+      "correct_answer": "Latencia muy reducida."
+    },
+    {
+      "question": "¿Qué es el blockchain?",
+      "points": 2,
+      "options": [
+        "Un sistema de inteligencia artificial para la industria.",
+        "Una tecnología de registro distribuido y seguro.",
+        "Un software de edición de datos financieros.",
+        "Una plataforma de almacenamiento en la nube."
+      ],
+      "correct_answer": "Una tecnología de registro distribuido y seguro."
+    },
+    {
+      "question": "¿Qué permite la computación en la nube?",
+      "points": 2,
+      "options": [
+        "Crear entornos de realidad virtual sin internet.",
+        "Gestionar grandes volúmenes de datos sin infraestructura física local.",
+        "Diseñar prototipos 3D directamente desde servidores locales.",
+        "Garantizar la privacidad absoluta en todos los procesos."
+      ],
+      "correct_answer": "Gestionar grandes volúmenes de datos sin infraestructura física local."
+    },
+    {
+      "question": "¿Qué ventaja aporta el big data en la toma de decisiones?",
+      "points": 2,
+      "options": [
+        "Reduce los tiempos de análisis manual.",
+        "Elimina la necesidad de supervisión humana.",
+        "Facilita decisiones más informadas y documentadas.",
+        "Evita la personalización de los productos."
+      ],
+      "correct_answer": "Facilita decisiones más informadas y documentadas."
+    },
+    {
+      "question": "¿Qué es un gemelo digital?",
+      "points": 2,
+      "options": [
+        "Un robot autónomo para tareas colaborativas.",
+        "Una réplica virtual de un objeto, sistema o proceso.",
+        "Un archivo de datos almacenado en blockchain.",
+        "Un asistente de inteligencia artificial."
+      ],
+      "correct_answer": "Una réplica virtual de un objeto, sistema o proceso."
+    },
+    {
+      "question": "¿Qué función tiene la robótica colaborativa?",
+      "points": 2,
+      "options": [
+        "Reducir la participación humana en las operaciones.",
+        "Permitir a robots y humanos trabajar juntos de forma segura.",
+        "Optimizar exclusivamente tareas administrativas.",
+        "Limitar las operaciones automatizadas en zonas aisladas."
+      ],
+      "correct_answer": "Permitir a robots y humanos trabajar juntos de forma segura."
+    },
+    {
+      "question": "¿Cuál es un riesgo asociado al uso de tecnologías habilitadoras digitales?",
+      "points": 2,
+      "options": [
+        "Reducción en la eficiencia operativa.",
+        "Aumento de la brecha digital.",
+        "Desaparición de los modelos colaborativos.",
+        "Estancamiento en la innovación tecnológica."
+      ],
+      "correct_answer": "Aumento de la brecha digital."
+    },
+    {
+      "question": "¿Qué es la impresión 3D?",
+      "points": 2,
+      "options": [
+        "Un proceso que utiliza capas para fabricar objetos tridimensionales.",
+        "Un sistema de gestión de bases de datos distribuidas.",
+        "Una tecnología de realidad aumentada para diseño industrial.",
+        "Una red de comunicación en la nube."
+      ],
+      "correct_answer": "Un proceso que utiliza capas para fabricar objetos tridimensionales."
+    },
+    {
+      "question": "¿Qué es el Internet de las cosas (IoT)?",
+      "points": 2,
+      "options": [
+        "Un sistema que conecta dispositivos físicos para recopilar datos y comunicarse.",
+        "Un software de gestión exclusivo para empresas tecnológicas.",
+        "Una tecnología usada exclusivamente en el ámbito doméstico.",
+        "Un sistema de automatización enfocado en robots autónomos."
+      ],
+      "correct_answer": "Un sistema que conecta dispositivos físicos para recopilar datos y comunicarse."
+    },
+    {
+        "question": "¿Qué características destacan en las tecnologías habilitadoras digitales (THD)?",
+        "points": 2,
+        "options": [
+          "Innovación, versatilidad y automatización.",
+          "Únicamente innovación y analítica avanzada.",
+          "Falta de escalabilidad y baja seguridad.",
+          "Dependencia exclusiva de redes locales."
+        ],
+        "correct_answer": "Innovación, versatilidad y automatización."
+      },
+      {
+        "question": "¿Qué beneficio aporta la computación en la nube?",
+        "points": 2,
+        "options": [
+          "Acceso global y recuperación ante desastres.",
+          "Dependencia de infraestructuras locales.",
+          "Eliminación de sistemas de almacenamiento físico.",
+          "Falta de flexibilidad en su uso."
+        ],
+        "correct_answer": "Acceso global y recuperación ante desastres."
+      },
+      {
+        "question": "¿Cómo se clasifican los datos utilizados en el big data?",
+        "points": 2,
+        "options": [
+          "Estructurados, semiestructurados y no estructurados.",
+          "Simples, complejos y distribuidos.",
+          "Analógicos y digitales.",
+          "Localizados y en la nube."
+        ],
+        "correct_answer": "Estructurados, semiestructurados y no estructurados."
+      },
+      {
+        "question": "¿Cuál es una función de los gemelos digitales?",
+        "points": 2,
+        "options": [
+          "Simulación y análisis de operaciones en tiempo real.",
+          "Gestión de la seguridad cibernética.",
+          "Interacción directa con usuarios finales.",
+          "Optimización del uso de blockchain."
+        ],
+        "correct_answer": "Simulación y análisis de operaciones en tiempo real."
+      },
+      {
+        "question": "¿Qué tecnología inmersiva permite superponer elementos digitales en el entorno físico?",
+        "points": 2,
+        "options": [
+          "Realidad aumentada.",
+          "Robótica colaborativa.",
+          "Blockchain.",
+          "Gemelos digitales."
+        ],
+        "correct_answer": "Realidad aumentada."
+      },
+      {
+        "question": "¿Cuál es un uso destacado de los dispositivos IoT en la agricultura?",
+        "points": 2,
+        "options": [
+          "Monitorización en tiempo real de parámetros como humedad y temperatura.",
+          "Gestión de datos empresariales locales.",
+          "Optimización del transporte en zonas urbanas.",
+          "Reducción de costos en ciberseguridad."
+        ],
+        "correct_answer": "Monitorización en tiempo real de parámetros como humedad y temperatura."
+      },
+      {
+        "question": "¿Qué ofrece la robótica colaborativa que la diferencia de la robótica tradicional?",
+        "points": 2,
+        "options": [
+          "Permite trabajar directamente con humanos en un espacio compartido.",
+          "Opera exclusivamente en zonas aisladas por razones de seguridad.",
+          "Se centra únicamente en tareas de producción en masa.",
+          "Sustituye completamente a los humanos en las líneas de producción."
+        ],
+        "correct_answer": "Permite trabajar directamente con humanos en un espacio compartido."
+      },
+      {
+        "question": "¿Cuál es un riesgo ambiental asociado al uso de tecnologías habilitadoras digitales?",
+        "points": 2,
+        "options": [
+          "Generación de residuos electrónicos.",
+          "Mayor automatización de procesos.",
+          "Falta de personal capacitado.",
+          "Brechas legales en normativas locales."
+        ],
+        "correct_answer": "Generación de residuos electrónicos."
+      },
+      {
+        "question": "¿Qué medida es fundamental en ciberseguridad para proteger sistemas contra ataques?",
+        "points": 2,
+        "options": [
+          "Monitorización permanente de la red.",
+          "Automatización completa de procesos.",
+          "Reducción de contraseñas en sistemas críticos.",
+          "Optimización del mantenimiento predictivo."
+        ],
+        "correct_answer": "Monitorización permanente de la red."
+      },
+      {
+        "question": "¿Qué ventaja principal ofrece la impresión 3D?",
+        "points": 2,
+        "options": [
+          "Producción de objetos tridimensionales capa por capa.",
+          "Reducción de la dependencia de la computación en la nube.",
+          "Interacción avanzada con dispositivos IoT.",
+          "Generación de datos semiestructurados en tiempo real."
+        ],
+        "correct_answer": "Producción de objetos tridimensionales capa por capa."
+      },
+      {
+        "question": "¿Qué ventaja ofrece la inteligencia artificial en el sector sanitario?",
+        "points": 2,
+        "options": [
+          "Diagnóstico temprano de enfermedades y análisis de imágenes médicas.",
+          "Sustitución completa de médicos en quirófanos.",
+          "Eliminación de datos clínicos históricos.",
+          "Reducción de la necesidad de dispositivos wearables."
+        ],
+        "correct_answer": "Diagnóstico temprano de enfermedades y análisis de imágenes médicas."
+      },
+      {
+        "question": "¿Qué característica define a los contratos inteligentes basados en blockchain?",
+        "points": 2,
+        "options": [
+          "Ejecución automática cuando se cumplen ciertas condiciones.",
+          "Dependen exclusivamente de supervisión humana.",
+          "Carecen de transparencia en su funcionamiento.",
+          "Solo se aplican a transacciones monetarias."
+        ],
+        "correct_answer": "Ejecución automática cuando se cumplen ciertas condiciones."
+      },
+      {
+        "question": "¿Qué beneficio aporta el análisis de big data en el sector financiero?",
+        "points": 2,
+        "options": [
+          "Identificación de patrones y tendencias para mejorar decisiones.",
+          "Reducción del uso de tecnologías de ciberseguridad.",
+          "Eliminación de riesgos asociados a las criptomonedas.",
+          "Dependencia de infraestructuras físicas tradicionales."
+        ],
+        "correct_answer": "Identificación de patrones y tendencias para mejorar decisiones."
+      },
+      {
+        "question": "¿Qué mejora permite la implementación de gemelos digitales en la industria?",
+        "points": 2,
+        "options": [
+          "Simulación de operaciones para optimizar procesos y reducir costos.",
+          "Eliminación de la necesidad de mantenimiento predictivo.",
+          "Reducción de la eficiencia operativa.",
+          "Dependencia exclusiva de redes locales."
+        ],
+        "correct_answer": "Simulación de operaciones para optimizar procesos y reducir costos."
+      },
+      {
+        "question": "¿Cómo contribuyen las tecnologías habilitadoras al sector agrícola?",
+        "points": 2,
+        "options": [
+          "Mejoran la eficiencia y sostenibilidad mediante IoT y big data.",
+          "Eliminan la necesidad de maquinaria autónoma.",
+          "Reducen el acceso a mercados internacionales.",
+          "Aumentan los costos operativos en zonas rurales."
+        ],
+        "correct_answer": "Mejoran la eficiencia y sostenibilidad mediante IoT y big data."
+      },
+      {
+        "question": "¿Qué beneficio clave ofrece el uso de realidad virtual en la formación médica?",
+        "points": 2,
+        "options": [
+          "Proporciona entornos inmersivos para mejorar el aprendizaje.",
+          "Reduce la precisión en procedimientos quirúrgicos.",
+          "Evita el uso de dispositivos especializados.",
+          "Elimina la necesidad de formación práctica."
+        ],
+        "correct_answer": "Proporciona entornos inmersivos para mejorar el aprendizaje."
+      },
+      {
+        "question": "¿Qué ventaja ofrece la impresión 3D en el desarrollo de productos?",
+        "points": 2,
+        "options": [
+          "Prototipado rápido y personalización económica.",
+          "Aumento de desperdicios de material.",
+          "Dependencia de procesos analógicos.",
+          "Reducción en la flexibilidad de diseño."
+        ],
+        "correct_answer": "Prototipado rápido y personalización económica."
+      },
+      {
+        "question": "¿Qué riesgo laboral puede surgir con la implementación de tecnologías habilitadoras?",
+        "points": 2,
+        "options": [
+          "Obsolescencia de habilidades personales.",
+          "Incremento en la calidad del empleo.",
+          "Mayor facilidad para la transición tecnológica.",
+          "Reducción en la brecha digital."
+        ],
+        "correct_answer": "Obsolescencia de habilidades personales."
+      },
+      {
+        "question": "¿Qué beneficio aporta la robótica colaborativa en entornos productivos?",
+        "points": 2,
+        "options": [
+          "Incrementa la productividad y mejora la seguridad.",
+          "Elimina la necesidad de interacción con humanos.",
+          "Opera únicamente en zonas aisladas.",
+          "Reduce la precisión en tareas industriales."
+        ],
+        "correct_answer": "Incrementa la productividad y mejora la seguridad."
+      },
+      {
+        "question": "¿Qué aplicación tiene la ciberseguridad en las empresas?",
+        "points": 2,
+        "options": [
+          "Protección de datos sensibles y cumplimiento normativo.",
+          "Aumento de riesgos asociados a brechas de seguridad.",
+          "Eliminación de la confianza del cliente.",
+          "Reducción de las medidas de prevención."
+        ],
+        "correct_answer": "Protección de datos sensibles y cumplimiento normativo."
+      },
+      {
+        "question": "¿Qué es el cloud computing?",
+        "points": 2,
+        "options": [
+          "Un sistema de gestión local de datos.",
+          "La computación en la nube que permite acceder a recursos a través de internet.",
+          "Un modelo exclusivo para dispositivos móviles.",
+          "Un servicio que no requiere conexión a internet."
+        ],
+        "correct_answer": "La computación en la nube que permite acceder a recursos a través de internet."
+      },
+      {
+        "question": "¿Qué tipo de servicio es IaaS en el cloud computing?",
+        "points": 2,
+        "options": [
+          "Proveer software bajo suscripción.",
+          "Ofrecer plataformas para desarrollar aplicaciones.",
+          "Proporcionar infraestructura como servidores, redes y almacenamiento.",
+          "Gestionar redes locales."
+        ],
+        "correct_answer": "Proporcionar infraestructura como servidores, redes y almacenamiento."
+      },
+      {
+        "question": "¿Qué caracteriza al edge computing en comparación con el cloud computing?",
+        "points": 2,
+        "options": [
+          "Mayor latencia en el procesamiento de datos.",
+          "Procesamiento más cercano al usuario para respuestas rápidas.",
+          "Exclusivo para aplicaciones de almacenamiento a largo plazo.",
+          "Dependencia total de la nube para operaciones básicas."
+        ],
+        "correct_answer": "Procesamiento más cercano al usuario para respuestas rápidas."
+      },
+      {
+        "question": "¿Qué beneficio ofrece el fog computing frente al edge computing?",
+        "points": 2,
+        "options": [
+          "Procesar datos exclusivamente en dispositivos finales.",
+          "Combinar datos de múltiples fuentes para mayor eficacia.",
+          "Reducir el costo de infraestructura.",
+          "Reemplazar por completo al cloud computing."
+        ],
+        "correct_answer": "Combinar datos de múltiples fuentes para mayor eficacia."
+      },
+      {
+        "question": "¿Qué ventaja ofrece el uso de cloud en empresas?",
+        "points": 2,
+        "options": [
+          "Elimina la necesidad de conectividad a internet.",
+          "Permite el almacenamiento local exclusivo.",
+          "Aumenta la flexibilidad y escalabilidad operativa.",
+          "Restringe el acceso remoto para mayor seguridad."
+        ],
+        "correct_answer": "Aumenta la flexibilidad y escalabilidad operativa."
+      },
+      {
+        "question": "¿Qué es un SaaS en el contexto del cloud computing?",
+        "points": 2,
+        "options": [
+          "Un servicio que proporciona infraestructura a empresas.",
+          "Software y aplicaciones accesibles bajo suscripción.",
+          "Una plataforma para el desarrollo de software.",
+          "Un sistema exclusivo de almacenamiento de datos."
+        ],
+        "correct_answer": "Software y aplicaciones accesibles bajo suscripción."
+      },
+      {
+        "question": "¿Qué beneficio tiene el uso del edge computing en videojuegos?",
+        "points": 2,
+        "options": [
+          "Aumenta los tiempos de respuesta.",
+          "Reduce la latencia para permitir interacciones en tiempo real.",
+          "Permite el almacenamiento de datos locales.",
+          "Optimiza únicamente las gráficas del juego."
+        ],
+        "correct_answer": "Reduce la latencia para permitir interacciones en tiempo real."
+      },
+      {
+        "question": "¿Qué diferencia existe entre una nube pública y una privada?",
+        "points": 2,
+        "options": [
+          "La nube pública es exclusiva para aplicaciones empresariales.",
+          "La nube privada utiliza redes internas y no se comparte.",
+          "La nube privada requiere conexión a internet constante.",
+          "La nube pública no ofrece seguridad de datos."
+        ],
+        "correct_answer": "La nube privada utiliza redes internas y no se comparte."
+      },
+      {
+        "question": "¿Qué servicio en la nube permite implementar soluciones de respaldo automatizado?",
+        "points": 2,
+        "options": [
+          "AWS Backup.",
+          "Google Workspace.",
+          "Microsoft Office 365.",
+          "Firebase."
+        ],
+        "correct_answer": "AWS Backup."
+      },
+      {
+        "question": "¿Cuál es una ventaja clave del uso de recursos en la nube?",
+        "points": 2,
+        "options": [
+          "Dependencia total de infraestructura local.",
+          "Escalabilidad y pago por uso.",
+          "Limitación en la capacidad de almacenamiento.",
+          "Procesamiento lento en comparación con servidores locales."
+        ],
+        "correct_answer": "Escalabilidad y pago por uso."
+      },
+      {
+          "question": "¿Qué servicios se incluyen en la infraestructura como servicio (IaaS)?",
+          "points": 2,
+          "options": [
+            "Servidores, redes y almacenamiento.",
+            "Aplicaciones móviles y herramientas de productividad.",
+            "Streaming de contenidos multimedia.",
+            "Bases de datos locales y servicios de correo."
+          ],
+          "correct_answer": "Servidores, redes y almacenamiento."
+        },
+        {
+          "question": "¿Qué caracteriza al modelo de nube híbrida?",
+          "points": 2,
+          "options": [
+            "Integra servicios entre nubes públicas y privadas.",
+            "Depende exclusivamente de redes internas.",
+            "Se utiliza únicamente para almacenamiento de datos.",
+            "Elimina la necesidad de una nube pública."
+          ],
+          "correct_answer": "Integra servicios entre nubes públicas y privadas."
+        },
+        {
+          "question": "¿Qué ventaja clave ofrece la nube para el desarrollo de software?",
+          "points": 2,
+          "options": [
+            "Pruebas y desarrollo sin necesidad de gestionar servidores.",
+            "Elimina la necesidad de colaboración entre equipos.",
+            "Aumenta la dependencia de hardware local.",
+            "Restringe el acceso a herramientas de desarrollo."
+          ],
+          "correct_answer": "Pruebas y desarrollo sin necesidad de gestionar servidores."
+        },
+        {
+          "question": "¿Qué función principal tiene el edge computing en ciudades inteligentes?",
+          "points": 2,
+          "options": [
+            "Procesar datos localmente para evitar colapsos en el sistema.",
+            "Almacenar grandes cantidades de datos en la nube.",
+            "Eliminar la necesidad de sensores IoT.",
+            "Reducir la conectividad entre dispositivos inteligentes."
+          ],
+          "correct_answer": "Procesar datos localmente para evitar colapsos en el sistema."
+        },
+        {
+          "question": "¿Qué beneficio ofrece el fog computing frente al edge computing?",
+          "points": 2,
+          "options": [
+            "Procesar datos en combinación con múltiples fuentes.",
+            "Reducir la complejidad de integración de dispositivos.",
+            "Aumentar la dependencia de la nube.",
+            "Limitar el análisis de datos en tiempo real."
+          ],
+          "correct_answer": "Procesar datos en combinación con múltiples fuentes."
+        },
+        {
+          "question": "¿Qué caracteriza al mist computing?",
+          "points": 2,
+          "options": [
+            "Procesa datos directamente en los dispositivos finales.",
+            "Depende exclusivamente de la infraestructura de la nube.",
+            "Carece de aplicaciones en entornos industriales.",
+            "Requiere mayores recursos que el fog computing."
+          ],
+          "correct_answer": "Procesa datos directamente en los dispositivos finales."
+        },
+        {
+          "question": "¿Qué solución en la nube es ideal para la gestión de dispositivos IoT?",
+          "points": 2,
+          "options": [
+            "AWS IoT, Google Cloud IoT Core y Azure IoT Hub.",
+            "Salesforce y Microsoft Office 365.",
+            "Amazon S3 y Google Cloud Storage.",
+            "Firebase y Heroku."
+          ],
+          "correct_answer": "AWS IoT, Google Cloud IoT Core y Azure IoT Hub."
+        },
+        {
+          "question": "¿Qué ventaja ofrece el cloud computing en la educación?",
+          "points": 2,
+          "options": [
+            "Acceso a recursos educativos en línea desde cualquier lugar.",
+            "Elimina la necesidad de comunicación entre estudiantes y profesores.",
+            "Restringe el uso de contenido multimedia en las clases.",
+            "Reduce la colaboración en proyectos entre estudiantes."
+          ],
+          "correct_answer": "Acceso a recursos educativos en línea desde cualquier lugar."
+        },
+        {
+          "question": "¿Qué permite la computación en la nube en el sector salud?",
+          "points": 2,
+          "options": [
+            "Almacenamiento de registros electrónicos y atención remota.",
+            "Eliminación de sistemas de telemedicina.",
+            "Reducción de la colaboración entre profesionales médicos.",
+            "Dependencia de infraestructura local para análisis de datos."
+          ],
+          "correct_answer": "Almacenamiento de registros electrónicos y atención remota."
+        },
+        {
+          "question": "¿Qué beneficio aporta el uso de la nube en las empresas?",
+          "points": 2,
+          "options": [
+            "Ahorro de costos y escalabilidad flexible.",
+            "Dependencia de servidores físicos costosos.",
+            "Reducción en la flexibilidad y agilidad operativa.",
+            "Mayor complejidad en la implementación de servicios."
+          ],
+          "correct_answer": "Ahorro de costos y escalabilidad flexible."
+        },
+        {
+          "question": "¿Qué servicios destacan en el nivel SaaS del cloud computing?",
+          "points": 2,
+          "options": [
+            "Aplicaciones como Google Workspace y Salesforce.",
+            "Gestión de redes internas privadas.",
+            "Infraestructura para servidores locales.",
+            "Servicios de bases de datos únicamente."
+          ],
+          "correct_answer": "Aplicaciones como Google Workspace y Salesforce."
+        },
+        {
+          "question": "¿Qué ventaja ofrece la nube en la investigación científica?",
+          "points": 2,
+          "options": [
+            "Almacenamiento y análisis de grandes conjuntos de datos.",
+            "Eliminación de la necesidad de colaboración internacional.",
+            "Reducción del acceso a simulaciones computacionales.",
+            "Dependencia exclusiva de hardware físico local."
+          ],
+          "correct_answer": "Almacenamiento y análisis de grandes conjuntos de datos."
+        },
+        {
+          "question": "¿Cuál es un beneficio clave del edge computing para videojuegos?",
+          "points": 2,
+          "options": [
+            "Reducción de latencia para respuestas rápidas.",
+            "Dependencia exclusiva de servidores remotos.",
+            "Eliminación de datos locales en los dispositivos.",
+            "Procesamiento limitado de gráficos complejos."
+          ],
+          "correct_answer": "Reducción de latencia para respuestas rápidas."
+        },
+        {
+          "question": "¿Qué herramienta en la nube facilita la integración y despliegue continuos (CI/CD)?",
+          "points": 2,
+          "options": [
+            "Jenkins, GitHub Actions y GitLab CI.",
+            "Google Workspace y Office 365.",
+            "AWS Media Services y Firebase.",
+            "Azure IoT Hub y Google Cloud IoT Core."
+          ],
+          "correct_answer": "Jenkins, GitHub Actions y GitLab CI."
+        },
+        {
+          "question": "¿Qué ventaja ofrece el mist computing frente a otros modelos?",
+          "points": 2,
+          "options": [
+            "Procesamiento y análisis de datos directamente en dispositivos finales.",
+            "Mayor capacidad de almacenamiento a largo plazo.",
+            "Dependencia exclusiva de fog computing.",
+            "Eliminación de tareas de procesamiento local."
+          ],
+          "correct_answer": "Procesamiento y análisis de datos directamente en dispositivos finales."
+        },
+        {
+          "question": "¿Qué solución en la nube es adecuada para respaldos automatizados?",
+          "points": 2,
+          "options": [
+            "AWS Backup, Azure Backup y Google Cloud Storage.",
+            "Salesforce y HubSpot.",
+            "Google Workspace y Slack.",
+            "Azure IoT Hub y Google AI Platform."
+          ],
+          "correct_answer": "AWS Backup, Azure Backup y Google Cloud Storage."
+        },
+        {
+          "question": "¿Qué beneficio aporta el fog computing en IoT?",
+          "points": 2,
+          "options": [
+            "Procesar datos en tiempo real combinando múltiples fuentes.",
+            "Eliminar la necesidad de dispositivos inteligentes.",
+            "Reducir la velocidad de respuesta en aplicaciones críticas.",
+            "Limitar la capacidad de análisis de datos en los dispositivos finales."
+          ],
+          "correct_answer": "Procesar datos en tiempo real combinando múltiples fuentes."
+        },
+        {
+          "question": "¿Qué aplicaciones web pueden beneficiarse de servicios como AWS Elastic Beanstalk?",
+          "points": 2,
+          "options": [
+            "Despliegue y escalado de aplicaciones web.",
+            "Almacenamiento de registros médicos electrónicos.",
+            "Gestión de relaciones con clientes.",
+            "Simulaciones de modelos de inteligencia artificial."
+          ],
+          "correct_answer": "Despliegue y escalado de aplicaciones web."
+        },
+        {
+          "question": "¿Qué ventaja clave ofrece el cloud computing para empresas pequeñas?",
+          "points": 2,
+          "options": [
+            "Acceso a infraestructura y servicios escalables sin grandes inversiones.",
+            "Dependencia de servidores físicos costosos.",
+            "Reducción de la flexibilidad operativa.",
+            "Complejidad elevada en la implementación de servicios."
+          ],
+          "correct_answer": "Acceso a infraestructura y servicios escalables sin grandes inversiones."
+        },
+        {
+          "question": "¿Qué diferencia clave tiene el edge computing frente al cloud computing?",
+          "points": 2,
+          "options": [
+            "Procesa datos más cerca del usuario para reducir latencia.",
+            "Requiere mayor ancho de banda para todas las aplicaciones.",
+            "Elimina la necesidad de almacenamiento en dispositivos locales.",
+            "Limita las aplicaciones IoT a entornos domésticos."
+          ],
+          "correct_answer": "Procesa datos más cerca del usuario para reducir latencia."
+        },
+        {
+          "question": "¿Qué es la inteligencia artificial débil?",
+          "points": 2,
+          "options": [
+            "Un sistema capaz de simular emociones humanas.",
+            "IA diseñada para realizar tareas específicas como asistentes virtuales.",
+            "Un modelo de IA general que aprende de forma autónoma.",
+            "Un sistema basado exclusivamente en redes neuronales."
+          ],
+          "correct_answer": "IA diseñada para realizar tareas específicas como asistentes virtuales."
+        },
+        {
+          "question": "¿Qué diferencia a la inteligencia artificial fuerte de la débil?",
+          "points": 2,
+          "options": [
+            "La IA fuerte no existe en la práctica mientras que la débil sí.",
+            "La IA débil puede realizar cualquier tarea general.",
+            "La IA fuerte está limitada a tareas específicas.",
+            "La IA débil es capaz de simular emociones humanas."
+          ],
+          "correct_answer": "La IA fuerte no existe en la práctica mientras que la débil sí."
+        },
+        {
+          "question": "¿Qué caracteriza a la inteligencia artificial subsimbólica?",
+          "points": 2,
+          "options": [
+            "Su capacidad para razonar basándose en reglas explícitas.",
+            "El uso de redes neuronales para procesar grandes volúmenes de datos.",
+            "La manipulación de símbolos para tomar decisiones.",
+            "El uso exclusivo de algoritmos genéticos."
+          ],
+          "correct_answer": "El uso de redes neuronales para procesar grandes volúmenes de datos."
+        },
+        {
+          "question": "¿Qué tipo de aprendizaje utiliza datos etiquetados?",
+          "points": 2,
+          "options": [
+            "Aprendizaje por refuerzo.",
+            "Aprendizaje supervisado.",
+            "Aprendizaje no supervisado.",
+            "Aprendizaje autónomo."
+          ],
+          "correct_answer": "Aprendizaje supervisado."
+        },
+        {
+          "question": "¿Qué lenguaje de programación es popular por su simplicidad y uso en IA?",
+          "points": 2,
+          "options": [
+            "Java.",
+            "Python.",
+            "R.",
+            "C++."
+          ],
+          "correct_answer": "Python."
+        },
+        {
+          "question": "¿Cuál es una técnica común en la minería de datos?",
+          "points": 2,
+          "options": [
+            "Reconocimiento facial.",
+            "Clustering.",
+            "Automatización de procesos.",
+            "Simulación de redes neuronales."
+          ],
+          "correct_answer": "Clustering."
+        },
+        {
+          "question": "¿Qué sector utiliza IA para diagnósticos a partir de imágenes médicas?",
+          "points": 2,
+          "options": [
+            "Educación.",
+            "Finanzas.",
+            "Medicina y salud.",
+            "Agricultura."
+          ],
+          "correct_answer": "Medicina y salud."
+        },
+        {
+          "question": "¿Qué aplicación de IA se usa en la agricultura de precisión?",
+          "points": 2,
+          "options": [
+            "Automatización de inventarios.",
+            "Predicción de cosechas basada en datos meteorológicos.",
+            "Recomendaciones de productos personalizados.",
+            "Filtrado de correos electrónicos."
+          ],
+          "correct_answer": "Predicción de cosechas basada en datos meteorológicos."
+        },
+        {
+          "question": "¿Qué lenguaje destaca por su visualización avanzada en IA?",
+          "points": 2,
+          "options": [
+            "R.",
+            "Java.",
+            "Python.",
+            "C#."
+          ],
+          "correct_answer": "R."
+        },
+        {
+          "question": "¿Qué herramienta utiliza IA para analizar sentimientos en recursos humanos?",
+          "points": 2,
+          "options": [
+            "Algoritmos de clustering.",
+            "Análisis de sentimiento.",
+            "Modelos de predicción de inventarios.",
+            "Filtros basados en reglas simbólicas."
+          ],
+          "correct_answer": "Análisis de sentimiento."
+        },
+        {
+            "question": "¿Qué característica define a la inteligencia artificial simbólica?",
+            "points": 2,
+            "options": [
+              "Uso de reglas explícitas para razonar y tomar decisiones.",
+              "Procesamiento de datos basado en redes neuronales.",
+              "Aprendizaje por prueba y error.",
+              "Manipulación de datos sin reglas predefinidas."
+            ],
+            "correct_answer": "Uso de reglas explícitas para razonar y tomar decisiones."
+          },
+          {
+            "question": "¿Cuál fue un hito importante en el desarrollo de la IA en 1950?",
+            "points": 2,
+            "options": [
+              "Alan Turing introdujo el test de Turing.",
+              "Geoffrey Hinton desarrolló redes neuronales profundas.",
+              "IBM lanzó Watson para responder preguntas en lenguaje natural.",
+              "Se popularizó el uso del lenguaje Python."
+            ],
+            "correct_answer": "Alan Turing introdujo el test de Turing."
+          },
+          {
+            "question": "¿Qué técnica de minería de datos busca agrupar elementos con características similares?",
+            "points": 2,
+            "options": [
+              "Clustering.",
+              "Regresión.",
+              "Análisis de asociación.",
+              "Detección de anomalías."
+            ],
+            "correct_answer": "Clustering."
+          },
+          {
+            "question": "¿Qué ventaja ofrece Python en el desarrollo de proyectos de IA?",
+            "points": 2,
+            "options": [
+              "Gran cantidad de bibliotecas específicas como TensorFlow y Scikit-learn.",
+              "Mayor velocidad de ejecución que C++.",
+              "Dependencia exclusiva de entornos de desarrollo locales.",
+              "Limitada compatibilidad con otros lenguajes."
+            ],
+            "correct_answer": "Gran cantidad de bibliotecas específicas como TensorFlow y Scikit-learn."
+          },
+          {
+            "question": "¿Qué aplicación utiliza IA para mejorar el mantenimiento en manufactura?",
+            "points": 2,
+            "options": [
+              "Mantenimiento predictivo.",
+              "Optimización de rutas.",
+              "Automatización de inventarios.",
+              "Recomendaciones de productos."
+            ],
+            "correct_answer": "Mantenimiento predictivo."
+          },
+          {
+            "question": "¿Qué enfoque de aprendizaje trabaja con datos no etiquetados?",
+            "points": 2,
+            "options": [
+              "Aprendizaje no supervisado.",
+              "Aprendizaje supervisado.",
+              "Aprendizaje por refuerzo.",
+              "Aprendizaje simbólico."
+            ],
+            "correct_answer": "Aprendizaje no supervisado."
+          },
+          {
+            "question": "¿Qué lenguaje se destaca por su capacidad de visualización avanzada en IA?",
+            "points": 2,
+            "options": [
+              "R.",
+              "Python.",
+              "Java.",
+              "C++."
+            ],
+            "correct_answer": "R."
+          },
+          {
+            "question": "¿Qué modelo de IA derrotó al campeón mundial de Go en 2016?",
+            "points": 2,
+            "options": [
+              "AlphaGo.",
+              "Deep Blue.",
+              "IBM Watson.",
+              "AlexNet."
+            ],
+            "correct_answer": "AlphaGo."
+          },
+          {
+            "question": "¿Qué característica define al aprendizaje por refuerzo?",
+            "points": 2,
+            "options": [
+              "Aprender a través de prueba y error con recompensas y penalizaciones.",
+              "Uso de datos etiquetados para predecir resultados.",
+              "Identificación de patrones en datos no estructurados.",
+              "Creación de reglas explícitas para decisiones."
+            ],
+            "correct_answer": "Aprender a través de prueba y error con recompensas y penalizaciones."
+          },
+          {
+            "question": "¿Qué sector utiliza IA para análisis de transacciones financieras y detección de fraude?",
+            "points": 2,
+            "options": [
+              "Finanzas.",
+              "Educación.",
+              "Agricultura.",
+              "Entretenimiento."
+            ],
+            "correct_answer": "Finanzas."
+          },
+  {
+    "question": "¿Qué tecnología de IA se popularizó en 1986 para entrenar redes neuronales?",
+    "points": 2,
+    "options": [
+      "Algoritmo de retropropagación.",
+      "Algoritmo genético.",
+      "Análisis de asociación.",
+      "Deep learning avanzado."
+    ],
+    "correct_answer": "Algoritmo de retropropagación."
+  },
+  {
+    "question": "¿Qué herramienta combina IA y Big Data para descubrir patrones?",
+    "points": 2,
+    "options": [
+      "Minería de datos.",
+      "Análisis de sentimientos.",
+      "Tutores inteligentes.",
+      "Aprendizaje supervisado."
+    ],
+    "correct_answer": "Minería de datos."
+  },
+  {
+    "question": "¿Qué técnica de minería de datos predice valores continuos?",
+    "points": 2,
+    "options": [
+      "Regresión.",
+      "Clustering.",
+      "Clasificación.",
+      "Detección de anomalías."
+    ],
+    "correct_answer": "Regresión."
+  },
+  {
+    "question": "¿Qué lenguaje de programación es popular en aplicaciones empresariales de IA?",
+    "points": 2,
+    "options": [
+      "Java.",
+      "R.",
+      "Python.",
+      "C++."
+    ],
+    "correct_answer": "Java."
+  },
+  {
+    "question": "¿Qué aplicación de IA se utiliza en agricultura de precisión?",
+    "points": 2,
+    "options": [
+      "Monitoreo de cultivos con drones y sensores.",
+      "Automatización de inventarios.",
+      "Recomendación de productos agrícolas.",
+      "Filtrado de datos no estructurados."
+    ],
+    "correct_answer": "Monitoreo de cultivos con drones y sensores."
+  },
+  {
+    "question": "¿Qué técnica de aprendizaje ayuda a un robot a optimizar su navegación?",
+    "points": 2,
+    "options": [
+      "Aprendizaje por refuerzo.",
+      "Aprendizaje supervisado.",
+      "Clasificación.",
+      "Reducción de dimensionalidad."
+    ],
+    "correct_answer": "Aprendizaje por refuerzo."
+  },
+  {
+    "question": "¿Qué lenguaje se destaca por bibliotecas como TensorFlow y PyTorch?",
+    "points": 2,
+    "options": [
+      "Python.",
+      "Java.",
+      "R.",
+      "C++."
+    ],
+    "correct_answer": "Python."
+  },
+  {
+    "question": "¿Qué año marca el desarrollo del programa ELIZA para procesamiento del lenguaje natural?",
+    "points": 2,
+    "options": [
+      "1966.",
+      "1950.",
+      "1972.",
+      "1986."
+    ],
+    "correct_answer": "1966."
+  },
+  {
+    "question": "¿Qué aplicación de IA ayuda a predecir la demanda en comercio electrónico?",
+    "points": 2,
+    "options": [
+      "Gestión de inventarios.",
+      "Recomendación de productos.",
+      "Automatización de procesos.",
+      "Clasificación de datos."
+    ],
+    "correct_answer": "Gestión de inventarios."
+  },
+  {
+    "question": "¿Qué característica define al aprendizaje supervisado?",
+    "points": 2,
+    "options": [
+      "Utiliza datos etiquetados para entrenar modelos.",
+      "Analiza patrones sin etiquetas en los datos.",
+      "Resuelve problemas por prueba y error.",
+      "Procesa datos basados en reglas explícitas."
+    ],
+    "correct_answer": "Utiliza datos etiquetados para entrenar modelos."
+  },
+  {
+    "question": "¿Cuál es la diferencia principal entre datos e información?",
+    "points": 2,
+    "options": [
+      "Los datos son hechos crudos, mientras que la información es el resultado de procesarlos.",
+      "La información no necesita contexto, mientras que los datos sí.",
+      "Los datos siempre están en formato gráfico, mientras que la información es solo texto.",
+      "La información se utiliza para almacenar datos en bruto."
+    ],
+    "correct_answer": "Los datos son hechos crudos, mientras que la información es el resultado de procesarlos."
+  },
+  {
+    "question": "¿Qué etapa del ciclo de vida del dato implica convertir datos en un formato común?",
+    "points": 2,
+    "options": [
+      "Captura o recopilación.",
+      "Normalización.",
+      "Archivado.",
+      "Distribución."
+    ],
+    "correct_answer": "Normalización."
+  },
+  {
+    "question": "¿Qué caracteriza al almacenamiento de datos en la nube?",
+    "points": 2,
+    "options": [
+      "Los datos se almacenan en discos duros locales.",
+      "El acceso a los datos está limitado a dispositivos de red local.",
+      "Los datos se guardan en servidores remotos accesibles por internet.",
+      "Los datos solo pueden almacenarse en formato estructurado."
+    ],
+    "correct_answer": "Los datos se guardan en servidores remotos accesibles por internet."
+  },
+  {
+    "question": "¿Qué es un data warehouse?",
+    "points": 2,
+    "options": [
+      "Un sistema para almacenar datos estructurados para análisis.",
+      "Un repositorio para datos en formato bruto.",
+      "Un sistema para gestionar transacciones comerciales.",
+      "Un método para procesar datos en tiempo real."
+    ],
+    "correct_answer": "Un sistema para almacenar datos estructurados para análisis."
+  },
+  {
+    "question": "¿Cuál es un beneficio clave del almacenamiento en la nube?",
+    "points": 2,
+    "options": [
+      "Permite la personalización masiva sin costo.",
+      "Ofrece escalabilidad y elasticidad en función de las necesidades.",
+      "No requiere conexión a internet para su funcionamiento.",
+      "Elimina la necesidad de cifrado para datos sensibles."
+    ],
+    "correct_answer": "Ofrece escalabilidad y elasticidad en función de las necesidades."
+  },
+  {
+    "question": "¿Qué técnica de análisis de datos identifica grupos con características similares?",
+    "points": 2,
+    "options": [
+      "Regresión.",
+      "Clustering.",
+      "Análisis prescriptivo.",
+      "Detección de anomalías."
+    ],
+    "correct_answer": "Clustering."
+  },
+  {
+    "question": "¿Qué implica el análisis prescriptivo?",
+    "points": 2,
+    "options": [
+      "Predecir resultados basados en datos históricos.",
+      "Sugiere acciones a tomar basadas en análisis predictivo.",
+      "Identifica patrones dentro de grandes volúmenes de datos.",
+      "Extrae datos en bruto para su visualización."
+    ],
+    "correct_answer": "Sugiere acciones a tomar basadas en análisis predictivo."
+  },
+  {
+    "question": "¿Qué función tiene la ciencia de datos en recursos humanos?",
+    "points": 2,
+    "options": [
+      "Monitorear patrones de tráfico de red.",
+      "Filtrar candidatos y predecir perfiles adecuados.",
+      "Optimizar rutas de entrega en tiempo real.",
+      "Detectar patrones de compras en línea."
+    ],
+    "correct_answer": "Filtrar candidatos y predecir perfiles adecuados."
+  },
+  {
+    "question": "¿Qué medida de seguridad ayuda a proteger los datos contra ciberataques?",
+    "points": 2,
+    "options": [
+      "Evitar actualizaciones de software.",
+      "Uso de firewalls y antivirus actualizados.",
+      "Restringir el acceso a internet para usuarios.",
+      "Eliminar todos los datos después de su análisis."
+    ],
+    "correct_answer": "Uso de firewalls y antivirus actualizados."
+  },
+  {
+    "question": "¿Qué herramienta empresarial utiliza dashboards para monitorear KPI?",
+    "points": 2,
+    "options": [
+      "Business Intelligence (BI).",
+      "Minería de datos.",
+      "Almacenamiento de objetos.",
+      "Análisis de regresión."
+    ],
+    "correct_answer": "Business Intelligence (BI)."
+  },
+  {
+      "question": "¿Qué herramienta permite la interacción eficiente entre sistemas y plataformas?",
+      "points": 2,
+      "options": [
+        "API.",
+        "Data Lake.",
+        "Dashboard.",
+        "Machine Learning."
+      ],
+      "correct_answer": "API."
+    },
+    {
+      "question": "¿Qué fase del ciclo de vida del dato implica la eliminación segura de datos?",
+      "points": 2,
+      "options": [
+        "Archivado.",
+        "Distribución.",
+        "Procesamiento.",
+        "Eliminación o destrucción."
+      ],
+      "correct_answer": "Eliminación o destrucción."
+    },
+    {
+      "question": "¿Qué tipo de análisis busca patrones o relaciones en los datos mediante clustering?",
+      "points": 2,
+      "options": [
+        "Análisis descriptivo.",
+        "Identificación de patrones.",
+        "Validación de modelos.",
+        "Simulación."
+      ],
+      "correct_answer": "Identificación de patrones."
+    },
+    {
+      "question": "¿Qué característica distingue al almacenamiento de objetos en la nube?",
+      "points": 2,
+      "options": [
+        "Divide los datos en bloques de tamaño fijo.",
+        "Se utiliza para almacenar datos estructurados exclusivamente.",
+        "Contiene datos, metadatos y un identificador único.",
+        "Almacena datos en discos duros físicos locales."
+      ],
+      "correct_answer": "Contiene datos, metadatos y un identificador único."
+    },
+    {
+      "question": "¿Qué beneficio aporta la visualización de datos en el análisis?",
+      "points": 2,
+      "options": [
+        "Aumenta la complejidad del análisis estadístico.",
+        "Facilita la comprensión y la toma de decisiones.",
+        "Reduce la necesidad de herramientas de análisis.",
+        "Elimina la necesidad de modelos predictivos."
+      ],
+      "correct_answer": "Facilita la comprensión y la toma de decisiones."
+    },
+    {
+      "question": "¿Qué fase del análisis de datos implica traducir resultados en insights accionables?",
+      "points": 2,
+      "options": [
+        "Modelado de datos.",
+        "Exploración de datos.",
+        "Validación de modelos.",
+        "Interpretación de resultados."
+      ],
+      "correct_answer": "Interpretación de resultados."
+    },
+    {
+      "question": "¿Qué sector se beneficia del uso de sensores para optimizar rutas de entrega?",
+      "points": 2,
+      "options": [
+        "Producción.",
+        "Logística.",
+        "Marketing.",
+        "Recursos Humanos."
+      ],
+      "correct_answer": "Logística."
+    },
+    {
+      "question": "¿Qué técnica ayuda a predecir resultados futuros en análisis de datos?",
+      "points": 2,
+      "options": [
+        "Regresión.",
+        "Clustering.",
+        "Análisis prescriptivo.",
+        "Validación de modelos."
+      ],
+      "correct_answer": "Regresión."
+    },
+    {
+      "question": "¿Qué medida de seguridad utiliza múltiples capas para proteger datos en la nube?",
+      "points": 2,
+      "options": [
+        "Firewalls y cifrado de datos.",
+        "Eliminación de actualizaciones de software.",
+        "Restricción del acceso a internet.",
+        "Desactivación de sistemas IDS/IPS."
+      ],
+      "correct_answer": "Firewalls y cifrado de datos."
+    },
+    {
+      "question": "¿Qué disciplina combina estadísticas y computación para extraer valor de los datos?",
+      "points": 2,
+      "options": [
+        "Ciencia de datos.",
+        "Minería de datos.",
+        "Ingeniería de datos.",
+        "Big data."
+      ],
+      "correct_answer": "Ciencia de datos."
+    },
+    {
+      "question": "¿Qué diferencia principal existe entre un data warehouse y un data lake?",
+      "points": 2,
+      "options": [
+        "El data warehouse almacena datos en bruto, mientras que el data lake almacena datos estructurados.",
+        "El data lake almacena datos en bruto o semiestructurados, mientras que el data warehouse almacena datos estructurados para análisis.",
+        "El data warehouse utiliza almacenamiento en la nube, mientras que el data lake utiliza almacenamiento local.",
+        "El data lake solo permite datos numéricos, mientras que el data warehouse permite imágenes y videos."
+      ],
+      "correct_answer": "El data lake almacena datos en bruto o semiestructurados, mientras que el data warehouse almacena datos estructurados para análisis."
+    },
+    {
+      "question": "¿Qué implica la etapa de procesamiento en el ciclo de vida del dato?",
+      "points": 2,
+      "options": [
+        "Transformar y limpiar datos para su análisis.",
+        "Distribuir datos a los usuarios finales.",
+        "Eliminar datos obsoletos o irrelevantes.",
+        "Archivar datos en sistemas de menor costo."
+      ],
+      "correct_answer": "Transformar y limpiar datos para su análisis."
+    },
+    {
+      "question": "¿Qué técnica de análisis busca prever escenarios futuros en base a datos actuales?",
+      "points": 2,
+      "options": [
+        "Análisis descriptivo.",
+        "Análisis predictivo.",
+        "Clustering.",
+        "Validación de modelos."
+      ],
+      "correct_answer": "Análisis predictivo."
+    },
+    {
+      "question": "¿Qué modelo de almacenamiento en la nube utiliza bloques de tamaño fijo para datos?",
+      "points": 2,
+      "options": [
+        "Almacenamiento de objetos.",
+        "Almacenamiento de bloques.",
+        "Almacenamiento de archivos.",
+        "Data lake."
+      ],
+      "correct_answer": "Almacenamiento de bloques."
+    },
+    {
+      "question": "¿Qué característica clave del big data se refiere a la diversidad de formatos de datos?",
+      "points": 2,
+      "options": [
+        "Velocidad.",
+        "Volumen.",
+        "Variedad.",
+        "Veracidad."
+      ],
+      "correct_answer": "Variedad."
+    },
+    {
+      "question": "¿Qué herramienta facilita la representación gráfica de indicadores clave de desempeño (KPI)?",
+      "points": 2,
+      "options": [
+        "Dashboard.",
+        "API.",
+        "Data lake.",
+        "Clustering."
+      ],
+      "correct_answer": "Dashboard."
+    },
+    {
+      "question": "¿Qué estrategia de seguridad implica restringir el acceso a sistemas según roles específicos?",
+      "points": 2,
+      "options": [
+        "Control de acceso.",
+        "Respaldo de datos.",
+        "Autenticación multifactor.",
+        "Monitoreo de redes."
+      ],
+      "correct_answer": "Control de acceso."
+    },
+    {
+      "question": "¿Qué medida ayuda a prevenir la pérdida de datos en caso de fallos técnicos?",
+      "points": 2,
+      "options": [
+        "Actualización de software.",
+        "Firewalls.",
+        "Respaldo de datos.",
+        "Autenticación multifactor."
+      ],
+      "correct_answer": "Respaldo de datos."
+    },
+    {
+      "question": "¿Qué enfoque de análisis utiliza escenarios hipotéticos para evaluar posibles resultados?",
+      "points": 2,
+      "options": [
+        "Simulación.",
+        "Regresión.",
+        "Clustering.",
+        "Análisis descriptivo."
+      ],
+      "correct_answer": "Simulación."
+    },
+    {
+      "question": "¿Qué tecnología se utiliza para combinar datos de múltiples fuentes y crear una vista unificada?",
+      "points": 2,
+      "options": [
+        "Integración de datos.",
+        "Minería de datos.",
+        "ETL.",
+        "Data warehouse."
+      ],
+      "correct_answer": "Integración de datos."
+    },
+    {
+      "question": "¿Qué es el análisis y diagnóstico inicial en un plan de transformación digital?",
+      "points": 2,
+      "options": [
+        "La fase de implementación tecnológica en la empresa.",
+        "La fase en la que se evalúa la situación actual de la empresa para identificar áreas de mejora.",
+        "La etapa donde se seleccionan las herramientas de gestión de proyectos.",
+        "La fase final en la que se evalúan los resultados del proyecto."
+      ],
+      "correct_answer": "La fase en la que se evalúa la situación actual de la empresa para identificar áreas de mejora."
+    },
+    {
+      "question": "¿Qué herramienta se utiliza para evaluar el entorno macroeconómico en el análisis inicial?",
+      "points": 2,
+      "options": [
+        "Análisis DAFO.",
+        "Análisis PESTEL.",
+        "Mapeo de procesos (BPM).",
+        "Encuestas y entrevistas."
+      ],
+      "correct_answer": "Análisis PESTEL."
+    },
+    {
+      "question": "¿Qué característica es esencial al definir los objetivos de un proyecto de transformación digital?",
+      "points": 2,
+      "options": [
+        "Que no sean medibles.",
+        "Que se enfoquen exclusivamente en los beneficios financieros.",
+        "Que sean claros, medibles y alineados con los recursos disponibles.",
+        "Que no consideren los riesgos potenciales."
+      ],
+      "correct_answer": "Que sean claros, medibles y alineados con los recursos disponibles."
+    },
+    {
+      "question": "¿Qué herramienta puede usarse para gestionar tareas y progresos en proyectos digitales?",
+      "points": 2,
+      "options": [
+        "Microsoft Project.",
+        "Sandbox Testing.",
+        "Forrester Wave.",
+        "Mapeo de procesos."
+      ],
+      "correct_answer": "Microsoft Project."
+    },
+    {
+      "question": "¿Cuál es un producto clave de la planificación estratégica?",
+      "points": 2,
+      "options": [
+        "Informe de evaluación tecnológica.",
+        "Hoja de ruta del proyecto.",
+        "Pruebas de concepto.",
+        "Auditorías de seguridad."
+      ],
+      "correct_answer": "Hoja de ruta del proyecto."
+    },
+    {
+      "question": "¿Qué es crucial durante la implementación tecnológica?",
+      "points": 2,
+      "options": [
+        "Evitar realizar pruebas de funcionalidad.",
+        "Configurar y personalizar las soluciones tecnológicas según las necesidades de la empresa.",
+        "Implementar todas las tecnologías simultáneamente sin pruebas previas.",
+        "Prescindir de la retroalimentación de los usuarios."
+      ],
+      "correct_answer": "Configurar y personalizar las soluciones tecnológicas según las necesidades de la empresa."
+    },
+    {
+      "question": "¿Qué implica el despliegue y ejecución en un plan de transformación digital?",
+      "points": 2,
+      "options": [
+        "La selección de objetivos estratégicos.",
+        "La evaluación de las métricas de éxito antes de implementar el plan.",
+        "La ejecución de las estrategias y planes desarrollados en fases anteriores.",
+        "El desarrollo exclusivo de la matriz de riesgos."
+      ],
+      "correct_answer": "La ejecución de las estrategias y planes desarrollados en fases anteriores."
+    },
+    {
+      "question": "¿Qué documento detalla los objetivos estratégicos, tácticos y operativos?",
+      "points": 2,
+      "options": [
+        "Hoja de ruta del proyecto.",
+        "Documento de objetivos.",
+        "Informe de evaluación tecnológica.",
+        "Plan de comunicación."
+      ],
+      "correct_answer": "Documento de objetivos."
+    },
+    {
+      "question": "¿Qué fase asegura mejoras constantes después de la implementación?",
+      "points": 2,
+      "options": [
+        "Despliegue inicial.",
+        "Evaluación y optimización.",
+        "Análisis PESTEL.",
+        "Selección de herramientas de software."
+      ],
+      "correct_answer": "Evaluación y optimización."
+    },
+    {
+      "question": "¿Qué herramienta permite pruebas en entornos aislados para garantizar funcionalidad?",
+      "points": 2,
+      "options": [
+        "Sandbox Testing.",
+        "Jira.",
+        "Análisis DAFO.",
+        "Cuadro de mando integral."
+      ],
+      "correct_answer": "Sandbox Testing."
+    },
+    {
+        "question": "¿Qué paso es clave en el análisis inicial para identificar ineficiencias en los procesos empresariales?",
+        "points": 2,
+        "options": [
+          "Elaborar una matriz DAFO.",
+          "Realizar un inventario tecnológico y analizar procesos empresariales.",
+          "Definir objetivos estratégicos.",
+          "Implementar nuevas tecnologías de inmediato."
+        ],
+        "correct_answer": "Realizar un inventario tecnológico y analizar procesos empresariales."
+      },
+      {
+        "question": "¿Qué producto de la fase inicial detalla las fortalezas, debilidades, oportunidades y amenazas?",
+        "points": 2,
+        "options": [
+          "Informe de evaluación tecnológica.",
+          "Matriz DAFO.",
+          "Hoja de ruta del proyecto.",
+          "Plan de comunicación."
+        ],
+        "correct_answer": "Matriz DAFO."
+      },
+      {
+        "question": "¿Qué metodología se utiliza para alinear las actividades diarias con la estrategia a largo plazo?",
+        "points": 2,
+        "options": [
+          "OKR (Objectives and Key Results).",
+          "Cuadro de mando integral.",
+          "Diagramas de Gantt.",
+          "Forrester Wave."
+        ],
+        "correct_answer": "Cuadro de mando integral."
+      },
+      {
+        "question": "¿Qué herramienta facilita la planificación de fases y tareas en proyectos digitales?",
+        "points": 2,
+        "options": [
+          "Diagramas de Gantt.",
+          "Sandbox Testing.",
+          "Mapeo de procesos empresariales (BPM).",
+          "Encuestas y entrevistas."
+        ],
+        "correct_answer": "Diagramas de Gantt."
+      },
+      {
+        "question": "¿Qué característica es clave en la planificación estratégica para gestionar recursos eficientemente?",
+        "points": 2,
+        "options": [
+          "Reducir la comunicación interna.",
+          "Asignar recursos humanos, financieros y tecnológicos de manera óptima.",
+          "Evitar la evaluación de riesgos potenciales.",
+          "Planificar únicamente a corto plazo."
+        ],
+        "correct_answer": "Asignar recursos humanos, financieros y tecnológicos de manera óptima."
+      },
+      {
+        "question": "¿Qué herramienta permite probar tecnologías en entornos aislados?",
+        "points": 2,
+        "options": [
+          "Sandbox Testing.",
+          "Microsoft Project.",
+          "Análisis PESTEL.",
+          "Matriz de riesgos."
+        ],
+        "correct_answer": "Sandbox Testing."
+      },
+      {
+        "question": "¿Qué método es útil para gestionar proyectos iterativos y flexibles?",
+        "points": 2,
+        "options": [
+          "Scrum o Kanban.",
+          "Análisis DAFO.",
+          "Forrester Wave.",
+          "CPM (Critical Path Method)."
+        ],
+        "correct_answer": "Scrum o Kanban."
+      },
+      {
+        "question": "¿Qué documento detalla los roles y responsabilidades de los miembros del equipo?",
+        "points": 2,
+        "options": [
+          "Asignación de responsabilidades.",
+          "Matriz DAFO.",
+          "Plan de comunicación.",
+          "Informe de evaluación tecnológica."
+        ],
+        "correct_answer": "Asignación de responsabilidades."
+      },
+      {
+        "question": "¿Qué acción es crucial durante el despliegue inicial de la tecnología?",
+        "points": 2,
+        "options": [
+          "Realizar un despliegue gradual para minimizar riesgos.",
+          "Evitar la monitorización de los resultados iniciales.",
+          "Implementar todas las tecnologías simultáneamente.",
+          "Eliminar la retroalimentación de los usuarios."
+        ],
+        "correct_answer": "Realizar un despliegue gradual para minimizar riesgos."
+      },
+      {
+        "question": "¿Qué etapa asegura que se identifiquen oportunidades de mejora después del proyecto?",
+        "points": 2,
+        "options": [
+          "Evaluación y optimización.",
+          "Planificación estratégica.",
+          "Definición de objetivos.",
+          "Selección de tecnologías."
+        ],
+        "correct_answer": "Evaluación y optimización."
+      },
+      {
+        "question": "¿Qué aspectos se deben evaluar en el estado actual de la empresa durante el análisis inicial?",
+        "points": 2,
+        "options": [
+          "Inventario tecnológico, estudio de procesos empresariales y habilidades digitales de los trabajadores.",
+          "Definición de objetivos estratégicos y tácticos.",
+          "Selección de herramientas tecnológicas.",
+          "Implementación de nuevas tecnologías sin diagnóstico previo."
+        ],
+        "correct_answer": "Inventario tecnológico, estudio de procesos empresariales y habilidades digitales de los trabajadores."
+      },
+      {
+        "question": "¿Qué herramienta evalúa el entorno macroeconómico en un plan de transformación digital?",
+        "points": 2,
+        "options": [
+          "Análisis PESTEL.",
+          "Matriz de riesgos.",
+          "Cuadro de mando integral.",
+          "Metodología OKR."
+        ],
+        "correct_answer": "Análisis PESTEL."
+      },
+      {
+        "question": "¿Qué documento detalla los procesos actuales y sus posibles mejoras?",
+        "points": 2,
+        "options": [
+          "Mapeo de procesos y flujos de trabajo.",
+          "Documento de objetivos.",
+          "Informe de evaluación tecnológica.",
+          "Plan de comunicación."
+        ],
+        "correct_answer": "Mapeo de procesos y flujos de trabajo."
+      },
+      {
+        "question": "¿Qué características deben tener los objetivos de un plan de transformación digital?",
+        "points": 2,
+        "options": [
+          "Claridad, medibilidad, alineación y preparación ante desafíos.",
+          "Falta de claridad para fomentar la flexibilidad.",
+          "Enfoque exclusivo en métricas financieras.",
+          "Exclusión de riesgos potenciales en la planificación."
+        ],
+        "correct_answer": "Claridad, medibilidad, alineación y preparación ante desafíos."
+      },
+      {
+        "question": "¿Qué herramienta organiza y sigue el progreso de un proyecto?",
+        "points": 2,
+        "options": [
+          "Software de gestión de proyectos.",
+          "Análisis DAFO.",
+          "Mapa de procesos empresariales (BPM).",
+          "Diagramas de Gantt."
+        ],
+        "correct_answer": "Software de gestión de proyectos."
+      },
+      {
+        "question": "¿Qué es una hoja de ruta en el contexto de un plan estratégico?",
+        "points": 2,
+        "options": [
+          "Un documento detallado que incluye fases, tareas y plazos.",
+          "Un resumen ejecutivo del estado actual de la empresa.",
+          "Un análisis de tendencias del mercado.",
+          "Un cronograma exclusivo para la fase de evaluación."
+        ],
+        "correct_answer": "Un documento detallado que incluye fases, tareas y plazos."
+      },
+      {
+        "question": "¿Qué herramienta asegura la funcionalidad de nuevas tecnologías en entornos aislados?",
+        "points": 2,
+        "options": [
+          "Sandbox Testing.",
+          "Microsoft Project.",
+          "Cuadro de mando integral.",
+          "Matriz DAFO."
+        ],
+        "correct_answer": "Sandbox Testing."
+      },
+      {
+        "question": "¿Qué acción es fundamental durante el despliegue inicial de una tecnología?",
+        "points": 2,
+        "options": [
+          "Realizar un despliegue gradual y monitorizar el progreso.",
+          "Evitar pruebas de funcionalidad para agilizar la implementación.",
+          "Implementar todas las tecnologías simultáneamente.",
+          "Excluir la participación de los usuarios finales."
+        ],
+        "correct_answer": "Realizar un despliegue gradual y monitorizar el progreso."
+      },
+      {
+        "question": "¿Qué documento incluye resultados de pruebas iniciales en entornos controlados?",
+        "points": 2,
+        "options": [
+          "Pruebas de concepto.",
+          "Matriz comparativa.",
+          "Asignación de responsabilidades.",
+          "Acta de reuniones."
+        ],
+        "correct_answer": "Pruebas de concepto."
+      },
+      {
+        "question": "¿Qué etapa analiza el rendimiento y asegura mejoras constantes en el proyecto?",
+        "points": 2,
+        "options": [
+          "Evaluación y optimización.",
+          "Despliegue inicial.",
+          "Planificación estratégica.",
+          "Implementación técnica."
+        ],
+        "correct_answer": "Evaluación y optimización."
+      }
+]

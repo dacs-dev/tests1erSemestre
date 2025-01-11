@@ -1,0 +1,333 @@
+[
+        {
+          "question": "¿Cuál es la diferencia principal entre datos e información?",
+          "points": 2,
+          "options": [
+            "Los datos son hechos crudos, mientras que la información es el resultado de procesarlos.",
+            "La información no necesita contexto, mientras que los datos sí.",
+            "Los datos siempre están en formato gráfico, mientras que la información es solo texto.",
+            "La información se utiliza para almacenar datos en bruto."
+          ],
+          "correct_answer": "Los datos son hechos crudos, mientras que la información es el resultado de procesarlos."
+        },
+        {
+          "question": "¿Qué etapa del ciclo de vida del dato implica convertir datos en un formato común?",
+          "points": 2,
+          "options": [
+            "Captura o recopilación.",
+            "Normalización.",
+            "Archivado.",
+            "Distribución."
+          ],
+          "correct_answer": "Normalización."
+        },
+        {
+          "question": "¿Qué caracteriza al almacenamiento de datos en la nube?",
+          "points": 2,
+          "options": [
+            "Los datos se almacenan en discos duros locales.",
+            "El acceso a los datos está limitado a dispositivos de red local.",
+            "Los datos se guardan en servidores remotos accesibles por internet.",
+            "Los datos solo pueden almacenarse en formato estructurado."
+          ],
+          "correct_answer": "Los datos se guardan en servidores remotos accesibles por internet."
+        },
+        {
+          "question": "¿Qué es un data warehouse?",
+          "points": 2,
+          "options": [
+            "Un sistema para almacenar datos estructurados para análisis.",
+            "Un repositorio para datos en formato bruto.",
+            "Un sistema para gestionar transacciones comerciales.",
+            "Un método para procesar datos en tiempo real."
+          ],
+          "correct_answer": "Un sistema para almacenar datos estructurados para análisis."
+        },
+        {
+          "question": "¿Cuál es un beneficio clave del almacenamiento en la nube?",
+          "points": 2,
+          "options": [
+            "Permite la personalización masiva sin costo.",
+            "Ofrece escalabilidad y elasticidad en función de las necesidades.",
+            "No requiere conexión a internet para su funcionamiento.",
+            "Elimina la necesidad de cifrado para datos sensibles."
+          ],
+          "correct_answer": "Ofrece escalabilidad y elasticidad en función de las necesidades."
+        },
+        {
+          "question": "¿Qué técnica de análisis de datos identifica grupos con características similares?",
+          "points": 2,
+          "options": [
+            "Regresión.",
+            "Clustering.",
+            "Análisis prescriptivo.",
+            "Detección de anomalías."
+          ],
+          "correct_answer": "Clustering."
+        },
+        {
+          "question": "¿Qué implica el análisis prescriptivo?",
+          "points": 2,
+          "options": [
+            "Predecir resultados basados en datos históricos.",
+            "Sugiere acciones a tomar basadas en análisis predictivo.",
+            "Identifica patrones dentro de grandes volúmenes de datos.",
+            "Extrae datos en bruto para su visualización."
+          ],
+          "correct_answer": "Sugiere acciones a tomar basadas en análisis predictivo."
+        },
+        {
+          "question": "¿Qué función tiene la ciencia de datos en recursos humanos?",
+          "points": 2,
+          "options": [
+            "Monitorear patrones de tráfico de red.",
+            "Filtrar candidatos y predecir perfiles adecuados.",
+            "Optimizar rutas de entrega en tiempo real.",
+            "Detectar patrones de compras en línea."
+          ],
+          "correct_answer": "Filtrar candidatos y predecir perfiles adecuados."
+        },
+        {
+          "question": "¿Qué medida de seguridad ayuda a proteger los datos contra ciberataques?",
+          "points": 2,
+          "options": [
+            "Evitar actualizaciones de software.",
+            "Uso de firewalls y antivirus actualizados.",
+            "Restringir el acceso a internet para usuarios.",
+            "Eliminar todos los datos después de su análisis."
+          ],
+          "correct_answer": "Uso de firewalls y antivirus actualizados."
+        },
+        {
+          "question": "¿Qué herramienta empresarial utiliza dashboards para monitorear KPI?",
+          "points": 2,
+          "options": [
+            "Business Intelligence (BI).",
+            "Minería de datos.",
+            "Almacenamiento de objetos.",
+            "Análisis de regresión."
+          ],
+          "correct_answer": "Business Intelligence (BI)."
+        },
+        {
+            "question": "¿Qué herramienta permite la interacción eficiente entre sistemas y plataformas?",
+            "points": 2,
+            "options": [
+              "API.",
+              "Data Lake.",
+              "Dashboard.",
+              "Machine Learning."
+            ],
+            "correct_answer": "API."
+          },
+          {
+            "question": "¿Qué fase del ciclo de vida del dato implica la eliminación segura de datos?",
+            "points": 2,
+            "options": [
+              "Archivado.",
+              "Distribución.",
+              "Procesamiento.",
+              "Eliminación o destrucción."
+            ],
+            "correct_answer": "Eliminación o destrucción."
+          },
+          {
+            "question": "¿Qué tipo de análisis busca patrones o relaciones en los datos mediante clustering?",
+            "points": 2,
+            "options": [
+              "Análisis descriptivo.",
+              "Identificación de patrones.",
+              "Validación de modelos.",
+              "Simulación."
+            ],
+            "correct_answer": "Identificación de patrones."
+          },
+          {
+            "question": "¿Qué característica distingue al almacenamiento de objetos en la nube?",
+            "points": 2,
+            "options": [
+              "Divide los datos en bloques de tamaño fijo.",
+              "Se utiliza para almacenar datos estructurados exclusivamente.",
+              "Contiene datos, metadatos y un identificador único.",
+              "Almacena datos en discos duros físicos locales."
+            ],
+            "correct_answer": "Contiene datos, metadatos y un identificador único."
+          },
+          {
+            "question": "¿Qué beneficio aporta la visualización de datos en el análisis?",
+            "points": 2,
+            "options": [
+              "Aumenta la complejidad del análisis estadístico.",
+              "Facilita la comprensión y la toma de decisiones.",
+              "Reduce la necesidad de herramientas de análisis.",
+              "Elimina la necesidad de modelos predictivos."
+            ],
+            "correct_answer": "Facilita la comprensión y la toma de decisiones."
+          },
+          {
+            "question": "¿Qué fase del análisis de datos implica traducir resultados en insights accionables?",
+            "points": 2,
+            "options": [
+              "Modelado de datos.",
+              "Exploración de datos.",
+              "Validación de modelos.",
+              "Interpretación de resultados."
+            ],
+            "correct_answer": "Interpretación de resultados."
+          },
+          {
+            "question": "¿Qué sector se beneficia del uso de sensores para optimizar rutas de entrega?",
+            "points": 2,
+            "options": [
+              "Producción.",
+              "Logística.",
+              "Marketing.",
+              "Recursos Humanos."
+            ],
+            "correct_answer": "Logística."
+          },
+          {
+            "question": "¿Qué técnica ayuda a predecir resultados futuros en análisis de datos?",
+            "points": 2,
+            "options": [
+              "Regresión.",
+              "Clustering.",
+              "Análisis prescriptivo.",
+              "Validación de modelos."
+            ],
+            "correct_answer": "Regresión."
+          },
+          {
+            "question": "¿Qué medida de seguridad utiliza múltiples capas para proteger datos en la nube?",
+            "points": 2,
+            "options": [
+              "Firewalls y cifrado de datos.",
+              "Eliminación de actualizaciones de software.",
+              "Restricción del acceso a internet.",
+              "Desactivación de sistemas IDS/IPS."
+            ],
+            "correct_answer": "Firewalls y cifrado de datos."
+          },
+          {
+            "question": "¿Qué disciplina combina estadísticas y computación para extraer valor de los datos?",
+            "points": 2,
+            "options": [
+              "Ciencia de datos.",
+              "Minería de datos.",
+              "Ingeniería de datos.",
+              "Big data."
+            ],
+            "correct_answer": "Ciencia de datos."
+          },
+          {
+            "question": "¿Qué diferencia principal existe entre un data warehouse y un data lake?",
+            "points": 2,
+            "options": [
+              "El data warehouse almacena datos en bruto, mientras que el data lake almacena datos estructurados.",
+              "El data lake almacena datos en bruto o semiestructurados, mientras que el data warehouse almacena datos estructurados para análisis.",
+              "El data warehouse utiliza almacenamiento en la nube, mientras que el data lake utiliza almacenamiento local.",
+              "El data lake solo permite datos numéricos, mientras que el data warehouse permite imágenes y videos."
+            ],
+            "correct_answer": "El data lake almacena datos en bruto o semiestructurados, mientras que el data warehouse almacena datos estructurados para análisis."
+          },
+          {
+            "question": "¿Qué implica la etapa de procesamiento en el ciclo de vida del dato?",
+            "points": 2,
+            "options": [
+              "Transformar y limpiar datos para su análisis.",
+              "Distribuir datos a los usuarios finales.",
+              "Eliminar datos obsoletos o irrelevantes.",
+              "Archivar datos en sistemas de menor costo."
+            ],
+            "correct_answer": "Transformar y limpiar datos para su análisis."
+          },
+          {
+            "question": "¿Qué técnica de análisis busca prever escenarios futuros en base a datos actuales?",
+            "points": 2,
+            "options": [
+              "Análisis descriptivo.",
+              "Análisis predictivo.",
+              "Clustering.",
+              "Validación de modelos."
+            ],
+            "correct_answer": "Análisis predictivo."
+          },
+          {
+            "question": "¿Qué modelo de almacenamiento en la nube utiliza bloques de tamaño fijo para datos?",
+            "points": 2,
+            "options": [
+              "Almacenamiento de objetos.",
+              "Almacenamiento de bloques.",
+              "Almacenamiento de archivos.",
+              "Data lake."
+            ],
+            "correct_answer": "Almacenamiento de bloques."
+          },
+          {
+            "question": "¿Qué característica clave del big data se refiere a la diversidad de formatos de datos?",
+            "points": 2,
+            "options": [
+              "Velocidad.",
+              "Volumen.",
+              "Variedad.",
+              "Veracidad."
+            ],
+            "correct_answer": "Variedad."
+          },
+          {
+            "question": "¿Qué herramienta facilita la representación gráfica de indicadores clave de desempeño (KPI)?",
+            "points": 2,
+            "options": [
+              "Dashboard.",
+              "API.",
+              "Data lake.",
+              "Clustering."
+            ],
+            "correct_answer": "Dashboard."
+          },
+          {
+            "question": "¿Qué estrategia de seguridad implica restringir el acceso a sistemas según roles específicos?",
+            "points": 2,
+            "options": [
+              "Control de acceso.",
+              "Respaldo de datos.",
+              "Autenticación multifactor.",
+              "Monitoreo de redes."
+            ],
+            "correct_answer": "Control de acceso."
+          },
+          {
+            "question": "¿Qué medida ayuda a prevenir la pérdida de datos en caso de fallos técnicos?",
+            "points": 2,
+            "options": [
+              "Actualización de software.",
+              "Firewalls.",
+              "Respaldo de datos.",
+              "Autenticación multifactor."
+            ],
+            "correct_answer": "Respaldo de datos."
+          },
+          {
+            "question": "¿Qué enfoque de análisis utiliza escenarios hipotéticos para evaluar posibles resultados?",
+            "points": 2,
+            "options": [
+              "Simulación.",
+              "Regresión.",
+              "Clustering.",
+              "Análisis descriptivo."
+            ],
+            "correct_answer": "Simulación."
+          },
+          {
+            "question": "¿Qué tecnología se utiliza para combinar datos de múltiples fuentes y crear una vista unificada?",
+            "points": 2,
+            "options": [
+              "Integración de datos.",
+              "Minería de datos.",
+              "ETL.",
+              "Data warehouse."
+            ],
+            "correct_answer": "Integración de datos."
+          }
+      ]
+  

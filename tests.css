@@ -1,0 +1,186 @@
+/* Reset de márgenes y padding */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  html, body {
+    height: 100%;
+    width: 100%;
+  }
+  
+  body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f4f9fb;
+    color: #333;
+    padding: 30px;
+    line-height: 1.6;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    min-height: 100vh;
+  }
+  
+  h2 {
+    font-size: 2.5rem;
+    color: #2c3e50;
+    text-align: center;
+    margin-bottom: 20px;
+    font-weight: 600;
+    word-wrap: break-word;
+  }
+  
+  .box {
+    background-color: #fff;
+    padding: 25px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 800px;
+  }
+  
+  /* Contenedor de botones de test */
+  #test_menu {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 15px;
+    margin-bottom: 30px;
+    width: 100%;
+    overflow-x: auto; /* Permitir scroll horizontal en pantallas pequeñas */
+    overflow-y: auto; /* Permitir scroll horizontal en pantallas pequeñas */
+    padding: 10px;
+  }
+  
+  #test_menu button {
+    background-color: #3498db;
+    color: white;
+    border: none;
+    padding: 12px 25px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1.1rem;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+    font-weight: 600;
+  }
+  
+  #test_menu button:hover {
+    background-color: #2980b9;
+    transform: translateY(-2px);
+  }
+  
+  #test_menu button:active {
+    background-color: #2471a3;
+  }
+  
+  /* Estilo para el test actual */
+  #selected_test {
+    margin-top: 20px;
+    padding-top: 20px;
+    border-top: 2px solid #ecf0f1;
+    overflow-y: auto; /* Habilitar scroll vertical si el contenido excede */
+    padding-bottom: 20px;
+  }
+  
+  .enunciado {
+    font-size: 1.3rem;
+    font-weight: bold;
+    color: #34495e;
+    margin-bottom: 10px;
+  }
+  
+  .respuesta-container {
+    margin-bottom: 20px;
+  }
+  
+  input[type="radio"] {
+    margin-right: 12px;
+    cursor: pointer;
+  }
+  
+  label {
+    font-size: 1.1rem;
+    color: #7f8c8d;
+    display: inline-block;
+    margin-bottom: 8px;
+    transition: color 0.3s ease;
+  }
+  
+  label:hover {
+    color: #3498db;
+  }
+  
+  input[type="radio"]:checked + label {
+    color: #2e68cc;
+  }
+  
+  /* Efectos de animación al cargar el test */
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translateY(10px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  
+  #selected_test div {
+    animation: fadeIn 0.5s ease-out;
+  }
+  
+  /* Estilo cuando el radio button está en foco */
+  input[type="radio"]:focus, label:focus {
+    outline: none;
+    border: 2px solid #3498db;
+    box-shadow: 0 0 5px rgba(52, 152, 219, 0.5);
+  }
+  
+.error_label{
+  color: red !important;
+}
+.ok_label{
+  color: rgb(0, 255, 26) !important;
+}
+
+  /* Diseño responsivo para dispositivos móviles */
+  @media (max-width: 768px) {
+    body {
+      padding: 15px;
+    }
+  
+    h2 {
+      font-size: 1.5rem;
+    }
+  
+    #test_menu button {
+      font-size: 1rem;
+      padding: 10px 20px;
+    }
+  
+    .enunciado {
+      font-size: 1.1rem;
+    }
+  
+    label {
+      font-size: 1rem;
+    }
+  
+    /* Ajustes para mejorar la experiencia en pantallas más pequeñas */
+    #test_menu {
+      flex-direction: row;
+      align-items: center;
+    }
+  
+    #test_menu button {
+      
+    }
+  
+    #selected_test {
+    }
+  }
+  

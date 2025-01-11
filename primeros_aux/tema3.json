@@ -1,0 +1,222 @@
+[
+  {
+      "question": "¿Qué procedimiento se corresponde con el soporte vital básico?",
+      "points": 2,
+      "options": [
+          "Mantener las funciones vitales esenciales de la víctima hasta que los servicios de emergencia acudan.",
+          "Realizar maniobras quirúrgicas básicas para estabilizar al paciente.",
+          "Aplicar medicación de emergencia para garantizar la circulación.",
+          "Inmovilizar fracturas en casos de emergencia."
+      ],
+      "correct_answer": "Mantener las funciones vitales esenciales de la víctima hasta que los servicios de emergencia acudan."
+  },
+  {
+      "question": "¿Qué es lo primero que se debe hacer al realizar el soporte vital básico?",
+      "points": 2,
+      "options": [
+          "Verificar la consciencia de la víctima.",
+          "Realizar la reanimación cardiopulmonar.",
+          "Comprobar la frecuencia cardiaca.",
+          "Abrir la vía aérea."
+      ],
+      "correct_answer": "Verificar la consciencia de la víctima."
+  },
+  {
+      "question": "¿Qué significa la maniobra frente-mentón?",
+      "points": 2,
+      "options": [
+          "Asegurar la apertura de la vía para que el aire pueda fluir entre el exterior y los pulmones de la víctima.",
+          "Comprobar la respiración colocando la mano en el pecho del paciente.",
+          "Realizar compresiones abdominales para liberar un cuerpo extraño.",
+          "Garantizar la alineación de la cabeza con el eje del cuerpo."
+      ],
+      "correct_answer": "Asegurar la apertura de la vía para que el aire pueda fluir entre el exterior y los pulmones de la víctima."
+  },
+  {
+      "question": "¿Qué técnica se utiliza cuando hay sospecha de trauma cervical para abrir la vía aérea?",
+      "points": 2,
+      "options": [
+          "Maniobra de elevación mandibular o tracción mandibular.",
+          "Maniobra frente-mentón.",
+          "Ventilación artificial.",
+          "Colocación de cánula de Guedel."
+      ],
+      "correct_answer": "Maniobra de elevación mandibular o tracción mandibular."
+  },
+  {
+      "question": "¿Cuál es el objetivo de la cadena de supervivencia?",
+      "points": 2,
+      "options": [
+          "Mejorar las probabilidades de supervivencia de las víctimas, con las mínimas secuelas.",
+          "Proporcionar una atención especializada en el lugar del accidente.",
+          "Realizar maniobras avanzadas de emergencia en cualquier circunstancia.",
+          "Garantizar el transporte inmediato al hospital más cercano."
+      ],
+      "correct_answer": "Mejorar las probabilidades de supervivencia de las víctimas, con las mínimas secuelas."
+  },
+  {
+      "question": "¿Qué indica el primer eslabón de la cadena de supervivencia?",
+      "points": 2,
+      "options": [
+          "Reconocimiento temprano de la situación de urgencia y activación de los servicios de emergencia.",
+          "Realización inmediata de maniobras de reanimación cardiopulmonar.",
+          "Desfibrilación automática con equipos especializados.",
+          "Aplicación de soporte circulatorio avanzado."
+      ],
+      "correct_answer": "Reconocimiento temprano de la situación de urgencia y activación de los servicios de emergencia."
+  },
+  {
+      "question": "¿Cómo se clasifican los ritmos cardiacos monitorizados en caso de PCR?",
+      "points": 2,
+      "options": [
+          "Ritmos desfibrilables y no desfibrilables.",
+          "Ritmos regulares y rítmicos.",
+          "Ritmos lentos y acelerados.",
+          "Ritmos continuos y dispares."
+      ],
+      "correct_answer": "Ritmos desfibrilables y no desfibrilables."
+  },
+  {
+      "question": "¿Qué maniobra se emplea para liberar un cuerpo extraño de las vías aéreas en un adulto?",
+      "points": 2,
+      "options": [
+          "Maniobra de Heimlich.",
+          "Maniobra frente-mentón.",
+          "Ventilación boca a boca.",
+          "Colocación en posición lateral de seguridad."
+      ],
+      "correct_answer": "Maniobra de Heimlich."
+  },
+  {
+      "question": "¿Cómo se realiza la ventilación artificial en un bebé?",
+      "points": 2,
+      "options": [
+          "Cubriendo su boca y nariz al mismo tiempo.",
+          "Pinzando la nariz y cubriendo solo su boca.",
+          "Insuflando grandes volúmenes de aire rápidamente.",
+          "Aplicando presión en su abdomen mientras se ventila."
+      ],
+      "correct_answer": "Cubriendo su boca y nariz al mismo tiempo."
+  },
+  {
+      "question": "¿Qué ritmo debe seguirse para realizar RCP en adultos?",
+      "points": 2,
+      "options": [
+          "100 compresiones por minuto.",
+          "60 compresiones por minuto.",
+          "30 compresiones por minuto.",
+          "120 compresiones por minuto."
+      ],
+      "correct_answer": "100 compresiones por minuto."
+  },
+  {
+      "question": "¿Qué se debe hacer si una persona con obstrucción de la vía aérea está inconsciente?",
+      "points": 2,
+      "options": [
+          "Comenzar maniobras de RCP inmediatamente.",
+          "Intentar retirar el cuerpo extraño con los dedos.",
+          "Colocar a la víctima en posición de recuperación.",
+          "Dar golpes interescapulares repetidamente."
+      ],
+      "correct_answer": "Comenzar maniobras de RCP inmediatamente."
+  },
+  {
+      "question": "¿Cuál es la primera acción al usar un desfibrilador externo semiautomático (DESA)?",
+      "points": 2,
+      "options": [
+          "Encender el DESA y seguir sus instrucciones.",
+          "Colocar los parches directamente en el pecho del paciente.",
+          "Realizar una RCP durante 5 minutos antes de activarlo.",
+          "Asegurarse de que todos los presentes toquen al paciente."
+      ],
+      "correct_answer": "Encender el DESA y seguir sus instrucciones."
+  },
+  {
+      "question": "¿Qué maniobra de RCP debe realizarse si no se desea o no se puede dar insuflaciones?",
+      "points": 2,
+      "options": [
+          "Realizar exclusivamente masaje cardiaco.",
+          "Hacer ventilación artificial sin tocar la boca del paciente.",
+          "Aplicar golpes interescapulares cada 10 segundos.",
+          "Esperar a los servicios de emergencia para intervenir."
+      ],
+      "correct_answer": "Realizar exclusivamente masaje cardiaco."
+  },
+  {
+      "question": "¿Qué se debe hacer durante las compresiones torácicas en adultos?",
+      "points": 2,
+      "options": [
+          "Comprimir el pecho hasta que el esternón descienda unos cinco centímetros.",
+          "Realizar compresiones rápidas sin descanso entre ellas.",
+          "Flexionar los codos durante las compresiones para mayor fuerza.",
+          "Comprimir el pecho con movimientos rápidos y cortos."
+      ],
+      "correct_answer": "Comprimir el pecho hasta que el esternón descienda unos cinco centímetros."
+  },
+  {
+      "question": "¿Qué se debe evitar al usar un desfibrilador automático?",
+      "points": 2,
+      "options": [
+          "Que alguien toque al paciente durante la descarga.",
+          "Quitar los parches antes de completar el análisis.",
+          "Encender el dispositivo más de una vez.",
+          "Pedir ayuda antes de iniciar el uso del DESA."
+      ],
+      "correct_answer": "Que alguien toque al paciente durante la descarga."
+  },
+  {
+      "question": "¿Qué debe hacerse si la víctima respira pero está inconsciente?",
+      "points": 2,
+      "options": [
+          "Colocarla en posición lateral de seguridad.",
+          "Iniciar compresiones torácicas inmediatamente.",
+          "Realizar la maniobra frente-mentón continuamente.",
+          "Ventilar manualmente con una bolsa de aire."
+      ],
+      "correct_answer": "Colocarla en posición lateral de seguridad."
+  },
+  {
+      "question": "¿Qué posición deben adoptar los brazos del reanimador durante la RCP?",
+      "points": 2,
+      "options": [
+          "Siempre extendidos y perpendiculares al tórax de la víctima.",
+          "Flexionados ligeramente para amortiguar las compresiones.",
+          "Apoyados en un ángulo de 45 grados respecto al cuerpo.",
+          "En línea con la cadera para maximizar la fuerza."
+      ],
+      "correct_answer": "Siempre extendidos y perpendiculares al tórax de la víctima."
+  },
+  {
+      "question": "¿Qué paso sigue a una desfibrilación exitosa con el DESA?",
+      "points": 2,
+      "options": [
+          "Continuar con la RCP durante dos minutos antes del siguiente análisis.",
+          "Realizar un segundo choque inmediato.",
+          "Revisar los signos vitales de la víctima.",
+          "Colocar al paciente en posición lateral de seguridad."
+      ],
+      "correct_answer": "Continuar con la RCP durante dos minutos antes del siguiente análisis."
+  },
+  {
+      "question": "¿Qué indica el protocolo ABCDE en primeros auxilios?",
+      "points": 2,
+      "options": [
+          "Apertura de la vía aérea, respiración, circulación, estado neurológico y exposición.",
+          "Asegurar la escena, verificar signos vitales, compresión, decisión y evacuación.",
+          "Atención a la víctima, bloqueos respiratorios, cuidados médicos y desfibrilación.",
+          "Análisis, balance, control, diagnóstico y estabilización."
+      ],
+      "correct_answer": "Apertura de la vía aérea, respiración, circulación, estado neurológico y exposición."
+  },
+  {
+      "question": "¿Cómo deben colocarse los parches del DESA en el paciente?",
+      "points": 2,
+      "options": [
+          "Uno en la región anterocostal izquierda y otro bajo la clavícula derecha.",
+          "Ambos en la parte superior del tórax.",
+          "Uno sobre el abdomen y otro en la espalda.",
+          "Ambos en el lado derecho del tórax."
+      ],
+      "correct_answer": "Uno en la región anterocostal izquierda y otro bajo la clavícula derecha."
+  }
+]

@@ -1,0 +1,332 @@
+ [
+        {
+          "question": "¿Qué es la digitalización en las empresas?",
+          "points": 2,
+          "options": [
+            "Adaptar procesos analógicos a su versión digital.",
+            "Automatizar tareas repetitivas con máquinas.",
+            "Implementar estrategias de marketing en redes sociales.",
+            "Crear nuevas áreas de negocio utilizando IA."
+          ],
+          "correct_answer": "Adaptar procesos analógicos a su versión digital."
+        },
+        {
+          "question": "¿Cuál es una característica principal de la Cuarta Revolución Industrial?",
+          "points": 2,
+          "options": [
+            "El uso del vapor para mover máquinas.",
+            "La convergencia de tecnologías disruptivas como IoT e IA.",
+            "El desarrollo de semiconductores.",
+            "La invención de la imprenta."
+          ],
+          "correct_answer": "La convergencia de tecnologías disruptivas como IoT e IA."
+        },
+        {
+          "question": "¿Qué función tiene la capa de percepción en un sistema ciberfísico?",
+          "points": 2,
+          "options": [
+            "Coordinar la comunicación entre sensores y actuadores.",
+            "Procesar datos para tomar decisiones.",
+            "Capturar datos del entorno físico mediante sensores.",
+            "Ejecutar comandos en los actuadores."
+          ],
+          "correct_answer": "Capturar datos del entorno físico mediante sensores."
+        },
+        {
+          "question": "¿Qué ventaja ofrece la digitalización de una empresa?",
+          "points": 2,
+          "options": [
+            "Reduce la eficiencia de los procesos.",
+            "Incrementa los costes operativos.",
+            "Mejora la experiencia del cliente.",
+            "Limita el acceso a nuevos mercados."
+          ],
+          "correct_answer": "Mejora la experiencia del cliente."
+        },
+        {
+          "question": "¿Qué es un sistema ciberfísico (CPS)?",
+          "points": 2,
+          "options": [
+            "Un sistema de impresión 3D.",
+            "Una red de comunicación entre dispositivos móviles.",
+            "Un sistema que integra computación con elementos físicos mediante redes.",
+            "Un software de gestión empresarial."
+          ],
+          "correct_answer": "Un sistema que integra computación con elementos físicos mediante redes."
+        },
+        {
+          "question": "¿Qué es el big data?",
+          "points": 2,
+          "options": [
+            "Un documento en formato XML.",
+            "Un sistema de almacenamiento de datos distribuido.",
+            "La capacidad de analizar grandes volúmenes de datos para obtener patrones.",
+            "Un dispositivo de almacenamiento externo."
+          ],
+          "correct_answer": "La capacidad de analizar grandes volúmenes de datos para obtener patrones."
+        },
+        {
+          "question": "¿Cuál es una función principal de la capa de transmisión en un CPS?",
+          "points": 2,
+          "options": [
+            "Tomar decisiones basadas en datos.",
+            "Facilitar la comunicación entre sensores, procesadores y actuadores.",
+            "Analizar información recibida de múltiples fuentes.",
+            "Monitorear cambios en el entorno físico."
+          ],
+          "correct_answer": "Facilitar la comunicación entre sensores, procesadores y actuadores."
+        },
+        {
+          "question": "¿Qué diferencia principal existe entre IT y OT?",
+          "points": 2,
+          "options": [
+            "IT procesa datos empresariales; OT controla procesos físicos.",
+            "OT incluye tecnologías inalámbricas; IT no las utiliza.",
+            "OT se centra en marketing; IT, en producción.",
+            "IT y OT no tienen ninguna relación."
+          ],
+          "correct_answer": "IT procesa datos empresariales; OT controla procesos físicos."
+        },
+        {
+          "question": "¿Qué tecnología permite la comunicación sin cables en un CPS?",
+          "points": 2,
+          "options": [
+            "Redes cableadas como Ethernet.",
+            "Wi-Fi, Bluetooth y 5G.",
+            "Sistemas de control distribuidos (DCS).",
+            "Dispositivos de almacenamiento externo."
+          ],
+          "correct_answer": "Wi-Fi, Bluetooth y 5G."
+        },
+        {
+          "question": "¿Cuál es un ejemplo de tecnología utilizada en la capa de aplicación de un CPS?",
+          "points": 2,
+          "options": [
+            "Sensores de temperatura.",
+            "Algoritmos de machine learning.",
+            "Redes de comunicación LAN.",
+            "Cortafuegos y sistemas IDS/IPS."
+          ],
+          "correct_answer": "Algoritmos de machine learning."
+        },
+        {
+            "question": "¿Cuál es la diferencia principal entre digitalización y transformación digital?",
+            "points": 2,
+            "options": [
+              "La digitalización adapta procesos analógicos a su versión digital, mientras que la transformación digital busca generar más valor a través de cambios internos.",
+              "La transformación digital es lo mismo que la digitalización, pero incluye marketing digital.",
+              "La digitalización implica usar inteligencia artificial en todos los procesos empresariales.",
+              "No hay diferencia entre ambos términos."
+            ],
+            "correct_answer": "La digitalización adapta procesos analógicos a su versión digital, mientras que la transformación digital busca generar más valor a través de cambios internos."
+          },
+          {
+            "question": "¿Qué tecnología es un ejemplo de comunicación sin cables en un sistema CPS?",
+            "points": 2,
+            "options": [
+              "Ethernet y fibra óptica.",
+              "Wi-Fi, Bluetooth y 5G.",
+              "Protocolos como MQTT y HTTP.",
+              "Redes cableadas de alta velocidad."
+            ],
+            "correct_answer": "Wi-Fi, Bluetooth y 5G."
+          },
+          {
+            "question": "¿Qué caracteriza a los sistemas ciberfísicos (CPS) en la industria 4.0?",
+            "points": 2,
+            "options": [
+              "Uso exclusivo de sensores de temperatura y presión.",
+              "Capacidad de autoevaluación, análisis de datos y toma de decisiones autónomas.",
+              "Dependencia de supervisión humana constante.",
+              "Incapacidad para procesar grandes volúmenes de datos."
+            ],
+            "correct_answer": "Capacidad de autoevaluación, análisis de datos y toma de decisiones autónomas."
+          },
+          {
+            "question": "¿Qué función principal tiene la capa de aplicación en un sistema ciberfísico?",
+            "points": 2,
+            "options": [
+              "Capturar datos del entorno físico mediante sensores.",
+              "Transmitir datos entre sensores y procesadores.",
+              "Tomar decisiones informadas y ejecutar acciones basadas en algoritmos avanzados.",
+              "Controlar directamente dispositivos físicos sin procesar datos."
+            ],
+            "correct_answer": "Tomar decisiones informadas y ejecutar acciones basadas en algoritmos avanzados."
+          },
+          {
+            "question": "¿Qué ventaja clave ofrece la digitalización a las empresas?",
+            "points": 2,
+            "options": [
+              "Incrementa los costos operativos.",
+              "Reduce la eficiencia de los procesos.",
+              "Facilita el acceso a nuevos mercados y clientes.",
+              "Elimina completamente la intervención humana."
+            ],
+            "correct_answer": "Facilita el acceso a nuevos mercados y clientes."
+          },
+          {
+            "question": "¿Quién acuñó el término Cuarta Revolución Industrial y en qué año?",
+            "points": 2,
+            "options": [
+              "James Watt, en 1760.",
+              "Klaus Schwab, en 2016.",
+              "Henry Ford, en 1870.",
+              "Bill Gates, en 2000."
+            ],
+            "correct_answer": "Klaus Schwab, en 2016."
+          },
+          {
+            "question": "¿Cuál es un componente principal de las tecnologías OT?",
+            "points": 2,
+            "options": [
+              "Sistemas de control industrial como PLC y SCADA.",
+              "Software de gestión empresarial como SAP.",
+              "Redes inalámbricas como Wi-Fi y 5G.",
+              "Sistemas de almacenamiento en la nube."
+            ],
+            "correct_answer": "Sistemas de control industrial como PLC y SCADA."
+          },
+          {
+            "question": "¿Qué impacto tiene la Cuarta Revolución Industrial en el mercado laboral?",
+            "points": 2,
+            "options": [
+              "Elimina la necesidad de adquirir nuevas competencias.",
+              "Reconfigura puestos de trabajo y demanda nuevas habilidades.",
+              "Reduce la eficiencia de los procesos productivos.",
+              "Genera mayor dependencia en trabajos no cualificados."
+            ],
+            "correct_answer": "Reconfigura puestos de trabajo y demanda nuevas habilidades."
+          },
+          {
+            "question": "¿Qué es un ejemplo de una interfaz hombre-máquina (HMI) en un sistema OT?",
+            "points": 2,
+            "options": [
+              "Paneles de control y sistemas SCADA.",
+              "Sensores de temperatura y presión.",
+              "Protocolos de comunicación como MQTT.",
+              "Sistemas de almacenamiento distribuido."
+            ],
+            "correct_answer": "Paneles de control y sistemas SCADA."
+          },
+          {
+            "question": "¿Qué objetivo tiene la convergencia de IT y OT en una empresa digitalizada?",
+            "points": 2,
+            "options": [
+              "Eliminar el uso de datos empresariales.",
+              "Mejorar la eficiencia y flexibilidad en la producción.",
+              "Limitar la interconexión entre dispositivos y sistemas.",
+              "Fomentar la dependencia en procesos analógicos."
+            ],
+            "correct_answer": "Mejorar la eficiencia y flexibilidad en la producción."
+          },
+          {
+            "question": "¿Qué objetivo final persigue la transformación digital de una empresa?",
+            "points": 2,
+            "options": [
+              "Aumentar los costes operativos.",
+              "Adaptarse al contexto actual en un mundo interconectado e hiperactivo.",
+              "Sustituir completamente los procesos analógicos.",
+              "Eliminar la necesidad de innovar en el mercado."
+            ],
+            "correct_answer": "Adaptarse al contexto actual en un mundo interconectado e hiperactivo."
+          },
+          {
+            "question": "¿Qué caracteriza a la Cuarta Revolución Industrial?",
+            "points": 2,
+            "options": [
+              "El uso del vapor como fuente de energía.",
+              "La producción en masa mediante líneas de montaje.",
+              "La interacción entre distintas tecnologías disruptivas.",
+              "La invención de la imprenta y su impacto en la comunicación."
+            ],
+            "correct_answer": "La interacción entre distintas tecnologías disruptivas."
+          },
+          {
+            "question": "¿Qué son los sistemas ciberfísicos (CPS)?",
+            "points": 2,
+            "options": [
+              "Sistemas de impresión 3D utilizados en la industria.",
+              "Sistemas integrados de computación capaces de controlar y colaborar con sistemas físicos mediante redes.",
+              "Tecnologías utilizadas exclusivamente en redes sociales.",
+              "Equipos destinados al análisis de datos en la nube."
+            ],
+            "correct_answer": "Sistemas integrados de computación capaces de controlar y colaborar con sistemas físicos mediante redes."
+          },
+          {
+            "question": "¿Qué tecnologías destacan en la Cuarta Revolución Industrial?",
+            "points": 2,
+            "options": [
+              "El ferrocarril y los barcos a vapor.",
+              "La nanotecnología, la inteligencia artificial y la computación cuántica.",
+              "La línea de montaje y la electrificación.",
+              "Los semiconductores y las telecomunicaciones."
+            ],
+            "correct_answer": "La nanotecnología, la inteligencia artificial y la computación cuántica."
+          },
+          {
+            "question": "¿Cuál es la función de la capa de percepción en un sistema ciberfísico?",
+            "points": 2,
+            "options": [
+              "Interconectar sensores con procesadores y actuadores.",
+              "Procesar datos para tomar decisiones automatizadas.",
+              "Obtener datos del entorno físico mediante sensores.",
+              "Garantizar la transmisión de datos entre componentes."
+            ],
+            "correct_answer": "Obtener datos del entorno físico mediante sensores."
+          },
+          {
+            "question": "¿Qué tecnologías se emplean en la capa de transmisión de un CPS?",
+            "points": 2,
+            "options": [
+              "Redes cableadas como Ethernet y redes inalámbricas como Wi-Fi y 5G.",
+              "Sistemas de análisis avanzado y algoritmos de machine learning.",
+              "Actuadores que ejecutan comandos en procesos industriales.",
+              "Interfaces de usuario como paneles de control y aplicaciones móviles."
+            ],
+            "correct_answer": "Redes cableadas como Ethernet y redes inalámbricas como Wi-Fi y 5G."
+          },
+          {
+            "question": "¿Qué avances permiten a los CPS ser más inteligentes y autónomos?",
+            "points": 2,
+            "options": [
+              "La electrificación y la expansión del ferrocarril.",
+              "La convergencia de tecnologías como la inteligencia artificial, el cloud y el big data.",
+              "El desarrollo de máquinas a vapor y la automatización básica.",
+              "El uso exclusivo de sensores de presión y temperatura."
+            ],
+            "correct_answer": "La convergencia de tecnologías como la inteligencia artificial, el cloud y el big data."
+          },
+          {
+            "question": "¿Qué características debe tener una red en la capa de transmisión?",
+            "points": 2,
+            "options": [
+              "Alta latencia y ancho de banda limitado.",
+              "Sincronización de datos, seguridad y confiabilidad.",
+              "Dependencia exclusiva de redes cableadas.",
+              "Falta de protección contra intrusiones externas."
+            ],
+            "correct_answer": "Sincronización de datos, seguridad y confiabilidad."
+          },
+          {
+            "question": "¿Qué herramientas destacan en las tecnologías IT?",
+            "points": 2,
+            "options": [
+              "Sistemas SCADA y sensores de presión.",
+              "Microsoft Azure, AWS y Salesforce.",
+              "Controladores lógicos programables (PLC) y DCS.",
+              "Interfaces hombre-máquina (HMI) y actuadores."
+            ],
+            "correct_answer": "Microsoft Azure, AWS y Salesforce."
+          },
+          {
+            "question": "¿Qué ventaja ofrece la digitalización de los procesos empresariales?",
+            "points": 2,
+            "options": [
+              "Mayor agilidad y velocidad en la toma de decisiones.",
+              "Reducción en el uso de tecnologías digitales.",
+              "Disminución en la eficiencia operativa.",
+              "Limitación en la personalización de servicios."
+            ],
+            "correct_answer": "Mayor agilidad y velocidad en la toma de decisiones."
+          }
+      ]

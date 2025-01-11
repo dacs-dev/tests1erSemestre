@@ -1,0 +1,442 @@
+[
+  {
+      "question": "¿Qué principio rige el sector público del sistema sanitario?",
+      "points": 2,
+      "options": [
+          "Universalidad e igualdad.",
+          "Acceso exclusivo a ciudadanos con seguros médicos.",
+          "Privacidad en la prestación de servicios.",
+          "Pago directo por los servicios ofrecidos."
+      ],
+      "correct_answer": "Universalidad e igualdad."
+  },
+  {
+      "question": "¿Qué nivel del sistema sanitario cubre las necesidades de la población en su zona básica de salud?",
+      "points": 2,
+      "options": [
+          "Atención primaria.",
+          "Atención especializada.",
+          "Servicios privados.",
+          "Unidades de emergencias."
+      ],
+      "correct_answer": "Atención primaria."
+  },
+  {
+      "question": "¿Qué entidad marca las bases y la coordinación general de la sanidad en España?",
+      "points": 2,
+      "options": [
+          "El Ministerio de Sanidad, Consumo y Bienestar Social.",
+          "Las consejerías de sanidad autonómicas.",
+          "El Consejo Interterritorial de Salud.",
+          "La Seguridad Social."
+      ],
+      "correct_answer": "El Ministerio de Sanidad, Consumo y Bienestar Social."
+  },
+  {
+      "question": "¿Qué define una emergencia médica?",
+      "points": 2,
+      "options": [
+          "Una situación que requiere una actuación inmediata ya que la vida de una persona corre peligro.",
+          "Un incidente que necesita atención médica programada.",
+          "Un caso que puede esperar la llegada de los servicios primarios.",
+          "Una condición que no afecta el estado vital del paciente."
+      ],
+      "correct_answer": "Una situación que requiere una actuación inmediata ya que la vida de una persona corre peligro."
+  },
+  {
+      "question": "¿Cuál es el número común de emergencias en toda Europa?",
+      "points": 2,
+      "options": [
+          "112.",
+          "061.",
+          "911.",
+          "123."
+      ],
+      "correct_answer": "112."
+  },
+  {
+      "question": "¿Qué objetivo principal tiene el Sistema Integral de Emergencias (SIE)?",
+      "points": 2,
+      "options": [
+          "Reducir la morbilidad y la mortalidad de las víctimas.",
+          "Ofrecer servicios médicos especializados exclusivamente.",
+          "Atender solo a víctimas en accidentes de tráfico.",
+          "Brindar formación a los primeros auxiliadores."
+      ],
+      "correct_answer": "Reducir la morbilidad y la mortalidad de las víctimas."
+  },
+  {
+      "question": "¿Qué modelo de emergencias prioriza la asistencia médica in situ con personal médico?",
+      "points": 2,
+      "options": [
+          "Modelo europeo.",
+          "Modelo estadounidense.",
+          "Modelo combinado.",
+          "Modelo descentralizado."
+      ],
+      "correct_answer": "Modelo europeo."
+  },
+  {
+      "question": "¿Qué incluye la conducta PAS en primeros auxilios?",
+      "points": 2,
+      "options": [
+          "Proteger, Avisar y Socorrer.",
+          "Planificar, Asistir y Seguir.",
+          "Proporcionar ayuda y seguridad.",
+          "Prevenir, Actuar y Sostener."
+      ],
+      "correct_answer": "Proteger, Avisar y Socorrer."
+  },
+  {
+      "question": "¿Qué aspecto clave garantiza la accesibilidad en los Servicios de Emergencias Médicas (SEM)?",
+      "points": 2,
+      "options": [
+          "Permitir que cualquier persona pueda acceder a ellos en todo momento y lugar.",
+          "Priorizar la atención a quienes tienen seguro privado.",
+          "Proveer servicios médicos únicamente en zonas urbanas.",
+          "Ofrecer asistencia solo bajo previa solicitud oficial."
+      ],
+      "correct_answer": "Permitir que cualquier persona pueda acceder a ellos en todo momento y lugar."
+  },
+  {
+      "question": "¿Qué paso incluye el protocolo de transmisión de información en emergencias?",
+      "points": 2,
+      "options": [
+          "Dar la localización exacta del accidente.",
+          "Realizar una valoración médica inmediata.",
+          "Transportar al paciente al hospital más cercano.",
+          "Asignar recursos económicos para la emergencia."
+      ],
+      "correct_answer": "Dar la localización exacta del accidente."
+  },
+  {
+      "question": "¿Qué se debe evitar al prestar primeros auxilios?",
+      "points": 2,
+      "options": [
+          "Mover al herido a menos que sea imprescindible.",
+          "Actuar con rapidez y conservar la calma.",
+          "Tranquilizar al herido y mantenerlo caliente.",
+          "Dar al herido comida o medicamentos."
+      ],
+      "correct_answer": "Dar al herido comida o medicamentos."
+  },
+  {
+      "question": "¿Qué función tienen los centros de salud en el sistema sanitario?",
+      "points": 2,
+      "options": [
+          "Desarrollar una atención primaria coordinada, integrada, permanente y continua.",
+          "Realizar exclusivamente tratamientos especializados.",
+          "Brindar servicios médicos únicamente a usuarios privados.",
+          "Proporcionar atención solo en casos de emergencia."
+      ],
+      "correct_answer": "Desarrollar una atención primaria coordinada, integrada, permanente y continua."
+  },
+  {
+      "question": "¿Cuál es un objetivo de los primeros auxilios?",
+      "points": 2,
+      "options": [
+          "Mantener viva a la persona accidentada.",
+          "Reemplazar la asistencia médica especializada.",
+          "Realizar procedimientos médicos avanzados.",
+          "Garantizar la recuperación total de la víctima."
+      ],
+      "correct_answer": "Mantener viva a la persona accidentada."
+  },
+  {
+      "question": "¿Qué significa el término 'triaje' en emergencias médicas?",
+      "points": 2,
+      "options": [
+          "Clasificar a las víctimas según su gravedad y pronóstico.",
+          "Realizar procedimientos quirúrgicos de urgencia.",
+          "Proveer primeros auxilios básicos a todos los pacientes.",
+          "Transportar a las víctimas directamente al hospital."
+      ],
+      "correct_answer": "Clasificar a las víctimas según su gravedad y pronóstico."
+  },
+  {
+      "question": "¿Qué código cromático identifica a pacientes graves pero recuperables?",
+      "points": 2,
+      "options": [
+          "Rojo.",
+          "Amarillo.",
+          "Verde.",
+          "Negro."
+      ],
+      "correct_answer": "Rojo."
+  },
+  {
+      "question": "¿Qué es una emergencia según el tema 1?",
+      "points": 2,
+      "options": [
+          "Una situación en la que peligra la vida o pueden provocarse secuelas graves si no se interviene inmediatamente.",
+          "Un incidente donde no hay riesgo inminente de muerte pero se requiere atención médica rápida.",
+          "Un procedimiento programado en atención primaria.",
+          "Un evento médico que no requiere intervención inmediata."
+      ],
+      "correct_answer": "Una situación en la que peligra la vida o pueden provocarse secuelas graves si no se interviene inmediatamente."
+  },
+  {
+      "question": "¿Qué ley obliga a prestar auxilio en caso de accidente?",
+      "points": 2,
+      "options": [
+          "La Ley de Seguridad Vial.",
+          "El Código Civil.",
+          "La Ley de Asistencia Sanitaria.",
+          "El Reglamento General de Circulación."
+      ],
+      "correct_answer": "La Ley de Seguridad Vial."
+  },
+  {
+      "question": "¿Qué establece el deber de socorro?",
+      "points": 2,
+      "options": [
+          "La obligación de prestar auxilio a una persona desamparada y en peligro manifiesto.",
+          "La necesidad de reportar el incidente únicamente a las autoridades.",
+          "La obligatoriedad de realizar maniobras médicas avanzadas.",
+          "El derecho a decidir si se presta o no ayuda en caso de accidente."
+      ],
+      "correct_answer": "La obligación de prestar auxilio a una persona desamparada y en peligro manifiesto."
+  },
+  {
+      "question": "¿Qué es la valoración primaria en primeros auxilios?",
+      "points": 2,
+      "options": [
+          "La evaluación inicial para comprobar si hay lesiones que supongan peligro de muerte.",
+          "El diagnóstico médico detallado de las lesiones del paciente.",
+          "La revisión exhaustiva de todo el cuerpo de la víctima.",
+          "La preparación del traslado del paciente al hospital."
+      ],
+      "correct_answer": "La evaluación inicial para comprobar si hay lesiones que supongan peligro de muerte."
+  },
+  {
+      "question": "¿Qué acción forma parte del protocolo ABCDE en primeros auxilios?",
+      "points": 2,
+      "options": [
+          "Garantizar la permeabilidad de la vía aérea mediante la maniobra frente-mentón.",
+          "Realizar un vendaje en espiga en zonas afectadas.",
+          "Transportar al paciente al hospital inmediatamente.",
+          "Administrar medicamentos al paciente para mitigar el dolor."
+      ],
+      "correct_answer": "Garantizar la permeabilidad de la vía aérea mediante la maniobra frente-mentón."
+  },
+  {
+    "question": "¿Qué derechos tienen los pacientes y usuarios del Sistema Nacional de Salud?",
+    "points": 2,
+    "options": [
+        "Derecho a la información previa para elegir médico y centro.",
+        "Derecho exclusivo a la atención especializada.",
+        "Derecho a recibir medicamentos sin receta médica.",
+        "Derecho a ser atendidos solo en emergencias."
+    ],
+    "correct_answer": "Derecho a la información previa para elegir médico y centro."
+},
+{
+    "question": "¿Qué instituciones colaboran en la gestión de accidentes laborales y enfermedades profesionales?",
+    "points": 2,
+    "options": [
+        "Mutuas patronales de accidentes de trabajo (MPAT).",
+        "Hospitales públicos y privados.",
+        "Asociaciones de voluntariado.",
+        "Ministerio de Justicia y Seguridad Social."
+    ],
+    "correct_answer": "Mutuas patronales de accidentes de trabajo (MPAT)."
+},
+{
+    "question": "¿Qué función tienen las unidades de salud mental en el sistema sanitario?",
+    "points": 2,
+    "options": [
+        "Realizar labores de atención directa y prevención mediante programas específicos.",
+        "Coordinar la logística de emergencias en hospitales.",
+        "Gestionar el tratamiento quirúrgico de enfermedades mentales.",
+        "Administrar medicamentos exclusivamente para trastornos graves."
+    ],
+    "correct_answer": "Realizar labores de atención directa y prevención mediante programas específicos."
+},
+{
+    "question": "¿Qué implica la omisión del deber de socorro según el Código Penal?",
+    "points": 2,
+    "options": [
+        "No prestar ayuda a una persona desamparada y en peligro manifiesto.",
+        "Actuar en contra de los servicios médicos.",
+        "Intervenir en emergencias sin conocimientos médicos.",
+        "Llamar al 112 sin aportar información suficiente."
+    ],
+    "correct_answer": "No prestar ayuda a una persona desamparada y en peligro manifiesto."
+},
+{
+    "question": "¿Qué pena se aplica si no se presta auxilio y la víctima resulta herida gravemente?",
+    "points": 2,
+    "options": [
+        "De 6 a 18 meses de prisión.",
+        "De 3 a 6 meses de multa económica.",
+        "De 1 a 2 años de prisión con inhabilitación profesional.",
+        "No se aplica ninguna pena legal."
+    ],
+    "correct_answer": "De 6 a 18 meses de prisión."
+},
+{
+    "question": "¿Qué objetivo tienen los primeros auxilios?",
+    "points": 2,
+    "options": [
+        "Facilitar una atención inmediata a una persona accidentada hasta que llegue asistencia médica profesional.",
+        "Garantizar la recuperación total de una víctima.",
+        "Sustituir la atención médica especializada.",
+        "Proporcionar medicamentos al paciente para aliviar su dolor."
+    ],
+    "correct_answer": "Facilitar una atención inmediata a una persona accidentada hasta que llegue asistencia médica profesional."
+},
+{
+    "question": "¿Qué principio ético exige que los auxiliadores no revelen datos personales de las víctimas?",
+    "points": 2,
+    "options": [
+        "Secreto profesional.",
+        "Beneficencia.",
+        "No maleficencia.",
+        "Altruismo."
+    ],
+    "correct_answer": "Secreto profesional."
+},
+{
+    "question": "¿Qué establece el principio de beneficencia en primeros auxilios?",
+    "points": 2,
+    "options": [
+        "Actuar en beneficio de los demás, promoviendo sus intereses y suprimiendo prejuicios.",
+        "Garantizar la autonomía de la víctima en todo momento.",
+        "Abstenerse de realizar acciones que puedan dañar a otros.",
+        "Proteger siempre la intimidad de la víctima y su entorno."
+    ],
+    "correct_answer": "Actuar en beneficio de los demás, promoviendo sus intereses y suprimiendo prejuicios."
+},
+{
+    "question": "¿Qué acciones se deben evitar en primeros auxilios?",
+    "points": 2,
+    "options": [
+        "Intervenir en situaciones que pongan en riesgo la vida del auxiliador.",
+        "Colocar a la víctima en una posición cómoda.",
+        "Aplicar medidas de autoprotección antes de actuar.",
+        "Proteger a la víctima con los recursos disponibles."
+    ],
+    "correct_answer": "Intervenir en situaciones que pongan en riesgo la vida del auxiliador."
+},
+{
+    "question": "¿Qué término describe una pérdida de consciencia momentánea de forma súbita?",
+    "points": 2,
+    "options": [
+        "Síncope.",
+        "Lipotimia.",
+        "Obnubilación.",
+        "Delirium."
+    ],
+    "correct_answer": "Síncope."
+},
+{
+    "question": "¿Qué función tiene la Escala de Glasgow en primeros auxilios?",
+    "points": 2,
+    "options": [
+        "Evaluar el nivel de consciencia del paciente.",
+        "Determinar la presión arterial en emergencias.",
+        "Clasificar la gravedad de una fractura.",
+        "Definir las prioridades de atención en múltiples víctimas."
+    ],
+    "correct_answer": "Evaluar el nivel de consciencia del paciente."
+},
+{
+    "question": "¿Qué determina la apertura ocular en la Escala de Glasgow?",
+    "points": 2,
+    "options": [
+        "La respuesta del paciente a estímulos visuales, verbales o dolorosos.",
+        "La orientación del paciente en tiempo y espacio.",
+        "El tipo de estímulo verbal que entiende el paciente.",
+        "La capacidad del paciente para moverse por sí mismo."
+    ],
+    "correct_answer": "La respuesta del paciente a estímulos visuales, verbales o dolorosos."
+},
+{
+    "question": "¿Qué es la conducta PAS en el contexto de primeros auxilios?",
+    "points": 2,
+    "options": [
+        "Un protocolo que incluye proteger, avisar y socorrer.",
+        "Un procedimiento para estabilizar a la víctima rápidamente.",
+        "Una serie de maniobras para atender a múltiples víctimas.",
+        "Una técnica avanzada de reanimación."
+    ],
+    "correct_answer": "Un protocolo que incluye proteger, avisar y socorrer."
+},
+{
+    "question": "¿Qué implica el principio de autonomía en bioética?",
+    "points": 2,
+    "options": [
+        "El respeto a las decisiones de las personas sin presiones externas o internas.",
+        "La obligación de actuar siempre en beneficio de los demás.",
+        "Abstenerse de realizar acciones que puedan dañar a otros.",
+        "Actuar con justicia y equidad en cualquier situación."
+    ],
+    "correct_answer": "El respeto a las decisiones de las personas sin presiones externas o internas."
+},
+{
+    "question": "¿Qué acción debe realizar un auxiliador si el lugar del accidente no es seguro?",
+    "points": 2,
+    "options": [
+        "No prestar asistencia hasta que el lugar sea seguro.",
+        "Correr hacia el accidentado sin importar el riesgo.",
+        "Intentar mover a la víctima a un lugar seguro inmediatamente.",
+        "Aplicar primeros auxilios sin tomar precauciones adicionales."
+    ],
+    "correct_answer": "No prestar asistencia hasta que el lugar sea seguro."
+},
+{
+    "question": "¿Qué acción corresponde al paso de 'avisar' en la conducta PAS?",
+    "points": 2,
+    "options": [
+        "Llamar al servicio de atención de urgencias (112).",
+        "Realizar maniobras de reanimación.",
+        "Colocar a la víctima en posición lateral de seguridad.",
+        "Proteger al auxiliador y a la víctima de posibles riesgos."
+    ],
+    "correct_answer": "Llamar al servicio de atención de urgencias (112)."
+},
+{
+    "question": "¿Qué valor de puntuación en la Escala de Glasgow indica un estado de gravedad?",
+    "points": 2,
+    "options": [
+        "Menos de 9.",
+        "Entre 9 y 12.",
+        "15.",
+        "Más de 12."
+    ],
+    "correct_answer": "Menos de 9."
+},
+{
+    "question": "¿Qué se debe hacer si una persona está inconsciente y tiene una fuerte hemorragia?",
+    "points": 2,
+    "options": [
+        "Controlar la hemorragia antes de realizar cualquier otra acción.",
+        "Mover inmediatamente a la víctima a un hospital.",
+        "Esperar a los servicios médicos sin intervenir.",
+        "Colocar a la víctima en posición de Trendelenburg."
+    ],
+    "correct_answer": "Controlar la hemorragia antes de realizar cualquier otra acción."
+},
+{
+    "question": "¿Qué determina el paso de 'socorrer' en la conducta PAS?",
+    "points": 2,
+    "options": [
+        "Establecer las medidas necesarias para mantener a la víctima con respiración y pulso.",
+        "Transportar al paciente al hospital lo antes posible.",
+        "Realizar un diagnóstico médico detallado.",
+        "Contactar con familiares para informarles de la situación."
+    ],
+    "correct_answer": "Establecer las medidas necesarias para mantener a la víctima con respiración y pulso."
+},
+{
+    "question": "¿Qué protocolo se sigue para valorar los signos vitales en la valoración primaria?",
+    "points": 2,
+    "options": [
+        "Protocolo ABCDE.",
+        "Protocolo PAS.",
+        "Protocolo ILCOR.",
+        "Protocolo MET TAG."
+    ],
+    "correct_answer": "Protocolo ABCDE."
+}
+]

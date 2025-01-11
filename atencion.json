@@ -1,0 +1,75 @@
+{
+    "tests": [
+      {
+        "preguntas": [
+          { "enunciado": "2 + 2 = ?", "respuestas": ["3", "4", "5"], "correcta": 2 },
+          { "enunciado": "Capital de Francia?", "respuestas": ["Madrid", "París", "Roma"], "correcta": 2 },
+          { "enunciado": "Planeta rojo?", "respuestas": ["Venus", "Marte", "Júpiter"], "correcta": 2 },
+          { "enunciado": "3 x 3 = ?", "respuestas": ["6", "9", "12"], "correcta": 2 },
+          { "enunciado": "Color del cielo despejado?", "respuestas": ["Azul", "Rojo", "Verde"], "correcta": 1 },
+          { "enunciado": "Forma de la Tierra?", "respuestas": ["Plana", "Redonda", "Cuadrada"], "correcta": 2 },
+          { "enunciado": "1 hora tiene...?", "respuestas": ["50 minutos", "60 minutos", "70 minutos"], "correcta": 2 },
+          { "enunciado": "Líquido vital?", "respuestas": ["Agua", "Aceite", "Leche"], "correcta": 1 },
+          { "enunciado": "Animal que vuela?", "respuestas": ["Perro", "Pájaro", "Tortuga"], "correcta": 2 },
+          { "enunciado": "5 - 3 = ?", "respuestas": ["2", "3", "4"], "correcta": 1 }
+        ]
+      },
+      {
+        "preguntas": [
+          { "enunciado": "Capital de España?", "respuestas": ["Barcelona", "Madrid", "Sevilla"], "correcta": 2 },
+          { "enunciado": "7 x 7 = ?", "respuestas": ["48", "49", "50"], "correcta": 2 },
+          { "enunciado": "Metal precioso?", "respuestas": ["Hierro", "Oro", "Cobre"], "correcta": 2 },
+          { "enunciado": "Idioma de Brasil?", "respuestas": ["Español", "Portugués", "Francés"], "correcta": 2 },
+          { "enunciado": "2^3 = ?", "respuestas": ["6", "8", "9"], "correcta": 2 },
+          { "enunciado": "Animal más rápido?", "respuestas": ["León", "Guepardo", "Tigre"], "correcta": 2 },
+          { "enunciado": "Estrella del Sistema Solar?", "respuestas": ["Luna", "Sol", "Marte"], "correcta": 2 },
+          { "enunciado": "Presidente de EE.UU en 2021?", "respuestas": ["Donald Trump", "Joe Biden", "Barack Obama"], "correcta": 2 },
+          { "enunciado": "Físico que formuló la relatividad?", "respuestas": ["Newton", "Einstein", "Galileo"], "correcta": 2 },
+          { "enunciado": "Árbol que da manzanas?", "respuestas": ["Peral", "Manzano", "Naranjo"], "correcta": 2 }
+        ]
+      },
+      {
+        "preguntas": [
+          { "enunciado": "Primera letra del abecedario?", "respuestas": ["B", "A", "C"], "correcta": 2 },
+          { "enunciado": "Color de una banana madura?", "respuestas": ["Verde", "Amarillo", "Rojo"], "correcta": 2 },
+          { "enunciado": "Lengua oficial en Italia?", "respuestas": ["Español", "Italiano", "Francés"], "correcta": 2 },
+          { "enunciado": "8 / 4 = ?", "respuestas": ["1", "2", "3"], "correcta": 2 },
+          { "enunciado": "Animal que ladra?", "respuestas": ["Gato", "Perro", "Ratón"], "correcta": 2 },
+          { "enunciado": "Hueso más largo del cuerpo?", "respuestas": ["Fémur", "Húmero", "Tibia"], "correcta": 1 },
+          { "enunciado": "5^2 = ?", "respuestas": ["20", "25", "30"], "correcta": 2 },
+          { "enunciado": "Mes con 28 días?", "respuestas": ["Enero", "Febrero", "Marzo"], "correcta": 2 },
+          { "enunciado": "Elemento químico H?", "respuestas": ["Helio", "Hidrogeno", "Hierro"], "correcta": 2 },
+          { "enunciado": "Instrumento de cuerdas?", "respuestas": ["Piano", "Guitarra", "Flauta"], "correcta": 2 }
+        ]
+      },
+      {
+        "preguntas": [
+          { "enunciado": "Planeta con anillos?", "respuestas": ["Saturno", "Neptuno", "Urano"], "correcta": 1 },
+          { "enunciado": "Moneda de EE.UU?", "respuestas": ["Euro", "Dólar", "Libra"], "correcta": 2 },
+          { "enunciado": "Animal marino?", "respuestas": ["Caballo", "Delfín", "León"], "correcta": 2 },
+          { "enunciado": "4 x 5 = ?", "respuestas": ["20", "25", "30"], "correcta": 1 },
+          { "enunciado": "Capital de Japón?", "respuestas": ["Pekín", "Tokio", "Seúl"], "correcta": 2 },
+          { "enunciado": "Cuántos lados tiene un triángulo?", "respuestas": ["2", "3", "4"], "correcta": 2 },
+          { "enunciado": "Bebida con cafeína?", "respuestas": ["Leche", "Café", "Agua"], "correcta": 2 },
+          { "enunciado": "Árbol nacional de Canadá?", "respuestas": ["Arce", "Pino", "Roble"], "correcta": 1 },
+          { "enunciado": "País de los canguros?", "respuestas": ["Sudáfrica", "Australia", "India"], "correcta": 2 },
+          { "enunciado": "3 + 5 = ?", "respuestas": ["8", "9", "7"], "correcta": 1 }
+        ]
+      },
+      {
+        "preguntas": [
+          { "enunciado": "Montaña más alta?", "respuestas": ["Everest", "K2", "Annapurna"], "correcta": 1 },
+          { "enunciado": "Gas que respiramos?", "respuestas": ["Nitrógeno", "Oxígeno", "Dioxido de carbono"], "correcta": 2 },
+          { "enunciado": "Estrella en el cine?", "respuestas": ["Leonardo DiCaprio", "Messi", "Einstein"], "correcta": 1 },
+          { "enunciado": "Mamífero acuático?", "respuestas": ["Tiburón", "Ballena", "Pulpo"], "correcta": 2 },
+          { "enunciado": "Inventor de la bombilla?", "respuestas": ["Tesla", "Edison", "Bell"], "correcta": 2 },
+          { "enunciado": "12 x 12 = ?", "respuestas": ["144", "148", "150"], "correcta": 1 },
+          { "enunciado": "Avestruz no puede...?", "respuestas": ["Volar", "Correr", "Nadar"], "correcta": 1 },
+          { "enunciado": "Color del sol?", "respuestas": ["Amarillo", "Rojo", "Azul"], "correcta": 1 },
+          { "enunciado": "Arte de cocinar?", "respuestas": ["Arquitectura", "Gastronomía", "Fotografía"], "correcta": 2 },
+          { "enunciado": "Capital de Argentina?", "respuestas": ["Bogotá", "Buenos Aires", "Santiago"], "correcta": 2 }
+        ]
+      }
+    ]
+  }
+  

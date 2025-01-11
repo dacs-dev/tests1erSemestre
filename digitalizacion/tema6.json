@@ -1,0 +1,333 @@
+[
+        {
+          "question": "¿Qué es el análisis y diagnóstico inicial en un plan de transformación digital?",
+          "points": 2,
+          "options": [
+            "La fase de implementación tecnológica en la empresa.",
+            "La fase en la que se evalúa la situación actual de la empresa para identificar áreas de mejora.",
+            "La etapa donde se seleccionan las herramientas de gestión de proyectos.",
+            "La fase final en la que se evalúan los resultados del proyecto."
+          ],
+          "correct_answer": "La fase en la que se evalúa la situación actual de la empresa para identificar áreas de mejora."
+        },
+        {
+          "question": "¿Qué herramienta se utiliza para evaluar el entorno macroeconómico en el análisis inicial?",
+          "points": 2,
+          "options": [
+            "Análisis DAFO.",
+            "Análisis PESTEL.",
+            "Mapeo de procesos (BPM).",
+            "Encuestas y entrevistas."
+          ],
+          "correct_answer": "Análisis PESTEL."
+        },
+        {
+          "question": "¿Qué característica es esencial al definir los objetivos de un proyecto de transformación digital?",
+          "points": 2,
+          "options": [
+            "Que no sean medibles.",
+            "Que se enfoquen exclusivamente en los beneficios financieros.",
+            "Que sean claros, medibles y alineados con los recursos disponibles.",
+            "Que no consideren los riesgos potenciales."
+          ],
+          "correct_answer": "Que sean claros, medibles y alineados con los recursos disponibles."
+        },
+        {
+          "question": "¿Qué herramienta puede usarse para gestionar tareas y progresos en proyectos digitales?",
+          "points": 2,
+          "options": [
+            "Microsoft Project.",
+            "Sandbox Testing.",
+            "Forrester Wave.",
+            "Mapeo de procesos."
+          ],
+          "correct_answer": "Microsoft Project."
+        },
+        {
+          "question": "¿Cuál es un producto clave de la planificación estratégica?",
+          "points": 2,
+          "options": [
+            "Informe de evaluación tecnológica.",
+            "Hoja de ruta del proyecto.",
+            "Pruebas de concepto.",
+            "Auditorías de seguridad."
+          ],
+          "correct_answer": "Hoja de ruta del proyecto."
+        },
+        {
+          "question": "¿Qué es crucial durante la implementación tecnológica?",
+          "points": 2,
+          "options": [
+            "Evitar realizar pruebas de funcionalidad.",
+            "Configurar y personalizar las soluciones tecnológicas según las necesidades de la empresa.",
+            "Implementar todas las tecnologías simultáneamente sin pruebas previas.",
+            "Prescindir de la retroalimentación de los usuarios."
+          ],
+          "correct_answer": "Configurar y personalizar las soluciones tecnológicas según las necesidades de la empresa."
+        },
+        {
+          "question": "¿Qué implica el despliegue y ejecución en un plan de transformación digital?",
+          "points": 2,
+          "options": [
+            "La selección de objetivos estratégicos.",
+            "La evaluación de las métricas de éxito antes de implementar el plan.",
+            "La ejecución de las estrategias y planes desarrollados en fases anteriores.",
+            "El desarrollo exclusivo de la matriz de riesgos."
+          ],
+          "correct_answer": "La ejecución de las estrategias y planes desarrollados en fases anteriores."
+        },
+        {
+          "question": "¿Qué documento detalla los objetivos estratégicos, tácticos y operativos?",
+          "points": 2,
+          "options": [
+            "Hoja de ruta del proyecto.",
+            "Documento de objetivos.",
+            "Informe de evaluación tecnológica.",
+            "Plan de comunicación."
+          ],
+          "correct_answer": "Documento de objetivos."
+        },
+        {
+          "question": "¿Qué fase asegura mejoras constantes después de la implementación?",
+          "points": 2,
+          "options": [
+            "Despliegue inicial.",
+            "Evaluación y optimización.",
+            "Análisis PESTEL.",
+            "Selección de herramientas de software."
+          ],
+          "correct_answer": "Evaluación y optimización."
+        },
+        {
+          "question": "¿Qué herramienta permite pruebas en entornos aislados para garantizar funcionalidad?",
+          "points": 2,
+          "options": [
+            "Sandbox Testing.",
+            "Jira.",
+            "Análisis DAFO.",
+            "Cuadro de mando integral."
+          ],
+          "correct_answer": "Sandbox Testing."
+        },
+        {
+            "question": "¿Qué paso es clave en el análisis inicial para identificar ineficiencias en los procesos empresariales?",
+            "points": 2,
+            "options": [
+              "Elaborar una matriz DAFO.",
+              "Realizar un inventario tecnológico y analizar procesos empresariales.",
+              "Definir objetivos estratégicos.",
+              "Implementar nuevas tecnologías de inmediato."
+            ],
+            "correct_answer": "Realizar un inventario tecnológico y analizar procesos empresariales."
+          },
+          {
+            "question": "¿Qué producto de la fase inicial detalla las fortalezas, debilidades, oportunidades y amenazas?",
+            "points": 2,
+            "options": [
+              "Informe de evaluación tecnológica.",
+              "Matriz DAFO.",
+              "Hoja de ruta del proyecto.",
+              "Plan de comunicación."
+            ],
+            "correct_answer": "Matriz DAFO."
+          },
+          {
+            "question": "¿Qué metodología se utiliza para alinear las actividades diarias con la estrategia a largo plazo?",
+            "points": 2,
+            "options": [
+              "OKR (Objectives and Key Results).",
+              "Cuadro de mando integral.",
+              "Diagramas de Gantt.",
+              "Forrester Wave."
+            ],
+            "correct_answer": "Cuadro de mando integral."
+          },
+          {
+            "question": "¿Qué herramienta facilita la planificación de fases y tareas en proyectos digitales?",
+            "points": 2,
+            "options": [
+              "Diagramas de Gantt.",
+              "Sandbox Testing.",
+              "Mapeo de procesos empresariales (BPM).",
+              "Encuestas y entrevistas."
+            ],
+            "correct_answer": "Diagramas de Gantt."
+          },
+          {
+            "question": "¿Qué característica es clave en la planificación estratégica para gestionar recursos eficientemente?",
+            "points": 2,
+            "options": [
+              "Reducir la comunicación interna.",
+              "Asignar recursos humanos, financieros y tecnológicos de manera óptima.",
+              "Evitar la evaluación de riesgos potenciales.",
+              "Planificar únicamente a corto plazo."
+            ],
+            "correct_answer": "Asignar recursos humanos, financieros y tecnológicos de manera óptima."
+          },
+          {
+            "question": "¿Qué herramienta permite probar tecnologías en entornos aislados?",
+            "points": 2,
+            "options": [
+              "Sandbox Testing.",
+              "Microsoft Project.",
+              "Análisis PESTEL.",
+              "Matriz de riesgos."
+            ],
+            "correct_answer": "Sandbox Testing."
+          },
+          {
+            "question": "¿Qué método es útil para gestionar proyectos iterativos y flexibles?",
+            "points": 2,
+            "options": [
+              "Scrum o Kanban.",
+              "Análisis DAFO.",
+              "Forrester Wave.",
+              "CPM (Critical Path Method)."
+            ],
+            "correct_answer": "Scrum o Kanban."
+          },
+          {
+            "question": "¿Qué documento detalla los roles y responsabilidades de los miembros del equipo?",
+            "points": 2,
+            "options": [
+              "Asignación de responsabilidades.",
+              "Matriz DAFO.",
+              "Plan de comunicación.",
+              "Informe de evaluación tecnológica."
+            ],
+            "correct_answer": "Asignación de responsabilidades."
+          },
+          {
+            "question": "¿Qué acción es crucial durante el despliegue inicial de la tecnología?",
+            "points": 2,
+            "options": [
+              "Realizar un despliegue gradual para minimizar riesgos.",
+              "Evitar la monitorización de los resultados iniciales.",
+              "Implementar todas las tecnologías simultáneamente.",
+              "Eliminar la retroalimentación de los usuarios."
+            ],
+            "correct_answer": "Realizar un despliegue gradual para minimizar riesgos."
+          },
+          {
+            "question": "¿Qué etapa asegura que se identifiquen oportunidades de mejora después del proyecto?",
+            "points": 2,
+            "options": [
+              "Evaluación y optimización.",
+              "Planificación estratégica.",
+              "Definición de objetivos.",
+              "Selección de tecnologías."
+            ],
+            "correct_answer": "Evaluación y optimización."
+          },
+          {
+            "question": "¿Qué aspectos se deben evaluar en el estado actual de la empresa durante el análisis inicial?",
+            "points": 2,
+            "options": [
+              "Inventario tecnológico, estudio de procesos empresariales y habilidades digitales de los trabajadores.",
+              "Definición de objetivos estratégicos y tácticos.",
+              "Selección de herramientas tecnológicas.",
+              "Implementación de nuevas tecnologías sin diagnóstico previo."
+            ],
+            "correct_answer": "Inventario tecnológico, estudio de procesos empresariales y habilidades digitales de los trabajadores."
+          },
+          {
+            "question": "¿Qué herramienta evalúa el entorno macroeconómico en un plan de transformación digital?",
+            "points": 2,
+            "options": [
+              "Análisis PESTEL.",
+              "Matriz de riesgos.",
+              "Cuadro de mando integral.",
+              "Metodología OKR."
+            ],
+            "correct_answer": "Análisis PESTEL."
+          },
+          {
+            "question": "¿Qué documento detalla los procesos actuales y sus posibles mejoras?",
+            "points": 2,
+            "options": [
+              "Mapeo de procesos y flujos de trabajo.",
+              "Documento de objetivos.",
+              "Informe de evaluación tecnológica.",
+              "Plan de comunicación."
+            ],
+            "correct_answer": "Mapeo de procesos y flujos de trabajo."
+          },
+          {
+            "question": "¿Qué características deben tener los objetivos de un plan de transformación digital?",
+            "points": 2,
+            "options": [
+              "Claridad, medibilidad, alineación y preparación ante desafíos.",
+              "Falta de claridad para fomentar la flexibilidad.",
+              "Enfoque exclusivo en métricas financieras.",
+              "Exclusión de riesgos potenciales en la planificación."
+            ],
+            "correct_answer": "Claridad, medibilidad, alineación y preparación ante desafíos."
+          },
+          {
+            "question": "¿Qué herramienta organiza y sigue el progreso de un proyecto?",
+            "points": 2,
+            "options": [
+              "Software de gestión de proyectos.",
+              "Análisis DAFO.",
+              "Mapa de procesos empresariales (BPM).",
+              "Diagramas de Gantt."
+            ],
+            "correct_answer": "Software de gestión de proyectos."
+          },
+          {
+            "question": "¿Qué es una hoja de ruta en el contexto de un plan estratégico?",
+            "points": 2,
+            "options": [
+              "Un documento detallado que incluye fases, tareas y plazos.",
+              "Un resumen ejecutivo del estado actual de la empresa.",
+              "Un análisis de tendencias del mercado.",
+              "Un cronograma exclusivo para la fase de evaluación."
+            ],
+            "correct_answer": "Un documento detallado que incluye fases, tareas y plazos."
+          },
+          {
+            "question": "¿Qué herramienta asegura la funcionalidad de nuevas tecnologías en entornos aislados?",
+            "points": 2,
+            "options": [
+              "Sandbox Testing.",
+              "Microsoft Project.",
+              "Cuadro de mando integral.",
+              "Matriz DAFO."
+            ],
+            "correct_answer": "Sandbox Testing."
+          },
+          {
+            "question": "¿Qué acción es fundamental durante el despliegue inicial de una tecnología?",
+            "points": 2,
+            "options": [
+              "Realizar un despliegue gradual y monitorizar el progreso.",
+              "Evitar pruebas de funcionalidad para agilizar la implementación.",
+              "Implementar todas las tecnologías simultáneamente.",
+              "Excluir la participación de los usuarios finales."
+            ],
+            "correct_answer": "Realizar un despliegue gradual y monitorizar el progreso."
+          },
+          {
+            "question": "¿Qué documento incluye resultados de pruebas iniciales en entornos controlados?",
+            "points": 2,
+            "options": [
+              "Pruebas de concepto.",
+              "Matriz comparativa.",
+              "Asignación de responsabilidades.",
+              "Acta de reuniones."
+            ],
+            "correct_answer": "Pruebas de concepto."
+          },
+          {
+            "question": "¿Qué etapa analiza el rendimiento y asegura mejoras constantes en el proyecto?",
+            "points": 2,
+            "options": [
+              "Evaluación y optimización.",
+              "Despliegue inicial.",
+              "Planificación estratégica.",
+              "Implementación técnica."
+            ],
+            "correct_answer": "Evaluación y optimización."
+          }
+      ]
+  

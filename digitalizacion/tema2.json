@@ -1,0 +1,334 @@
+[
+        {
+          "question": "¿Qué caracteriza a las tecnologías habilitadoras digitales (THD)?",
+          "points": 2,
+          "options": [
+            "Promueven la innovación y la personalización.",
+            "Son exclusivas de la industria manufacturera.",
+            "Carecen de escalabilidad.",
+            "No incorporan medidas de seguridad avanzadas."
+          ],
+          "correct_answer": "Promueven la innovación y la personalización."
+        },
+        {
+          "question": "¿Cuál es una ventaja clave de la tecnología 5G?",
+          "points": 2,
+          "options": [
+            "Latencia muy reducida.",
+            "Conexión limitada a dispositivos móviles.",
+            "Alta dependencia de cableado físico.",
+            "Costos elevados en comparación con 4G."
+          ],
+          "correct_answer": "Latencia muy reducida."
+        },
+        {
+          "question": "¿Qué es el blockchain?",
+          "points": 2,
+          "options": [
+            "Un sistema de inteligencia artificial para la industria.",
+            "Una tecnología de registro distribuido y seguro.",
+            "Un software de edición de datos financieros.",
+            "Una plataforma de almacenamiento en la nube."
+          ],
+          "correct_answer": "Una tecnología de registro distribuido y seguro."
+        },
+        {
+          "question": "¿Qué permite la computación en la nube?",
+          "points": 2,
+          "options": [
+            "Crear entornos de realidad virtual sin internet.",
+            "Gestionar grandes volúmenes de datos sin infraestructura física local.",
+            "Diseñar prototipos 3D directamente desde servidores locales.",
+            "Garantizar la privacidad absoluta en todos los procesos."
+          ],
+          "correct_answer": "Gestionar grandes volúmenes de datos sin infraestructura física local."
+        },
+        {
+          "question": "¿Qué ventaja aporta el big data en la toma de decisiones?",
+          "points": 2,
+          "options": [
+            "Reduce los tiempos de análisis manual.",
+            "Elimina la necesidad de supervisión humana.",
+            "Facilita decisiones más informadas y documentadas.",
+            "Evita la personalización de los productos."
+          ],
+          "correct_answer": "Facilita decisiones más informadas y documentadas."
+        },
+        {
+          "question": "¿Qué es un gemelo digital?",
+          "points": 2,
+          "options": [
+            "Un robot autónomo para tareas colaborativas.",
+            "Una réplica virtual de un objeto, sistema o proceso.",
+            "Un archivo de datos almacenado en blockchain.",
+            "Un asistente de inteligencia artificial."
+          ],
+          "correct_answer": "Una réplica virtual de un objeto, sistema o proceso."
+        },
+        {
+          "question": "¿Qué función tiene la robótica colaborativa?",
+          "points": 2,
+          "options": [
+            "Reducir la participación humana en las operaciones.",
+            "Permitir a robots y humanos trabajar juntos de forma segura.",
+            "Optimizar exclusivamente tareas administrativas.",
+            "Limitar las operaciones automatizadas en zonas aisladas."
+          ],
+          "correct_answer": "Permitir a robots y humanos trabajar juntos de forma segura."
+        },
+        {
+          "question": "¿Cuál es un riesgo asociado al uso de tecnologías habilitadoras digitales?",
+          "points": 2,
+          "options": [
+            "Reducción en la eficiencia operativa.",
+            "Aumento de la brecha digital.",
+            "Desaparición de los modelos colaborativos.",
+            "Estancamiento en la innovación tecnológica."
+          ],
+          "correct_answer": "Aumento de la brecha digital."
+        },
+        {
+          "question": "¿Qué es la impresión 3D?",
+          "points": 2,
+          "options": [
+            "Un proceso que utiliza capas para fabricar objetos tridimensionales.",
+            "Un sistema de gestión de bases de datos distribuidas.",
+            "Una tecnología de realidad aumentada para diseño industrial.",
+            "Una red de comunicación en la nube."
+          ],
+          "correct_answer": "Un proceso que utiliza capas para fabricar objetos tridimensionales."
+        },
+        {
+          "question": "¿Qué es el Internet de las cosas (IoT)?",
+          "points": 2,
+          "options": [
+            "Un sistema que conecta dispositivos físicos para recopilar datos y comunicarse.",
+            "Un software de gestión exclusivo para empresas tecnológicas.",
+            "Una tecnología usada exclusivamente en el ámbito doméstico.",
+            "Un sistema de automatización enfocado en robots autónomos."
+          ],
+          "correct_answer": "Un sistema que conecta dispositivos físicos para recopilar datos y comunicarse."
+        },
+        {
+            "question": "¿Qué características destacan en las tecnologías habilitadoras digitales (THD)?",
+            "points": 2,
+            "options": [
+              "Innovación, versatilidad y automatización.",
+              "Únicamente innovación y analítica avanzada.",
+              "Falta de escalabilidad y baja seguridad.",
+              "Dependencia exclusiva de redes locales."
+            ],
+            "correct_answer": "Innovación, versatilidad y automatización."
+          },
+          {
+            "question": "¿Qué beneficio aporta la computación en la nube?",
+            "points": 2,
+            "options": [
+              "Acceso global y recuperación ante desastres.",
+              "Dependencia de infraestructuras locales.",
+              "Eliminación de sistemas de almacenamiento físico.",
+              "Falta de flexibilidad en su uso."
+            ],
+            "correct_answer": "Acceso global y recuperación ante desastres."
+          },
+          {
+            "question": "¿Cómo se clasifican los datos utilizados en el big data?",
+            "points": 2,
+            "options": [
+              "Estructurados, semiestructurados y no estructurados.",
+              "Simples, complejos y distribuidos.",
+              "Analógicos y digitales.",
+              "Localizados y en la nube."
+            ],
+            "correct_answer": "Estructurados, semiestructurados y no estructurados."
+          },
+          {
+            "question": "¿Cuál es una función de los gemelos digitales?",
+            "points": 2,
+            "options": [
+              "Simulación y análisis de operaciones en tiempo real.",
+              "Gestión de la seguridad cibernética.",
+              "Interacción directa con usuarios finales.",
+              "Optimización del uso de blockchain."
+            ],
+            "correct_answer": "Simulación y análisis de operaciones en tiempo real."
+          },
+          {
+            "question": "¿Qué tecnología inmersiva permite superponer elementos digitales en el entorno físico?",
+            "points": 2,
+            "options": [
+              "Realidad aumentada.",
+              "Robótica colaborativa.",
+              "Blockchain.",
+              "Gemelos digitales."
+            ],
+            "correct_answer": "Realidad aumentada."
+          },
+          {
+            "question": "¿Cuál es un uso destacado de los dispositivos IoT en la agricultura?",
+            "points": 2,
+            "options": [
+              "Monitorización en tiempo real de parámetros como humedad y temperatura.",
+              "Gestión de datos empresariales locales.",
+              "Optimización del transporte en zonas urbanas.",
+              "Reducción de costos en ciberseguridad."
+            ],
+            "correct_answer": "Monitorización en tiempo real de parámetros como humedad y temperatura."
+          },
+          {
+            "question": "¿Qué ofrece la robótica colaborativa que la diferencia de la robótica tradicional?",
+            "points": 2,
+            "options": [
+              "Permite trabajar directamente con humanos en un espacio compartido.",
+              "Opera exclusivamente en zonas aisladas por razones de seguridad.",
+              "Se centra únicamente en tareas de producción en masa.",
+              "Sustituye completamente a los humanos en las líneas de producción."
+            ],
+            "correct_answer": "Permite trabajar directamente con humanos en un espacio compartido."
+          },
+          {
+            "question": "¿Cuál es un riesgo ambiental asociado al uso de tecnologías habilitadoras digitales?",
+            "points": 2,
+            "options": [
+              "Generación de residuos electrónicos.",
+              "Mayor automatización de procesos.",
+              "Falta de personal capacitado.",
+              "Brechas legales en normativas locales."
+            ],
+            "correct_answer": "Generación de residuos electrónicos."
+          },
+          {
+            "question": "¿Qué medida es fundamental en ciberseguridad para proteger sistemas contra ataques?",
+            "points": 2,
+            "options": [
+              "Monitorización permanente de la red.",
+              "Automatización completa de procesos.",
+              "Reducción de contraseñas en sistemas críticos.",
+              "Optimización del mantenimiento predictivo."
+            ],
+            "correct_answer": "Monitorización permanente de la red."
+          },
+          {
+            "question": "¿Qué ventaja principal ofrece la impresión 3D?",
+            "points": 2,
+            "options": [
+              "Producción de objetos tridimensionales capa por capa.",
+              "Reducción de la dependencia de la computación en la nube.",
+              "Interacción avanzada con dispositivos IoT.",
+              "Generación de datos semiestructurados en tiempo real."
+            ],
+            "correct_answer": "Producción de objetos tridimensionales capa por capa."
+          },
+          {
+            "question": "¿Qué ventaja ofrece la inteligencia artificial en el sector sanitario?",
+            "points": 2,
+            "options": [
+              "Diagnóstico temprano de enfermedades y análisis de imágenes médicas.",
+              "Sustitución completa de médicos en quirófanos.",
+              "Eliminación de datos clínicos históricos.",
+              "Reducción de la necesidad de dispositivos wearables."
+            ],
+            "correct_answer": "Diagnóstico temprano de enfermedades y análisis de imágenes médicas."
+          },
+          {
+            "question": "¿Qué característica define a los contratos inteligentes basados en blockchain?",
+            "points": 2,
+            "options": [
+              "Ejecución automática cuando se cumplen ciertas condiciones.",
+              "Dependen exclusivamente de supervisión humana.",
+              "Carecen de transparencia en su funcionamiento.",
+              "Solo se aplican a transacciones monetarias."
+            ],
+            "correct_answer": "Ejecución automática cuando se cumplen ciertas condiciones."
+          },
+          {
+            "question": "¿Qué beneficio aporta el análisis de big data en el sector financiero?",
+            "points": 2,
+            "options": [
+              "Identificación de patrones y tendencias para mejorar decisiones.",
+              "Reducción del uso de tecnologías de ciberseguridad.",
+              "Eliminación de riesgos asociados a las criptomonedas.",
+              "Dependencia de infraestructuras físicas tradicionales."
+            ],
+            "correct_answer": "Identificación de patrones y tendencias para mejorar decisiones."
+          },
+          {
+            "question": "¿Qué mejora permite la implementación de gemelos digitales en la industria?",
+            "points": 2,
+            "options": [
+              "Simulación de operaciones para optimizar procesos y reducir costos.",
+              "Eliminación de la necesidad de mantenimiento predictivo.",
+              "Reducción de la eficiencia operativa.",
+              "Dependencia exclusiva de redes locales."
+            ],
+            "correct_answer": "Simulación de operaciones para optimizar procesos y reducir costos."
+          },
+          {
+            "question": "¿Cómo contribuyen las tecnologías habilitadoras al sector agrícola?",
+            "points": 2,
+            "options": [
+              "Mejoran la eficiencia y sostenibilidad mediante IoT y big data.",
+              "Eliminan la necesidad de maquinaria autónoma.",
+              "Reducen el acceso a mercados internacionales.",
+              "Aumentan los costos operativos en zonas rurales."
+            ],
+            "correct_answer": "Mejoran la eficiencia y sostenibilidad mediante IoT y big data."
+          },
+          {
+            "question": "¿Qué beneficio clave ofrece el uso de realidad virtual en la formación médica?",
+            "points": 2,
+            "options": [
+              "Proporciona entornos inmersivos para mejorar el aprendizaje.",
+              "Reduce la precisión en procedimientos quirúrgicos.",
+              "Evita el uso de dispositivos especializados.",
+              "Elimina la necesidad de formación práctica."
+            ],
+            "correct_answer": "Proporciona entornos inmersivos para mejorar el aprendizaje."
+          },
+          {
+            "question": "¿Qué ventaja ofrece la impresión 3D en el desarrollo de productos?",
+            "points": 2,
+            "options": [
+              "Prototipado rápido y personalización económica.",
+              "Aumento de desperdicios de material.",
+              "Dependencia de procesos analógicos.",
+              "Reducción en la flexibilidad de diseño."
+            ],
+            "correct_answer": "Prototipado rápido y personalización económica."
+          },
+          {
+            "question": "¿Qué riesgo laboral puede surgir con la implementación de tecnologías habilitadoras?",
+            "points": 2,
+            "options": [
+              "Obsolescencia de habilidades personales.",
+              "Incremento en la calidad del empleo.",
+              "Mayor facilidad para la transición tecnológica.",
+              "Reducción en la brecha digital."
+            ],
+            "correct_answer": "Obsolescencia de habilidades personales."
+          },
+          {
+            "question": "¿Qué beneficio aporta la robótica colaborativa en entornos productivos?",
+            "points": 2,
+            "options": [
+              "Incrementa la productividad y mejora la seguridad.",
+              "Elimina la necesidad de interacción con humanos.",
+              "Opera únicamente en zonas aisladas.",
+              "Reduce la precisión en tareas industriales."
+            ],
+            "correct_answer": "Incrementa la productividad y mejora la seguridad."
+          },
+          {
+            "question": "¿Qué aplicación tiene la ciberseguridad en las empresas?",
+            "points": 2,
+            "options": [
+              "Protección de datos sensibles y cumplimiento normativo.",
+              "Aumento de riesgos asociados a brechas de seguridad.",
+              "Eliminación de la confianza del cliente.",
+              "Reducción de las medidas de prevención."
+            ],
+            "correct_answer": "Protección de datos sensibles y cumplimiento normativo."
+          }
+      ]
+    
+    

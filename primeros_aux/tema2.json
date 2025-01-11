@@ -1,0 +1,332 @@
+[
+  {
+      "question": "¿Cuándo es necesario mover a una víctima en primeros auxilios?",
+      "points": 2,
+      "options": [
+          "Cuando exista o se sospeche de la existencia de un peligro que amenace la vida de la víctima o de los rescatadores.",
+          "Cuando el accidentado lo solicite por incomodidad.",
+          "Siempre que se prevea que la asistencia médica tardará más de 15 minutos.",
+          "Cuando la víctima esté consciente y pueda colaborar."
+      ],
+      "correct_answer": "Cuando exista o se sospeche de la existencia de un peligro que amenace la vida de la víctima o de los rescatadores."
+  },
+  {
+      "question": "¿Qué es un tablero espinal en primeros auxilios?",
+      "points": 2,
+      "options": [
+          "Un dispositivo para inmovilizar completamente la columna vertebral.",
+          "Una camilla portátil diseñada para el traslado rápido.",
+          "Un instrumento usado para medir fracturas.",
+          "Un equipo médico utilizado para estabilizar a pacientes en shock."
+      ],
+      "correct_answer": "Un dispositivo para inmovilizar completamente la columna vertebral."
+  },
+  {
+      "question": "¿Cuál es una técnica general de vendaje para controlar una hemorragia?",
+      "points": 2,
+      "options": [
+          "El vendaje circular.",
+          "El vendaje espiral invertida.",
+          "El vendaje en espiga.",
+          "El vendaje en ocho."
+      ],
+      "correct_answer": "El vendaje circular."
+  },
+  {
+      "question": "¿Qué tipo de vendaje se utiliza para inmovilizar articulaciones?",
+      "points": 2,
+      "options": [
+          "El vendaje en ocho.",
+          "El vendaje espiral.",
+          "El vendaje circular.",
+          "El vendaje recurrente."
+      ],
+      "correct_answer": "El vendaje en ocho."
+  },
+  {
+      "question": "¿Qué es un colchón de vacío en primeros auxilios?",
+      "points": 2,
+      "options": [
+          "Un saco neumático que se adapta perfectamente al cuerpo de la víctima, permitiendo crear un molde rígido.",
+          "Un dispositivo médico para aspirar líquidos corporales.",
+          "Una herramienta utilizada para la ventilación pulmonar.",
+          "Un equipo de transporte de pacientes en estado crítico."
+      ],
+      "correct_answer": "Un saco neumático que se adapta perfectamente al cuerpo de la víctima, permitiendo crear un molde rígido."
+  },
+  {
+      "question": "¿Cuál es el objetivo principal de la inmovilización en primeros auxilios?",
+      "points": 2,
+      "options": [
+          "Disminuir el dolor y garantizar la seguridad en el traslado posterior.",
+          "Alinear los huesos fracturados.",
+          "Permitir la libre circulación sanguínea.",
+          "Reducir el tiempo de asistencia médica."
+      ],
+      "correct_answer": "Disminuir el dolor y garantizar la seguridad en el traslado posterior."
+  },
+  {
+      "question": "¿Cómo debe realizarse un vendaje en extremidades?",
+      "points": 2,
+      "options": [
+          "Desde la parte más distal a la parte más proximal.",
+          "Desde la parte más proximal a la parte más distal.",
+          "De forma circular sin importar la dirección.",
+          "En sentido contrario a la circulación venosa."
+      ],
+      "correct_answer": "Desde la parte más distal a la parte más proximal."
+  },
+  {
+      "question": "¿Qué posición se recomienda para mujeres embarazadas en avanzado estado de gestación?",
+      "points": 2,
+      "options": [
+          "Decúbito lateral izquierdo.",
+          "Decúbito supino.",
+          "Fowler bajo.",
+          "Trendelenburg."
+      ],
+      "correct_answer": "Decúbito lateral izquierdo."
+  },
+  {
+      "question": "¿Qué técnica se utiliza para extraer a un accidentado de un vehículo protegiendo su columna vertebral?",
+      "points": 2,
+      "options": [
+          "Maniobra de Rautek.",
+          "Método del bombero.",
+          "Arrastre con manta.",
+          "Técnica en bandeja."
+      ],
+      "correct_answer": "Maniobra de Rautek."
+  },
+  {
+      "question": "¿Qué posición es adecuada para un paciente con problemas respiratorios?",
+      "points": 2,
+      "options": [
+          "Posición de Fowler.",
+          "Decúbito supino.",
+          "Decúbito lateral izquierdo.",
+          "Trendelenburg."
+      ],
+      "correct_answer": "Posición de Fowler."
+  },
+  {
+    "question": "¿Qué se debe hacer antes de trasladar a una víctima?",
+    "points": 2,
+    "options": [
+        "Llevar la condición clínica (signos vitales) a la mayor estabilidad posible.",
+        "Moverla rápidamente para evitar complicaciones.",
+        "Proporcionarle alimentos para que recupere energía.",
+        "Evitar cualquier contacto con la víctima hasta que lleguen los servicios de emergencia."
+    ],
+    "correct_answer": "Llevar la condición clínica (signos vitales) a la mayor estabilidad posible."
+},
+{
+    "question": "¿Qué indica la posición de Trendelenburg?",
+    "points": 2,
+    "options": [
+        "El cuerpo recto con la cabeza más baja que los pies.",
+        "El cuerpo recto con la cabeza más elevada que los pies.",
+        "El paciente semiincorporado en un ángulo de 45º.",
+        "El paciente acostado de lado para prevenir aspiración."
+    ],
+    "correct_answer": "El cuerpo recto con la cabeza más baja que los pies."
+},
+{
+    "question": "¿Qué es la técnica en bandeja?",
+    "points": 2,
+    "options": [
+        "Una técnica utilizada para movilizar a una víctima cuando solo se puede acceder por uno de sus laterales.",
+        "Un método para transportar a una víctima utilizando una camilla improvisada.",
+        "Un procedimiento de vendaje para inmovilizar heridas.",
+        "Una técnica para reanimación pulmonar."
+    ],
+    "correct_answer": "Una técnica utilizada para movilizar a una víctima cuando solo se puede acceder por uno de sus laterales."
+},
+{
+    "question": "¿Qué protocolo se sigue para una fractura abierta antes de inmovilizarla?",
+    "points": 2,
+    "options": [
+        "Cubrir la herida con pañuelos lo más limpios posible.",
+        "Realizar compresión directa sobre la fractura.",
+        "Aplicar calor en la zona afectada.",
+        "Mover la extremidad para comprobar movilidad."
+    ],
+    "correct_answer": "Cubrir la herida con pañuelos lo más limpios posible."
+},
+{
+    "question": "¿Qué se debe hacer si un vendaje genera hormigueo en la víctima?",
+    "points": 2,
+    "options": [
+        "Ajustar el vendaje para reducir la presión.",
+        "Dejarlo tal cual para evitar complicaciones.",
+        "Cortar el vendaje de inmediato.",
+        "Añadir más capas de vendaje para asegurar la inmovilización."
+    ],
+    "correct_answer": "Ajustar el vendaje para reducir la presión."
+},
+{
+    "question": "¿Qué elementos se utilizan como medios de fortuna para inmovilizar el cuello?",
+    "points": 2,
+    "options": [
+        "Toallas enrolladas a ambos lados de la cabeza.",
+        "Cinturones apretados alrededor del cuello.",
+        "Cuerdas ajustadas en la parte trasera de la cabeza.",
+        "Mantas colocadas debajo del cuello."
+    ],
+    "correct_answer": "Toallas enrolladas a ambos lados de la cabeza."
+},
+{
+    "question": "¿Cómo se inmovilizan los dedos de la mano en caso de lesión?",
+    "points": 2,
+    "options": [
+        "Fijando el dedo lesionado a otro adyacente.",
+        "Colocando una férula desde la muñeca hasta los dedos.",
+        "Vendando toda la mano en espiral.",
+        "Elevando la mano sin ningún vendaje."
+    ],
+    "correct_answer": "Fijando el dedo lesionado a otro adyacente."
+},
+{
+    "question": "¿Qué tipo de fractura requiere colocar al paciente sobre una superficie rígida?",
+    "points": 2,
+    "options": [
+        "Fractura de columna vertebral.",
+        "Fractura de clavícula.",
+        "Fractura de brazo.",
+        "Fractura de dedos."
+    ],
+    "correct_answer": "Fractura de columna vertebral."
+},
+{
+    "question": "¿Qué posición se recomienda para un paciente con heridas penetrantes en el tórax?",
+    "points": 2,
+    "options": [
+        "Semiincorporada y apoyada sobre el lado dañado.",
+        "Decúbito supino con la cabeza elevada.",
+        "Decúbito lateral derecho sin apoyar.",
+        "Trendelenburg con las piernas elevadas."
+    ],
+    "correct_answer": "Semiincorporada y apoyada sobre el lado dañado."
+},
+{
+    "question": "¿Qué técnica se usa para movilizar a un paciente consciente que no puede caminar?",
+    "points": 2,
+    "options": [
+        "Técnica de traslado en muleta.",
+        "Método del bombero.",
+        "Técnica de arrastre.",
+        "Traslado sobre la espalda."
+    ],
+    "correct_answer": "Técnica de traslado en muleta."
+},
+{
+  "question": "¿Cuál es el objetivo principal de las posiciones de seguridad y espera?",
+  "points": 2,
+  "options": [
+      "Mantener al paciente en una postura que minimice riesgos adicionales hasta la llegada de la asistencia sanitaria.",
+      "Asegurar la inmovilización completa del cuerpo del paciente.",
+      "Garantizar la ventilación adecuada en pacientes inconscientes.",
+      "Permitir la monitorización constante del pulso y la respiración."
+  ],
+  "correct_answer": "Mantener al paciente en una postura que minimice riesgos adicionales hasta la llegada de la asistencia sanitaria."
+},
+{
+  "question": "¿Qué posición se utiliza para un paciente con hipotensión?",
+  "points": 2,
+  "options": [
+      "Posición de Trendelenburg.",
+      "Posición de Fowler bajo.",
+      "Decúbito lateral izquierdo.",
+      "Posición anti-Trendelenburg."
+  ],
+  "correct_answer": "Posición de Trendelenburg."
+},
+{
+  "question": "¿Cómo se inmovilizan las piernas en caso de fractura si no se dispone de férulas adecuadas?",
+  "points": 2,
+  "options": [
+      "Uniéndolas con cintas o vendas, utilizando una como soporte para la otra.",
+      "Vendando cada pierna individualmente con un vendaje en espiga.",
+      "Elevando las piernas y sujetándolas con una cuerda.",
+      "Aplicando un vendaje en ocho alrededor de ambas piernas."
+  ],
+  "correct_answer": "Uniéndolas con cintas o vendas, utilizando una como soporte para la otra."
+},
+{
+  "question": "¿Qué tipo de vendaje se utiliza para heridas en la cabeza o muñones?",
+  "points": 2,
+  "options": [
+      "Vendaje recurrente.",
+      "Vendaje en espiga.",
+      "Vendaje espiral.",
+      "Vendaje circular."
+  ],
+  "correct_answer": "Vendaje recurrente."
+},
+{
+  "question": "¿Qué se debe hacer antes de colocar un vendaje en zonas con relieves óseos prominentes?",
+  "points": 2,
+  "options": [
+      "Cubrir la zona con algodón para evitar roces.",
+      "Apretar la zona para reducir inflamación.",
+      "Aplicar una pomada analgésica.",
+      "Realizar una compresión directa para evitar sangrados."
+  ],
+  "correct_answer": "Cubrir la zona con algodón para evitar roces."
+},
+{
+  "question": "¿Qué método de traslado es útil para víctimas conscientes y no muy pesadas?",
+  "points": 2,
+  "options": [
+      "Método del bombero.",
+      "Traslado en brazos.",
+      "Técnica en bandeja.",
+      "Arrastre con manta."
+  ],
+  "correct_answer": "Traslado en brazos."
+},
+{
+  "question": "¿Qué tipo de vendaje se realiza en las extremidades para lograr un efecto compresivo?",
+  "points": 2,
+  "options": [
+      "Vendaje en espiga.",
+      "Vendaje circular.",
+      "Vendaje espiral invertida.",
+      "Vendaje en ocho."
+  ],
+  "correct_answer": "Vendaje en espiga."
+},
+{
+  "question": "¿Qué acción se debe evitar al inmovilizar una fractura grave?",
+  "points": 2,
+  "options": [
+      "Alinear una extremidad fracturada si existe deformidad evidente.",
+      "Colocar la zona fracturada en una posición fija.",
+      "Comprobar la sensibilidad de los dedos de la extremidad lesionada.",
+      "Acolchar las prominencias óseas antes de inmovilizar."
+  ],
+  "correct_answer": "Alinear una extremidad fracturada si existe deformidad evidente."
+},
+{
+  "question": "¿Cómo se debe actuar ante una luxación?",
+  "points": 2,
+  "options": [
+      "Inmovilizar la articulación luxada y aplicar frío local.",
+      "Intentar reducir la luxación de inmediato.",
+      "Alinear la articulación y aplicar calor local.",
+      "Permitir al paciente movilizar la zona para reducir el dolor."
+  ],
+  "correct_answer": "Inmovilizar la articulación luxada y aplicar frío local."
+},
+{
+  "question": "¿Qué posición se recomienda para pacientes con lesiones abdominales?",
+  "points": 2,
+  "options": [
+      "Decúbito supino con las piernas flexionadas.",
+      "Semiincorporada con apoyo lateral.",
+      "Decúbito lateral derecho con la cabeza elevada.",
+      "Trendelenburg con los pies elevados."
+  ],
+  "correct_answer": "Decúbito supino con las piernas flexionadas."
+}
+]

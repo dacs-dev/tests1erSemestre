@@ -1,0 +1,333 @@
+[
+        {
+          "question": "¿Qué es la inteligencia artificial débil?",
+          "points": 2,
+          "options": [
+            "Un sistema capaz de simular emociones humanas.",
+            "IA diseñada para realizar tareas específicas como asistentes virtuales.",
+            "Un modelo de IA general que aprende de forma autónoma.",
+            "Un sistema basado exclusivamente en redes neuronales."
+          ],
+          "correct_answer": "IA diseñada para realizar tareas específicas como asistentes virtuales."
+        },
+        {
+          "question": "¿Qué diferencia a la inteligencia artificial fuerte de la débil?",
+          "points": 2,
+          "options": [
+            "La IA fuerte no existe en la práctica mientras que la débil sí.",
+            "La IA débil puede realizar cualquier tarea general.",
+            "La IA fuerte está limitada a tareas específicas.",
+            "La IA débil es capaz de simular emociones humanas."
+          ],
+          "correct_answer": "La IA fuerte no existe en la práctica mientras que la débil sí."
+        },
+        {
+          "question": "¿Qué caracteriza a la inteligencia artificial subsimbólica?",
+          "points": 2,
+          "options": [
+            "Su capacidad para razonar basándose en reglas explícitas.",
+            "El uso de redes neuronales para procesar grandes volúmenes de datos.",
+            "La manipulación de símbolos para tomar decisiones.",
+            "El uso exclusivo de algoritmos genéticos."
+          ],
+          "correct_answer": "El uso de redes neuronales para procesar grandes volúmenes de datos."
+        },
+        {
+          "question": "¿Qué tipo de aprendizaje utiliza datos etiquetados?",
+          "points": 2,
+          "options": [
+            "Aprendizaje por refuerzo.",
+            "Aprendizaje supervisado.",
+            "Aprendizaje no supervisado.",
+            "Aprendizaje autónomo."
+          ],
+          "correct_answer": "Aprendizaje supervisado."
+        },
+        {
+          "question": "¿Qué lenguaje de programación es popular por su simplicidad y uso en IA?",
+          "points": 2,
+          "options": [
+            "Java.",
+            "Python.",
+            "R.",
+            "C++."
+          ],
+          "correct_answer": "Python."
+        },
+        {
+          "question": "¿Cuál es una técnica común en la minería de datos?",
+          "points": 2,
+          "options": [
+            "Reconocimiento facial.",
+            "Clustering.",
+            "Automatización de procesos.",
+            "Simulación de redes neuronales."
+          ],
+          "correct_answer": "Clustering."
+        },
+        {
+          "question": "¿Qué sector utiliza IA para diagnósticos a partir de imágenes médicas?",
+          "points": 2,
+          "options": [
+            "Educación.",
+            "Finanzas.",
+            "Medicina y salud.",
+            "Agricultura."
+          ],
+          "correct_answer": "Medicina y salud."
+        },
+        {
+          "question": "¿Qué aplicación de IA se usa en la agricultura de precisión?",
+          "points": 2,
+          "options": [
+            "Automatización de inventarios.",
+            "Predicción de cosechas basada en datos meteorológicos.",
+            "Recomendaciones de productos personalizados.",
+            "Filtrado de correos electrónicos."
+          ],
+          "correct_answer": "Predicción de cosechas basada en datos meteorológicos."
+        },
+        {
+          "question": "¿Qué lenguaje destaca por su visualización avanzada en IA?",
+          "points": 2,
+          "options": [
+            "R.",
+            "Java.",
+            "Python.",
+            "C#."
+          ],
+          "correct_answer": "R."
+        },
+        {
+          "question": "¿Qué herramienta utiliza IA para analizar sentimientos en recursos humanos?",
+          "points": 2,
+          "options": [
+            "Algoritmos de clustering.",
+            "Análisis de sentimiento.",
+            "Modelos de predicción de inventarios.",
+            "Filtros basados en reglas simbólicas."
+          ],
+          "correct_answer": "Análisis de sentimiento."
+        },
+        {
+            "question": "¿Qué característica define a la inteligencia artificial simbólica?",
+            "points": 2,
+            "options": [
+              "Uso de reglas explícitas para razonar y tomar decisiones.",
+              "Procesamiento de datos basado en redes neuronales.",
+              "Aprendizaje por prueba y error.",
+              "Manipulación de datos sin reglas predefinidas."
+            ],
+            "correct_answer": "Uso de reglas explícitas para razonar y tomar decisiones."
+          },
+          {
+            "question": "¿Cuál fue un hito importante en el desarrollo de la IA en 1950?",
+            "points": 2,
+            "options": [
+              "Alan Turing introdujo el test de Turing.",
+              "Geoffrey Hinton desarrolló redes neuronales profundas.",
+              "IBM lanzó Watson para responder preguntas en lenguaje natural.",
+              "Se popularizó el uso del lenguaje Python."
+            ],
+            "correct_answer": "Alan Turing introdujo el test de Turing."
+          },
+          {
+            "question": "¿Qué técnica de minería de datos busca agrupar elementos con características similares?",
+            "points": 2,
+            "options": [
+              "Clustering.",
+              "Regresión.",
+              "Análisis de asociación.",
+              "Detección de anomalías."
+            ],
+            "correct_answer": "Clustering."
+          },
+          {
+            "question": "¿Qué ventaja ofrece Python en el desarrollo de proyectos de IA?",
+            "points": 2,
+            "options": [
+              "Gran cantidad de bibliotecas específicas como TensorFlow y Scikit-learn.",
+              "Mayor velocidad de ejecución que C++.",
+              "Dependencia exclusiva de entornos de desarrollo locales.",
+              "Limitada compatibilidad con otros lenguajes."
+            ],
+            "correct_answer": "Gran cantidad de bibliotecas específicas como TensorFlow y Scikit-learn."
+          },
+          {
+            "question": "¿Qué aplicación utiliza IA para mejorar el mantenimiento en manufactura?",
+            "points": 2,
+            "options": [
+              "Mantenimiento predictivo.",
+              "Optimización de rutas.",
+              "Automatización de inventarios.",
+              "Recomendaciones de productos."
+            ],
+            "correct_answer": "Mantenimiento predictivo."
+          },
+          {
+            "question": "¿Qué enfoque de aprendizaje trabaja con datos no etiquetados?",
+            "points": 2,
+            "options": [
+              "Aprendizaje no supervisado.",
+              "Aprendizaje supervisado.",
+              "Aprendizaje por refuerzo.",
+              "Aprendizaje simbólico."
+            ],
+            "correct_answer": "Aprendizaje no supervisado."
+          },
+          {
+            "question": "¿Qué lenguaje se destaca por su capacidad de visualización avanzada en IA?",
+            "points": 2,
+            "options": [
+              "R.",
+              "Python.",
+              "Java.",
+              "C++."
+            ],
+            "correct_answer": "R."
+          },
+          {
+            "question": "¿Qué modelo de IA derrotó al campeón mundial de Go en 2016?",
+            "points": 2,
+            "options": [
+              "AlphaGo.",
+              "Deep Blue.",
+              "IBM Watson.",
+              "AlexNet."
+            ],
+            "correct_answer": "AlphaGo."
+          },
+          {
+            "question": "¿Qué característica define al aprendizaje por refuerzo?",
+            "points": 2,
+            "options": [
+              "Aprender a través de prueba y error con recompensas y penalizaciones.",
+              "Uso de datos etiquetados para predecir resultados.",
+              "Identificación de patrones en datos no estructurados.",
+              "Creación de reglas explícitas para decisiones."
+            ],
+            "correct_answer": "Aprender a través de prueba y error con recompensas y penalizaciones."
+          },
+          {
+            "question": "¿Qué sector utiliza IA para análisis de transacciones financieras y detección de fraude?",
+            "points": 2,
+            "options": [
+              "Finanzas.",
+              "Educación.",
+              "Agricultura.",
+              "Entretenimiento."
+            ],
+            "correct_answer": "Finanzas."
+          },
+  {
+    "question": "¿Qué tecnología de IA se popularizó en 1986 para entrenar redes neuronales?",
+    "points": 2,
+    "options": [
+      "Algoritmo de retropropagación.",
+      "Algoritmo genético.",
+      "Análisis de asociación.",
+      "Deep learning avanzado."
+    ],
+    "correct_answer": "Algoritmo de retropropagación."
+  },
+  {
+    "question": "¿Qué herramienta combina IA y Big Data para descubrir patrones?",
+    "points": 2,
+    "options": [
+      "Minería de datos.",
+      "Análisis de sentimientos.",
+      "Tutores inteligentes.",
+      "Aprendizaje supervisado."
+    ],
+    "correct_answer": "Minería de datos."
+  },
+  {
+    "question": "¿Qué técnica de minería de datos predice valores continuos?",
+    "points": 2,
+    "options": [
+      "Regresión.",
+      "Clustering.",
+      "Clasificación.",
+      "Detección de anomalías."
+    ],
+    "correct_answer": "Regresión."
+  },
+  {
+    "question": "¿Qué lenguaje de programación es popular en aplicaciones empresariales de IA?",
+    "points": 2,
+    "options": [
+      "Java.",
+      "R.",
+      "Python.",
+      "C++."
+    ],
+    "correct_answer": "Java."
+  },
+  {
+    "question": "¿Qué aplicación de IA se utiliza en agricultura de precisión?",
+    "points": 2,
+    "options": [
+      "Monitoreo de cultivos con drones y sensores.",
+      "Automatización de inventarios.",
+      "Recomendación de productos agrícolas.",
+      "Filtrado de datos no estructurados."
+    ],
+    "correct_answer": "Monitoreo de cultivos con drones y sensores."
+  },
+  {
+    "question": "¿Qué técnica de aprendizaje ayuda a un robot a optimizar su navegación?",
+    "points": 2,
+    "options": [
+      "Aprendizaje por refuerzo.",
+      "Aprendizaje supervisado.",
+      "Clasificación.",
+      "Reducción de dimensionalidad."
+    ],
+    "correct_answer": "Aprendizaje por refuerzo."
+  },
+  {
+    "question": "¿Qué lenguaje se destaca por bibliotecas como TensorFlow y PyTorch?",
+    "points": 2,
+    "options": [
+      "Python.",
+      "Java.",
+      "R.",
+      "C++."
+    ],
+    "correct_answer": "Python."
+  },
+  {
+    "question": "¿Qué año marca el desarrollo del programa ELIZA para procesamiento del lenguaje natural?",
+    "points": 2,
+    "options": [
+      "1966.",
+      "1950.",
+      "1972.",
+      "1986."
+    ],
+    "correct_answer": "1966."
+  },
+  {
+    "question": "¿Qué aplicación de IA ayuda a predecir la demanda en comercio electrónico?",
+    "points": 2,
+    "options": [
+      "Gestión de inventarios.",
+      "Recomendación de productos.",
+      "Automatización de procesos.",
+      "Clasificación de datos."
+    ],
+    "correct_answer": "Gestión de inventarios."
+  },
+  {
+    "question": "¿Qué característica define al aprendizaje supervisado?",
+    "points": 2,
+    "options": [
+      "Utiliza datos etiquetados para entrenar modelos.",
+      "Analiza patrones sin etiquetas en los datos.",
+      "Resuelve problemas por prueba y error.",
+      "Procesa datos basados en reglas explícitas."
+    ],
+    "correct_answer": "Utiliza datos etiquetados para entrenar modelos."
+  }
+      ]
+    

@@ -1,0 +1,333 @@
+ [
+        {
+          "question": "¿Qué es el cloud computing?",
+          "points": 2,
+          "options": [
+            "Un sistema de gestión local de datos.",
+            "La computación en la nube que permite acceder a recursos a través de internet.",
+            "Un modelo exclusivo para dispositivos móviles.",
+            "Un servicio que no requiere conexión a internet."
+          ],
+          "correct_answer": "La computación en la nube que permite acceder a recursos a través de internet."
+        },
+        {
+          "question": "¿Qué tipo de servicio es IaaS en el cloud computing?",
+          "points": 2,
+          "options": [
+            "Proveer software bajo suscripción.",
+            "Ofrecer plataformas para desarrollar aplicaciones.",
+            "Proporcionar infraestructura como servidores, redes y almacenamiento.",
+            "Gestionar redes locales."
+          ],
+          "correct_answer": "Proporcionar infraestructura como servidores, redes y almacenamiento."
+        },
+        {
+          "question": "¿Qué caracteriza al edge computing en comparación con el cloud computing?",
+          "points": 2,
+          "options": [
+            "Mayor latencia en el procesamiento de datos.",
+            "Procesamiento más cercano al usuario para respuestas rápidas.",
+            "Exclusivo para aplicaciones de almacenamiento a largo plazo.",
+            "Dependencia total de la nube para operaciones básicas."
+          ],
+          "correct_answer": "Procesamiento más cercano al usuario para respuestas rápidas."
+        },
+        {
+          "question": "¿Qué beneficio ofrece el fog computing frente al edge computing?",
+          "points": 2,
+          "options": [
+            "Procesar datos exclusivamente en dispositivos finales.",
+            "Combinar datos de múltiples fuentes para mayor eficacia.",
+            "Reducir el costo de infraestructura.",
+            "Reemplazar por completo al cloud computing."
+          ],
+          "correct_answer": "Combinar datos de múltiples fuentes para mayor eficacia."
+        },
+        {
+          "question": "¿Qué ventaja ofrece el uso de cloud en empresas?",
+          "points": 2,
+          "options": [
+            "Elimina la necesidad de conectividad a internet.",
+            "Permite el almacenamiento local exclusivo.",
+            "Aumenta la flexibilidad y escalabilidad operativa.",
+            "Restringe el acceso remoto para mayor seguridad."
+          ],
+          "correct_answer": "Aumenta la flexibilidad y escalabilidad operativa."
+        },
+        {
+          "question": "¿Qué es un SaaS en el contexto del cloud computing?",
+          "points": 2,
+          "options": [
+            "Un servicio que proporciona infraestructura a empresas.",
+            "Software y aplicaciones accesibles bajo suscripción.",
+            "Una plataforma para el desarrollo de software.",
+            "Un sistema exclusivo de almacenamiento de datos."
+          ],
+          "correct_answer": "Software y aplicaciones accesibles bajo suscripción."
+        },
+        {
+          "question": "¿Qué beneficio tiene el uso del edge computing en videojuegos?",
+          "points": 2,
+          "options": [
+            "Aumenta los tiempos de respuesta.",
+            "Reduce la latencia para permitir interacciones en tiempo real.",
+            "Permite el almacenamiento de datos locales.",
+            "Optimiza únicamente las gráficas del juego."
+          ],
+          "correct_answer": "Reduce la latencia para permitir interacciones en tiempo real."
+        },
+        {
+          "question": "¿Qué diferencia existe entre una nube pública y una privada?",
+          "points": 2,
+          "options": [
+            "La nube pública es exclusiva para aplicaciones empresariales.",
+            "La nube privada utiliza redes internas y no se comparte.",
+            "La nube privada requiere conexión a internet constante.",
+            "La nube pública no ofrece seguridad de datos."
+          ],
+          "correct_answer": "La nube privada utiliza redes internas y no se comparte."
+        },
+        {
+          "question": "¿Qué servicio en la nube permite implementar soluciones de respaldo automatizado?",
+          "points": 2,
+          "options": [
+            "AWS Backup.",
+            "Google Workspace.",
+            "Microsoft Office 365.",
+            "Firebase."
+          ],
+          "correct_answer": "AWS Backup."
+        },
+        {
+          "question": "¿Cuál es una ventaja clave del uso de recursos en la nube?",
+          "points": 2,
+          "options": [
+            "Dependencia total de infraestructura local.",
+            "Escalabilidad y pago por uso.",
+            "Limitación en la capacidad de almacenamiento.",
+            "Procesamiento lento en comparación con servidores locales."
+          ],
+          "correct_answer": "Escalabilidad y pago por uso."
+        },
+        {
+            "question": "¿Qué servicios se incluyen en la infraestructura como servicio (IaaS)?",
+            "points": 2,
+            "options": [
+              "Servidores, redes y almacenamiento.",
+              "Aplicaciones móviles y herramientas de productividad.",
+              "Streaming de contenidos multimedia.",
+              "Bases de datos locales y servicios de correo."
+            ],
+            "correct_answer": "Servidores, redes y almacenamiento."
+          },
+          {
+            "question": "¿Qué caracteriza al modelo de nube híbrida?",
+            "points": 2,
+            "options": [
+              "Integra servicios entre nubes públicas y privadas.",
+              "Depende exclusivamente de redes internas.",
+              "Se utiliza únicamente para almacenamiento de datos.",
+              "Elimina la necesidad de una nube pública."
+            ],
+            "correct_answer": "Integra servicios entre nubes públicas y privadas."
+          },
+          {
+            "question": "¿Qué ventaja clave ofrece la nube para el desarrollo de software?",
+            "points": 2,
+            "options": [
+              "Pruebas y desarrollo sin necesidad de gestionar servidores.",
+              "Elimina la necesidad de colaboración entre equipos.",
+              "Aumenta la dependencia de hardware local.",
+              "Restringe el acceso a herramientas de desarrollo."
+            ],
+            "correct_answer": "Pruebas y desarrollo sin necesidad de gestionar servidores."
+          },
+          {
+            "question": "¿Qué función principal tiene el edge computing en ciudades inteligentes?",
+            "points": 2,
+            "options": [
+              "Procesar datos localmente para evitar colapsos en el sistema.",
+              "Almacenar grandes cantidades de datos en la nube.",
+              "Eliminar la necesidad de sensores IoT.",
+              "Reducir la conectividad entre dispositivos inteligentes."
+            ],
+            "correct_answer": "Procesar datos localmente para evitar colapsos en el sistema."
+          },
+          {
+            "question": "¿Qué beneficio ofrece el fog computing frente al edge computing?",
+            "points": 2,
+            "options": [
+              "Procesar datos en combinación con múltiples fuentes.",
+              "Reducir la complejidad de integración de dispositivos.",
+              "Aumentar la dependencia de la nube.",
+              "Limitar el análisis de datos en tiempo real."
+            ],
+            "correct_answer": "Procesar datos en combinación con múltiples fuentes."
+          },
+          {
+            "question": "¿Qué caracteriza al mist computing?",
+            "points": 2,
+            "options": [
+              "Procesa datos directamente en los dispositivos finales.",
+              "Depende exclusivamente de la infraestructura de la nube.",
+              "Carece de aplicaciones en entornos industriales.",
+              "Requiere mayores recursos que el fog computing."
+            ],
+            "correct_answer": "Procesa datos directamente en los dispositivos finales."
+          },
+          {
+            "question": "¿Qué solución en la nube es ideal para la gestión de dispositivos IoT?",
+            "points": 2,
+            "options": [
+              "AWS IoT, Google Cloud IoT Core y Azure IoT Hub.",
+              "Salesforce y Microsoft Office 365.",
+              "Amazon S3 y Google Cloud Storage.",
+              "Firebase y Heroku."
+            ],
+            "correct_answer": "AWS IoT, Google Cloud IoT Core y Azure IoT Hub."
+          },
+          {
+            "question": "¿Qué ventaja ofrece el cloud computing en la educación?",
+            "points": 2,
+            "options": [
+              "Acceso a recursos educativos en línea desde cualquier lugar.",
+              "Elimina la necesidad de comunicación entre estudiantes y profesores.",
+              "Restringe el uso de contenido multimedia en las clases.",
+              "Reduce la colaboración en proyectos entre estudiantes."
+            ],
+            "correct_answer": "Acceso a recursos educativos en línea desde cualquier lugar."
+          },
+          {
+            "question": "¿Qué permite la computación en la nube en el sector salud?",
+            "points": 2,
+            "options": [
+              "Almacenamiento de registros electrónicos y atención remota.",
+              "Eliminación de sistemas de telemedicina.",
+              "Reducción de la colaboración entre profesionales médicos.",
+              "Dependencia de infraestructura local para análisis de datos."
+            ],
+            "correct_answer": "Almacenamiento de registros electrónicos y atención remota."
+          },
+          {
+            "question": "¿Qué beneficio aporta el uso de la nube en las empresas?",
+            "points": 2,
+            "options": [
+              "Ahorro de costos y escalabilidad flexible.",
+              "Dependencia de servidores físicos costosos.",
+              "Reducción en la flexibilidad y agilidad operativa.",
+              "Mayor complejidad en la implementación de servicios."
+            ],
+            "correct_answer": "Ahorro de costos y escalabilidad flexible."
+          },
+          {
+            "question": "¿Qué servicios destacan en el nivel SaaS del cloud computing?",
+            "points": 2,
+            "options": [
+              "Aplicaciones como Google Workspace y Salesforce.",
+              "Gestión de redes internas privadas.",
+              "Infraestructura para servidores locales.",
+              "Servicios de bases de datos únicamente."
+            ],
+            "correct_answer": "Aplicaciones como Google Workspace y Salesforce."
+          },
+          {
+            "question": "¿Qué ventaja ofrece la nube en la investigación científica?",
+            "points": 2,
+            "options": [
+              "Almacenamiento y análisis de grandes conjuntos de datos.",
+              "Eliminación de la necesidad de colaboración internacional.",
+              "Reducción del acceso a simulaciones computacionales.",
+              "Dependencia exclusiva de hardware físico local."
+            ],
+            "correct_answer": "Almacenamiento y análisis de grandes conjuntos de datos."
+          },
+          {
+            "question": "¿Cuál es un beneficio clave del edge computing para videojuegos?",
+            "points": 2,
+            "options": [
+              "Reducción de latencia para respuestas rápidas.",
+              "Dependencia exclusiva de servidores remotos.",
+              "Eliminación de datos locales en los dispositivos.",
+              "Procesamiento limitado de gráficos complejos."
+            ],
+            "correct_answer": "Reducción de latencia para respuestas rápidas."
+          },
+          {
+            "question": "¿Qué herramienta en la nube facilita la integración y despliegue continuos (CI/CD)?",
+            "points": 2,
+            "options": [
+              "Jenkins, GitHub Actions y GitLab CI.",
+              "Google Workspace y Office 365.",
+              "AWS Media Services y Firebase.",
+              "Azure IoT Hub y Google Cloud IoT Core."
+            ],
+            "correct_answer": "Jenkins, GitHub Actions y GitLab CI."
+          },
+          {
+            "question": "¿Qué ventaja ofrece el mist computing frente a otros modelos?",
+            "points": 2,
+            "options": [
+              "Procesamiento y análisis de datos directamente en dispositivos finales.",
+              "Mayor capacidad de almacenamiento a largo plazo.",
+              "Dependencia exclusiva de fog computing.",
+              "Eliminación de tareas de procesamiento local."
+            ],
+            "correct_answer": "Procesamiento y análisis de datos directamente en dispositivos finales."
+          },
+          {
+            "question": "¿Qué solución en la nube es adecuada para respaldos automatizados?",
+            "points": 2,
+            "options": [
+              "AWS Backup, Azure Backup y Google Cloud Storage.",
+              "Salesforce y HubSpot.",
+              "Google Workspace y Slack.",
+              "Azure IoT Hub y Google AI Platform."
+            ],
+            "correct_answer": "AWS Backup, Azure Backup y Google Cloud Storage."
+          },
+          {
+            "question": "¿Qué beneficio aporta el fog computing en IoT?",
+            "points": 2,
+            "options": [
+              "Procesar datos en tiempo real combinando múltiples fuentes.",
+              "Eliminar la necesidad de dispositivos inteligentes.",
+              "Reducir la velocidad de respuesta en aplicaciones críticas.",
+              "Limitar la capacidad de análisis de datos en los dispositivos finales."
+            ],
+            "correct_answer": "Procesar datos en tiempo real combinando múltiples fuentes."
+          },
+          {
+            "question": "¿Qué aplicaciones web pueden beneficiarse de servicios como AWS Elastic Beanstalk?",
+            "points": 2,
+            "options": [
+              "Despliegue y escalado de aplicaciones web.",
+              "Almacenamiento de registros médicos electrónicos.",
+              "Gestión de relaciones con clientes.",
+              "Simulaciones de modelos de inteligencia artificial."
+            ],
+            "correct_answer": "Despliegue y escalado de aplicaciones web."
+          },
+          {
+            "question": "¿Qué ventaja clave ofrece el cloud computing para empresas pequeñas?",
+            "points": 2,
+            "options": [
+              "Acceso a infraestructura y servicios escalables sin grandes inversiones.",
+              "Dependencia de servidores físicos costosos.",
+              "Reducción de la flexibilidad operativa.",
+              "Complejidad elevada en la implementación de servicios."
+            ],
+            "correct_answer": "Acceso a infraestructura y servicios escalables sin grandes inversiones."
+          },
+          {
+            "question": "¿Qué diferencia clave tiene el edge computing frente al cloud computing?",
+            "points": 2,
+            "options": [
+              "Procesa datos más cerca del usuario para reducir latencia.",
+              "Requiere mayor ancho de banda para todas las aplicaciones.",
+              "Elimina la necesidad de almacenamiento en dispositivos locales.",
+              "Limita las aplicaciones IoT a entornos domésticos."
+            ],
+            "correct_answer": "Procesa datos más cerca del usuario para reducir latencia."
+          }
+      ]
+    
