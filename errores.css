@@ -70,7 +70,7 @@
     padding: 10px;
   }
   
-  #test_menu button, .tema_selector > div button {
+  #test_menu button, .tema_selector > div button, .blue_button {
     background-color: #3498db;
     color: white;
     border: none;
@@ -147,7 +147,9 @@
     margin-top: 10px;
   }
 
-  
+  #error_tests{
+    display: none;
+  }
   /* Efectos de animación al cargar el test */
   @keyframes fadeIn {
     from {

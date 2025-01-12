@@ -7,7 +7,12 @@
     <link rel="stylesheet" href="./errores.css" />
   </head>
   <body>
-   
+    <div class="tema_selector" id="primeros_aux">
+      <div>
+        <a href="./todos.html"><button type="button">Test por temas</button></a
+        ><a href="./errores.html"><button type="button">Errores</button></a>
+      </div>
+    </div>
       <h2>Errores</h2>
       <div class="tema_selector" id="primeros_aux">
         <h2>Primeros Auxilios</h2>
@@ -219,15 +224,25 @@
       </div>
     </div>
       <div id="error_tests" class="box">
+        
         <div id="test_menu">
           
         </div>
-        <div id="selected_test">  
-          <h2>Test actual</h2>
-  
-          <button onclick="closeTest(this)" id="closeError" type="button">
+        <div>
+          <button class="blue_button" onclick="closeTest(this)" id="closeError" type="button">
             Cerrar
           </button>
+          <button class="blue_button" onclick="redoTest(event)" id="redoTest" type="button">
+            Rehacer Test
+          </button>
+          <button class="blue_button" onclick="corregirTest()" type="button">
+            Corregir
+          </button>
+        </div>
+        <h2 id="test_title">Test actual</h2>
+        <div id="selected_test">  
+  
+          
         </div>
         
       </div>

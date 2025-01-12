@@ -55,7 +55,7 @@
     padding: 10px;
   }
   
-  #test_menu button {
+  #test_menu button, .blue_button {
     background-color: #3498db;
     color: white;
     border: none;
@@ -67,7 +67,7 @@
     font-weight: 600;
   }
   
-  #test_menu button:hover {
+  #test_menu button:hover, .blue_button:hover {
     background-color: #2980b9;
     transform: translateY(-2px);
   }
