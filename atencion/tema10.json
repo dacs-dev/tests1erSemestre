@@ -1,0 +1,167 @@
+[
+    {
+        "question": "¿Qué pasos incluye la determinación del momento de evaluación en la intervención?",
+        "points": 2,
+        "options": [
+            "Planificar el inicio, el desarrollo y la conclusión de las actividades de evaluación.",
+            "Realizar evaluaciones solo al final de la intervención.",
+            "Centrarse exclusivamente en la recopilación de datos iniciales.",
+            "Limitar la evaluación a momentos de crisis."
+        ],
+        "correct_answer": "Planificar el inicio, el desarrollo y la conclusión de las actividades de evaluación."
+    },
+    {
+        "question": "¿Qué características deben cumplir los indicadores en un protocolo de evaluación?",
+        "points": 2,
+        "options": [
+            "Ser objetivos, claros y verificables.",
+            "Depender únicamente de la opinión de los técnicos.",
+            "Centrarse exclusivamente en aspectos cualitativos.",
+            "Evitar la participación activa de los beneficiarios."
+        ],
+        "correct_answer": "Ser objetivos, claros y verificables."
+    },
+    {
+        "question": "¿Qué técnica facilita la grabación de datos en la intervención?",
+        "points": 2,
+        "options": [
+            "Uso de soportes adecuados como grabadoras de voz y hojas de registro.",
+            "Exclusivamente entrevistas personales.",
+            "Utilización de encuestas no estructuradas.",
+            "Observación sin documentación formal."
+        ],
+        "correct_answer": "Uso de soportes adecuados como grabadoras de voz y hojas de registro."
+    },
+    {
+        "question": "¿Qué objetivo tiene la elaboración de informes y memorias en la evaluación?",
+        "points": 2,
+        "options": [
+            "Documentar resultados, analizar datos y formular recomendaciones.",
+            "Proveer información limitada a los supervisores.",
+            "Reducir la intervención a aspectos cuantitativos.",
+            "Evitar ajustes futuros en las estrategias de intervención."
+        ],
+        "correct_answer": "Documentar resultados, analizar datos y formular recomendaciones."
+    },
+    {
+        "question": "¿Qué aspecto es clave en la valoración de la evaluación como recurso de mejora?",
+        "points": 2,
+        "options": [
+            "Permitir ajustes en las estrategias de intervención y guiar decisiones futuras.",
+            "Evitar realizar cambios en las actividades ya establecidas.",
+            "Concentrarse únicamente en resultados positivos.",
+            "Eliminar la participación activa de los técnicos en las decisiones."
+        ],
+        "correct_answer": "Permitir ajustes en las estrategias de intervención y guiar decisiones futuras."
+    },
+    {
+        "question": "¿Qué herramientas se utilizan para registrar la satisfacción de los beneficiarios?",
+        "points": 2,
+        "options": [
+            "Cuestionarios de satisfacción y entrevistas personales.",
+            "Hojas de cálculo exclusivamente.",
+            "Observación no sistematizada.",
+            "Encuestas abiertas sin estructura definida."
+        ],
+        "correct_answer": "Cuestionarios de satisfacción y entrevistas personales."
+    },
+    {
+        "question": "¿Qué programas facilitan el análisis de datos cuantitativos en la evaluación?",
+        "points": 2,
+        "options": [
+            "SPSS y Excel.",
+            "NUD*IST y ATLAS.ti.",
+            "Hojas de asistencia manuales.",
+            "Análisis exclusivamente narrativo."
+        ],
+        "correct_answer": "SPSS y Excel."
+    },
+    {
+        "question": "¿Qué criterio debe respetarse al seleccionar instrumentos de evaluación?",
+        "points": 2,
+        "options": [
+            "Adecuarse al contexto y garantizar la relevancia de la información.",
+            "Limitarse a herramientas tecnológicas avanzadas.",
+            "Evitar la sistematización de los procesos.",
+            "Depender exclusivamente de métodos cualitativos."
+        ],
+        "correct_answer": "Adecuarse al contexto y garantizar la relevancia de la información."
+    },
+    {
+        "question": "¿Qué finalidad tiene la grabación de datos en soportes adecuados?",
+        "points": 2,
+        "options": [
+            "Garantizar la privacidad y confidencialidad durante el análisis.",
+            "Simplificar los procesos eliminando la documentación.",
+            "Centrar la evaluación exclusivamente en los técnicos.",
+            "Evitar el uso de herramientas digitales para el registro."
+        ],
+        "correct_answer": "Garantizar la privacidad y confidencialidad durante el análisis."
+    },
+    {
+        "question": "¿Qué elemento asegura la utilidad de la evaluación en la toma de decisiones?",
+        "points": 2,
+        "options": [
+            "La combinación de análisis cualitativo y cuantitativo para una visión integral.",
+            "Centrarse únicamente en datos numéricos.",
+            "Evitar cambios estratégicos tras la evaluación.",
+            "Delegar la toma de decisiones exclusivamente en los técnicos."
+        ],
+        "correct_answer": "La combinación de análisis cualitativo y cuantitativo para una visión integral."
+    },
+    {
+        "question": "¿Qué técnica es adecuada para valorar la intervención de los profesionales?",
+        "points": 2,
+        "options": [
+            "Cuestionarios específicos para el equipo técnico.",
+            "Observación informal de los resultados.",
+            "Entrevistas abiertas sin estructuración.",
+            "Revisión de documentos exclusivamente narrativos."
+        ],
+        "correct_answer": "Cuestionarios específicos para el equipo técnico."
+    },
+    {
+        "question": "¿Qué rol desempeña la evaluación final en el proceso de intervención?",
+        "points": 2,
+        "options": [
+            "Valorar los resultados obtenidos y establecer mejoras futuras.",
+            "Centralizar la evaluación exclusivamente en aspectos técnicos.",
+            "Eliminar ajustes en las estrategias ya implementadas.",
+            "Evitar conclusiones detalladas para simplificar los informes."
+        ],
+        "correct_answer": "Valorar los resultados obtenidos y establecer mejoras futuras."
+    },
+    {
+        "question": "¿Qué instrumentos son útiles para analizar datos cualitativos?",
+        "points": 2,
+        "options": [
+            "ATLAS.ti y MAXQDA.",
+            "SPSS y Excel.",
+            "Grabadoras de voz exclusivamente.",
+            "Cuestionarios sin estructura definida."
+        ],
+        "correct_answer": "ATLAS.ti y MAXQDA."
+    },
+    {
+        "question": "¿Qué impacto tiene la evaluación como recurso en la intervención?",
+        "points": 2,
+        "options": [
+            "Mejorar la calidad del proceso y orientar decisiones estratégicas.",
+            "Evitar ajustes futuros en las estrategias ya implementadas.",
+            "Reducir la participación activa de los beneficiarios.",
+            "Centralizar las decisiones exclusivamente en los supervisores."
+        ],
+        "correct_answer": "Mejorar la calidad del proceso y orientar decisiones estratégicas."
+    },
+    {
+        "question": "¿Qué elementos debe incluir un protocolo de evaluación eficaz?",
+        "points": 2,
+        "options": [
+            "Indicadores claros, instrumentos adecuados y criterios definidos.",
+            "Resultados narrativos generales y observaciones abiertas.",
+            "Opiniones subjetivas de los técnicos exclusivamente.",
+            "Datos cualitativos sin sistematización previa."
+        ],
+        "correct_answer": "Indicadores claros, instrumentos adecuados y criterios definidos."
+    }
+]

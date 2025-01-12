@@ -1,0 +1,167 @@
+[
+    {
+        "question": "¿Qué tipos de daños genera la violencia de género según el texto?",
+        "points": 2,
+        "options": [
+            "Daños visibles como lesiones físicas y daños no visibles como pérdida de autoestima y depresión.",
+            "Exclusivamente daños físicos en las víctimas.",
+            "Solo efectos psicológicos como estrés y ansiedad.",
+            "Únicamente aislamiento social en las víctimas."
+        ],
+        "correct_answer": "Daños visibles como lesiones físicas y daños no visibles como pérdida de autoestima y depresión."
+    },
+    {
+        "question": "¿Qué servicios actúan como puerta de entrada para atender casos de violencia de género?",
+        "points": 2,
+        "options": [
+            "Servicios sanitarios, servicios sociales, cuerpos de seguridad del Estado y servicios de atención telefónica.",
+            "Exclusivamente los servicios judiciales.",
+            "Asociaciones de vecinos y recursos económicos.",
+            "Centros educativos y actividades recreativas."
+        ],
+        "correct_answer": "Servicios sanitarios, servicios sociales, cuerpos de seguridad del Estado y servicios de atención telefónica."
+    },
+    {
+        "question": "¿Qué objetivo tiene la reordenación del tiempo de trabajo para víctimas de violencia de género?",
+        "points": 2,
+        "options": [
+            "Facilitar el cambio de centro con reserva del puesto y acceso a prestaciones por desempleo.",
+            "Proveer empleo temporal sin derechos laborales.",
+            "Eliminar la necesidad de cambios laborales.",
+            "Ofrecer asesoramiento exclusivamente económico."
+        ],
+        "correct_answer": "Facilitar el cambio de centro con reserva del puesto y acceso a prestaciones por desempleo."
+    },
+    {
+        "question": "¿Qué tipo de recurso ofrece el teléfono 016?",
+        "points": 2,
+        "options": [
+            "Información y asesoramiento jurídico en materia de violencia de género.",
+            "Atención psicológica exclusivamente.",
+            "Servicios de emergencia médica inmediata.",
+            "Información laboral para mujeres víctimas."
+        ],
+        "correct_answer": "Información y asesoramiento jurídico en materia de violencia de género."
+    },
+    {
+        "question": "¿Qué servicios específicos ofrecen atención integral a las mujeres víctimas de violencia de género?",
+        "points": 2,
+        "options": [
+            "Atención psicológica, jurídica y social.",
+            "Servicios recreativos para las familias afectadas.",
+            "Asistencia únicamente médica.",
+            "Centros de información de empleo."
+        ],
+        "correct_answer": "Atención psicológica, jurídica y social."
+    },
+    {
+        "question": "¿Qué implica el protocolo de actuación en casos de violencia de género?",
+        "points": 2,
+        "options": [
+            "Detección, información, valoración, actuaciones y seguimiento.",
+            "Denuncia inmediata en todos los casos.",
+            "Evaluación médica exclusiva.",
+            "Limitación de recursos según la situación económica."
+        ],
+        "correct_answer": "Detección, información, valoración, actuaciones y seguimiento."
+    },
+    {
+        "question": "¿Qué aspecto es clave en el acompañamiento social a las víctimas de violencia de género?",
+        "points": 2,
+        "options": [
+            "Brindar apoyo psicológico y orientar sobre recursos disponibles.",
+            "Limitar el contacto con las redes sociales de apoyo.",
+            "Exclusivamente proporcionar ayuda económica.",
+            "Evitar la intervención en la toma de decisiones de las víctimas."
+        ],
+        "correct_answer": "Brindar apoyo psicológico y orientar sobre recursos disponibles."
+    },
+    {
+        "question": "¿Qué norma debe regir el trato hacia las víctimas de violencia de género?",
+        "points": 2,
+        "options": [
+            "Respeto, confidencialidad y valoración adecuada.",
+            "Evitar cualquier intervención directa.",
+            "Centralizar las decisiones en los técnicos.",
+            "Imponer soluciones inmediatas sin consulta previa."
+        ],
+        "correct_answer": "Respeto, confidencialidad y valoración adecuada."
+    },
+    {
+        "question": "¿Qué técnica ayuda a las víctimas a gestionar el estrés emocional?",
+        "points": 2,
+        "options": [
+            "Técnicas de relajación y desensibilización sistemática.",
+            "Exclusivamente sesiones grupales de terapia.",
+            "Evitar cualquier tipo de intervención emocional.",
+            "Centrarse únicamente en actividades físicas."
+        ],
+        "correct_answer": "Técnicas de relajación y desensibilización sistemática."
+    },
+    {
+        "question": "¿Qué objetivo tiene la valoración del trato dispensado a las víctimas?",
+        "points": 2,
+        "options": [
+            "Garantizar un apoyo respetuoso y confidencial que promueva la recuperación.",
+            "Imponer estándares generales para todas las víctimas.",
+            "Centrar el enfoque únicamente en recursos legales.",
+            "Reducir la intervención a servicios sanitarios."
+        ],
+        "correct_answer": "Garantizar un apoyo respetuoso y confidencial que promueva la recuperación."
+    },
+    {
+        "question": "¿Qué elementos conforman la detección efectiva de situaciones de violencia de género?",
+        "points": 2,
+        "options": [
+            "Identificación de daños físicos y emocionales en la víctima.",
+            "Exclusivamente informes médicos.",
+            "Limitación a denuncias formales.",
+            "Evaluación económica del entorno."
+        ],
+        "correct_answer": "Identificación de daños físicos y emocionales en la víctima."
+    },
+    {
+        "question": "¿Qué papel juegan los servicios de justicia en la atención a las víctimas?",
+        "points": 2,
+        "options": [
+            "Implementar medidas cautelares para garantizar la seguridad.",
+            "Proveer exclusivamente apoyo psicológico.",
+            "Centralizar las decisiones en las denuncias formales.",
+            "Restringir la asistencia a casos urgentes."
+        ],
+        "correct_answer": "Implementar medidas cautelares para garantizar la seguridad."
+    },
+    {
+        "question": "¿Qué herramienta digital está diseñada para ayudar a las víctimas de violencia de género?",
+        "points": 2,
+        "options": [
+            "La aplicación móvil LIBRES.",
+            "Un programa estadístico.",
+            "Redes sociales de uso general.",
+            "Un sistema de videollamadas especializado."
+        ],
+        "correct_answer": "La aplicación móvil LIBRES."
+    },
+    {
+        "question": "¿Qué servicio de atención telefónica especializada se menciona para mujeres víctimas?",
+        "points": 2,
+        "options": [
+            "Teléfono 016.",
+            "Línea general de emergencias.",
+            "Servicio de atención familiar local.",
+            "Plataformas de redes sociales."
+        ],
+        "correct_answer": "Teléfono 016."
+    },
+    {
+        "question": "¿Qué medida puede garantizar la protección de una víctima en el ámbito laboral?",
+        "points": 2,
+        "options": [
+            "Reorganización del horario laboral y cambio de centro de trabajo.",
+            "Suspensión automática del contrato sin remuneración.",
+            "Prohibición de acceso a servicios laborales.",
+            "Exclusivamente orientación sobre la búsqueda de empleo."
+        ],
+        "correct_answer": "Reorganización del horario laboral y cambio de centro de trabajo."
+    }
+]
