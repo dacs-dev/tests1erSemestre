@@ -1,0 +1,222 @@
+[
+    {
+        "question": "¿Cuál es el objetivo principal del seguimiento en la intervención en la unidad de convivencia?",
+        "points": 2,
+        "options": [
+            "Evaluar el impacto de las acciones realizadas y ajustar las estrategias si es necesario.",
+            "Finalizar rápidamente el proceso de intervención.",
+            "Proveer informes únicamente al final del proceso.",
+            "Limitar la participación de los beneficiarios en la evaluación."
+        ],
+        "correct_answer": "Evaluar el impacto de las acciones realizadas y ajustar las estrategias si es necesario."
+    },
+    {
+        "question": "¿Qué se debe tener en cuenta en la determinación del momento de evaluación?",
+        "points": 2,
+        "options": [
+            "Evaluar en todas las fases: planificación, ejecución y finalización.",
+            "Realizar evaluaciones solo al final del proceso.",
+            "Evitar evaluaciones durante la fase de ejecución.",
+            "Concentrarse exclusivamente en el análisis inicial."
+        ],
+        "correct_answer": "Evaluar en todas las fases: planificación, ejecución y finalización."
+    },
+    {
+        "question": "¿Qué incluyen los protocolos de evaluación en la unidad de convivencia?",
+        "points": 2,
+        "options": [
+            "Indicadores, instrumentos y criterios específicos.",
+            "Exclusivamente recursos económicos disponibles.",
+            "Tareas programadas para los técnicos únicamente.",
+            "Indicadores generales aplicables a cualquier contexto."
+        ],
+        "correct_answer": "Indicadores, instrumentos y criterios específicos."
+    },
+    {
+        "question": "¿Qué característica debe cumplir un indicador de evaluación?",
+        "points": 2,
+        "options": [
+            "Ser claro, objetivo y verificable.",
+            "Ser abstracto y general.",
+            "Basarse exclusivamente en percepciones subjetivas.",
+            "Depender únicamente de recursos tecnológicos."
+        ],
+        "correct_answer": "Ser claro, objetivo y verificable."
+    },
+    {
+        "question": "¿Qué herramientas son útiles para la recolección de datos en la unidad de convivencia?",
+        "points": 2,
+        "options": [
+            "Cámaras de vídeo, grabadoras de voz y ordenadores.",
+            "Formularios manuales exclusivamente.",
+            "Redes sociales y plataformas no estructuradas.",
+            "Únicamente observaciones no registradas."
+        ],
+        "correct_answer": "Cámaras de vídeo, grabadoras de voz y ordenadores."
+    },
+    {
+        "question": "¿Qué principio fundamental rige el análisis de datos en la intervención?",
+        "points": 2,
+        "options": [
+            "Garantizar la privacidad y la confidencialidad.",
+            "Publicar todos los datos recogidos.",
+            "Centralizar la información en un solo técnico.",
+            "Priorizar la cantidad sobre la calidad de los datos."
+        ],
+        "correct_answer": "Garantizar la privacidad y la confidencialidad."
+    },
+    {
+        "question": "¿Qué permite la elaboración de informes en el contexto de intervención?",
+        "points": 2,
+        "options": [
+            "Documentar información relevante, emitir juicios técnicos y planificar futuras acciones.",
+            "Limitarse a describir los problemas detectados.",
+            "Proveer información únicamente a los supervisores.",
+            "Evitar la retroalimentación de los beneficiarios."
+        ],
+        "correct_answer": "Documentar información relevante, emitir juicios técnicos y planificar futuras acciones."
+    },
+    {
+        "question": "¿Qué técnica facilita la toma de decisiones durante la intervención?",
+        "points": 2,
+        "options": [
+            "La terapia de solución de problemas desarrollada por D’Zurilla y Goldfried.",
+            "La exclusión de alternativas complejas.",
+            "El análisis de datos exclusivamente estadísticos.",
+            "La planificación lineal y rígida."
+        ],
+        "correct_answer": "La terapia de solución de problemas desarrollada por D’Zurilla y Goldfried."
+    },
+    {
+        "question": "¿Qué debe incluir un informe social según el Código Deontológico?",
+        "points": 2,
+        "options": [
+            "Estudio, observación, entrevista, valoración, dictamen técnico y propuesta de intervención.",
+            "Exclusivamente datos personales y financieros.",
+            "Una descripción narrativa sin juicios técnicos.",
+            "Resultados generales sin detalles específicos."
+        ],
+        "correct_answer": "Estudio, observación, entrevista, valoración, dictamen técnico y propuesta de intervención."
+    },
+    {
+        "question": "¿Qué impacto tiene la evaluación en la mejora de futuras intervenciones?",
+        "points": 2,
+        "options": [
+            "Permite identificar ventajas, desventajas y establecer proyectos de mejora.",
+            "Limita la planificación a contextos similares.",
+            "Reduce la necesidad de seguimiento continuo.",
+            "Elimina la posibilidad de ajustes en las estrategias."
+        ],
+        "correct_answer": "Permite identificar ventajas, desventajas y establecer proyectos de mejora."
+    },
+    {
+        "question": "¿Cuál es el objetivo principal de la evaluación en la unidad de convivencia?",
+        "points": 2,
+        "options": [
+            "Mejorar la intervención y tomar decisiones fundamentadas.",
+            "Registrar exclusivamente los logros alcanzados.",
+            "Eliminar la participación activa de los usuarios.",
+            "Centralizar todas las decisiones en los técnicos."
+        ],
+        "correct_answer": "Mejorar la intervención y tomar decisiones fundamentadas."
+    },
+    {
+        "question": "¿Qué herramientas tecnológicas son útiles para recoger información en la intervención?",
+        "points": 2,
+        "options": [
+            "Cámaras de vídeo, grabadoras de voz y ordenadores.",
+            "Redes sociales y herramientas no estructuradas.",
+            "Cuestionarios exclusivamente impresos.",
+            "Métodos manuales sin tecnología."
+        ],
+        "correct_answer": "Cámaras de vídeo, grabadoras de voz y ordenadores."
+    },
+    {
+        "question": "¿Qué caracteriza un indicador de evaluación adecuado?",
+        "points": 2,
+        "options": [
+            "Debe ser claro, objetivo y verificable.",
+            "Solo debe reflejar opiniones subjetivas.",
+            "Debe ser exclusivamente cualitativo.",
+            "Tiene que depender del contexto administrativo."
+        ],
+        "correct_answer": "Debe ser claro, objetivo y verificable."
+    },
+    {
+        "question": "¿Qué papel tiene la unidad de convivencia en el seguimiento de la intervención?",
+        "points": 2,
+        "options": [
+            "Participar activamente durante todas las fases del proceso.",
+            "Evitar involucrarse en la planificación.",
+            "Solo actuar en la fase inicial.",
+            "Dejar la evaluación a cargo exclusivo de los técnicos."
+        ],
+        "correct_answer": "Participar activamente durante todas las fases del proceso."
+    },
+    {
+        "question": "¿Qué finalidad tienen los informes elaborados en la intervención?",
+        "points": 2,
+        "options": [
+            "Documentar información relevante, emitir juicios técnicos y planificar futuras acciones.",
+            "Describir problemas generales sin detalle.",
+            "Simplificar el análisis reduciendo los datos.",
+            "Evitar la retroalimentación con la unidad."
+        ],
+        "correct_answer": "Documentar información relevante, emitir juicios técnicos y planificar futuras acciones."
+    },
+    {
+        "question": "¿Qué debe incluir un protocolo de evaluación en la intervención?",
+        "points": 2,
+        "options": [
+            "Indicadores, instrumentos y criterios específicos.",
+            "Exclusivamente las opiniones de los técnicos.",
+            "Metodologías basadas en datos cualitativos exclusivamente.",
+            "Un registro limitado a casos excepcionales."
+        ],
+        "correct_answer": "Indicadores, instrumentos y criterios específicos."
+    },
+    {
+        "question": "¿Qué técnica cognitiva-conductual es útil para la toma de decisiones?",
+        "points": 2,
+        "options": [
+            "La terapia de solución de problemas de D’Zurilla y Goldfried.",
+            "El análisis estructural de casos.",
+            "La retroalimentación pasiva.",
+            "El enfoque tradicional de supervisión jerárquica."
+        ],
+        "correct_answer": "La terapia de solución de problemas de D’Zurilla y Goldfried."
+    },
+    {
+        "question": "¿Qué tipo de análisis se utiliza para datos cuantitativos?",
+        "points": 2,
+        "options": [
+            "Programas estadísticos como SPSS.",
+            "Métodos manuales exclusivamente.",
+            "Sistemas de observación no estructurada.",
+            "Encuestas abiertas sin estructura definida."
+        ],
+        "correct_answer": "Programas estadísticos como SPSS."
+    },
+    {
+        "question": "¿Qué objetivo tiene el informe social?",
+        "points": 2,
+        "options": [
+            "Servir como dictamen técnico derivado del estudio y valoración de la situación.",
+            "Registrar exclusivamente información narrativa.",
+            "Evitar incluir propuestas de intervención.",
+            "Proveer únicamente información numérica."
+        ],
+        "correct_answer": "Servir como dictamen técnico derivado del estudio y valoración de la situación."
+    },
+    {
+        "question": "¿Qué aspecto clave debe respetarse al tratar datos de la intervención?",
+        "points": 2,
+        "options": [
+            "Cumplir con los criterios de privacidad y confidencialidad.",
+            "Centralizar toda la información en un solo profesional.",
+            "Evitar el uso de herramientas digitales.",
+            "Compartir información sin consentimiento previo."
+        ],
+        "correct_answer": "Cumplir con los criterios de privacidad y confidencialidad."
+    }
+]

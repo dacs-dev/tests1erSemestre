@@ -1,0 +1,222 @@
+[
+    {
+        "question": "¿Cuál es el papel de la familia en el proceso de control y seguimiento de la intervención?",
+        "points": 2,
+        "options": [
+            "Participar activamente en la definición de objetivos, actividades y evaluación.",
+            "Observar de forma pasiva las decisiones de los técnicos.",
+            "Dejar la intervención exclusivamente en manos del equipo interdisciplinario.",
+            "Limitarse a proporcionar datos iniciales y esperar resultados."
+        ],
+        "correct_answer": "Participar activamente en la definición de objetivos, actividades y evaluación."
+    },
+    {
+        "question": "¿Qué criterio se debe seguir para determinar el momento de la evaluación en la intervención familiar?",
+        "points": 2,
+        "options": [
+            "La evaluación debe realizarse durante todas las fases: planificación, ejecución y finalización.",
+            "La evaluación solo debe realizarse al finalizar la intervención.",
+            "La evaluación debe centrarse únicamente en la etapa inicial.",
+            "Se recomienda evitar evaluaciones frecuentes para no alterar la dinámica familiar."
+        ],
+        "correct_answer": "La evaluación debe realizarse durante todas las fases: planificación, ejecución y finalización."
+    },
+    {
+        "question": "¿Qué objetivo tienen los instrumentos de evaluación en la intervención familiar?",
+        "points": 2,
+        "options": [
+            "Recoger datos que permitan valorar los resultados y tomar decisiones fundamentadas.",
+            "Sustituir la opinión de los profesionales con datos numéricos.",
+            "Limitar la participación de la familia en el proceso de evaluación.",
+            "Proveer información exclusivamente para los informes sociales."
+        ],
+        "correct_answer": "Recoger datos que permitan valorar los resultados y tomar decisiones fundamentadas."
+    },
+    {
+        "question": "¿Qué incluye el registro de datos en la intervención con la familia?",
+        "points": 2,
+        "options": [
+            "Información formal e informal obtenida durante las diferentes fases de la intervención.",
+            "Únicamente las observaciones realizadas al inicio del proceso.",
+            "Datos exclusivamente cuantitativos sobre la dinámica familiar.",
+            "Registros elaborados solo en casos de evaluación negativa."
+        ],
+        "correct_answer": "Información formal e informal obtenida durante las diferentes fases de la intervención."
+    },
+    {
+        "question": "¿Qué debe considerarse al elaborar informes y memorias en la intervención familiar?",
+        "points": 2,
+        "options": [
+            "El objetivo del informe y los datos relevantes que respalden la evaluación.",
+            "Incluir exclusivamente información técnica.",
+            "Evitar conclusiones detalladas para simplificar el análisis.",
+            "Presentar datos generales sin especificar objetivos."
+        ],
+        "correct_answer": "El objetivo del informe y los datos relevantes que respalden la evaluación."
+    },
+    {
+        "question": "¿Qué importancia tiene la evaluación en el proceso de intervención con la familia?",
+        "points": 2,
+        "options": [
+            "Es un recurso para mejorar la intervención y tomar decisiones fundamentadas.",
+            "Es opcional y solo se realiza al final del proceso.",
+            "Se utiliza únicamente para cumplir con requisitos administrativos.",
+            "Debe realizarse solo si los resultados esperados no se alcanzan."
+        ],
+        "correct_answer": "Es un recurso para mejorar la intervención y tomar decisiones fundamentadas."
+    },
+    {
+        "question": "¿Qué se busca con la selección adecuada de instrumentos de evaluación?",
+        "points": 2,
+        "options": [
+            "Garantizar que la información obtenida sea relevante, objetiva y útil.",
+            "Reemplazar el juicio profesional con herramientas automatizadas.",
+            "Limitar el proceso de evaluación a un único enfoque.",
+            "Centrarse exclusivamente en la recopilación de datos numéricos."
+        ],
+        "correct_answer": "Garantizar que la información obtenida sea relevante, objetiva y útil."
+    },
+    {
+        "question": "¿Cómo debe registrarse la información recogida en la intervención familiar?",
+        "points": 2,
+        "options": [
+            "En soportes establecidos por el equipo interdisciplinario que garanticen su confidencialidad.",
+            "En cualquier tipo de documento sin importar su formato.",
+            "Solo en casos donde se detecten problemas graves.",
+            "En informes narrativos exclusivamente."
+        ],
+        "correct_answer": "En soportes establecidos por el equipo interdisciplinario que garanticen su confidencialidad."
+    },
+    {
+        "question": "¿Qué permite la elaboración de informes en la intervención con la familia?",
+        "points": 2,
+        "options": [
+            "Analizar los logros y detectar áreas de mejora.",
+            "Evitar la necesidad de realizar evaluaciones futuras.",
+            "Concentrarse en describir los problemas detectados.",
+            "Reducir el tiempo invertido en el seguimiento."
+        ],
+        "correct_answer": "Analizar los logros y detectar áreas de mejora."
+    },
+    {
+        "question": "¿Cuál es el propósito final de la evaluación en la intervención familiar?",
+        "points": 2,
+        "options": [
+            "Mejorar la calidad del proceso y tomar decisiones informadas para futuras intervenciones.",
+            "Cumplir con los requisitos administrativos del proyecto.",
+            "Justificar los recursos empleados durante la intervención.",
+            "Registrar únicamente los resultados positivos obtenidos."
+        ],
+        "correct_answer": "Mejorar la calidad del proceso y tomar decisiones informadas para futuras intervenciones."
+    },
+    {
+        "question": "¿Qué aspectos se consideran en la definición del marco de referencia en la evaluación?",
+        "points": 2,
+        "options": [
+            "El diagnóstico y la formulación de la intervención.",
+            "Los resultados finales y las conclusiones.",
+            "El análisis estadístico y la recolección documental.",
+            "La implementación y retroalimentación del programa."
+        ],
+        "correct_answer": "El diagnóstico y la formulación de la intervención."
+    },
+    {
+        "question": "¿Qué debe incluir la definición del tipo de evaluación en una intervención?",
+        "points": 2,
+        "options": [
+            "Los objetivos, el método de evaluación y las variables que se medirán.",
+            "El tiempo estimado para las reuniones familiares.",
+            "El acceso exclusivo a recursos tecnológicos avanzados.",
+            "La consulta constante con instituciones externas."
+        ],
+        "correct_answer": "Los objetivos, el método de evaluación y las variables que se medirán."
+    },
+    {
+        "question": "¿Qué tipo de instrumentos de evaluación se usan para captar actitudes y percepciones subjetivas?",
+        "points": 2,
+        "options": [
+            "Instrumentos cualitativos.",
+            "Instrumentos cuantitativos.",
+            "Análisis estadístico exclusivamente.",
+            "Cuestionarios estructurados únicamente."
+        ],
+        "correct_answer": "Instrumentos cualitativos."
+    },
+    {
+        "question": "¿Qué caracteriza a la evaluación inicial según el contenido?",
+        "points": 2,
+        "options": [
+            "Es una evaluación diagnóstica que analiza la situación de partida.",
+            "Se enfoca exclusivamente en los resultados finales.",
+            "Evalúa las relaciones externas del equipo interdisciplinario.",
+            "Es una etapa opcional en el proceso de intervención."
+        ],
+        "correct_answer": "Es una evaluación diagnóstica que analiza la situación de partida."
+    },
+    {
+        "question": "¿Qué técnica de evaluación utiliza cuestionarios aplicados a un grupo representativo?",
+        "points": 2,
+        "options": [
+            "Encuesta.",
+            "Observación participante.",
+            "Entrevista semiestructurada.",
+            "Análisis documental."
+        ],
+        "correct_answer": "Encuesta."
+    },
+    {
+        "question": "¿Qué característica debe cumplir un instrumento de evaluación válido?",
+        "points": 2,
+        "options": [
+            "Medir exactamente lo que debe medir.",
+            "Proveer resultados diferentes en cada uso.",
+            "Adaptarse únicamente a metodologías cuantitativas.",
+            "Evitar la participación activa de los sujetos evaluados."
+        ],
+        "correct_answer": "Medir exactamente lo que debe medir."
+    },
+    {
+        "question": "¿Qué proceso sigue al análisis de resultados en una evaluación?",
+        "points": 2,
+        "options": [
+            "Formulación de conclusiones.",
+            "Aplicación de instrumentos cualitativos.",
+            "Recopilación de información inicial.",
+            "Revisión de objetivos a largo plazo."
+        ],
+        "correct_answer": "Formulación de conclusiones."
+    },
+    {
+        "question": "¿Qué objetivo tiene la evaluación final en las intervenciones sociales?",
+        "points": 2,
+        "options": [
+            "Recoger y analizar los resultados para determinar acciones futuras.",
+            "Describir exclusivamente los recursos disponibles.",
+            "Definir nuevas metas sin analizar los resultados previos.",
+            "Limitarse al análisis estadístico de los indicadores."
+        ],
+        "correct_answer": "Recoger y analizar los resultados para determinar acciones futuras."
+    },
+    {
+        "question": "¿Qué técnica permite describir aspectos no observables como sentimientos o pensamientos?",
+        "points": 2,
+        "options": [
+            "Entrevista.",
+            "Autoobservación.",
+            "Cuestionario cerrado.",
+            "Encuesta dirigida."
+        ],
+        "correct_answer": "Entrevista."
+    },
+    {
+        "question": "¿Qué función cumple la retroalimentación en el proceso de evaluación?",
+        "points": 2,
+        "options": [
+            "Facilitar ajustes necesarios para mejorar la intervención.",
+            "Finalizar el proceso de evaluación.",
+            "Revisar exclusivamente los aspectos positivos del proyecto.",
+            "Limitar la participación activa de los beneficiarios."
+        ],
+        "correct_answer": "Facilitar ajustes necesarios para mejorar la intervención."
+    }
+]

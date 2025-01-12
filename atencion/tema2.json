@@ -1,0 +1,222 @@
+[
+    {
+        "question": "¿Qué abarca el análisis de necesidades en el ámbito doméstico?",
+        "points": 2,
+        "options": [
+            "Las necesidades relacionadas con la gestión económica, la higiene y el mantenimiento del hogar.",
+            "La promoción de actividades culturales externas.",
+            "El desarrollo de redes de apoyo exclusivamente comunitarias.",
+            "La mejora de la comunicación a nivel escolar."
+        ],
+        "correct_answer": "Las necesidades relacionadas con la gestión económica, la higiene y el mantenimiento del hogar."
+    },
+    {
+        "question": "¿Qué objetivo tiene la determinación de necesidades de formación en las familias?",
+        "points": 2,
+        "options": [
+            "Facilitar el acceso a herramientas para desarrollar habilidades que favorezcan la autonomía.",
+            "Proveer ayuda exclusivamente económica a las familias.",
+            "Evitar la intervención directa de los servicios sociales.",
+            "Fomentar la dependencia de las familias a los recursos externos."
+        ],
+        "correct_answer": "Facilitar el acceso a herramientas para desarrollar habilidades que favorezcan la autonomía."
+    },
+    {
+        "question": "¿Qué aspecto evalúa la supervisión en la intervención familiar?",
+        "points": 2,
+        "options": [
+            "El seguimiento adecuado del plan establecido por los técnicos y las familias.",
+            "La creación de redes sociales externas.",
+            "El nivel de ingresos económicos exclusivamente.",
+            "La promoción de actividades recreativas."
+        ],
+        "correct_answer": "El seguimiento adecuado del plan establecido por los técnicos y las familias."
+    },
+    {
+        "question": "¿Qué implica la organización de los espacios en la intervención familiar?",
+        "points": 2,
+        "options": [
+            "Adaptar los entornos a las necesidades de cada miembro de la familia.",
+            "Centralizar todas las actividades en un único espacio común.",
+            "Evitar cambios estructurales en los entornos familiares.",
+            "Promover la reducción de espacios compartidos."
+        ],
+        "correct_answer": "Adaptar los entornos a las necesidades de cada miembro de la familia."
+    },
+    {
+        "question": "¿Qué objetivo tiene la planificación de recursos en las familias?",
+        "points": 2,
+        "options": [
+            "Garantizar el acceso a bienes básicos y promover el uso adecuado de los mismos.",
+            "Aumentar la dependencia hacia los servicios sociales.",
+            "Limitar el uso de recursos educativos y culturales.",
+            "Reducir la interacción de las familias con su entorno."
+        ],
+        "correct_answer": "Garantizar el acceso a bienes básicos y promover el uso adecuado de los mismos."
+    },
+    {
+        "question": "¿Qué se busca con la organización del tiempo en la intervención familiar?",
+        "points": 2,
+        "options": [
+            "Favorecer un reparto equitativo de las tareas y responsabilidades.",
+            "Promover la realización de actividades individuales.",
+            "Fomentar el uso exclusivo del tiempo libre para actividades recreativas.",
+            "Centralizar las decisiones en los adultos mayores de la familia."
+        ],
+        "correct_answer": "Favorecer un reparto equitativo de las tareas y responsabilidades."
+    },
+    {
+        "question": "¿Qué implica respetar las decisiones de cada miembro de la familia en la intervención?",
+        "points": 2,
+        "options": [
+            "Reconocer la capacidad de cada individuo para tomar decisiones sobre su vida.",
+            "Imponer soluciones estándar para todas las familias.",
+            "Delegar todas las decisiones en un único miembro de la familia.",
+            "Evitar cualquier intervención técnica o social."
+        ],
+        "correct_answer": "Reconocer la capacidad de cada individuo para tomar decisiones sobre su vida."
+    },
+    {
+        "question": "¿Qué caracteriza el trabajo en equipo interdisciplinario?",
+        "points": 2,
+        "options": [
+            "La colaboración entre profesionales de diferentes áreas para una atención integral.",
+            "La dependencia de un único profesional para todas las decisiones.",
+            "La ausencia de comunicación entre los técnicos y las familias.",
+            "La centralización de funciones en un área específica."
+        ],
+        "correct_answer": "La colaboración entre profesionales de diferentes áreas para una atención integral."
+    },
+    {
+        "question": "¿Qué es esencial para la valoración del trabajo en equipo en la intervención familiar?",
+        "points": 2,
+        "options": [
+            "Garantizar la comunicación efectiva y el respeto entre los profesionales.",
+            "Evitar compartir información entre las áreas.",
+            "Centralizar todas las decisiones en un único técnico.",
+            "Promover reuniones ocasionales y no programadas."
+        ],
+        "correct_answer": "Garantizar la comunicación efectiva y el respeto entre los profesionales."
+    },
+    {
+        "question": "¿Qué finalidad tiene la intervención basada en el respeto mutuo en la familia?",
+        "points": 2,
+        "options": [
+            "Favorecer un clima de confianza y colaboración entre los miembros.",
+            "Imponer reglas estrictas sin espacio para la negociación.",
+            "Fomentar la separación de tareas y actividades familiares.",
+            "Evitar la interacción frecuente entre los miembros."
+        ],
+        "correct_answer": "Favorecer un clima de confianza y colaboración entre los miembros."
+    },
+    {
+        "question": "¿Qué fases comprende la intervención familiar según el texto?",
+        "points": 2,
+        "options": [
+            "Detección de necesidades, planificación de la intervención, ejecución y evaluación.",
+            "Diagnóstico, intervención directa, supervisión y resolución.",
+            "Fase inicial, fase media y cierre de la intervención.",
+            "Recopilación de datos, consulta profesional y finalización."
+        ],
+        "correct_answer": "Detección de necesidades, planificación de la intervención, ejecución y evaluación."
+    },
+    {
+        "question": "¿Qué define la fase de detección de necesidades en la intervención familiar?",
+        "points": 2,
+        "options": [
+            "Identificar problemas familiares y áreas prioritarias de actuación.",
+            "Elaborar un plan de acción inmediato para solucionar problemas.",
+            "Implementar soluciones económicas para la familia.",
+            "Proponer programas recreativos para todos los miembros."
+        ],
+        "correct_answer": "Identificar problemas familiares y áreas prioritarias de actuación."
+    },
+    {
+        "question": "¿Qué aspecto es crucial en la planificación del plan de acción familiar?",
+        "points": 2,
+        "options": [
+            "La implicación activa de la familia en la toma de decisiones.",
+            "Evitar la participación de los menores en el proceso.",
+            "Centralizar todas las decisiones en el profesional encargado.",
+            "Promover únicamente soluciones inmediatas."
+        ],
+        "correct_answer": "La implicación activa de la familia en la toma de decisiones."
+    },
+    {
+        "question": "¿Qué técnica facilita la evaluación de las relaciones familiares?",
+        "points": 2,
+        "options": [
+            "El genograma.",
+            "El cronograma de Gantt.",
+            "El análisis DAFO.",
+            "La entrevista semiestructurada."
+        ],
+        "correct_answer": "El genograma."
+    },
+    {
+        "question": "¿Qué herramientas son útiles para organizar recursos familiares?",
+        "points": 2,
+        "options": [
+            "Recursos humanos, materiales y comunitarios.",
+            "Exclusivamente redes sociales y económicas.",
+            "Documentos legales y planificación financiera.",
+            "Análisis de habilidades personales sin apoyo externo."
+        ],
+        "correct_answer": "Recursos humanos, materiales y comunitarios."
+    },
+    {
+        "question": "¿Qué técnica es fundamental en la organización del tiempo durante la intervención?",
+        "points": 2,
+        "options": [
+            "El cronograma de Gantt.",
+            "El análisis cuantitativo.",
+            "La aplicación de cuestionarios grupales.",
+            "La improvisación en actividades específicas."
+        ],
+        "correct_answer": "El cronograma de Gantt."
+    },
+    {
+        "question": "¿Qué propósito tiene respetar las decisiones de cada miembro de la familia?",
+        "points": 2,
+        "options": [
+            "Fomentar la autonomía y el respeto mutuo en la familia.",
+            "Imponer reglas estrictas para evitar conflictos.",
+            "Eliminar las decisiones colectivas en las intervenciones.",
+            "Centralizar la autoridad en el miembro más experimentado."
+        ],
+        "correct_answer": "Fomentar la autonomía y el respeto mutuo en la familia."
+    },
+    {
+        "question": "¿Qué ventaja ofrece el trabajo en equipo interdisciplinario?",
+        "points": 2,
+        "options": [
+            "Favorece la atención integral a las familias.",
+            "Evita la comunicación entre profesionales.",
+            "Reduce la carga de trabajo de los técnicos.",
+            "Limita la evaluación conjunta en las intervenciones."
+        ],
+        "correct_answer": "Favorece la atención integral a las familias."
+    },
+    {
+        "question": "¿Qué rol cumple el profesional en la supervisión de la intervención?",
+        "points": 2,
+        "options": [
+            "Garantizar el cumplimiento de los objetivos y ajustes necesarios.",
+            "Evitar la intervención directa con los miembros familiares.",
+            "Proporcionar soluciones inmediatas sin seguimiento posterior.",
+            "Reducir el contacto con las familias durante el proceso."
+        ],
+        "correct_answer": "Garantizar el cumplimiento de los objetivos y ajustes necesarios."
+    },
+    {
+        "question": "¿Qué técnica es esencial para valorar el impacto de la intervención en la familia?",
+        "points": 2,
+        "options": [
+            "La entrevista de seguimiento.",
+            "El análisis de recursos económicos.",
+            "La aplicación de pruebas psicológicas avanzadas.",
+            "El desarrollo de actividades recreativas grupales."
+        ],
+        "correct_answer": "La entrevista de seguimiento."
+    }
+]

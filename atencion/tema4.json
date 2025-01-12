@@ -1,0 +1,222 @@
+[
+    {
+        "question": "¿Qué se entiende por unidad de convivencia?",
+        "points": 2,
+        "options": [
+            "Conjunto de personas que comparten un espacio físico y recursos materiales de manera habitual.",
+            "Familias nucleares que residen juntas en la misma vivienda.",
+            "Personas sin vínculo familiar que interactúan esporádicamente.",
+            "Grupos sociales organizados exclusivamente para fines laborales."
+        ],
+        "correct_answer": "Conjunto de personas que comparten un espacio físico y recursos materiales de manera habitual."
+    },
+    {
+        "question": "¿Cuál es el principio clave del modelo sistémico aplicado a las unidades de convivencia?",
+        "points": 2,
+        "options": [
+            "La interacción entre los elementos del sistema afecta al conjunto.",
+            "Las necesidades individuales prevalecen sobre las grupales.",
+            "La intervención debe ser exclusivamente individual.",
+            "El sistema debe ser completamente cerrado a influencias externas."
+        ],
+        "correct_answer": "La interacción entre los elementos del sistema afecta al conjunto."
+    },
+    {
+        "question": "¿Qué servicios básicos suelen ofrecer los centros municipales de acogida?",
+        "points": 2,
+        "options": [
+            "Manutención, higiene, vestido, alojamiento y apoyo psicosocial.",
+            "Educación avanzada, actividades recreativas y transporte gratuito.",
+            "Entrenamiento físico, servicios de asesoría legal y préstamos financieros.",
+            "Atención médica especializada y distribución de medicamentos."
+        ],
+        "correct_answer": "Manutención, higiene, vestido, alojamiento y apoyo psicosocial."
+    },
+    {
+        "question": "¿Qué diferencia la intervención en la unidad de convivencia respecto a la intervención familiar?",
+        "points": 2,
+        "options": [
+            "Se centra más en las necesidades individuales.",
+            "Incluye únicamente servicios residenciales.",
+            "Excluye la valoración grupal de los integrantes.",
+            "Ignora las dinámicas relacionales de los miembros."
+        ],
+        "correct_answer": "Se centra más en las necesidades individuales."
+    },
+    {
+        "question": "¿Qué técnicas se utilizan para el análisis de datos en la intervención en unidades de convivencia?",
+        "points": 2,
+        "options": [
+            "Programas informáticos específicos como SPSS o Excel.",
+            "Herramientas manuales exclusivamente.",
+            "Encuestas análogas y entrevistas abiertas únicamente.",
+            "Métodos de observación no estructurada."
+        ],
+        "correct_answer": "Programas informáticos específicos como SPSS o Excel."
+    },
+    {
+        "question": "¿Qué fases conforman el diseño de la intervención en una unidad de convivencia?",
+        "points": 2,
+        "options": [
+            "Valoración inicial, programación, ejecución y evaluación.",
+            "Diagnóstico, intervención directa y supervisión.",
+            "Identificación de necesidades, provisión de recursos y cierre.",
+            "Observación, análisis social y finalización."
+        ],
+        "correct_answer": "Valoración inicial, programación, ejecución y evaluación."
+    },
+    {
+        "question": "¿Qué elemento clave debe incluir la programación de la intervención en un centro de acogida?",
+        "points": 2,
+        "options": [
+            "Planificación de actividades ajustadas a las necesidades y objetivos individuales.",
+            "Limitación en el acceso a recursos compartidos.",
+            "Centralización de decisiones en los profesionales únicamente.",
+            "Distribución uniforme de responsabilidades sin diferenciación."
+        ],
+        "correct_answer": "Planificación de actividades ajustadas a las necesidades y objetivos individuales."
+    },
+    {
+        "question": "¿Qué enfoque propone la teoría ecológica en la intervención social?",
+        "points": 2,
+        "options": [
+            "La adaptación recíproca entre el individuo y su entorno.",
+            "El aislamiento del sistema frente a influencias externas.",
+            "La eliminación de estresores a través de recursos exclusivos.",
+            "La implementación de reglas inflexibles en el sistema."
+        ],
+        "correct_answer": "La adaptación recíproca entre el individuo y su entorno."
+    },
+    {
+        "question": "¿Qué técnicas deben dominar los TISOC para mantener una buena relación con las unidades de convivencia?",
+        "points": 2,
+        "options": [
+            "Escucha activa, comunicación verbal y no verbal, y retroalimentación.",
+            "Establecimiento de jerarquías claras dentro del grupo.",
+            "Prohibición de relaciones interpersonales cercanas.",
+            "Uso exclusivo de protocolos automatizados."
+        ],
+        "correct_answer": "Escucha activa, comunicación verbal y no verbal, y retroalimentación."
+    },
+    {
+        "question": "¿Qué es un sistema abierto en el modelo sistémico?",
+        "points": 2,
+        "options": [
+            "Aquel que comparte intercambios de información con el entorno.",
+            "Un sistema que opera de forma independiente al medio.",
+            "Un modelo basado únicamente en relaciones internas.",
+            "Un sistema que limita los cambios a largo plazo."
+        ],
+        "correct_answer": "Aquel que comparte intercambios de información con el entorno."
+    },
+    {
+        "question": "¿Qué define el concepto de unidad de convivencia?",
+        "points": 2,
+        "options": [
+            "Un conjunto de personas que comparten un espacio físico y establecen vínculos sociales y afectivos.",
+            "Familias nucleares que residen en la misma vivienda.",
+            "Personas que conviven esporádicamente por motivos laborales.",
+            "Grupos homogéneos de individuos que comparten únicamente intereses económicos."
+        ],
+        "correct_answer": "Un conjunto de personas que comparten un espacio físico y establecen vínculos sociales y afectivos."
+    },
+    {
+        "question": "¿Cuál es una de las características básicas de las unidades de convivencia?",
+        "points": 2,
+        "options": [
+            "Vínculos relacionales y afectivos estables entre sus miembros.",
+            "Jerarquías estrictas entre los integrantes.",
+            "Interacción limitada a actividades recreativas.",
+            "Falta de control social entre los miembros."
+        ],
+        "correct_answer": "Vínculos relacionales y afectivos estables entre sus miembros."
+    },
+    {
+        "question": "¿Qué se entiende por sistemas abiertos en el modelo sistémico?",
+        "points": 2,
+        "options": [
+            "Sistemas que mantienen fronteras abiertas al entorno e intercambian información.",
+            "Sistemas que se aíslan completamente de su entorno.",
+            "Sistemas que operan únicamente en contextos familiares cerrados.",
+            "Sistemas con dinámicas preestablecidas y rígidas."
+        ],
+        "correct_answer": "Sistemas que mantienen fronteras abiertas al entorno e intercambian información."
+    },
+    {
+        "question": "¿Qué propone la teoría de la comunicación humana de Watzlawick?",
+        "points": 2,
+        "options": [
+            "La comunicación es inevitable y todos los intercambios son simétricos o complementarios.",
+            "La comunicación es opcional y depende de las secuencias individuales.",
+            "La interacción se centra únicamente en aspectos verbales.",
+            "Los intercambios comunicativos son siempre jerárquicos."
+        ],
+        "correct_answer": "La comunicación es inevitable y todos los intercambios son simétricos o complementarios."
+    },
+    {
+        "question": "¿Qué debe garantizarse en el diseño de la intervención en la unidad de convivencia?",
+        "points": 2,
+        "options": [
+            "La atención tanto a las necesidades individuales como grupales.",
+            "La exclusión de recursos comunitarios externos.",
+            "La intervención exclusivamente en un entorno institucional.",
+            "El desarrollo de estrategias únicas para todas las personas."
+        ],
+        "correct_answer": "La atención tanto a las necesidades individuales como grupales."
+    },
+    {
+        "question": "¿Qué elemento es clave en la presentación inicial en una unidad de convivencia?",
+        "points": 2,
+        "options": [
+            "La introducción del nuevo miembro mediante dinámicas de grupo.",
+            "La exclusión de los miembros actuales durante el proceso.",
+            "La explicación de las normas por parte de los técnicos únicamente.",
+            "La evaluación inmediata del rendimiento del nuevo integrante."
+        ],
+        "correct_answer": "La introducción del nuevo miembro mediante dinámicas de grupo."
+    },
+    {
+        "question": "¿Qué rol cumple el técnico en integración social en las unidades de convivencia?",
+        "points": 2,
+        "options": [
+            "Diseñar itinerarios personales de intervención para prevenir la exclusión social.",
+            "Limitarse a la supervisión administrativa de las intervenciones.",
+            "Centralizar todas las decisiones en el equipo interdisciplinario.",
+            "Evitar participar directamente en la planificación de actividades."
+        ],
+        "correct_answer": "Diseñar itinerarios personales de intervención para prevenir la exclusión social."
+    },
+    {
+        "question": "¿Qué habilidades debe poseer el técnico en integración social según Carl Rogers?",
+        "points": 2,
+        "options": [
+            "Empatía, escucha activa y comunicación asertiva.",
+            "Toma de decisiones rápidas y capacidad de liderazgo jerárquico.",
+            "Evitar conflictos emocionales y mantener una actitud neutral.",
+            "Habilidad para imponer reglas estrictas en todas las situaciones."
+        ],
+        "correct_answer": "Empatía, escucha activa y comunicación asertiva."
+    },
+    {
+        "question": "¿Qué enfoque metodológico se utiliza en la intervención en unidades de convivencia?",
+        "points": 2,
+        "options": [
+            "Planificación centrada en la persona.",
+            "Estrategias de control jerárquico.",
+            "Modelos rígidos de interacción.",
+            "Estrategias homogéneas para todos los integrantes."
+        ],
+        "correct_answer": "Planificación centrada en la persona."
+    },
+    {
+        "question": "¿Qué objetivo tiene la evaluación conjunta en las unidades de convivencia?",
+        "points": 2,
+        "options": [
+            "Valorar la adaptación y habilidades de los miembros desde su experiencia directa.",
+            "Definir nuevas normas de convivencia para todo el grupo.",
+            "Imponer sanciones por conductas inadecuadas.",
+            "Centralizar las decisiones en los técnicos sin consultar a los miembros."
+        ],
+        "correct_answer": "Valorar la adaptación y habilidades de los miembros desde su experiencia directa."
+    }
+]

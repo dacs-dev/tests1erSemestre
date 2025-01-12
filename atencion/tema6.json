@@ -1,0 +1,222 @@
+[
+    {
+        "question": "¿Qué áreas suelen incluir las actividades de intervención en unidades de convivencia?",
+        "points": 2,
+        "options": [
+            "Gestión doméstica y domiciliaria, apoyo emocional y ocupación del tiempo libre.",
+            "Educación formal, servicios jurídicos y asesoramiento financiero.",
+            "Planificación de infraestructura, actividades recreativas externas y política social.",
+            "Exclusivamente tareas de limpieza y cuidado de menores."
+        ],
+        "correct_answer": "Gestión doméstica y domiciliaria, apoyo emocional y ocupación del tiempo libre."
+    },
+    {
+        "question": "¿Qué objetivo tienen las actividades de gestión doméstica en la intervención?",
+        "points": 2,
+        "options": [
+            "Prevenir la exclusión social y desarrollar la convivencia.",
+            "Centralizar las responsabilidades en el profesional encargado.",
+            "Imponer rutinas estrictas y uniformes para todas las familias.",
+            "Limitar el acceso a servicios externos a través de supervisión constante."
+        ],
+        "correct_answer": "Prevenir la exclusión social y desarrollar la convivencia."
+    },
+    {
+        "question": "¿Qué incluye la gestión económica en las unidades de convivencia?",
+        "points": 2,
+        "options": [
+            "Elaboración de presupuestos, control del gasto y educación financiera.",
+            "Distribución equitativa de ingresos entre los miembros.",
+            "Planificación de inversiones a largo plazo.",
+            "Creación de fondos exclusivos para proyectos externos."
+        ],
+        "correct_answer": "Elaboración de presupuestos, control del gasto y educación financiera."
+    },
+    {
+        "question": "¿Qué proporción de energía debe provenir de los glúcidos en una dieta equilibrada?",
+        "points": 2,
+        "options": [
+            "55-60%.",
+            "45-50%.",
+            "30-35%.",
+            "65-70%."
+        ],
+        "correct_answer": "55-60%."
+    },
+    {
+        "question": "¿Qué elemento clave debe considerarse al planificar actividades de intervención?",
+        "points": 2,
+        "options": [
+            "Las capacidades y características específicas de cada miembro.",
+            "La centralización de todas las actividades en un único formato.",
+            "El tiempo exclusivamente disponible para los técnicos responsables.",
+            "El uso de materiales estandarizados para todas las intervenciones."
+        ],
+        "correct_answer": "Las capacidades y características específicas de cada miembro."
+    },
+    {
+        "question": "¿Qué tipo de alimentos deben priorizarse en una dieta equilibrada según el texto?",
+        "points": 2,
+        "options": [
+            "Aquellos con un alto contenido de hidratos de carbono complejos.",
+            "Productos procesados que ofrezcan energía inmediata.",
+            "Únicamente alimentos ricos en lípidos.",
+            "Carnes rojas y derivados lácteos exclusivamente."
+        ],
+        "correct_answer": "Aquellos con un alto contenido de hidratos de carbono complejos."
+    },
+    {
+        "question": "¿Qué técnica es esencial para evitar el desperdicio de alimentos almacenados?",
+        "points": 2,
+        "options": [
+            "Colocar productos a punto de caducar en lugares visibles.",
+            "Limitar la compra semanal a alimentos no perecederos.",
+            "Almacenar todos los productos juntos independientemente de su uso.",
+            "Congelar todo tipo de productos sin revisar las etiquetas."
+        ],
+        "correct_answer": "Colocar productos a punto de caducar en lugares visibles."
+    },
+    {
+        "question": "¿Qué define la educación emocional en el contexto de las unidades de convivencia?",
+        "points": 2,
+        "options": [
+            "El desarrollo de competencias emocionales para afrontar retos cotidianos.",
+            "El aprendizaje de habilidades técnicas para la gestión de conflictos.",
+            "La promoción de actividades recreativas externas exclusivamente.",
+            "La eliminación de emociones negativas mediante métodos terapéuticos."
+        ],
+        "correct_answer": "El desarrollo de competencias emocionales para afrontar retos cotidianos."
+    },
+    {
+        "question": "¿Qué tipo de afrontamiento incluye actividades orientadas a modificar problemas?",
+        "points": 2,
+        "options": [
+            "Afrontamiento dirigido a la acción.",
+            "Afrontamiento emocional.",
+            "Afrontamiento pasivo.",
+            "Afrontamiento reactivo."
+        ],
+        "correct_answer": "Afrontamiento dirigido a la acción."
+    },
+    {
+        "question": "¿Qué objetivo tiene el diseño de actividades para las unidades de convivencia?",
+        "points": 2,
+        "options": [
+            "Fomentar la autonomía y la capacidad de resolución de problemas.",
+            "Mantener la dependencia de los servicios externos.",
+            "Centralizar todas las responsabilidades en el profesional encargado.",
+            "Estandarizar las intervenciones para todas las unidades."
+        ],
+        "correct_answer": "Fomentar la autonomía y la capacidad de resolución de problemas."
+    },
+    {
+        "question": "¿Qué áreas abarca la gestión doméstica y domiciliaria en la intervención?",
+        "points": 2,
+        "options": [
+            "Alimentación, economía, mantenimiento del hogar y ocupación del tiempo libre.",
+            "Educación formal, apoyo psicológico y actividades recreativas externas.",
+            "Asesoramiento financiero exclusivamente.",
+            "Reducción de actividades grupales."
+        ],
+        "correct_answer": "Alimentación, economía, mantenimiento del hogar y ocupación del tiempo libre."
+    },
+    {
+        "question": "¿Cuál es el objetivo principal de las actividades diseñadas en la unidad de convivencia?",
+        "points": 2,
+        "options": [
+            "Fomentar la autonomía y reducir la dependencia de recursos externos.",
+            "Centralizar todas las responsabilidades en los técnicos.",
+            "Limitar las actividades a tareas estrictamente domiciliarias.",
+            "Estandarizar las actividades para todas las familias."
+        ],
+        "correct_answer": "Fomentar la autonomía y reducir la dependencia de recursos externos."
+    },
+    {
+        "question": "¿Qué porcentaje de la dieta debe estar compuesto por proteínas?",
+        "points": 2,
+        "options": [
+            "10-15%.",
+            "20-25%.",
+            "30-35%.",
+            "5-10%."
+        ],
+        "correct_answer": "10-15%."
+    },
+    {
+        "question": "¿Qué técnica es eficaz para almacenar alimentos y evitar desperdicios?",
+        "points": 2,
+        "options": [
+            "Colocar alimentos próximos a caducar en lugares visibles.",
+            "Congelar todos los productos sin importar su fecha de caducidad.",
+            "Almacenar alimentos perecederos junto con los no perecederos.",
+            "Evitar la compra de productos frescos."
+        ],
+        "correct_answer": "Colocar alimentos próximos a caducar en lugares visibles."
+    },
+    {
+        "question": "¿Qué debe priorizarse en la planificación de actividades?",
+        "points": 2,
+        "options": [
+            "Las características y capacidades específicas de los miembros de la unidad.",
+            "La uniformidad en los métodos utilizados.",
+            "La reducción de tareas para simplificar el proceso.",
+            "El uso exclusivo de herramientas digitales."
+        ],
+        "correct_answer": "Las características y capacidades específicas de los miembros de la unidad."
+    },
+    {
+        "question": "¿Qué tipo de afrontamiento incluye estrategias para modificar el problema?",
+        "points": 2,
+        "options": [
+            "Afrontamiento dirigido a la acción.",
+            "Afrontamiento pasivo.",
+            "Afrontamiento emocional.",
+            "Afrontamiento reactivo."
+        ],
+        "correct_answer": "Afrontamiento dirigido a la acción."
+    },
+    {
+        "question": "¿Qué se busca con la educación emocional en las unidades de convivencia?",
+        "points": 2,
+        "options": [
+            "Desarrollar competencias emocionales para afrontar retos cotidianos.",
+            "Fomentar la dependencia emocional hacia los profesionales.",
+            "Promover actividades exclusivamente recreativas.",
+            "Eliminar emociones negativas de forma inmediata."
+        ],
+        "correct_answer": "Desarrollar competencias emocionales para afrontar retos cotidianos."
+    },
+    {
+        "question": "¿Qué estrategia es clave en la gestión económica de la unidad?",
+        "points": 2,
+        "options": [
+            "Elaborar presupuestos y controlar los gastos.",
+            "Reducir gastos en áreas esenciales.",
+            "Aumentar el uso de recursos no planificados.",
+            "Limitar la planificación económica a ingresos altos."
+        ],
+        "correct_answer": "Elaborar presupuestos y controlar los gastos."
+    },
+    {
+        "question": "¿Qué objetivo tiene la ocupación del tiempo libre en las unidades?",
+        "points": 2,
+        "options": [
+            "Promover actividades que favorezcan el desarrollo personal y social.",
+            "Evitar la interacción grupal entre los miembros.",
+            "Reducir las opciones recreativas para simplificar la intervención.",
+            "Priorizar actividades exclusivamente físicas."
+        ],
+        "correct_answer": "Promover actividades que favorezcan el desarrollo personal y social."
+    },
+    {
+        "question": "¿Qué función tiene la planificación familiar en la intervención?",
+        "points": 2,
+        "options": [
+            "Proveer orientación y apoyo para mejorar la calidad de vida de los integrantes.",
+            "Establecer reglas estrictas para todos los miembros.",
+            "Reducir las interacciones familiares a lo esencial.",
+            "Promover únicamente la educación financiera."
+        ],
+        "correct_answer": "Proveer orientación y apoyo para mejorar la calidad de vida de los integrantes."
+    }
+]

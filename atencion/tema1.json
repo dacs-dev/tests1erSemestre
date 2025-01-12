@@ -108,5 +108,281 @@
             "La consulta a servicios externos."
         ],
         "correct_answer": "El contrato."
+    },
+    {
+        "question": "¿Qué caracteriza a la familia extensa?",
+        "points": 2,
+        "options": [
+            "Está formada por varias generaciones, como abuelos, tíos, primos y otros parientes.",
+            "Incluye exclusivamente a los padres y sus hijos.",
+            "Se limita a un único adulto a cargo de menores.",
+            "Agrupa a dos adultos sin ningún vínculo previo."
+        ],
+        "correct_answer": "Está formada por varias generaciones, como abuelos, tíos, primos y otros parientes."
+    },
+    {
+        "question": "¿Qué define a la familia monoparental?",
+        "points": 2,
+        "options": [
+            "Un único adulto asume la crianza de uno o varios menores.",
+            "Se compone exclusivamente por parejas sin hijos.",
+            "Incluye adultos con vínculos de parentesco múltiple.",
+            "Integra hijos de relaciones anteriores con nuevos cónyuges."
+        ],
+        "correct_answer": "Un único adulto asume la crianza de uno o varios menores."
+    },
+    {
+        "question": "¿Cuál es el objetivo principal de la intervención familiar en los servicios sociales?",
+        "points": 2,
+        "options": [
+            "Promover la autonomía y el desarrollo integral de la familia.",
+            "Ofrecer ayuda económica sin supervisión.",
+            "Reducir los conflictos internos a través de la separación.",
+            "Centralizar el control en las instituciones sociales."
+        ],
+        "correct_answer": "Promover la autonomía y el desarrollo integral de la familia."
+    },
+    {
+        "question": "¿Qué aspecto se analiza en el diagnóstico social de una familia?",
+        "points": 2,
+        "options": [
+            "La estructura familiar, sus funciones y problemas.",
+            "La edad promedio de los miembros de la familia.",
+            "La cantidad de bienes materiales disponibles.",
+            "Las relaciones comerciales entre los adultos."
+        ],
+        "correct_answer": "La estructura familiar, sus funciones y problemas."
+    },
+    {
+        "question": "¿Qué enfoque adopta el modelo sistémico en la intervención familiar?",
+        "points": 2,
+        "options": [
+            "Aborda la familia como un sistema donde los cambios en un miembro afectan a los demás.",
+            "Se concentra exclusivamente en los problemas individuales.",
+            "Fomenta la intervención únicamente desde un enfoque económico.",
+            "Ignora las dinámicas internas de la familia."
+        ],
+        "correct_answer": "Aborda la familia como un sistema donde los cambios en un miembro afectan a los demás."
+    },
+    {
+        "question": "¿Qué caracteriza al genograma como herramienta de intervención familiar?",
+        "points": 2,
+        "options": [
+            "Es un esquema gráfico que recoge la estructura familiar y sus relaciones.",
+            "Es un cuestionario que mide los ingresos económicos.",
+            "Es un contrato que define las responsabilidades de los miembros.",
+            "Es un informe narrativo que detalla las habilidades individuales."
+        ],
+        "correct_answer": "Es un esquema gráfico que recoge la estructura familiar y sus relaciones."
+    },
+    {
+        "question": "¿Qué acción se recomienda para mejorar la comunicación en las familias?",
+        "points": 2,
+        "options": [
+            "Fomentar el diálogo respetuoso y la escucha activa.",
+            "Evitar tratar los problemas para reducir tensiones.",
+            "Mantener la interacción exclusivamente en actividades laborales.",
+            "Centrarse en las críticas hacia los miembros más jóvenes."
+        ],
+        "correct_answer": "Fomentar el diálogo respetuoso y la escucha activa."
+    },
+    {
+        "question": "¿Qué estrategia se aplica en el modelo de resiliencia familiar?",
+        "points": 2,
+        "options": [
+            "Fortalecer la capacidad de la familia para adaptarse a situaciones adversas.",
+            "Proveer soluciones externas a todos los problemas.",
+            "Promover la dependencia en los servicios sociales.",
+            "Centralizar las decisiones en los miembros más jóvenes."
+        ],
+        "correct_answer": "Fortalecer la capacidad de la familia para adaptarse a situaciones adversas."
+    },
+    {
+        "question": "¿Qué elemento es fundamental en el contrato de intervención familiar?",
+        "points": 2,
+        "options": [
+            "Definir los objetivos y compromisos de los miembros de la familia.",
+            "Establecer sanciones económicas por incumplimientos.",
+            "Identificar exclusivamente los problemas económicos.",
+            "Eliminar las responsabilidades de los miembros adultos."
+        ],
+        "correct_answer": "Definir los objetivos y compromisos de los miembros de la familia."
+    },
+    {
+        "question": "¿Qué implica la función socializadora de la familia?",
+        "points": 2,
+        "options": [
+            "Transmitir valores, normas y habilidades sociales a sus miembros.",
+            "Proveer únicamente apoyo económico a los hijos.",
+            "Fomentar la independencia absoluta desde la infancia.",
+            "Garantizar un control rígido sobre las decisiones individuales."
+        ],
+        "correct_answer": "Transmitir valores, normas y habilidades sociales a sus miembros."
+    },
+    {
+        "question": "¿Qué caracteriza al modelo centrado en soluciones en la intervención familiar?",
+        "points": 2,
+        "options": [
+            "Se enfoca en las fortalezas y capacidades de la familia para resolver problemas.",
+            "Busca analizar únicamente las causas de los conflictos.",
+            "Plantea soluciones a largo plazo sin involucrar a los miembros.",
+            "Promueve el distanciamiento emocional entre los familiares."
+        ],
+        "correct_answer": "Se enfoca en las fortalezas y capacidades de la familia para resolver problemas."
+    },
+    {
+        "question": "¿Qué función tiene el análisis DAFO en el contexto familiar?",
+        "points": 2,
+        "options": [
+            "Identificar fortalezas, debilidades, oportunidades y amenazas en la familia.",
+            "Establecer jerarquías de poder entre los miembros.",
+            "Cuantificar los recursos materiales de los hogares.",
+            "Medir exclusivamente los niveles de comunicación."
+        ],
+        "correct_answer": "Identificar fortalezas, debilidades, oportunidades y amenazas en la familia."
+    },
+    {
+        "question": "¿Qué aspecto diferencia a una familia reconstituida?",
+        "points": 2,
+        "options": [
+            "Está compuesta por dos adultos que aportan hijos de relaciones anteriores.",
+            "Se centra en un único adulto como figura parental.",
+            "Incluye exclusivamente a parientes lejanos.",
+            "Se compone por generaciones múltiples sin integración externa."
+        ],
+        "correct_answer": "Está compuesta por dos adultos que aportan hijos de relaciones anteriores."
+    },
+    {
+        "question": "¿Qué recurso es útil para evaluar las redes de apoyo familiar?",
+        "points": 2,
+        "options": [
+            "El ecomapa.",
+            "El genograma.",
+            "El contrato de intervención.",
+            "El análisis de conflictos."
+        ],
+        "correct_answer": "El ecomapa."
+    },
+    {
+        "question": "¿Qué caracteriza la estructura familiar flexible?",
+        "points": 2,
+        "options": [
+            "Permite adaptarse a los cambios y resolver problemas con mayor facilidad.",
+            "Mantiene roles rígidos e inalterables entre los miembros.",
+            "Prohíbe cualquier modificación en la distribución de responsabilidades.",
+            "Rechaza la colaboración con redes externas de apoyo."
+        ],
+        "correct_answer": "Permite adaptarse a los cambios y resolver problemas con mayor facilidad."
+    },
+    {
+        "question": "¿Qué implica la planificación de la intervención en familias?",
+        "points": 2,
+        "options": [
+            "Detectar necesidades, planificar, ejecutar y evaluar las acciones.",
+            "Centrarse exclusivamente en resolver problemas económicos.",
+            "Aplicar soluciones únicas para todas las familias.",
+            "Fomentar la dependencia de los servicios sociales."
+        ],
+        "correct_answer": "Detectar necesidades, planificar, ejecutar y evaluar las acciones."
+    },
+    {
+        "question": "¿Qué función se considera esencial en la familia según el texto?",
+        "points": 2,
+        "options": [
+            "La función socializadora.",
+            "La función exclusivamente económica.",
+            "La función recreativa.",
+            "La función de control político."
+        ],
+        "correct_answer": "La función socializadora."
+    },
+    {
+        "question": "¿Qué papel tienen las familias en la socialización de los niños según Berger y Luckmann?",
+        "points": 2,
+        "options": [
+            "Son la primera agencia de socialización.",
+            "Crean valores únicos para cada sociedad.",
+            "Solo influyen en la etapa adulta.",
+            "Dependen completamente de las escuelas para socializar."
+        ],
+        "correct_answer": "Son la primera agencia de socialización."
+    },
+    {
+        "question": "¿Qué define la etapa de expansión en el ciclo vital familiar?",
+        "points": 2,
+        "options": [
+            "La llegada de hijos y la adaptación a nuevas responsabilidades.",
+            "La relación inicial entre la pareja.",
+            "El momento en que los hijos dejan el hogar.",
+            "El inicio de los conflictos económicos en la familia."
+        ],
+        "correct_answer": "La llegada de hijos y la adaptación a nuevas responsabilidades."
+    },
+    {
+        "question": "¿Qué objetivo tienen los Servicios Sociales Comunitarios?",
+        "points": 2,
+        "options": [
+            "Proveer apoyo a familias en situaciones de necesidad.",
+            "Fomentar la independencia total de las familias.",
+            "Eliminar las intervenciones comunitarias.",
+            "Centrarse solo en recursos materiales."
+        ],
+        "correct_answer": "Proveer apoyo a familias en situaciones de necesidad."
+    },
+    {
+        "question": "¿Qué herramienta analiza las relaciones familiares y sociales de una familia?",
+        "points": 2,
+        "options": [
+            "El genograma.",
+            "El análisis DAFO.",
+            "El informe socioeconómico.",
+            "El diagnóstico escolar."
+        ],
+        "correct_answer": "El genograma."
+    },
+    {
+        "question": "¿Qué enfoque utiliza el modelo sistémico en intervención familiar?",
+        "points": 2,
+        "options": [
+            "Analiza la interacción entre los miembros y el entorno.",
+            "Se enfoca únicamente en los aspectos económicos.",
+            "Ignora las dinámicas internas de la familia.",
+            "Promueve soluciones estándar para todas las familias."
+        ],
+        "correct_answer": "Analiza la interacción entre los miembros y el entorno."
+    },
+    {
+        "question": "¿Qué aspecto es clave en el modelo ecológico aplicado a las familias?",
+        "points": 2,
+        "options": [
+            "La influencia del entorno en el desarrollo personal y relacional.",
+            "La evaluación exclusiva de los problemas económicos.",
+            "La eliminación de las relaciones familiares conflictivas.",
+            "La intervención inmediata sin análisis previo."
+        ],
+        "correct_answer": "La influencia del entorno en el desarrollo personal y relacional."
+    },
+    {
+        "question": "¿Qué significa trabajar con habilidades de crianza positiva?",
+        "points": 2,
+        "options": [
+            "Fomentar el cuidado propio de los padres y la estabilidad emocional.",
+            "Aplicar técnicas de control estricto sobre los hijos.",
+            "Evitar la comunicación entre padres e hijos.",
+            "Fomentar exclusivamente el éxito académico de los niños."
+        ],
+        "correct_answer": "Fomentar el cuidado propio de los padres y la estabilidad emocional."
+    },
+    {
+        "question": "¿Qué papel debe desempeñar un técnico superior en integración social?",
+        "points": 2,
+        "options": [
+            "Aplicar estrategias que promuevan la igualdad y el respeto.",
+            "Proveer soluciones rápidas y genéricas.",
+            "Evitar involucrarse emocionalmente con las familias.",
+            "Centrarse exclusivamente en evaluar aspectos económicos."
+        ],
+        "correct_answer": "Aplicar estrategias que promuevan la igualdad y el respeto."
     }
+    
 ]

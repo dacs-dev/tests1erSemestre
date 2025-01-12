@@ -1,0 +1,167 @@
+[
+    {
+        "question": "¿Qué tipos de evaluación se consideran según el momento en la intervención?",
+        "points": 2,
+        "options": [
+            "Evaluación inicial, formativa y final.",
+            "Evaluación diagnóstica y de seguimiento.",
+            "Evaluación cualitativa y cuantitativa.",
+            "Evaluación individual y grupal."
+        ],
+        "correct_answer": "Evaluación inicial, formativa y final."
+    },
+    {
+        "question": "¿Qué incluye la evaluación inicial en un proyecto de intervención?",
+        "points": 2,
+        "options": [
+            "La evaluación de necesidades y el diseño del proyecto.",
+            "El análisis de resultados.",
+            "La revisión de indicadores ya establecidos.",
+            "La recopilación de datos exclusivamente cuantitativos."
+        ],
+        "correct_answer": "La evaluación de necesidades y el diseño del proyecto."
+    },
+    {
+        "question": "¿Qué tipo de evaluación se corresponde con la evaluación del proceso?",
+        "points": 2,
+        "options": [
+            "Evaluación formativa.",
+            "Evaluación inicial.",
+            "Evaluación de diseño.",
+            "Evaluación final."
+        ],
+        "correct_answer": "Evaluación formativa."
+    },
+    {
+        "question": "¿Qué papel tienen los indicadores en la evaluación de la intervención?",
+        "points": 2,
+        "options": [
+            "Permiten medir de forma clara, objetiva y verificable los avances.",
+            "Limitar el análisis a datos cuantitativos exclusivamente.",
+            "Reemplazar la valoración subjetiva de los participantes.",
+            "Reducir la participación activa de la unidad de convivencia."
+        ],
+        "correct_answer": "Permiten medir de forma clara, objetiva y verificable los avances."
+    },
+    {
+        "question": "¿Qué técnicas se emplean para registrar datos en la evaluación?",
+        "points": 2,
+        "options": [
+            "Cuestionarios, entrevistas y hojas de asistencia.",
+            "Observación no estructurada únicamente.",
+            "Análisis documental exclusivo.",
+            "Encuestas manuales sin sistematización."
+        ],
+        "correct_answer": "Cuestionarios, entrevistas y hojas de asistencia."
+    },
+    {
+        "question": "¿Qué elementos son fundamentales en la elaboración de un informe de evaluación?",
+        "points": 2,
+        "options": [
+            "El análisis de datos, las conclusiones y las recomendaciones.",
+            "La descripción general de la intervención sin detalle.",
+            "La recopilación de datos exclusivamente estadísticos.",
+            "El uso de términos técnicos sin justificación clara."
+        ],
+        "correct_answer": "El análisis de datos, las conclusiones y las recomendaciones."
+    },
+    {
+        "question": "¿Qué utilidad tiene la evaluación final en el proceso de intervención?",
+        "points": 2,
+        "options": [
+            "Valorar los resultados obtenidos y su impacto.",
+            "Redefinir el diagnóstico inicial.",
+            "Centralizar la toma de decisiones en los técnicos.",
+            "Evitar realizar ajustes en futuras intervenciones."
+        ],
+        "correct_answer": "Valorar los resultados obtenidos y su impacto."
+    },
+    {
+        "question": "¿Qué recurso se recomienda para analizar datos cuantitativos?",
+        "points": 2,
+        "options": [
+            "Programas estadísticos como SPSS o Excel.",
+            "Herramientas manuales exclusivamente.",
+            "Análisis de encuestas abiertas únicamente.",
+            "Métodos basados en observación informal."
+        ],
+        "correct_answer": "Programas estadísticos como SPSS o Excel."
+    },
+    {
+        "question": "¿Qué objetivo tiene la selección de instrumentos de evaluación?",
+        "points": 2,
+        "options": [
+            "Garantizar que la información recogida sea relevante y útil.",
+            "Estandarizar las herramientas sin considerar las particularidades.",
+            "Limitar el análisis a resultados previamente esperados.",
+            "Reducir la participación activa de los beneficiarios."
+        ],
+        "correct_answer": "Garantizar que la información recogida sea relevante y útil."
+    },
+    {
+        "question": "¿Qué herramienta permite analizar la satisfacción de los participantes?",
+        "points": 2,
+        "options": [
+            "Cuestionarios de satisfacción.",
+            "Informes narrativos exclusivos.",
+            "Hojas de observación no estructurada.",
+            "Grabaciones audiovisuales sin análisis."
+        ],
+        "correct_answer": "Cuestionarios de satisfacción."
+    },
+    {
+        "question": "¿Qué aspecto debe respetarse al registrar los datos en una evaluación?",
+        "points": 2,
+        "options": [
+            "Cumplir con los criterios de privacidad y confidencialidad.",
+            "Centralizar la información en un único soporte.",
+            "Evitar el uso de tecnologías modernas.",
+            "Registrar exclusivamente datos numéricos."
+        ],
+        "correct_answer": "Cumplir con los criterios de privacidad y confidencialidad."
+    },
+    {
+        "question": "¿Qué facilita el análisis de datos cualitativos?",
+        "points": 2,
+        "options": [
+            "Programas como NUD*IST, ATLAS.ti o MAXQDA.",
+            "Hojas de cálculo como Excel.",
+            "Encuestas exclusivamente manuales.",
+            "Métodos no sistematizados."
+        ],
+        "correct_answer": "Programas como NUD*IST, ATLAS.ti o MAXQDA."
+    },
+    {
+        "question": "¿Qué función tiene la evaluación como recurso en la intervención?",
+        "points": 2,
+        "options": [
+            "Mejorar la calidad del proceso y guiar futuras decisiones.",
+            "Justificar exclusivamente el uso de recursos asignados.",
+            "Evitar la realización de ajustes innecesarios.",
+            "Centralizar todas las decisiones en los técnicos."
+        ],
+        "correct_answer": "Mejorar la calidad del proceso y guiar futuras decisiones."
+    },
+    {
+        "question": "¿Qué herramienta puede usarse para registrar observaciones informales?",
+        "points": 2,
+        "options": [
+            "Un anecdotario.",
+            "Hojas de cálculo.",
+            "Grabaciones exclusivamente audiovisuales.",
+            "Métodos narrativos exclusivamente técnicos."
+        ],
+        "correct_answer": "Un anecdotario."
+    },
+    {
+        "question": "¿Qué papel desempeña la familia en la evaluación de la intervención?",
+        "points": 2,
+        "options": [
+            "Colaborar en todas las fases del proceso, desde la planificación hasta la valoración final.",
+            "Observar de manera pasiva los resultados obtenidos.",
+            "Actuar únicamente como receptores de los resultados.",
+            "Evitar involucrarse en el establecimiento de indicadores."
+        ],
+        "correct_answer": "Colaborar en todas las fases del proceso, desde la planificación hasta la valoración final."
+    }
+]
