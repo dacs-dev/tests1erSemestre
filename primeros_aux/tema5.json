@@ -1,0 +1,222 @@
+[
+    {
+        "question": "¿Qué son los primeros auxilios psicológicos?",
+        "points": 2,
+        "options": [
+            "Una intervención breve y rápida para apoyar y rescatar a la víctima, restableciendo su estabilidad emocional.",
+            "Un tratamiento prolongado dirigido por psicólogos para tratar traumas complejos.",
+            "Una guía de apoyo para realizar intervenciones médicas.",
+            "Un método para diagnosticar enfermedades mentales en emergencias."
+        ],
+        "correct_answer": "Una intervención breve y rápida para apoyar y rescatar a la víctima, restableciendo su estabilidad emocional."
+    },
+    {
+        "question": "¿Qué objetivo tienen los primeros auxilios psicológicos?",
+        "points": 2,
+        "options": [
+            "Aliviar inmediatamente los síntomas de reacción.",
+            "Proporcionar tratamientos farmacológicos avanzados.",
+            "Evitar la comunicación entre la víctima y sus familiares.",
+            "Fomentar la dependencia emocional de la víctima."
+        ],
+        "correct_answer": "Aliviar inmediatamente los síntomas de reacción."
+    },
+    {
+        "question": "¿Qué incluye el contacto psicológico en los primeros auxilios?",
+        "points": 2,
+        "options": [
+            "Mostrar empatía con los sentimientos, emociones y necesidades de la víctima durante su crisis.",
+            "Realizar diagnósticos psiquiátricos inmediatos.",
+            "Aplicar técnicas de reanimación emocional avanzada.",
+            "Ignorar las emociones para enfocarse en soluciones inmediatas."
+        ],
+        "correct_answer": "Mostrar empatía con los sentimientos, emociones y necesidades de la víctima durante su crisis."
+    },
+    {
+        "question": "¿Qué pasos incluye la reflexión sobre las dimensiones del problema en los primeros auxilios psicológicos?",
+        "points": 2,
+        "options": [
+            "Analizar el presente, pasado inmediato y futuro inmediato.",
+            "Determinar las soluciones farmacológicas disponibles.",
+            "Identificar exclusivamente los errores de la víctima.",
+            "Enfocarse solo en el presente sin considerar el pasado."
+        ],
+        "correct_answer": "Analizar el presente, pasado inmediato y futuro inmediato."
+    },
+    {
+        "question": "¿Qué se busca al comenzar pasos concretos en los primeros auxilios psicológicos?",
+        "points": 2,
+        "options": [
+            "Ayudar a la víctima a llevar a cabo alguna acción determinada.",
+            "Formar un grupo de apoyo psicológico permanente.",
+            "Realizar evaluaciones médicas de largo plazo.",
+            "Preparar a la víctima para una intervención quirúrgica."
+        ],
+        "correct_answer": "Ayudar a la víctima a llevar a cabo alguna acción determinada."
+    },
+    {
+        "question": "¿Qué características definen una comunicación asertiva?",
+        "points": 2,
+        "options": [
+            "Es un estilo de comunicación que facilita las relaciones interpersonales.",
+            "Es un método directo y agresivo para transmitir necesidades.",
+            "Es una forma pasiva de evitar conflictos durante las emergencias.",
+            "Es un enfoque exclusivamente informativo y técnico."
+        ],
+        "correct_answer": "Es un estilo de comunicación que facilita las relaciones interpersonales."
+    },
+    {
+        "question": "¿Qué son las técnicas facilitadoras de la comunicación interpersonal?",
+        "points": 2,
+        "options": [
+            "Habilidades sociales que mejoran la interacción entre las personas.",
+            "Métodos avanzados de diagnóstico psicológico.",
+            "Intervenciones para tratar trastornos emocionales graves.",
+            "Técnicas para evitar la comunicación con las víctimas."
+        ],
+        "correct_answer": "Habilidades sociales que mejoran la interacción entre las personas."
+    },
+    {
+        "question": "¿Qué objetivo tienen los primeros auxilios psicológicos en relación con el afrontamiento?",
+        "points": 2,
+        "options": [
+            "Promover habilidades de afrontamiento, autoestima, asertividad y resolución de conflictos.",
+            "Desarrollar una dependencia emocional hacia el auxiliador.",
+            "Evitar que la víctima tome decisiones autónomas.",
+            "Implementar técnicas avanzadas de diagnóstico psiquiátrico."
+        ],
+        "correct_answer": "Promover habilidades de afrontamiento, autoestima, asertividad y resolución de conflictos."
+    },
+    {
+        "question": "¿Qué técnica se recomienda en situaciones de estrés durante una emergencia?",
+        "points": 2,
+        "options": [
+            "Aplicar técnicas de autocontrol para manejar la presión emocional.",
+            "Ignorar las emociones y centrarse exclusivamente en tareas técnicas.",
+            "Evitar la comunicación con otras personas involucradas.",
+            "Proporcionar un tratamiento psicológico prolongado."
+        ],
+        "correct_answer": "Aplicar técnicas de autocontrol para manejar la presión emocional."
+    },
+    {
+        "question": "¿Qué factores predisponen a la ansiedad en situaciones de accidente?",
+        "points": 2,
+        "options": [
+            "La incertidumbre, la percepción de peligro y la falta de control.",
+            "El exceso de recursos disponibles en el lugar.",
+            "El contacto constante con familiares de la víctima.",
+            "La tranquilidad emocional generalizada."
+        ],
+        "correct_answer": "La incertidumbre, la percepción de peligro y la falta de control."
+    },
+    {
+        "question": "¿Qué elementos forman parte de la comunicación?",
+        "points": 2,
+        "options": [
+            "Aspectos verbales, no verbales y paralingüísticos.",
+            "Gestos y expresión facial exclusivamente.",
+            "Lenguaje técnico y palabras clave.",
+            "Volumen de voz y movimientos corporales."
+        ],
+        "correct_answer": "Aspectos verbales, no verbales y paralingüísticos."
+    },
+    {
+        "question": "¿Qué porcentaje de la comunicación corresponde a los aspectos no verbales?",
+        "points": 2,
+        "options": [
+            "55%.",
+            "38%.",
+            "7%.",
+            "45%."
+        ],
+        "correct_answer": "55%."
+    },
+    {
+        "question": "¿Cuál es el estilo de comunicación más efectivo en situaciones críticas?",
+        "points": 2,
+        "options": [
+            "Asertivo.",
+            "Pasivo.",
+            "Agresivo.",
+            "Neutral."
+        ],
+        "correct_answer": "Asertivo."
+    },
+    {
+        "question": "¿Qué implica la técnica de escucha activa?",
+        "points": 2,
+        "options": [
+            "Prestar atención y demostrar comprensión al interlocutor.",
+            "Responder rápidamente sin analizar el mensaje.",
+            "Interrumpir frecuentemente para aclarar dudas.",
+            "Adoptar una postura pasiva durante la comunicación."
+        ],
+        "correct_answer": "Prestar atención y demostrar comprensión al interlocutor."
+    },
+    {
+        "question": "¿Qué significa autocontrol en situaciones de estrés?",
+        "points": 2,
+        "options": [
+            "La capacidad de controlar nuestras respuestas emocionales y comportamientos.",
+            "Evitar cualquier tipo de interacción emocional.",
+            "Ignorar los sentimientos propios y ajenos.",
+            "Actuar impulsivamente en respuesta al estrés."
+        ],
+        "correct_answer": "La capacidad de controlar nuestras respuestas emocionales y comportamientos."
+    },
+    {
+        "question": "¿Qué son los factores estresores externos?",
+        "points": 2,
+        "options": [
+            "Sucesos ajenos al individuo que se viven de forma desagradable.",
+            "Cambios internos relacionados con la personalidad.",
+            "Problemas generados por la falta de habilidades sociales.",
+            "Alteraciones fisiológicas sin relación con el entorno."
+        ],
+        "correct_answer": "Sucesos ajenos al individuo que se viven de forma desagradable."
+    },
+    {
+        "question": "¿Qué caracteriza la fase de impacto o shock en una situación traumática?",
+        "points": 2,
+        "options": [
+            "Alteraciones de la percepción de la realidad y de la capacidad de razonamiento.",
+            "Resolución inmediata del trauma.",
+            "Adopción de una actitud positiva ante la crisis.",
+            "Aceptación completa de la nueva situación."
+        ],
+        "correct_answer": "Alteraciones de la percepción de la realidad y de la capacidad de razonamiento."
+    },
+    {
+        "question": "¿Cuánto tiempo puede durar la fase de reacción postraumática aguda?",
+        "points": 2,
+        "options": [
+            "Hasta cuatro meses.",
+            "Un año.",
+            "Varias semanas.",
+            "Indefinidamente."
+        ],
+        "correct_answer": "Hasta cuatro meses."
+    },
+    {
+        "question": "¿Qué objetivo tienen los primeros auxilios psicológicos durante una crisis?",
+        "points": 2,
+        "options": [
+            "Restablecer la estabilidad emocional de la víctima.",
+            "Implementar terapias a largo plazo.",
+            "Evitar que la víctima exprese sus emociones.",
+            "Proporcionar tratamientos farmacológicos de inmediato."
+        ],
+        "correct_answer": "Restablecer la estabilidad emocional de la víctima."
+    },
+    {
+        "question": "¿Qué enfoque debe tenerse al canalizar una situación traumática?",
+        "points": 2,
+        "options": [
+            "Mostrar confianza y evitar juzgar los sentimientos de la víctima.",
+            "Imponer soluciones rápidas sin considerar las emociones.",
+            "Proporcionar explicaciones técnicas exclusivamente.",
+            "Minimizar la importancia de los sentimientos de la víctima."
+        ],
+        "correct_answer": "Mostrar confianza y evitar juzgar los sentimientos de la víctima."
+    }
+]

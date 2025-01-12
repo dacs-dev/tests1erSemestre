@@ -1,0 +1,112 @@
+[
+    {
+        "question": "¿Cómo se define la familia según el concepto moderno?",
+        "points": 2,
+        "options": [
+            "Unidad de consumo y producción de bienes y servicios.",
+            "Refugio y estabilidad psíquica de los adultos.",
+            "Matrimonio, parentesco o convivencia que constituyen núcleos estables de vida en común.",
+            "Primera agencia que recibe al niño para iniciar los procesos de socialización."
+        ],
+        "correct_answer": "Matrimonio, parentesco o convivencia que constituyen núcleos estables de vida en común."
+    },
+    {
+        "question": "Según Berger y Luckmann, ¿qué papel tiene la familia en la socialización de los niños?",
+        "points": 2,
+        "options": [
+            "Crear valores y normas inculcadas.",
+            "Iniciar procesos de socialización y ser un elemento persistente en el tiempo.",
+            "Generar un sistema educativo paralelo a la escuela.",
+            "Adaptar sus funciones esenciales a los cambios sociales."
+        ],
+        "correct_answer": "Iniciar procesos de socialización y ser un elemento persistente en el tiempo."
+    },
+    {
+        "question": "¿Qué caracteriza a la familia nuclear?",
+        "points": 2,
+        "options": [
+            "Está formada por varias generaciones y puede incluir abuelos, tíos y primos.",
+            "Incluye a los padres y sus hijos, con un componente de dependencia de los hijos respecto a los padres.",
+            "Está formada por un único adulto a cargo de uno o varios menores.",
+            "Incluye dos adultos que aportan hijos de relaciones previas."
+        ],
+        "correct_answer": "Incluye a los padres y sus hijos, con un componente de dependencia de los hijos respecto a los padres."
+    },
+    {
+        "question": "¿Qué aspecto es característico de la familia moderna en España?",
+        "points": 2,
+        "options": [
+            "La estabilidad debido al incremento del número de matrimonios.",
+            "La inestabilidad, reflejada en el incremento de separaciones y divorcios.",
+            "El predominio de la familia extensa sobre la nuclear.",
+            "El rechazo de la compartición de tareas entre los miembros."
+        ],
+        "correct_answer": "La inestabilidad, reflejada en el incremento de separaciones y divorcios."
+    },
+    {
+        "question": "¿Cuáles son las funciones esenciales de la familia según el texto?",
+        "points": 2,
+        "options": [
+            "Función biológica, económica, de crianza y socializadora.",
+            "Función política, económica y recreativa.",
+            "Función exclusivamente afectiva.",
+            "Función de control social y cultural."
+        ],
+        "correct_answer": "Función biológica, económica, de crianza y socializadora."
+    },
+    {
+        "question": "¿Qué genera la falta de medios en una familia, según el texto?",
+        "points": 2,
+        "options": [
+            "Un aumento de la cohesión entre sus miembros.",
+            "Conflictos derivados de carencias y disfunciones no resueltas.",
+            "Una mejor adaptación a las condiciones externas.",
+            "Una socialización más eficiente en los hijos."
+        ],
+        "correct_answer": "Conflictos derivados de carencias y disfunciones no resueltas."
+    },
+    {
+        "question": "¿Qué caracteriza a una familia multiproblemática?",
+        "points": 2,
+        "options": [
+            "Una alta dependencia de los servicios sociales.",
+            "La ausencia total de problemas emocionales.",
+            "Una estructura sólida y adaptativa.",
+            "Un alto nivel socioeconómico."
+        ],
+        "correct_answer": "Una alta dependencia de los servicios sociales."
+    },
+    {
+        "question": "¿Qué define al modelo ecológico en la intervención familiar?",
+        "points": 2,
+        "options": [
+            "Se centra exclusivamente en los individuos de la familia.",
+            "Busca influir en el ambiente y en las habilidades interpersonales del individuo.",
+            "Se enfoca únicamente en resolver los conflictos económicos.",
+            "Promueve el aislamiento de la familia respecto al entorno."
+        ],
+        "correct_answer": "Busca influir en el ambiente y en las habilidades interpersonales del individuo."
+    },
+    {
+        "question": "¿Cuál es el objetivo del modelo de competencia en la intervención familiar?",
+        "points": 2,
+        "options": [
+            "Analizar las causas de los problemas sin aplicar cambios.",
+            "Hacer individuos competentes para que enfrenten sus problemas de forma autónoma.",
+            "Proveer soluciones inmediatas desde los servicios sociales.",
+            "Centralizar la intervención en las instituciones sociales externas."
+        ],
+        "correct_answer": "Hacer individuos competentes para que enfrenten sus problemas de forma autónoma."
+    },
+    {
+        "question": "¿Qué herramienta es utilizada en el modelo sistémico para la intervención familiar?",
+        "points": 2,
+        "options": [
+            "El genograma.",
+            "El contrato.",
+            "La evaluación psicosocial.",
+            "La consulta a servicios externos."
+        ],
+        "correct_answer": "El contrato."
+    }
+]

@@ -218,5 +218,226 @@
           "Ambos en el lado derecho del tórax."
       ],
       "correct_answer": "Uno en la región anterocostal izquierda y otro bajo la clavícula derecha."
-  }
+  },
+    {
+        "question": "¿Qué profundidad debe alcanzarse en las compresiones torácicas durante la RCP en un adulto?",
+        "points": 2,
+        "options": [
+            "5-6 cm.",
+            "3-4 cm.",
+            "7-8 cm.",
+            "1-2 cm."
+        ],
+        "correct_answer": "5-6 cm."
+    },
+    {
+        "question": "¿Qué frecuencia debe tener el masaje cardiaco en una reanimación en adultos?",
+        "points": 2,
+        "options": [
+            "100-120 compresiones por minuto.",
+            "60-80 compresiones por minuto.",
+            "90-100 compresiones por minuto.",
+            "120-140 compresiones por minuto."
+        ],
+        "correct_answer": "100-120 compresiones por minuto."
+    },
+    {
+        "question": "¿Cómo debe colocarse el talón de la mano para realizar las compresiones torácicas?",
+        "points": 2,
+        "options": [
+            "En el centro del tórax, sobre el esternón.",
+            "A la izquierda del tórax, cerca del corazón.",
+            "En la base del cuello, junto a la clavícula.",
+            "En la parte baja del abdomen."
+        ],
+        "correct_answer": "En el centro del tórax, sobre el esternón."
+    },
+    {
+        "question": "¿Qué paso sigue después de comprobar que la víctima no respira?",
+        "points": 2,
+        "options": [
+            "Iniciar compresiones torácicas de inmediato.",
+            "Ventilar durante 2 minutos antes de llamar al 112.",
+            "Colocar a la víctima en posición de recuperación.",
+            "Realizar la maniobra frente-mentón."
+        ],
+        "correct_answer": "Iniciar compresiones torácicas de inmediato."
+    },
+    {
+        "question": "¿Qué maniobra se utiliza para la obstrucción leve de las vías aéreas?",
+        "points": 2,
+        "options": [
+            "Golpes interescapulares.",
+            "Maniobra de Heimlich.",
+            "RCP inmediata.",
+            "Desfibrilación automática."
+        ],
+        "correct_answer": "Golpes interescapulares."
+    },
+    {
+        "question": "¿Cómo se deben alternar las compresiones y ventilaciones en la RCP para adultos?",
+        "points": 2,
+        "options": [
+            "30 compresiones y 2 ventilaciones.",
+            "15 compresiones y 2 ventilaciones.",
+            "5 compresiones y 1 ventilación.",
+            "20 compresiones y 2 ventilaciones."
+        ],
+        "correct_answer": "30 compresiones y 2 ventilaciones."
+    },
+    {
+        "question": "¿Cuál es la posición correcta para una víctima inconsciente que respira normalmente?",
+        "points": 2,
+        "options": [
+            "Posición lateral de seguridad.",
+            "Decúbito supino con la cabeza elevada.",
+            "Decúbito prono con los brazos extendidos.",
+            "Posición de Trendelenburg."
+        ],
+        "correct_answer": "Posición lateral de seguridad."
+    },
+    {
+        "question": "¿Qué dispositivo puede utilizarse para ventilar a una víctima sin contacto directo?",
+        "points": 2,
+        "options": [
+            "Bolsa autoinflable con mascarilla.",
+            "Cánula orofaríngea.",
+            "Tubo endotraqueal.",
+            "Máscara de oxígeno simple."
+        ],
+        "correct_answer": "Bolsa autoinflable con mascarilla."
+    },
+    {
+        "question": "¿Qué se debe hacer si un lactante tiene una obstrucción completa de las vías aéreas?",
+        "points": 2,
+        "options": [
+            "Aplicar golpes en la espalda y compresiones torácicas alternadamente.",
+            "Realizar compresiones abdominales profundas.",
+            "Ventilar manualmente hasta que recupere la respiración.",
+            "Colocar al bebé en posición de Trendelenburg."
+        ],
+        "correct_answer": "Aplicar golpes en la espalda y compresiones torácicas alternadamente."
+    },
+    {
+        "question": "¿Qué acción debe evitarse al realizar RCP en un lactante?",
+        "points": 2,
+        "options": [
+            "Usar las dos manos para las compresiones torácicas.",
+            "Realizar compresiones con dos dedos sobre el esternón.",
+            "Cubrir nariz y boca con la boca del reanimador.",
+            "Realizar ventilaciones suaves y controladas."
+        ],
+        "correct_answer": "Usar las dos manos para las compresiones torácicas."
+    },
+    {
+        "question": "¿Qué prioridad tiene la desfibrilación en la cadena de supervivencia?",
+        "points": 2,
+        "options": [
+            "Es clave en los ritmos desfibrilables como la fibrilación ventricular.",
+            "Es importante en todos los casos de paro respiratorio.",
+            "Solo debe realizarse si el paciente está consciente.",
+            "Es prioritaria antes de cualquier maniobra de RCP."
+        ],
+        "correct_answer": "Es clave en los ritmos desfibrilables como la fibrilación ventricular."
+    },
+    {
+        "question": "¿Qué se debe verificar antes de aplicar una descarga con el DESA?",
+        "points": 2,
+        "options": [
+            "Que nadie esté tocando a la víctima.",
+            "Que el paciente esté en posición de recuperación.",
+            "Que los parches estén colocados en el abdomen.",
+            "Que la víctima esté respirando normalmente."
+        ],
+        "correct_answer": "Que nadie esté tocando a la víctima."
+    },
+    {
+        "question": "¿Cómo deben ser las insuflaciones durante la RCP en un niño?",
+        "points": 2,
+        "options": [
+            "Suaves y suficientes para elevar el pecho.",
+            "Rápidas y con mucho volumen de aire.",
+            "Lentas y prolongadas para mantener la vía abierta.",
+            "Intermitentes y con pausas de 10 segundos."
+        ],
+        "correct_answer": "Suaves y suficientes para elevar el pecho."
+    },
+    {
+        "question": "¿Cuál es la función de la cánula orofaríngea en primeros auxilios?",
+        "points": 2,
+        "options": [
+            "Mantener la vía aérea abierta en pacientes inconscientes.",
+            "Facilitar la desfibrilación en casos de paro cardiaco.",
+            "Prevenir lesiones en el esternón durante la RCP.",
+            "Garantizar una correcta oxigenación pulmonar."
+        ],
+        "correct_answer": "Mantener la vía aérea abierta en pacientes inconscientes."
+    },
+    {
+        "question": "¿Qué ritmo se considera no desfibrilable en caso de paro cardiaco?",
+        "points": 2,
+        "options": [
+            "Asistolia.",
+            "Fibrilación ventricular.",
+            "Taquicardia ventricular sin pulso.",
+            "Fibrilación auricular."
+        ],
+        "correct_answer": "Asistolia."
+    },
+    {
+        "question": "¿Qué acción sigue después de una desfibrilación efectiva con el DESA?",
+        "points": 2,
+        "options": [
+            "Continuar con las compresiones torácicas.",
+            "Ventilar durante 5 minutos sin compresiones.",
+            "Realizar un segundo choque inmediatamente.",
+            "Colocar al paciente en posición lateral."
+        ],
+        "correct_answer": "Continuar con las compresiones torácicas."
+    },
+    {
+        "question": "¿Qué técnica debe emplearse si un lactante tiene una obstrucción parcial de las vías aéreas?",
+        "points": 2,
+        "options": [
+            "Mantenerlo vigilado y animarle a toser.",
+            "Realizar compresiones abdominales con una mano.",
+            "Colocar al bebé en posición decúbito lateral.",
+            "Administrar ventilaciones rápidas hasta que tosa."
+        ],
+        "correct_answer": "Mantenerlo vigilado y animarle a toser."
+    },
+    {
+        "question": "¿Qué es la fibrilación ventricular?",
+        "points": 2,
+        "options": [
+            "Un ritmo cardiaco rápido y desorganizado que impide la circulación efectiva de la sangre.",
+            "Un ritmo cardiaco lento y regular que requiere intervención inmediata.",
+            "Una ausencia completa de contracción cardiaca.",
+            "Un ritmo eléctrico normal pero con paro respiratorio."
+        ],
+        "correct_answer": "Un ritmo cardiaco rápido y desorganizado que impide la circulación efectiva de la sangre."
+    },
+    {
+        "question": "¿Cuál es el objetivo principal del soporte vital básico?",
+        "points": 2,
+        "options": [
+            "Mantener la circulación y la oxigenación de los órganos vitales.",
+            "Reparar las lesiones traumáticas inmediatamente.",
+            "Diagnosticar la causa del paro cardiaco.",
+            "Preparar al paciente para la desfibrilación avanzada."
+        ],
+        "correct_answer": "Mantener la circulación y la oxigenación de los órganos vitales."
+    },
+    {
+        "question": "¿Qué acción debe evitarse al realizar la maniobra de Heimlich en un adulto?",
+        "points": 2,
+        "options": [
+            "Presionar hacia dentro y hacia arriba debajo del esternón.",
+            "Realizar maniobras demasiado bruscas.",
+            "Colocar los puños a nivel del ombligo.",
+            "Dar golpes interescapulares antes de la maniobra."
+        ],
+        "correct_answer": "Realizar maniobras demasiado bruscas."
+    }
+
 ]
