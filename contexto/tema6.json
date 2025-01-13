@@ -1,0 +1,222 @@
+[
+  {
+    "question": "¿Cómo define la OMS el concepto de discapacidad?",
+    "points": 2,
+    "options": [
+      "Un término genérico que incluye déficit, limitaciones en la actividad y restricciones en la participación.",
+      "Una condición médica exclusivamente relacionada con factores genéticos.",
+      "Un problema temporal que afecta a la autonomía de las personas.",
+      "Una característica que solo depende del entorno social."
+    ],
+    "correct_answer": "Un término genérico que incluye déficit, limitaciones en la actividad y restricciones en la participación."
+  },
+  {
+    "question": "¿Qué aspecto introdujo la OMS en la definición moderna de discapacidad?",
+    "points": 2,
+    "options": [
+      "El reconocimiento de los factores ambientales y personales.",
+      "La exclusión de los factores sociales en el concepto de discapacidad.",
+      "La eliminación de la consideración de barreras físicas.",
+      "El énfasis únicamente en la condición de salud individual."
+    ],
+    "correct_answer": "El reconocimiento de los factores ambientales y personales."
+  },
+  {
+    "question": "¿Qué factores contribuyen a caracterizar la discapacidad de una persona según el texto?",
+    "points": 2,
+    "options": [
+      "Constitución biológica, sexo, estilo de vida y características socioeconómicas.",
+      "Exclusivamente la genética y el entorno social.",
+      "Solo el apoyo familiar y los recursos educativos.",
+      "El acceso a servicios médicos y programas de rehabilitación."
+    ],
+    "correct_answer": "Constitución biológica, sexo, estilo de vida y características socioeconómicas."
+  },
+  {
+    "question": "¿Qué tipo de discapacidades se adquieren después del nacimiento?",
+    "points": 2,
+    "options": [
+      "Discapacidades adquiridas.",
+      "Discapacidades congénitas.",
+      "Discapacidades permanentes.",
+      "Discapacidades genéticas."
+    ],
+    "correct_answer": "Discapacidades adquiridas."
+  },
+  {
+    "question": "¿Qué barreras identifica la OMS como obstáculos para las personas con discapacidad?",
+    "points": 2,
+    "options": [
+      "Entorno físico inaccesible, falta de tecnología de asistencia y actitudes negativas hacia la discapacidad.",
+      "Falta de acceso a internet, escasez de alimentos y acceso restringido al transporte público.",
+      "Problemas exclusivamente educativos y de atención médica.",
+      "Limitaciones económicas y falta de programas gubernamentales."
+    ],
+    "correct_answer": "Entorno físico inaccesible, falta de tecnología de asistencia y actitudes negativas hacia la discapacidad."
+  },
+  {
+    "question": "¿Qué necesidades específicas derivadas de la discapacidad se mencionan en el texto?",
+    "points": 2,
+    "options": [
+      "Rehabilitación, seguimiento médico, adaptación de barreras y apoyo profesional.",
+      "Exclusivamente ayudas económicas y sociales.",
+      "Acceso a la educación superior y programas de empleo público.",
+      "Solo la provisión de dispositivos tecnológicos avanzados."
+    ],
+    "correct_answer": "Rehabilitación, seguimiento médico, adaptación de barreras y apoyo profesional."
+  },
+  {
+    "question": "¿Qué barrera educativa destaca López Melero como un impedimento para la participación en la escuela?",
+    "points": 2,
+    "options": [
+      "Leyes y normativas contradictorias.",
+      "La falta de profesores especializados.",
+      "El exceso de estudiantes en las aulas.",
+      "La carencia de recursos tecnológicos avanzados."
+    ],
+    "correct_answer": "Leyes y normativas contradictorias."
+  },
+  {
+    "question": "Según la OMS, ¿qué representan las barreras arquitectónicas en los servicios de asistencia sanitaria?",
+    "points": 2,
+    "options": [
+      "Obstáculos físicos como accesos desiguales a edificios y equipos médicos inaccesibles.",
+      "Factores irrelevantes en la calidad del servicio médico.",
+      "Problemas exclusivamente relacionados con la administración hospitalaria.",
+      "Aspectos que solo afectan a las zonas rurales."
+    ],
+    "correct_answer": "Obstáculos físicos como accesos desiguales a edificios y equipos médicos inaccesibles."
+  },
+  {
+    "question": "¿Qué tipo de discapacidad puede ser causada por infecciones como la meningitis?",
+    "points": 2,
+    "options": [
+      "Discapacidad postnatal.",
+      "Discapacidad perinatal.",
+      "Discapacidad prenatal.",
+      "Discapacidad genética."
+    ],
+    "correct_answer": "Discapacidad postnatal."
+  },
+  {
+    "question": "¿Qué rol juega el apoyo familiar en el contexto de la discapacidad según el texto?",
+    "points": 2,
+    "options": [
+      "Ayuda a afrontar y aceptar la situación de discapacidad.",
+      "Es irrelevante en el desarrollo de la autonomía personal.",
+      "Sustituye completamente la necesidad de servicios sociales.",
+      "Limita la capacidad de socialización del individuo."
+    ],
+    "correct_answer": "Ayuda a afrontar y aceptar la situación de discapacidad."
+  },
+  {
+    "question": "¿Qué diferencia existe entre una discapacidad congénita y una adquirida?",
+    "points": 2,
+    "options": [
+      "La congénita está presente desde el nacimiento, mientras que la adquirida ocurre después.",
+      "La adquirida es hereditaria, mientras que la congénita no lo es.",
+      "La congénita solo afecta el sistema nervioso, mientras que la adquirida afecta todo el cuerpo.",
+      "No existe diferencia, ambos términos son equivalentes."
+    ],
+    "correct_answer": "La congénita está presente desde el nacimiento, mientras que la adquirida ocurre después."
+  },
+  {
+    "question": "¿Qué medida es clave para reducir las barreras sociales hacia personas con discapacidad?",
+    "points": 2,
+    "options": [
+      "La sensibilización y educación en la sociedad sobre la discapacidad.",
+      "La construcción de centros exclusivos para personas con discapacidad.",
+      "La eliminación de normativas de accesibilidad universal.",
+      "El aislamiento de las personas con discapacidad en comunidades específicas."
+    ],
+    "correct_answer": "La sensibilización y educación en la sociedad sobre la discapacidad."
+  },
+  {
+    "question": "¿Qué rol desempeña la tecnología de asistencia para personas con discapacidad?",
+    "points": 2,
+    "options": [
+      "Facilita la autonomía personal y la participación social.",
+      "Sustituye por completo el apoyo familiar.",
+      "Restringe el acceso a actividades educativas y laborales.",
+      "Limita la interacción entre personas con y sin discapacidad."
+    ],
+    "correct_answer": "Facilita la autonomía personal y la participación social."
+  },
+  {
+    "question": "¿Qué implica la accesibilidad universal según el texto?",
+    "points": 2,
+    "options": [
+      "El diseño de entornos, productos y servicios utilizables por todas las personas sin necesidad de adaptación.",
+      "La creación de espacios exclusivamente para personas con discapacidad.",
+      "La modificación de todas las normativas legales relacionadas con la discapacidad.",
+      "El acceso exclusivo a servicios médicos especializados."
+    ],
+    "correct_answer": "El diseño de entornos, productos y servicios utilizables por todas las personas sin necesidad de adaptación."
+  },
+  {
+    "question": "¿Qué destaca como un factor clave en la rehabilitación de personas con discapacidad?",
+    "points": 2,
+    "options": [
+      "Un enfoque integral que combine salud, educación y servicios sociales.",
+      "El aislamiento de los afectados en centros especializados.",
+      "La implementación exclusiva de terapias médicas.",
+      "El acceso restringido a programas educativos generales."
+    ],
+    "correct_answer": "Un enfoque integral que combine salud, educación y servicios sociales."
+  },
+  {
+    "question": "¿Qué tipo de discapacidad está relacionada con alteraciones en la percepción sensorial?",
+    "points": 2,
+    "options": [
+      "Discapacidad sensorial.",
+      "Discapacidad cognitiva.",
+      "Discapacidad motora.",
+      "Discapacidad intelectual."
+    ],
+    "correct_answer": "Discapacidad sensorial."
+  },
+  {
+    "question": "¿Qué estrategia puede fomentar la inclusión laboral de personas con discapacidad?",
+    "points": 2,
+    "options": [
+      "Adaptación de los puestos de trabajo y promoción de políticas de contratación inclusivas.",
+      "Reducción de las horas laborales para evitar competencias innecesarias.",
+      "Asignación exclusiva de trabajos no cualificados.",
+      "Segregación en entornos laborales específicos."
+    ],
+    "correct_answer": "Adaptación de los puestos de trabajo y promoción de políticas de contratación inclusivas."
+  },
+  {
+    "question": "¿Qué implica el término 'barreras actitudinales' según el texto?",
+    "points": 2,
+    "options": [
+      "Prejuicios, estereotipos y actitudes negativas hacia las personas con discapacidad.",
+      "Obstáculos físicos en el entorno construido.",
+      "Limitaciones exclusivas en el acceso a la tecnología.",
+      "Problemas administrativos en la gestión de servicios sociales."
+    ],
+    "correct_answer": "Prejuicios, estereotipos y actitudes negativas hacia las personas con discapacidad."
+  },
+  {
+    "question": "¿Qué papel tienen las políticas públicas en el ámbito de la discapacidad?",
+    "points": 2,
+    "options": [
+      "Garantizar la igualdad de oportunidades y eliminar barreras de acceso.",
+      "Centralizar la atención exclusivamente en los centros urbanos.",
+      "Reducir el acceso a ayudas económicas para personas con discapacidad.",
+      "Establecer normativas que restrinjan la participación de personas con discapacidad en espacios públicos."
+    ],
+    "correct_answer": "Garantizar la igualdad de oportunidades y eliminar barreras de acceso."
+  },
+  {
+    "question": "¿Qué objetivo persigue la educación inclusiva para personas con discapacidad?",
+    "points": 2,
+    "options": [
+      "Garantizar su acceso a entornos educativos ordinarios junto con los demás estudiantes.",
+      "Establecer clases separadas para una atención especializada.",
+      "Reducir la interacción entre estudiantes con y sin discapacidad.",
+      "Imponer restricciones académicas para evitar la competencia."
+    ],
+    "correct_answer": "Garantizar su acceso a entornos educativos ordinarios junto con los demás estudiantes."
+  }
+]

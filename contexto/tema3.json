@@ -1,0 +1,167 @@
+[
+  {
+    "question": "¿Qué representa la pirámide de necesidades de Maslow?",
+    "points": 2,
+    "options": [
+      "La jerarquía de necesidades humanas organizadas en cinco niveles.",
+      "Un modelo económico para medir el bienestar social.",
+      "Un esquema para clasificar únicamente necesidades fisiológicas.",
+      "Un método para determinar el nivel de ingresos de las familias."
+    ],
+    "correct_answer": "La jerarquía de necesidades humanas organizadas en cinco niveles."
+  },
+  {
+    "question": "¿Qué tres esferas componen al ser humano según el texto?",
+    "points": 2,
+    "options": [
+      "Esfera biológica, psíquica y social.",
+      "Esfera económica, cultural y política.",
+      "Esfera personal, profesional y espiritual.",
+      "Esfera genética, cultural y educativa."
+    ],
+    "correct_answer": "Esfera biológica, psíquica y social."
+  },
+  {
+    "question": "¿Qué tipo de necesidad implica prepararse para necesidades futuras?",
+    "points": 2,
+    "options": [
+      "Necesidad prospectiva.",
+      "Necesidad normativa.",
+      "Necesidad comparada.",
+      "Necesidad experimentada."
+    ],
+    "correct_answer": "Necesidad prospectiva."
+  },
+  {
+    "question": "¿Qué caracteriza a la exclusión social según el texto?",
+    "points": 2,
+    "options": [
+      "Es un proceso multidimensional y estructural.",
+      "Se basa únicamente en la carencia de recursos económicos.",
+      "Es una situación transitoria que afecta a todas las personas en algún momento.",
+      "Se genera exclusivamente por conflictos familiares."
+    ],
+    "correct_answer": "Es un proceso multidimensional y estructural."
+  },
+  {
+    "question": "¿Qué implica la inclusión activa?",
+    "points": 2,
+    "options": [
+      "Garantizar trabajos sostenibles, servicios sociales de calidad y apoyo adecuado a la renta.",
+      "Proveer recursos exclusivamente a las personas en el mercado laboral.",
+      "Establecer normas sociales estrictas para todos los ciudadanos.",
+      "Eliminar todas las barreras sociales mediante sanciones."
+    ],
+    "correct_answer": "Garantizar trabajos sostenibles, servicios sociales de calidad y apoyo adecuado a la renta."
+  },
+  {
+    "question": "¿Qué caracteriza las necesidades básicas según la pirámide de Maslow?",
+    "points": 2,
+    "options": [
+      "Son indispensables para la supervivencia, como la alimentación y el descanso.",
+      "Incluyen el reconocimiento y la autorrealización personal.",
+      "Se relacionan exclusivamente con la estabilidad emocional.",
+      "Son aquellas que garantizan la participación social activa."
+    ],
+    "correct_answer": "Son indispensables para la supervivencia, como la alimentación y el descanso."
+  },
+  {
+    "question": "¿Qué diferencia existe entre una necesidad comparada y una normativa?",
+    "points": 2,
+    "options": [
+      "La comparada analiza diferencias entre grupos; la normativa sigue estándares establecidos.",
+      "La comparada establece normas sociales; la normativa es subjetiva.",
+      "La comparada se centra en necesidades futuras; la normativa en las actuales.",
+      "La comparada es subjetiva; la normativa es experimental."
+    ],
+    "correct_answer": "La comparada analiza diferencias entre grupos; la normativa sigue estándares establecidos."
+  },
+  {
+    "question": "¿Qué objetivo tienen los programas de inclusión social según el texto?",
+    "points": 2,
+    "options": [
+      "Eliminar barreras y garantizar la participación equitativa en la sociedad.",
+      "Imponer normas culturales para mantener la estabilidad social.",
+      "Proveer recursos exclusivamente a sectores desfavorecidos.",
+      "Evitar la interacción entre diferentes grupos sociales."
+    ],
+    "correct_answer": "Eliminar barreras y garantizar la participación equitativa en la sociedad."
+  },
+  {
+    "question": "¿Qué dimensión aborda la inclusión social en términos de accesibilidad?",
+    "points": 2,
+    "options": [
+      "Facilitar el acceso a recursos básicos, educación y empleo.",
+      "Aumentar la exclusividad en oportunidades laborales.",
+      "Reducir la diversidad cultural en comunidades específicas.",
+      "Establecer prioridades únicamente en áreas urbanas."
+    ],
+    "correct_answer": "Facilitar el acceso a recursos básicos, educación y empleo."
+  },
+  {
+    "question": "¿Qué papel desempeña la cohesión social en la inclusión activa?",
+    "points": 2,
+    "options": [
+      "Promueve la colaboración entre individuos para un bienestar colectivo.",
+      "Restringe la interacción entre grupos con diferentes valores.",
+      "Asegura la supremacía de normas tradicionales en una comunidad.",
+      "Favorece la segregación económica en áreas urbanas."
+    ],
+    "correct_answer": "Promueve la colaboración entre individuos para un bienestar colectivo."
+  },
+  {
+    "question": "¿Cómo define el texto las barreras sociales?",
+    "points": 2,
+    "options": [
+      "Obstáculos que limitan la participación plena de las personas en la sociedad.",
+      "Normas legales establecidas para controlar la movilidad social.",
+      "Elementos que fomentan exclusivamente la diversidad cultural.",
+      "Restricciones económicas aplicadas a sectores vulnerables."
+    ],
+    "correct_answer": "Obstáculos que limitan la participación plena de las personas en la sociedad."
+  },
+  {
+    "question": "¿Qué rol tienen las políticas públicas en la erradicación de la exclusión social?",
+    "points": 2,
+    "options": [
+      "Implementar medidas para garantizar la igualdad de oportunidades.",
+      "Establecer sistemas de control en sectores vulnerables.",
+      "Reducir la participación política de grupos minoritarios.",
+      "Limitar la inversión en servicios sociales básicos."
+    ],
+    "correct_answer": "Implementar medidas para garantizar la igualdad de oportunidades."
+  },
+  {
+    "question": "¿Qué componente es fundamental para medir el nivel de integración social de un individuo?",
+    "points": 2,
+    "options": [
+      "Su acceso a redes sociales, educación y empleo.",
+      "Su capacidad económica para adquirir bienes de lujo.",
+      "La estabilidad emocional en su entorno familiar.",
+      "El cumplimiento estricto de normas sociales tradicionales."
+    ],
+    "correct_answer": "Su acceso a redes sociales, educación y empleo."
+  },
+  {
+    "question": "¿Qué enfoque diferencia la inclusión social de la integración social?",
+    "points": 2,
+    "options": [
+      "La inclusión adapta el entorno al individuo; la integración adapta al individuo al entorno.",
+      "La inclusión se centra exclusivamente en lo educativo; la integración en lo cultural.",
+      "La integración elimina barreras físicas; la inclusión se enfoca en barreras económicas.",
+      "Ambas implican los mismos procesos y objetivos."
+    ],
+    "correct_answer": "La inclusión adapta el entorno al individuo; la integración adapta al individuo al entorno."
+  },
+  {
+    "question": "¿Qué define la vulnerabilidad en el contexto de exclusión social?",
+    "points": 2,
+    "options": [
+      "La situación de riesgo de exclusión debido a carencias en recursos, derechos o acceso a servicios.",
+      "La incapacidad permanente de un individuo para participar en la sociedad.",
+      "Un estado temporal relacionado exclusivamente con problemas educativos.",
+      "Una condición asociada únicamente a factores genéticos."
+    ],
+    "correct_answer": "La situación de riesgo de exclusión debido a carencias en recursos, derechos o acceso a servicios."
+  }
+]

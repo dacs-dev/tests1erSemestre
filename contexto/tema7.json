@@ -1,0 +1,57 @@
+[
+  {
+    "question": "¿Qué tipo de discapacidad se caracteriza por limitaciones en el movimiento o coordinación?",
+    "points": 2,
+    "options": [
+      "Discapacidad física.",
+      "Discapacidad sensorial.",
+      "Discapacidad intelectual.",
+      "Discapacidad cognitiva."
+    ],
+    "correct_answer": "Discapacidad física."
+  },
+  {
+    "question": "¿Qué herramienta es esencial para recopilar información sobre situaciones de discapacidad?",
+    "points": 2,
+    "options": [
+      "Fuentes oficiales, como estadísticas nacionales y estudios especializados.",
+      "Opiniones informales de familiares y amigos.",
+      "Encuestas realizadas por redes sociales.",
+      "Análisis exclusivo de casos clínicos previos."
+    ],
+    "correct_answer": "Fuentes oficiales, como estadísticas nacionales y estudios especializados."
+  },
+  {
+    "question": "¿Qué barreras afectan a las personas con discapacidad física en el entorno laboral?",
+    "points": 2,
+    "options": [
+      "Accesibilidad limitada y falta de adaptación en los espacios de trabajo.",
+      "Exceso de apoyo social y tecnológico.",
+      "Alta disponibilidad de programas de integración.",
+      "Saturación de recursos educativos inclusivos."
+    ],
+    "correct_answer": "Accesibilidad limitada y falta de adaptación en los espacios de trabajo."
+  },
+  {
+    "question": "¿Qué objetivos tiene la rehabilitación para personas con discapacidad física?",
+    "points": 2,
+    "options": [
+      "Restaurar o mejorar la capacidad funcional y promover la independencia.",
+      "Aumentar la dependencia de las ayudas externas.",
+      "Reducir la participación en actividades sociales.",
+      "Evitar el uso de dispositivos de asistencia tecnológica."
+    ],
+    "correct_answer": "Restaurar o mejorar la capacidad funcional y promover la independencia."
+  },
+  {
+    "question": "¿Qué rol juega el entorno físico accesible en la integración de personas con discapacidad física?",
+    "points": 2,
+    "options": [
+      "Facilita la participación plena en actividades sociales, laborales y educativas.",
+      "Reemplaza la necesidad de rehabilitación médica.",
+      "Limita su capacidad de interactuar con otros grupos sociales.",
+      "Reduce la autonomía personal en espacios públicos."
+    ],
+    "correct_answer": "Facilita la participación plena en actividades sociales, laborales y educativas."
+  }
+]

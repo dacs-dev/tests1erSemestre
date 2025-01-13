@@ -1,0 +1,222 @@
+[
+  {
+    "question": "¿Qué tipo de adicción se caracteriza por un impulso descontrolado de participar en juegos de azar?",
+    "points": 2,
+    "options": [
+      "Adicción al juego (ludopatía).",
+      "Adicción a las pantallas.",
+      "Adicción a las compras.",
+      "Adicción al trabajo."
+    ],
+    "correct_answer": "Adicción al juego (ludopatía)."
+  },
+  {
+    "question": "¿Cuál es una de las principales consecuencias de la adicción a las pantallas según el texto?",
+    "points": 2,
+    "options": [
+      "Problemas sociales y económicos.",
+      "Problemas exclusivamente económicos.",
+      "Problemas relacionados con la salud física.",
+      "Dificultades para encontrar empleo."
+    ],
+    "correct_answer": "Problemas sociales y económicos."
+  },
+  {
+    "question": "¿Cómo se describe la adicción al trabajo?",
+    "points": 2,
+    "options": [
+      "Una dedicación excesiva al trabajo por una necesidad personal.",
+      "Un esfuerzo intensivo debido a las exigencias laborales.",
+      "Un compromiso laboral respaldado por la familia.",
+      "Una actividad exclusiva de sectores industriales."
+    ],
+    "correct_answer": "Una dedicación excesiva al trabajo por una necesidad personal."
+  },
+  {
+    "question": "¿Qué elemento actúa como un factor de riesgo para la drogadicción?",
+    "points": 2,
+    "options": [
+      "Factores hereditarios.",
+      "Motivación intrínseca.",
+      "Comunicación eficaz en la familia.",
+      "Apoyo psicológico continuo."
+    ],
+    "correct_answer": "Factores hereditarios."
+  },
+  {
+    "question": "¿Qué nivel de proximidad incluye los procesos de socialización y adopción de roles en la drogadicción?",
+    "points": 2,
+    "options": [
+      "El entorno familiar.",
+      "El entorno escolar.",
+      "La comunidad vecinal.",
+      "Los grupos recreativos."
+    ],
+    "correct_answer": "El entorno familiar."
+  },
+  {
+    "question": "¿Qué define el síndrome de abstinencia según el texto?",
+    "points": 2,
+    "options": [
+      "Conjunto de síntomas al suspender o reducir el consumo de una sustancia.",
+      "Aumento gradual de la tolerancia a una sustancia.",
+      "Adopción de hábitos más saludables tras el consumo.",
+      "Dependencia emocional hacia una sustancia específica."
+    ],
+    "correct_answer": "Conjunto de síntomas al suspender o reducir el consumo de una sustancia."
+  },
+  {
+    "question": "¿Qué implica la tolerancia en el contexto de las adicciones?",
+    "points": 2,
+    "options": [
+      "La necesidad de dosis más altas para conseguir el mismo efecto.",
+      "La ausencia de dependencia física.",
+      "La mejora gradual de la salud tras el consumo.",
+      "La eliminación de riesgos asociados al consumo."
+    ],
+    "correct_answer": "La necesidad de dosis más altas para conseguir el mismo efecto."
+  },
+  {
+    "question": "¿Qué adicción se asocia con personas con trastornos del estado de ánimo?",
+    "points": 2,
+    "options": [
+      "Adicción a las compras.",
+      "Adicción al juego.",
+      "Adicción a las pantallas.",
+      "Adicción al trabajo."
+    ],
+    "correct_answer": "Adicción a las compras."
+  },
+  {
+    "question": "¿Qué problema puede agravar la situación de una persona en situación de drogodependencia?",
+    "points": 2,
+    "options": [
+      "Problemas con la justicia.",
+      "Apoyo comunitario.",
+      "Adopción de valores adecuados.",
+      "Sistemas de comunicación efectivos."
+    ],
+    "correct_answer": "Problemas con la justicia."
+  },
+  {
+    "question": "¿Cuál es una necesidad clave en la intervención de personas con problemas de drogadicción?",
+    "points": 2,
+    "options": [
+      "El abandono total del consumo de sustancias.",
+      "La mejora exclusiva de la salud física.",
+      "El aislamiento del entorno familiar.",
+      "El cumplimiento estricto de normas legales."
+    ],
+    "correct_answer": "El abandono total del consumo de sustancias."
+  },
+  {
+    "question": "¿Qué define una adicción según el texto?",
+    "points": 2,
+    "options": [
+      "Un trastorno crónico caracterizado por la búsqueda compulsiva de una sustancia o comportamiento.",
+      "Una condición temporal que desaparece con el tiempo.",
+      "Un hábito adquirido que no afecta el funcionamiento diario.",
+      "Una dependencia física exclusiva de sustancias ilegales."
+    ],
+    "correct_answer": "Un trastorno crónico caracterizado por la búsqueda compulsiva de una sustancia o comportamiento."
+  },
+  {
+    "question": "¿Qué diferencia existe entre tolerancia y dependencia física?",
+    "points": 2,
+    "options": [
+      "La tolerancia requiere dosis más altas para el mismo efecto, mientras que la dependencia física causa síntomas de abstinencia.",
+      "La dependencia física implica aumento de la dosis, mientras que la tolerancia no.",
+      "La tolerancia genera abstinencia inmediata al reducir el consumo.",
+      "No existe diferencia, ambos términos son equivalentes."
+    ],
+    "correct_answer": "La tolerancia requiere dosis más altas para el mismo efecto, mientras que la dependencia física causa síntomas de abstinencia."
+  },
+  {
+    "question": "¿Qué papel desempeñan los factores sociales en el desarrollo de las adicciones?",
+    "points": 2,
+    "options": [
+      "Influyen en la probabilidad de iniciarse en el consumo de sustancias.",
+      "No tienen relación directa con el desarrollo de las adicciones.",
+      "Solo afectan a personas en entornos rurales.",
+      "Determinan exclusivamente la gravedad del síndrome de abstinencia."
+    ],
+    "correct_answer": "Influyen en la probabilidad de iniciarse en el consumo de sustancias."
+  },
+  {
+    "question": "¿Qué estrategias de prevención son efectivas en el caso de las adicciones?",
+    "points": 2,
+    "options": [
+      "Educación sobre riesgos, promoción de habilidades sociales y acceso a apoyo psicológico.",
+      "Eliminación total de actividades recreativas en el entorno escolar.",
+      "Reforzar exclusivamente el papel de la familia en la intervención.",
+      "Incrementar la penalización legal para personas consumidoras."
+    ],
+    "correct_answer": "Educación sobre riesgos, promoción de habilidades sociales y acceso a apoyo psicológico."
+  },
+  {
+    "question": "¿Qué tipo de drogas son las benzodiacepinas según el texto?",
+    "points": 2,
+    "options": [
+      "Drogas depresoras del sistema nervioso central.",
+      "Drogas estimulantes que aumentan la energía física.",
+      "Sustancias alucinógenas que afectan la percepción.",
+      "Drogas psicoactivas exclusivamente legales."
+    ],
+    "correct_answer": "Drogas depresoras del sistema nervioso central."
+  },
+  {
+    "question": "¿Qué objetivo tiene la reducción de daños en el contexto de las adicciones?",
+    "points": 2,
+    "options": [
+      "Minimizar las consecuencias negativas del consumo sin exigir abstinencia total.",
+      "Asegurar la abstinencia completa en todos los casos.",
+      "Reducir exclusivamente el acceso a sustancias legales.",
+      "Evitar el tratamiento médico a largo plazo."
+    ],
+    "correct_answer": "Minimizar las consecuencias negativas del consumo sin exigir abstinencia total."
+  },
+  {
+    "question": "¿Qué factor de riesgo está asociado con entornos familiares disfuncionales?",
+    "points": 2,
+    "options": [
+      "Mayor probabilidad de desarrollar conductas adictivas.",
+      "Acceso limitado a recursos educativos.",
+      "Incremento del apoyo social en contextos recreativos.",
+      "Disminución de la predisposición genética al consumo."
+    ],
+    "correct_answer": "Mayor probabilidad de desarrollar conductas adictivas."
+  },
+  {
+    "question": "¿Qué adicción está asociada con un aumento en las compras impulsivas según el texto?",
+    "points": 2,
+    "options": [
+      "Adicción a las compras.",
+      "Adicción al juego.",
+      "Adicción al trabajo.",
+      "Adicción a las pantallas."
+    ],
+    "correct_answer": "Adicción a las compras."
+  },
+  {
+    "question": "¿Qué caracteriza a las drogas alucinógenas?",
+    "points": 2,
+    "options": [
+      "Alteran la percepción de la realidad y generan experiencias sensoriales distorsionadas.",
+      "Aumentan los niveles de energía física y concentración mental.",
+      "Reducen la actividad del sistema nervioso central.",
+      "Producen dependencia física inmediata."
+    ],
+    "correct_answer": "Alteran la percepción de la realidad y generan experiencias sensoriales distorsionadas."
+  },
+  {
+    "question": "¿Qué importancia tiene la intervención temprana en casos de drogadicción?",
+    "points": 2,
+    "options": [
+      "Permite abordar factores de riesgo y reducir el impacto negativo del consumo.",
+      "Evita completamente la necesidad de tratamientos médicos.",
+      "Reduce la tolerancia de las sustancias consumidas.",
+      "Elimina automáticamente el síndrome de abstinencia."
+    ],
+    "correct_answer": "Permite abordar factores de riesgo y reducir el impacto negativo del consumo."
+  }
+]

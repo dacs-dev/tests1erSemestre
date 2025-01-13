@@ -1,0 +1,222 @@
+[
+  {
+    "question": "¿Qué recurso residencial se destina a mujeres que necesitan recuperarse en un entorno seguro debido al riesgo o peligro en su medio habitual?",
+    "points": 2,
+    "options": [
+      "Centros de día.",
+      "Centros de acogida.",
+      "Pisos tutelados.",
+      "ATENPRO."
+    ],
+    "correct_answer": "Centros de acogida."
+  },
+  {
+    "question": "¿Qué servicio ofrece atención inmediata las 24 horas para víctimas de violencia de género utilizando dispositivos de geolocalización?",
+    "points": 2,
+    "options": [
+      "Centros de acogida.",
+      "ATENPRO.",
+      "Sistemas telemáticos de seguimiento.",
+      "Pisos tutelados."
+    ],
+    "correct_answer": "ATENPRO."
+  },
+  {
+    "question": "¿Qué objetivo tienen los sistemas de seguimiento telemático en casos de violencia de género?",
+    "points": 2,
+    "options": [
+      "Verificar el cumplimiento de órdenes de alejamiento.",
+      "Proveer asistencia económica a las víctimas.",
+      "Monitorear exclusivamente el comportamiento del agresor.",
+      "Reducir las denuncias falsas."
+    ],
+    "correct_answer": "Verificar el cumplimiento de órdenes de alejamiento."
+  },
+  {
+    "question": "¿Qué actividades se realizan en los centros de día para mujeres víctimas de violencia de género?",
+    "points": 2,
+    "options": [
+      "Atención integral, actividades individuales y grupales, formación y ocio.",
+      "Alojar a mujeres en peligro extremo.",
+      "Monitorear el cumplimiento de medidas judiciales.",
+      "Exclusivamente formación laboral intensiva."
+    ],
+    "correct_answer": "Atención integral, actividades individuales y grupales, formación y ocio."
+  },
+  {
+    "question": "¿Qué requisitos deben cumplir las mujeres para acceder al servicio ATENPRO?",
+    "points": 2,
+    "options": [
+      "No convivir con la persona agresora y participar en programas de atención especializada.",
+      "Haber denunciado previamente al agresor en instancias judiciales.",
+      "Estar inscritas en programas laborales públicos.",
+      "No haber solicitado asistencia psicológica previa."
+    ],
+    "correct_answer": "No convivir con la persona agresora y participar en programas de atención especializada."
+  },
+  {
+    "question": "¿Qué define un piso tutelado en el contexto de recursos para mujeres víctimas de violencia de género?",
+    "points": 2,
+    "options": [
+      "Un espacio residencial que fomenta la autonomía con atención profesional.",
+      "Un refugio temporal para emergencias inmediatas.",
+      "Un lugar donde se imparten exclusivamente programas de formación laboral.",
+      "Una alternativa únicamente para mujeres con hijos menores."
+    ],
+    "correct_answer": "Un espacio residencial que fomenta la autonomía con atención profesional."
+  },
+  {
+    "question": "¿Qué normativa establece medidas de protección para las víctimas de violencia de género en España?",
+    "points": 2,
+    "options": [
+      "Ley Orgánica 1/2004.",
+      "Ley de Protección Civil de la Mujer.",
+      "Código Penal Artículo 132.",
+      "Directiva Europea contra la Violencia de Género."
+    ],
+    "correct_answer": "Ley Orgánica 1/2004."
+  },
+  {
+    "question": "¿Qué recurso permite el control mediante GPS para garantizar el alejamiento entre víctima y agresor?",
+    "points": 2,
+    "options": [
+      "Sistemas telemáticos de seguimiento.",
+      "Centros de acogida.",
+      "ATENPRO.",
+      "Programas de orientación familiar."
+    ],
+    "correct_answer": "Sistemas telemáticos de seguimiento."
+  },
+  {
+    "question": "¿Qué recurso busca prevenir la exclusión social de mujeres en riesgo mediante actividades formativas y de empoderamiento?",
+    "points": 2,
+    "options": [
+      "Centros de día.",
+      "Pisos tutelados.",
+      "Centros de acogida.",
+      "Servicios telemáticos."
+    ],
+    "correct_answer": "Centros de día."
+  },
+  {
+    "question": "¿Qué organización gestiona la implementación del servicio ATENPRO en colaboración con los servicios sociales?",
+    "points": 2,
+    "options": [
+      "Servicios sociales comunitarios.",
+      "Instituciones penitenciarias.",
+      "Ayuntamientos locales.",
+      "Agencias de empleo."
+    ],
+    "correct_answer": "Servicios sociales comunitarios."
+  },
+  {
+    "question": "¿Qué objetivo tienen las campañas de sensibilización sobre violencia de género?",
+    "points": 2,
+    "options": [
+      "Concienciar a la población sobre la gravedad del problema y fomentar la prevención.",
+      "Reforzar las normas legales contra el agresor.",
+      "Aumentar la dependencia de las víctimas hacia los servicios sociales.",
+      "Centralizar los recursos solo en zonas urbanas."
+    ],
+    "correct_answer": "Concienciar a la población sobre la gravedad del problema y fomentar la prevención."
+  },
+  {
+    "question": "¿Qué perfil puede ser atendido en los recursos especializados de violencia de género?",
+    "points": 2,
+    "options": [
+      "Cualquier mujer en situación de riesgo, independientemente de su situación económica o social.",
+      "Únicamente mujeres con hijos menores a su cargo.",
+      "Solo mujeres que hayan solicitado ayuda judicial previa.",
+      "Víctimas de cualquier tipo de violencia sin distinción."
+    ],
+    "correct_answer": "Cualquier mujer en situación de riesgo, independientemente de su situación económica o social."
+  },
+  {
+    "question": "¿Qué programa tiene como objetivo la reintegración social y laboral de mujeres víctimas de violencia de género?",
+    "points": 2,
+    "options": [
+      "Programas de empoderamiento.",
+      "ATENPRO.",
+      "Sistemas telemáticos de seguimiento.",
+      "Pisos tutelados."
+    ],
+    "correct_answer": "Programas de empoderamiento."
+  },
+  {
+    "question": "¿Qué barrera emocional puede dificultar que las víctimas de violencia de género busquen ayuda?",
+    "points": 2,
+    "options": [
+      "El miedo al agresor o la dependencia emocional hacia él.",
+      "La falta de recursos económicos inmediatos.",
+      "La inexistencia de servicios sociales disponibles.",
+      "La presencia de sistemas legales excesivamente restrictivos."
+    ],
+    "correct_answer": "El miedo al agresor o la dependencia emocional hacia él."
+  },
+  {
+    "question": "¿Qué recurso combina atención psicológica y formación laboral para mujeres víctimas de violencia?",
+    "points": 2,
+    "options": [
+      "Centros de día.",
+      "ATENPRO.",
+      "Centros de acogida.",
+      "Programas telemáticos."
+    ],
+    "correct_answer": "Centros de día."
+  },
+  {
+    "question": "¿Qué enfoque debe tener la intervención con mujeres víctimas de violencia de género?",
+    "points": 2,
+    "options": [
+      "Integral, abarcando las dimensiones psicológica, social, jurídica y económica.",
+      "Focalizado exclusivamente en la protección física inmediata.",
+      "Centrado únicamente en la dimensión jurídica del problema.",
+      "Basado en la asistencia económica sin intervención psicológica."
+    ],
+    "correct_answer": "Integral, abarcando las dimensiones psicológica, social, jurídica y económica."
+  },
+  {
+    "question": "¿Qué medida judicial garantiza la protección inmediata de la víctima?",
+    "points": 2,
+    "options": [
+      "Órdenes de alejamiento.",
+      "Asignación directa de recursos económicos.",
+      "Inclusión automática en pisos tutelados.",
+      "Suspensión del acceso a programas laborales."
+    ],
+    "correct_answer": "Órdenes de alejamiento."
+  },
+  {
+    "question": "¿Qué prioridad tienen los pisos tutelados dentro de los recursos para víctimas de violencia?",
+    "points": 2,
+    "options": [
+      "Fomentar la autonomía y reintegración de las mujeres en su entorno.",
+      "Proveer una solución habitacional de emergencia.",
+      "Garantizar el monitoreo continuo por dispositivos electrónicos.",
+      "Establecer una residencia permanente para las víctimas."
+    ],
+    "correct_answer": "Fomentar la autonomía y reintegración de las mujeres en su entorno."
+  },
+  {
+    "question": "¿Qué servicio está orientado a mujeres que no están en situación de riesgo inmediato pero necesitan apoyo constante?",
+    "points": 2,
+    "options": [
+      "Centros de día.",
+      "Centros de acogida.",
+      "ATENPRO.",
+      "Sistemas telemáticos."
+    ],
+    "correct_answer": "Centros de día."
+  },
+  {
+    "question": "¿Qué tipo de violencia abarca la Ley Orgánica 1/2004 de Protección Integral contra la Violencia de Género?",
+    "points": 2,
+    "options": [
+      "Violencia física, psicológica, económica y sexual ejercida contra las mujeres.",
+      "Exclusivamente violencia física en el entorno familiar.",
+      "Cualquier tipo de violencia entre individuos.",
+      "Solo violencia económica contra las mujeres."
+    ],
+    "correct_answer": "Violencia física, psicológica, económica y sexual ejercida contra las mujeres."
+  }
+]

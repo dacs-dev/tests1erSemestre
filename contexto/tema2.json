@@ -1,0 +1,57 @@
+[
+  {
+    "question": "¿Qué se entiende por integración social según el texto?",
+    "points": 2,
+    "options": [
+      "La participación del individuo en los diferentes ámbitos de la vida social.",
+      "La adaptación completa a un entorno laboral específico.",
+      "El desarrollo de habilidades para participar exclusivamente en actividades culturales.",
+      "El aislamiento del individuo en sus relaciones sociales."
+    ],
+    "correct_answer": "La participación del individuo en los diferentes ámbitos de la vida social."
+  },
+  {
+    "question": "¿Qué diferencia hay entre marginación e inadaptación según Valverde?",
+    "points": 2,
+    "options": [
+      "La marginación no implica una conducta específica, mientras que la inadaptación sí.",
+      "La marginación implica una conducta específica, mientras que la inadaptación no.",
+      "Ambos conceptos son equivalentes y se usan indistintamente.",
+      "La inadaptación está relacionada únicamente con factores económicos."
+    ],
+    "correct_answer": "La marginación no implica una conducta específica, mientras que la inadaptación sí."
+  },
+  {
+    "question": "¿Qué teoría considera que las causas estructurales son responsables de la marginación?",
+    "points": 2,
+    "options": [
+      "Teoría del conflicto.",
+      "Teoría benéfico-religiosa.",
+      "Teoría de la disfuncionalidad.",
+      "Teoría estructural."
+    ],
+    "correct_answer": "Teoría del conflicto."
+  },
+  {
+    "question": "Según el texto, ¿qué caracteriza la exclusión social?",
+    "points": 2,
+    "options": [
+      "La acumulación de barreras y límites que dejan fuera de la participación en la vida social.",
+      "El acceso limitado a recursos económicos por motivos personales.",
+      "La falta de interacción con las instituciones políticas de un país.",
+      "El rechazo exclusivo de los valores tradicionales."
+    ],
+    "correct_answer": "La acumulación de barreras y límites que dejan fuera de la participación en la vida social."
+  },
+  {
+    "question": "¿Qué indicador es más utilizado para medir el umbral de riesgo de pobreza?",
+    "points": 2,
+    "options": [
+      "La escala de equivalencia de la OCDE modificada.",
+      "La encuesta de satisfacción laboral.",
+      "El índice de criminalidad por región.",
+      "El análisis de la brecha educativa."
+    ],
+    "correct_answer": "La escala de equivalencia de la OCDE modificada."
+  }
+]

@@ -1,0 +1,2848 @@
+[
+  {
+    "question": "¿Qué cuatro conceptos básicos explican el desarrollo evolutivo del ser humano?",
+    "points": 2,
+    "options": [
+      "Crecimiento, maduración, aprendizaje y desarrollo.",
+      "Crecimiento, biología, lenguaje y maduración.",
+      "Aprendizaje, memoria, atención y crecimiento.",
+      "Cognición, emociones, maduración y desarrollo."
+    ],
+    "correct_answer": "Crecimiento, maduración, aprendizaje y desarrollo."
+  },
+  {
+    "question": "¿Qué describe el ciclo vital según la psicología del desarrollo?",
+    "points": 2,
+    "options": [
+      "Los cambios psicológicos que ocurren desde el nacimiento hasta la muerte.",
+      "Las etapas biológicas que afectan la estructura del cuerpo humano.",
+      "El aprendizaje de habilidades específicas en la infancia.",
+      "La socialización en el entorno educativo y laboral."
+    ],
+    "correct_answer": "Los cambios psicológicos que ocurren desde el nacimiento hasta la muerte."
+  },
+  {
+    "question": "Según Erikson, ¿qué ocurre en cada etapa del desarrollo del ciclo vital?",
+    "points": 2,
+    "options": [
+      "Surge una crisis planteada como una oposición entre dos polos.",
+      "Se desarrollan habilidades específicas relacionadas con el entorno.",
+      "Se establece la madurez emocional en cada etapa.",
+      "Se experimenta un crecimiento físico significativo."
+    ],
+    "correct_answer": "Surge una crisis planteada como una oposición entre dos polos."
+  },
+  {
+    "question": "¿Cuál es la etapa en la que el adolescente busca su propia identidad?",
+    "points": 2,
+    "options": ["Adolescencia.", "Infancia.", "Edad adulta.", "Vejez."],
+    "correct_answer": "Adolescencia."
+  },
+  {
+    "question": "¿Qué define la socialización según Vander Zanden?",
+    "points": 2,
+    "options": [
+      "El proceso en el que el individuo desarrolla su forma de pensar, sentir y actuar mediante la interacción con los demás.",
+      "La adquisición de habilidades académicas y laborales en la sociedad.",
+      "El aprendizaje de normas sociales exclusivamente en la infancia.",
+      "La adaptación al entorno natural mediante experiencias personales."
+    ],
+    "correct_answer": "El proceso en el que el individuo desarrolla su forma de pensar, sentir y actuar mediante la interacción con los demás."
+  },
+  {
+    "question": "¿Qué estilo educativo parental combina alto control con bajo afecto?",
+    "points": 2,
+    "options": ["Autoritario.", "Democrático.", "Permisivo.", "Indiferente."],
+    "correct_answer": "Autoritario."
+  },
+  {
+    "question": "¿Qué teoría sostiene que las relaciones entre iguales son fundamentales para la autonomía?",
+    "points": 2,
+    "options": [
+      "Teoría de Piaget.",
+      "Teoría de Vygotsky.",
+      "Teoría de la moral autónoma.",
+      "Teoría de la maduración."
+    ],
+    "correct_answer": "Teoría de Piaget."
+  },
+  {
+    "question": "¿Qué componente NO forma parte del autoconcepto según el texto?",
+    "points": 2,
+    "options": ["Cultural.", "Corporal.", "Psíquico.", "Social."],
+    "correct_answer": "Cultural."
+  },
+  {
+    "question": "¿Qué define la autoestima según Branden?",
+    "points": 2,
+    "options": [
+      "La confianza en la capacidad de pensar y enfrentarse a desafíos de la vida, y el derecho a ser felices.",
+      "El reconocimiento social y la adaptación al entorno laboral.",
+      "La aceptación incondicional de las normas sociales establecidas.",
+      "El desarrollo cognitivo que permite alcanzar metas a largo plazo."
+    ],
+    "correct_answer": "La confianza en la capacidad de pensar y enfrentarse a desafíos de la vida, y el derecho a ser felices."
+  },
+  {
+    "question": "¿Qué función desempeñan los medios de comunicación en la socialización?",
+    "points": 2,
+    "options": [
+      "Influyen en valores, opiniones y comportamientos de la sociedad.",
+      "Reemplazan por completo la educación proporcionada por la familia.",
+      "Generan patrones universales de pensamiento en los individuos.",
+      "Eliminan la diversidad cultural y lingüística en las comunidades."
+    ],
+    "correct_answer": "Influyen en valores, opiniones y comportamientos de la sociedad."
+  },
+  {
+    "question": "¿Qué es el desarrollo humano según el texto?",
+    "points": 2,
+    "options": [
+      "El conjunto de cambios físicos, cognitivos y emocionales que ocurren a lo largo de la vida.",
+      "El crecimiento físico experimentado durante la infancia y la adolescencia.",
+      "La capacidad de adaptarse al entorno social y cultural.",
+      "La adquisición de habilidades específicas en el ámbito académico."
+    ],
+    "correct_answer": "El conjunto de cambios físicos, cognitivos y emocionales que ocurren a lo largo de la vida."
+  },
+  {
+    "question": "¿Cuál es la etapa del ciclo vital en la que se consolida la identidad personal?",
+    "points": 2,
+    "options": [
+      "Adolescencia.",
+      "Niñez temprana.",
+      "Edad adulta temprana.",
+      "Vejez."
+    ],
+    "correct_answer": "Adolescencia."
+  },
+  {
+    "question": "Según Piaget, ¿qué caracteriza la etapa preoperacional del desarrollo cognitivo?",
+    "points": 2,
+    "options": [
+      "El pensamiento simbólico y egocéntrico.",
+      "La capacidad para realizar operaciones lógicas concretas.",
+      "El razonamiento abstracto y sistemático.",
+      "El aprendizaje exclusivo a través de estímulos externos."
+    ],
+    "correct_answer": "El pensamiento simbólico y egocéntrico."
+  },
+  {
+    "question": "¿Qué concepto describe la habilidad para adaptarse a nuevas experiencias según el texto?",
+    "points": 2,
+    "options": ["Plasticidad.", "Cognición.", "Maduración.", "Resiliencia."],
+    "correct_answer": "Plasticidad."
+  },
+  {
+    "question": "¿Qué componente de la socialización se aprende principalmente en la infancia?",
+    "points": 2,
+    "options": [
+      "Las normas sociales.",
+      "Los valores económicos.",
+      "Las habilidades técnicas.",
+      "Los comportamientos laborales."
+    ],
+    "correct_answer": "Las normas sociales."
+  },
+  {
+    "question": "¿Cuál es el estilo parental caracterizado por un bajo nivel de control y alto nivel de afecto?",
+    "points": 2,
+    "options": ["Permisivo.", "Autoritario.", "Democrático.", "Indiferente."],
+    "correct_answer": "Permisivo."
+  },
+  {
+    "question": "Según Erikson, ¿qué crisis caracteriza la infancia temprana?",
+    "points": 2,
+    "options": [
+      "Confianza frente a desconfianza.",
+      "Autonomía frente a vergüenza y duda.",
+      "Iniciativa frente a culpa.",
+      "Identidad frente a confusión de roles."
+    ],
+    "correct_answer": "Confianza frente a desconfianza."
+  },
+  {
+    "question": "¿Qué influencia tienen los grupos de iguales en la socialización?",
+    "points": 2,
+    "options": [
+      "Proporcionan apoyo emocional y refuerzan normas sociales.",
+      "Sustituyen completamente la influencia parental.",
+      "Limitan la capacidad de adaptación cultural del individuo.",
+      "Fomentan exclusivamente la competencia entre los miembros."
+    ],
+    "correct_answer": "Proporcionan apoyo emocional y refuerzan normas sociales."
+  },
+  {
+    "question": "¿Qué componente del desarrollo humano incluye la capacidad de empatizar?",
+    "points": 2,
+    "options": [
+      "Desarrollo socioemocional.",
+      "Desarrollo cognitivo.",
+      "Desarrollo físico.",
+      "Desarrollo cultural."
+    ],
+    "correct_answer": "Desarrollo socioemocional."
+  },
+  {
+    "question": "¿Qué característica define a las familias democráticas según el texto?",
+    "points": 2,
+    "options": [
+      "La combinación de normas claras y comunicación abierta.",
+      "La ausencia de reglas establecidas en el hogar.",
+      "El control estricto de las actividades de los hijos.",
+      "El distanciamiento emocional entre padres e hijos."
+    ],
+    "correct_answer": "La combinación de normas claras y comunicación abierta."
+  },
+  {
+    "question": "¿Qué se entiende por integración social según el texto?",
+    "points": 2,
+    "options": [
+      "La participación del individuo en los diferentes ámbitos de la vida social.",
+      "La adaptación completa a un entorno laboral específico.",
+      "El desarrollo de habilidades para participar exclusivamente en actividades culturales.",
+      "El aislamiento del individuo en sus relaciones sociales."
+    ],
+    "correct_answer": "La participación del individuo en los diferentes ámbitos de la vida social."
+  },
+  {
+    "question": "¿Qué diferencia hay entre marginación e inadaptación según Valverde?",
+    "points": 2,
+    "options": [
+      "La marginación no implica una conducta específica, mientras que la inadaptación sí.",
+      "La marginación implica una conducta específica, mientras que la inadaptación no.",
+      "Ambos conceptos son equivalentes y se usan indistintamente.",
+      "La inadaptación está relacionada únicamente con factores económicos."
+    ],
+    "correct_answer": "La marginación no implica una conducta específica, mientras que la inadaptación sí."
+  },
+  {
+    "question": "¿Qué teoría considera que las causas estructurales son responsables de la marginación?",
+    "points": 2,
+    "options": [
+      "Teoría del conflicto.",
+      "Teoría benéfico-religiosa.",
+      "Teoría de la disfuncionalidad.",
+      "Teoría estructural."
+    ],
+    "correct_answer": "Teoría del conflicto."
+  },
+  {
+    "question": "Según el texto, ¿qué caracteriza la exclusión social?",
+    "points": 2,
+    "options": [
+      "La acumulación de barreras y límites que dejan fuera de la participación en la vida social.",
+      "El acceso limitado a recursos económicos por motivos personales.",
+      "La falta de interacción con las instituciones políticas de un país.",
+      "El rechazo exclusivo de los valores tradicionales."
+    ],
+    "correct_answer": "La acumulación de barreras y límites que dejan fuera de la participación en la vida social."
+  },
+  {
+    "question": "¿Qué indicador es más utilizado para medir el umbral de riesgo de pobreza?",
+    "points": 2,
+    "options": [
+      "La escala de equivalencia de la OCDE modificada.",
+      "La encuesta de satisfacción laboral.",
+      "El índice de criminalidad por región.",
+      "El análisis de la brecha educativa."
+    ],
+    "correct_answer": "La escala de equivalencia de la OCDE modificada."
+  },
+  {
+    "question": "¿Qué representa la pirámide de necesidades de Maslow?",
+    "points": 2,
+    "options": [
+      "La jerarquía de necesidades humanas organizadas en cinco niveles.",
+      "Un modelo económico para medir el bienestar social.",
+      "Un esquema para clasificar únicamente necesidades fisiológicas.",
+      "Un método para determinar el nivel de ingresos de las familias."
+    ],
+    "correct_answer": "La jerarquía de necesidades humanas organizadas en cinco niveles."
+  },
+  {
+    "question": "¿Qué tres esferas componen al ser humano según el texto?",
+    "points": 2,
+    "options": [
+      "Esfera biológica, psíquica y social.",
+      "Esfera económica, cultural y política.",
+      "Esfera personal, profesional y espiritual.",
+      "Esfera genética, cultural y educativa."
+    ],
+    "correct_answer": "Esfera biológica, psíquica y social."
+  },
+  {
+    "question": "¿Qué tipo de necesidad implica prepararse para necesidades futuras?",
+    "points": 2,
+    "options": [
+      "Necesidad prospectiva.",
+      "Necesidad normativa.",
+      "Necesidad comparada.",
+      "Necesidad experimentada."
+    ],
+    "correct_answer": "Necesidad prospectiva."
+  },
+  {
+    "question": "¿Qué caracteriza a la exclusión social según el texto?",
+    "points": 2,
+    "options": [
+      "Es un proceso multidimensional y estructural.",
+      "Se basa únicamente en la carencia de recursos económicos.",
+      "Es una situación transitoria que afecta a todas las personas en algún momento.",
+      "Se genera exclusivamente por conflictos familiares."
+    ],
+    "correct_answer": "Es un proceso multidimensional y estructural."
+  },
+  {
+    "question": "¿Qué implica la inclusión activa?",
+    "points": 2,
+    "options": [
+      "Garantizar trabajos sostenibles, servicios sociales de calidad y apoyo adecuado a la renta.",
+      "Proveer recursos exclusivamente a las personas en el mercado laboral.",
+      "Establecer normas sociales estrictas para todos los ciudadanos.",
+      "Eliminar todas las barreras sociales mediante sanciones."
+    ],
+    "correct_answer": "Garantizar trabajos sostenibles, servicios sociales de calidad y apoyo adecuado a la renta."
+  },
+  {
+    "question": "¿Qué caracteriza las necesidades básicas según la pirámide de Maslow?",
+    "points": 2,
+    "options": [
+      "Son indispensables para la supervivencia, como la alimentación y el descanso.",
+      "Incluyen el reconocimiento y la autorrealización personal.",
+      "Se relacionan exclusivamente con la estabilidad emocional.",
+      "Son aquellas que garantizan la participación social activa."
+    ],
+    "correct_answer": "Son indispensables para la supervivencia, como la alimentación y el descanso."
+  },
+  {
+    "question": "¿Qué diferencia existe entre una necesidad comparada y una normativa?",
+    "points": 2,
+    "options": [
+      "La comparada analiza diferencias entre grupos; la normativa sigue estándares establecidos.",
+      "La comparada establece normas sociales; la normativa es subjetiva.",
+      "La comparada se centra en necesidades futuras; la normativa en las actuales.",
+      "La comparada es subjetiva; la normativa es experimental."
+    ],
+    "correct_answer": "La comparada analiza diferencias entre grupos; la normativa sigue estándares establecidos."
+  },
+  {
+    "question": "¿Qué objetivo tienen los programas de inclusión social según el texto?",
+    "points": 2,
+    "options": [
+      "Eliminar barreras y garantizar la participación equitativa en la sociedad.",
+      "Imponer normas culturales para mantener la estabilidad social.",
+      "Proveer recursos exclusivamente a sectores desfavorecidos.",
+      "Evitar la interacción entre diferentes grupos sociales."
+    ],
+    "correct_answer": "Eliminar barreras y garantizar la participación equitativa en la sociedad."
+  },
+  {
+    "question": "¿Qué dimensión aborda la inclusión social en términos de accesibilidad?",
+    "points": 2,
+    "options": [
+      "Facilitar el acceso a recursos básicos, educación y empleo.",
+      "Aumentar la exclusividad en oportunidades laborales.",
+      "Reducir la diversidad cultural en comunidades específicas.",
+      "Establecer prioridades únicamente en áreas urbanas."
+    ],
+    "correct_answer": "Facilitar el acceso a recursos básicos, educación y empleo."
+  },
+  {
+    "question": "¿Qué papel desempeña la cohesión social en la inclusión activa?",
+    "points": 2,
+    "options": [
+      "Promueve la colaboración entre individuos para un bienestar colectivo.",
+      "Restringe la interacción entre grupos con diferentes valores.",
+      "Asegura la supremacía de normas tradicionales en una comunidad.",
+      "Favorece la segregación económica en áreas urbanas."
+    ],
+    "correct_answer": "Promueve la colaboración entre individuos para un bienestar colectivo."
+  },
+  {
+    "question": "¿Cómo define el texto las barreras sociales?",
+    "points": 2,
+    "options": [
+      "Obstáculos que limitan la participación plena de las personas en la sociedad.",
+      "Normas legales establecidas para controlar la movilidad social.",
+      "Elementos que fomentan exclusivamente la diversidad cultural.",
+      "Restricciones económicas aplicadas a sectores vulnerables."
+    ],
+    "correct_answer": "Obstáculos que limitan la participación plena de las personas en la sociedad."
+  },
+  {
+    "question": "¿Qué rol tienen las políticas públicas en la erradicación de la exclusión social?",
+    "points": 2,
+    "options": [
+      "Implementar medidas para garantizar la igualdad de oportunidades.",
+      "Establecer sistemas de control en sectores vulnerables.",
+      "Reducir la participación política de grupos minoritarios.",
+      "Limitar la inversión en servicios sociales básicos."
+    ],
+    "correct_answer": "Implementar medidas para garantizar la igualdad de oportunidades."
+  },
+  {
+    "question": "¿Qué componente es fundamental para medir el nivel de integración social de un individuo?",
+    "points": 2,
+    "options": [
+      "Su acceso a redes sociales, educación y empleo.",
+      "Su capacidad económica para adquirir bienes de lujo.",
+      "La estabilidad emocional en su entorno familiar.",
+      "El cumplimiento estricto de normas sociales tradicionales."
+    ],
+    "correct_answer": "Su acceso a redes sociales, educación y empleo."
+  },
+  {
+    "question": "¿Qué enfoque diferencia la inclusión social de la integración social?",
+    "points": 2,
+    "options": [
+      "La inclusión adapta el entorno al individuo; la integración adapta al individuo al entorno.",
+      "La inclusión se centra exclusivamente en lo educativo; la integración en lo cultural.",
+      "La integración elimina barreras físicas; la inclusión se enfoca en barreras económicas.",
+      "Ambas implican los mismos procesos y objetivos."
+    ],
+    "correct_answer": "La inclusión adapta el entorno al individuo; la integración adapta al individuo al entorno."
+  },
+  {
+    "question": "¿Qué define la vulnerabilidad en el contexto de exclusión social?",
+    "points": 2,
+    "options": [
+      "La situación de riesgo de exclusión debido a carencias en recursos, derechos o acceso a servicios.",
+      "La incapacidad permanente de un individuo para participar en la sociedad.",
+      "Un estado temporal relacionado exclusivamente con problemas educativos.",
+      "Una condición asociada únicamente a factores genéticos."
+    ],
+    "correct_answer": "La situación de riesgo de exclusión debido a carencias en recursos, derechos o acceso a servicios."
+  },
+  {
+    "question": "¿Qué función desempeñó Luis Vives en la historia de la acción social?",
+    "points": 2,
+    "options": [
+      "Proclamó el derecho de asistencia en favor de los pobres y afectados por desgracias.",
+      "Lideró movimientos sociales contra la beneficencia pública.",
+      "Prohibió la intervención estatal en la asistencia social.",
+      "Defendió únicamente la caridad individual como solución a la pobreza."
+    ],
+    "correct_answer": "Proclamó el derecho de asistencia en favor de los pobres y afectados por desgracias."
+  },
+  {
+    "question": "¿Qué etapa de intervención social en España culminó con la Ley de Beneficencia de 1849?",
+    "points": 2,
+    "options": [
+      "Sistema de beneficencia público y de asistencia social.",
+      "Consolidación del Estado de bienestar.",
+      "Introducción del modelo de previsión social.",
+      "Implementación del sistema universal de salud."
+    ],
+    "correct_answer": "Sistema de beneficencia público y de asistencia social."
+  },
+  {
+    "question": "¿Qué objetivos tiene la protección social según el texto?",
+    "points": 2,
+    "options": [
+      "Reducir la vulnerabilidad y la exclusión socioeconómica.",
+      "Proveer ingresos solo a las personas en situación laboral activa.",
+      "Garantizar la riqueza económica para las grandes empresas.",
+      "Fortalecer exclusivamente las políticas de seguridad pública."
+    ],
+    "correct_answer": "Reducir la vulnerabilidad y la exclusión socioeconómica."
+  },
+  {
+    "question": "¿Qué modelo de Estado de bienestar se basa en derechos sociales y es típico de países nórdicos?",
+    "points": 2,
+    "options": [
+      "Socialdemócrata.",
+      "Conservador.",
+      "Liberal.",
+      "Mediterráneo."
+    ],
+    "correct_answer": "Socialdemócrata."
+  },
+  {
+    "question": "¿Qué principios rigen los servicios sociales municipales según el texto?",
+    "points": 2,
+    "options": [
+      "Proximidad, descentralización, integración y participación.",
+      "Centralización, exclusividad, neutralidad y selectividad.",
+      "Flexibilidad, autonomía absoluta y minimización de recursos.",
+      "Jerarquización, exclusión y discrecionalidad administrativa."
+    ],
+    "correct_answer": "Proximidad, descentralización, integración y participación."
+  },
+  {
+    "question": "¿Qué objetivo tiene la asistencia social según el texto?",
+    "points": 2,
+    "options": [
+      "Atender necesidades básicas de personas en situación de exclusión o vulnerabilidad.",
+      "Garantizar un ingreso mínimo a todas las personas activas laboralmente.",
+      "Promover el desarrollo exclusivamente económico en las comunidades rurales.",
+      "Limitar la intervención estatal en cuestiones sociales."
+    ],
+    "correct_answer": "Atender necesidades básicas de personas en situación de exclusión o vulnerabilidad."
+  },
+  {
+    "question": "¿Qué principio se considera esencial en el modelo de bienestar social mediterráneo?",
+    "points": 2,
+    "options": [
+      "La familia como principal proveedora de apoyo social.",
+      "La intervención mínima del estado en la economía.",
+      "La priorización de políticas laborales sobre servicios sociales.",
+      "El financiamiento exclusivo a través de organizaciones privadas."
+    ],
+    "correct_answer": "La familia como principal proveedora de apoyo social."
+  },
+  {
+    "question": "¿Qué establece el artículo 50 de la Constitución española sobre las personas mayores?",
+    "points": 2,
+    "options": [
+      "Garantiza pensiones adecuadas y promueve su bienestar mediante servicios sociales.",
+      "Restringe los servicios sociales solo a personas mayores en situación de dependencia.",
+      "Fomenta únicamente la participación laboral de las personas mayores.",
+      "Limita el acceso a recursos sociales para las personas mayores sin recursos económicos."
+    ],
+    "correct_answer": "Garantiza pensiones adecuadas y promueve su bienestar mediante servicios sociales."
+  },
+  {
+    "question": "¿Qué se entiende por prestaciones no contributivas en el sistema de seguridad social?",
+    "points": 2,
+    "options": [
+      "Prestaciones destinadas a quienes no han cotizado lo suficiente para acceder a prestaciones contributivas.",
+      "Subsidios dirigidos exclusivamente a familias con altos ingresos económicos.",
+      "Ayudas económicas temporales para empresas privadas.",
+      "Apoyos otorgados exclusivamente por organizaciones no gubernamentales."
+    ],
+    "correct_answer": "Prestaciones destinadas a quienes no han cotizado lo suficiente para acceder a prestaciones contributivas."
+  },
+  {
+    "question": "¿Qué función tienen los planes de servicios sociales comunitarios?",
+    "points": 2,
+    "options": [
+      "Promover la participación activa y la integración en la comunidad.",
+      "Centralizar todos los recursos sociales en una administración principal.",
+      "Limitar la accesibilidad de los servicios sociales en zonas urbanas.",
+      "Privatizar servicios básicos como educación y salud comunitaria."
+    ],
+    "correct_answer": "Promover la participación activa y la integración en la comunidad."
+  },
+  {
+    "question": "¿Qué características tienen los servicios sociales generales según el texto?",
+    "points": 2,
+    "options": [
+      "Ofrecen información, orientación y apoyo a toda la población.",
+      "Se enfocan exclusivamente en la atención de colectivos vulnerables.",
+      "Incluyen programas específicos dirigidos a empresas privadas.",
+      "Se limitan a la entrega de ayudas económicas temporales."
+    ],
+    "correct_answer": "Ofrecen información, orientación y apoyo a toda la población."
+  },
+  {
+    "question": "¿Qué establece la Estrategia Nacional de Inclusión Social en España?",
+    "points": 2,
+    "options": [
+      "Reducir la pobreza y promover la inclusión activa de las personas en riesgo de exclusión.",
+      "Centralizar todos los recursos sociales en un único organismo gubernamental.",
+      "Eliminar las prestaciones no contributivas en regiones rurales.",
+      "Priorizar los servicios privados sobre los públicos en zonas urbanas."
+    ],
+    "correct_answer": "Reducir la pobreza y promover la inclusión activa de las personas en riesgo de exclusión."
+  },
+  {
+    "question": "¿Qué define la pobreza energética según el texto?",
+    "points": 2,
+    "options": [
+      "La dificultad de un hogar para mantener una temperatura adecuada en la vivienda.",
+      "La falta de acceso a servicios educativos básicos.",
+      "La ausencia de ingresos económicos para adquirir alimentos básicos.",
+      "El incremento del costo de vida en áreas urbanas."
+    ],
+    "correct_answer": "La dificultad de un hogar para mantener una temperatura adecuada en la vivienda."
+  },
+  {
+    "question": "¿Qué tipo de políticas promueve el Fondo Social Europeo? ",
+    "points": 2,
+    "options": [
+      "El acceso al empleo, la formación profesional y la igualdad de oportunidades.",
+      "La privatización de los sistemas de seguridad social en Europa.",
+      "La centralización de los servicios sociales en grandes ciudades.",
+      "La limitación de ayudas a las pequeñas y medianas empresas."
+    ],
+    "correct_answer": "El acceso al empleo, la formación profesional y la igualdad de oportunidades."
+  },
+  {
+    "question": "¿Qué elemento es clave en la planificación de los servicios sociales municipales? ",
+    "points": 2,
+    "options": [
+      "La proximidad al usuario para garantizar una atención adecuada.",
+      "El uso exclusivo de herramientas tecnológicas avanzadas.",
+      "La centralización de recursos en una administración principal.",
+      "La exclusión de participación ciudadana en las decisiones sociales."
+    ],
+    "correct_answer": "La proximidad al usuario para garantizar una atención adecuada."
+  },
+  {
+    "question": "¿Qué organización defendió la necesidad de sistematizar el trabajo de asistencia social en 1869?",
+    "points": 2,
+    "options": [
+      "Charity Organization Society (COS).",
+      "Save the Children.",
+      "Unicef.",
+      "Cáritas Internacional."
+    ],
+    "correct_answer": "Charity Organization Society (COS)."
+  },
+  {
+    "question": "¿Qué autora realizó aportaciones metodológicas clave en la acción social?",
+    "points": 2,
+    "options": [
+      "Mary Ellen Richmond.",
+      "Eglantyne Jebb.",
+      "Concepción Arenal.",
+      "Virginia Satir."
+    ],
+    "correct_answer": "Mary Ellen Richmond."
+  },
+  {
+    "question": "¿Qué institución organizó la Escuela de Trabajadores Sociales en España en 1958?",
+    "points": 2,
+    "options": [
+      "Cáritas.",
+      "La Cruz Roja.",
+      "El Ministerio de Asuntos Sociales.",
+      "Save the Children."
+    ],
+    "correct_answer": "Cáritas."
+  },
+  {
+    "question": "¿Qué establece el Real Decreto 1074/2012 para el técnico superior en Integración Social?",
+    "points": 2,
+    "options": [
+      "El título oficial y las enseñanzas mínimas.",
+      "Los criterios de evaluación y promoción.",
+      "Las leyes aplicables a la inclusión social.",
+      "El código ético de la profesión."
+    ],
+    "correct_answer": "El título oficial y las enseñanzas mínimas."
+  },
+  {
+    "question": "¿Cuál es una de las competencias profesionales del técnico superior en Integración Social según el artículo 5 del RD?",
+    "points": 2,
+    "options": [
+      "Diseñar y desarrollar actuaciones para prevenir la violencia doméstica.",
+      "Promover actividades exclusivamente deportivas.",
+      "Asegurar el cumplimiento de normativas empresariales.",
+      "Realizar auditorías económicas en centros sociales."
+    ],
+    "correct_answer": "Diseñar y desarrollar actuaciones para prevenir la violencia doméstica."
+  },
+  {
+    "question": "¿Qué ámbito profesional es común para el técnico superior en Integración Social?",
+    "points": 2,
+    "options": [
+      "Residencias de mayores.",
+      "Laboratorios de investigación.",
+      "Empresas de transporte.",
+      "Centros educativos de alto rendimiento."
+    ],
+    "correct_answer": "Residencias de mayores."
+  },
+  {
+    "question": "¿Qué significa interdisciplinariedad en la intervención social?",
+    "points": 2,
+    "options": [
+      "Colaboración de profesionales de diferentes disciplinas académicas.",
+      "El trabajo independiente de cada profesional en su área.",
+      "La formación exclusiva de trabajadores sociales.",
+      "La organización de equipos con un único enfoque educativo."
+    ],
+    "correct_answer": "Colaboración de profesionales de diferentes disciplinas académicas."
+  },
+  {
+    "question": "¿Qué principio básico debe guiar toda intervención social?",
+    "points": 2,
+    "options": [
+      "Dignidad de la persona.",
+      "Eficiencia económica.",
+      "Uniformidad en la atención.",
+      "Autonomía total del profesional."
+    ],
+    "correct_answer": "Dignidad de la persona."
+  },
+  {
+    "question": "¿Qué rol juega la personalización en la intervención social?",
+    "points": 2,
+    "options": [
+      "Reconocer al destinatario como sujeto activo en el proceso.",
+      "Tratar al destinatario exclusivamente como receptor pasivo.",
+      "Establecer normas rígidas sin considerar individualidades.",
+      "Eliminar los derechos y deberes de los destinatarios."
+    ],
+    "correct_answer": "Reconocer al destinatario como sujeto activo en el proceso."
+  },
+  {
+    "question": "¿Qué debe garantizar un técnico superior en Integración Social en su entorno de trabajo?",
+    "points": 2,
+    "options": [
+      "La creación de entornos seguros para personas y profesionales.",
+      "La eliminación total de normas y protocolos.",
+      "La independencia absoluta de los equipos multidisciplinares.",
+      "El desarrollo exclusivo de actividades recreativas."
+    ],
+    "correct_answer": "La creación de entornos seguros para personas y profesionales."
+  },
+  {
+    "question": "¿Qué autor o autora desarrolló la obra 'Diagnóstico Social', base del trabajo social moderno?",
+    "points": 2,
+    "options": [
+      "Mary Ellen Richmond.",
+      "Jane Addams.",
+      "Concepción Arenal.",
+      "Virginia Satir."
+    ],
+    "correct_answer": "Mary Ellen Richmond."
+  },
+  {
+    "question": "¿Qué principio promueve la intervención social para garantizar la equidad?",
+    "points": 2,
+    "options": [
+      "Justicia social.",
+      "Competitividad económica.",
+      "Neutralidad administrativa.",
+      "Privatización de los servicios."
+    ],
+    "correct_answer": "Justicia social."
+  },
+  {
+    "question": "¿Qué sector se incluye en los ámbitos de actuación del técnico superior en Integración Social?",
+    "points": 2,
+    "options": [
+      "Atención a la diversidad funcional.",
+      "Investigación científica en laboratorios.",
+      "Desarrollo de políticas públicas económicas.",
+      "Gestión de empresas tecnológicas."
+    ],
+    "correct_answer": "Atención a la diversidad funcional."
+  },
+  {
+    "question": "¿Qué competencias tiene el técnico superior en Integración Social en relación con la mediación? ",
+    "points": 2,
+    "options": [
+      "Facilitar la comunicación y prevenir conflictos en diversos contextos.",
+      "Garantizar únicamente la resolución de conflictos familiares.",
+      "Promover actividades recreativas para niños y jóvenes.",
+      "Asegurar la vigilancia en centros penitenciarios."
+    ],
+    "correct_answer": "Facilitar la comunicación y prevenir conflictos en diversos contextos."
+  },
+  {
+    "question": "¿Qué elemento es fundamental en la planificación de proyectos de intervención social? ",
+    "points": 2,
+    "options": [
+      "La identificación de necesidades específicas del colectivo destinatario.",
+      "El cumplimiento estricto de normativas económicas.",
+      "La reducción de recursos destinados a programas comunitarios.",
+      "La eliminación de enfoques interdisciplinarios."
+    ],
+    "correct_answer": "La identificación de necesidades específicas del colectivo destinatario."
+  },
+  {
+    "question": "¿Cómo define la OMS el concepto de discapacidad?",
+    "points": 2,
+    "options": [
+      "Un término genérico que incluye déficit, limitaciones en la actividad y restricciones en la participación.",
+      "Una condición médica exclusivamente relacionada con factores genéticos.",
+      "Un problema temporal que afecta a la autonomía de las personas.",
+      "Una característica que solo depende del entorno social."
+    ],
+    "correct_answer": "Un término genérico que incluye déficit, limitaciones en la actividad y restricciones en la participación."
+  },
+  {
+    "question": "¿Qué aspecto introdujo la OMS en la definición moderna de discapacidad?",
+    "points": 2,
+    "options": [
+      "El reconocimiento de los factores ambientales y personales.",
+      "La exclusión de los factores sociales en el concepto de discapacidad.",
+      "La eliminación de la consideración de barreras físicas.",
+      "El énfasis únicamente en la condición de salud individual."
+    ],
+    "correct_answer": "El reconocimiento de los factores ambientales y personales."
+  },
+  {
+    "question": "¿Qué factores contribuyen a caracterizar la discapacidad de una persona según el texto?",
+    "points": 2,
+    "options": [
+      "Constitución biológica, sexo, estilo de vida y características socioeconómicas.",
+      "Exclusivamente la genética y el entorno social.",
+      "Solo el apoyo familiar y los recursos educativos.",
+      "El acceso a servicios médicos y programas de rehabilitación."
+    ],
+    "correct_answer": "Constitución biológica, sexo, estilo de vida y características socioeconómicas."
+  },
+  {
+    "question": "¿Qué tipo de discapacidades se adquieren después del nacimiento?",
+    "points": 2,
+    "options": [
+      "Discapacidades adquiridas.",
+      "Discapacidades congénitas.",
+      "Discapacidades permanentes.",
+      "Discapacidades genéticas."
+    ],
+    "correct_answer": "Discapacidades adquiridas."
+  },
+  {
+    "question": "¿Qué barreras identifica la OMS como obstáculos para las personas con discapacidad?",
+    "points": 2,
+    "options": [
+      "Entorno físico inaccesible, falta de tecnología de asistencia y actitudes negativas hacia la discapacidad.",
+      "Falta de acceso a internet, escasez de alimentos y acceso restringido al transporte público.",
+      "Problemas exclusivamente educativos y de atención médica.",
+      "Limitaciones económicas y falta de programas gubernamentales."
+    ],
+    "correct_answer": "Entorno físico inaccesible, falta de tecnología de asistencia y actitudes negativas hacia la discapacidad."
+  },
+  {
+    "question": "¿Qué necesidades específicas derivadas de la discapacidad se mencionan en el texto?",
+    "points": 2,
+    "options": [
+      "Rehabilitación, seguimiento médico, adaptación de barreras y apoyo profesional.",
+      "Exclusivamente ayudas económicas y sociales.",
+      "Acceso a la educación superior y programas de empleo público.",
+      "Solo la provisión de dispositivos tecnológicos avanzados."
+    ],
+    "correct_answer": "Rehabilitación, seguimiento médico, adaptación de barreras y apoyo profesional."
+  },
+  {
+    "question": "¿Qué barrera educativa destaca López Melero como un impedimento para la participación en la escuela?",
+    "points": 2,
+    "options": [
+      "Leyes y normativas contradictorias.",
+      "La falta de profesores especializados.",
+      "El exceso de estudiantes en las aulas.",
+      "La carencia de recursos tecnológicos avanzados."
+    ],
+    "correct_answer": "Leyes y normativas contradictorias."
+  },
+  {
+    "question": "Según la OMS, ¿qué representan las barreras arquitectónicas en los servicios de asistencia sanitaria?",
+    "points": 2,
+    "options": [
+      "Obstáculos físicos como accesos desiguales a edificios y equipos médicos inaccesibles.",
+      "Factores irrelevantes en la calidad del servicio médico.",
+      "Problemas exclusivamente relacionados con la administración hospitalaria.",
+      "Aspectos que solo afectan a las zonas rurales."
+    ],
+    "correct_answer": "Obstáculos físicos como accesos desiguales a edificios y equipos médicos inaccesibles."
+  },
+  {
+    "question": "¿Qué tipo de discapacidad puede ser causada por infecciones como la meningitis?",
+    "points": 2,
+    "options": [
+      "Discapacidad postnatal.",
+      "Discapacidad perinatal.",
+      "Discapacidad prenatal.",
+      "Discapacidad genética."
+    ],
+    "correct_answer": "Discapacidad postnatal."
+  },
+  {
+    "question": "¿Qué rol juega el apoyo familiar en el contexto de la discapacidad según el texto?",
+    "points": 2,
+    "options": [
+      "Ayuda a afrontar y aceptar la situación de discapacidad.",
+      "Es irrelevante en el desarrollo de la autonomía personal.",
+      "Sustituye completamente la necesidad de servicios sociales.",
+      "Limita la capacidad de socialización del individuo."
+    ],
+    "correct_answer": "Ayuda a afrontar y aceptar la situación de discapacidad."
+  },
+  {
+    "question": "¿Qué diferencia existe entre una discapacidad congénita y una adquirida?",
+    "points": 2,
+    "options": [
+      "La congénita está presente desde el nacimiento, mientras que la adquirida ocurre después.",
+      "La adquirida es hereditaria, mientras que la congénita no lo es.",
+      "La congénita solo afecta el sistema nervioso, mientras que la adquirida afecta todo el cuerpo.",
+      "No existe diferencia, ambos términos son equivalentes."
+    ],
+    "correct_answer": "La congénita está presente desde el nacimiento, mientras que la adquirida ocurre después."
+  },
+  {
+    "question": "¿Qué medida es clave para reducir las barreras sociales hacia personas con discapacidad?",
+    "points": 2,
+    "options": [
+      "La sensibilización y educación en la sociedad sobre la discapacidad.",
+      "La construcción de centros exclusivos para personas con discapacidad.",
+      "La eliminación de normativas de accesibilidad universal.",
+      "El aislamiento de las personas con discapacidad en comunidades específicas."
+    ],
+    "correct_answer": "La sensibilización y educación en la sociedad sobre la discapacidad."
+  },
+  {
+    "question": "¿Qué rol desempeña la tecnología de asistencia para personas con discapacidad?",
+    "points": 2,
+    "options": [
+      "Facilita la autonomía personal y la participación social.",
+      "Sustituye por completo el apoyo familiar.",
+      "Restringe el acceso a actividades educativas y laborales.",
+      "Limita la interacción entre personas con y sin discapacidad."
+    ],
+    "correct_answer": "Facilita la autonomía personal y la participación social."
+  },
+  {
+    "question": "¿Qué implica la accesibilidad universal según el texto?",
+    "points": 2,
+    "options": [
+      "El diseño de entornos, productos y servicios utilizables por todas las personas sin necesidad de adaptación.",
+      "La creación de espacios exclusivamente para personas con discapacidad.",
+      "La modificación de todas las normativas legales relacionadas con la discapacidad.",
+      "El acceso exclusivo a servicios médicos especializados."
+    ],
+    "correct_answer": "El diseño de entornos, productos y servicios utilizables por todas las personas sin necesidad de adaptación."
+  },
+  {
+    "question": "¿Qué destaca como un factor clave en la rehabilitación de personas con discapacidad?",
+    "points": 2,
+    "options": [
+      "Un enfoque integral que combine salud, educación y servicios sociales.",
+      "El aislamiento de los afectados en centros especializados.",
+      "La implementación exclusiva de terapias médicas.",
+      "El acceso restringido a programas educativos generales."
+    ],
+    "correct_answer": "Un enfoque integral que combine salud, educación y servicios sociales."
+  },
+  {
+    "question": "¿Qué tipo de discapacidad está relacionada con alteraciones en la percepción sensorial?",
+    "points": 2,
+    "options": [
+      "Discapacidad sensorial.",
+      "Discapacidad cognitiva.",
+      "Discapacidad motora.",
+      "Discapacidad intelectual."
+    ],
+    "correct_answer": "Discapacidad sensorial."
+  },
+  {
+    "question": "¿Qué estrategia puede fomentar la inclusión laboral de personas con discapacidad?",
+    "points": 2,
+    "options": [
+      "Adaptación de los puestos de trabajo y promoción de políticas de contratación inclusivas.",
+      "Reducción de las horas laborales para evitar competencias innecesarias.",
+      "Asignación exclusiva de trabajos no cualificados.",
+      "Segregación en entornos laborales específicos."
+    ],
+    "correct_answer": "Adaptación de los puestos de trabajo y promoción de políticas de contratación inclusivas."
+  },
+  {
+    "question": "¿Qué implica el término 'barreras actitudinales' según el texto?",
+    "points": 2,
+    "options": [
+      "Prejuicios, estereotipos y actitudes negativas hacia las personas con discapacidad.",
+      "Obstáculos físicos en el entorno construido.",
+      "Limitaciones exclusivas en el acceso a la tecnología.",
+      "Problemas administrativos en la gestión de servicios sociales."
+    ],
+    "correct_answer": "Prejuicios, estereotipos y actitudes negativas hacia las personas con discapacidad."
+  },
+  {
+    "question": "¿Qué papel tienen las políticas públicas en el ámbito de la discapacidad?",
+    "points": 2,
+    "options": [
+      "Garantizar la igualdad de oportunidades y eliminar barreras de acceso.",
+      "Centralizar la atención exclusivamente en los centros urbanos.",
+      "Reducir el acceso a ayudas económicas para personas con discapacidad.",
+      "Establecer normativas que restrinjan la participación de personas con discapacidad en espacios públicos."
+    ],
+    "correct_answer": "Garantizar la igualdad de oportunidades y eliminar barreras de acceso."
+  },
+  {
+    "question": "¿Qué objetivo persigue la educación inclusiva para personas con discapacidad?",
+    "points": 2,
+    "options": [
+      "Garantizar su acceso a entornos educativos ordinarios junto con los demás estudiantes.",
+      "Establecer clases separadas para una atención especializada.",
+      "Reducir la interacción entre estudiantes con y sin discapacidad.",
+      "Imponer restricciones académicas para evitar la competencia."
+    ],
+    "correct_answer": "Garantizar su acceso a entornos educativos ordinarios junto con los demás estudiantes."
+  },
+  {
+    "question": "¿Qué tipo de discapacidad se caracteriza por limitaciones en el movimiento o coordinación?",
+    "points": 2,
+    "options": [
+      "Discapacidad física.",
+      "Discapacidad sensorial.",
+      "Discapacidad intelectual.",
+      "Discapacidad cognitiva."
+    ],
+    "correct_answer": "Discapacidad física."
+  },
+  {
+    "question": "¿Qué herramienta es esencial para recopilar información sobre situaciones de discapacidad?",
+    "points": 2,
+    "options": [
+      "Fuentes oficiales, como estadísticas nacionales y estudios especializados.",
+      "Opiniones informales de familiares y amigos.",
+      "Encuestas realizadas por redes sociales.",
+      "Análisis exclusivo de casos clínicos previos."
+    ],
+    "correct_answer": "Fuentes oficiales, como estadísticas nacionales y estudios especializados."
+  },
+  {
+    "question": "¿Qué barreras afectan a las personas con discapacidad física en el entorno laboral?",
+    "points": 2,
+    "options": [
+      "Accesibilidad limitada y falta de adaptación en los espacios de trabajo.",
+      "Exceso de apoyo social y tecnológico.",
+      "Alta disponibilidad de programas de integración.",
+      "Saturación de recursos educativos inclusivos."
+    ],
+    "correct_answer": "Accesibilidad limitada y falta de adaptación en los espacios de trabajo."
+  },
+  {
+    "question": "¿Qué objetivos tiene la rehabilitación para personas con discapacidad física?",
+    "points": 2,
+    "options": [
+      "Restaurar o mejorar la capacidad funcional y promover la independencia.",
+      "Aumentar la dependencia de las ayudas externas.",
+      "Reducir la participación en actividades sociales.",
+      "Evitar el uso de dispositivos de asistencia tecnológica."
+    ],
+    "correct_answer": "Restaurar o mejorar la capacidad funcional y promover la independencia."
+  },
+  {
+    "question": "¿Qué rol juega el entorno físico accesible en la integración de personas con discapacidad física?",
+    "points": 2,
+    "options": [
+      "Facilita la participación plena en actividades sociales, laborales y educativas.",
+      "Reemplaza la necesidad de rehabilitación médica.",
+      "Limita su capacidad de interactuar con otros grupos sociales.",
+      "Reduce la autonomía personal en espacios públicos."
+    ],
+    "correct_answer": "Facilita la participación plena en actividades sociales, laborales y educativas."
+  },
+  {
+    "question": "¿Qué aspecto define a la discapacidad intelectual según el texto?",
+    "points": 2,
+    "options": [
+      "Limitaciones significativas en el funcionamiento intelectual y conductas adaptativas.",
+      "Limitaciones físicas evidentes desde el nacimiento.",
+      "Dificultades exclusivas en la comunicación verbal.",
+      "Impedimentos únicamente relacionados con problemas sensoriales."
+    ],
+    "correct_answer": "Limitaciones significativas en el funcionamiento intelectual y conductas adaptativas."
+  },
+  {
+    "question": "¿Qué fuentes son clave para obtener información sobre situaciones de discapacidad intelectual?",
+    "points": 2,
+    "options": [
+      "Informes de profesionales especializados y estudios académicos.",
+      "Comentarios en foros de internet.",
+      "Experiencias personales de cuidadores informales.",
+      "Análisis estadístico de redes sociales."
+    ],
+    "correct_answer": "Informes de profesionales especializados y estudios académicos."
+  },
+  {
+    "question": "¿Qué objetivo debe cumplir una intervención dirigida a personas con discapacidad intelectual?",
+    "points": 2,
+    "options": [
+      "Favorecer su autonomía y promover la inclusión social.",
+      "Aumentar su dependencia de las ayudas externas.",
+      "Reducir su acceso a recursos educativos para centrarse en programas específicos.",
+      "Fomentar su aislamiento para minimizar conflictos."
+    ],
+    "correct_answer": "Favorecer su autonomía y promover la inclusión social."
+  },
+  {
+    "question": "¿Qué estrategias promueven la inclusión de personas con discapacidad intelectual en el entorno educativo?",
+    "points": 2,
+    "options": [
+      "Diseñar planes personalizados de aprendizaje y fomentar la participación activa.",
+      "Segregar a los estudiantes en grupos separados para atención especializada.",
+      "Eliminar los apoyos adicionales en el aula para garantizar la igualdad.",
+      "Limitar el acceso a actividades extracurriculares grupales."
+    ],
+    "correct_answer": "Diseñar planes personalizados de aprendizaje y fomentar la participación activa."
+  },
+  {
+    "question": "¿Qué barreras sociales pueden enfrentar las personas con discapacidad intelectual?",
+    "points": 2,
+    "options": [
+      "Estereotipos negativos y falta de oportunidades laborales.",
+      "Acceso excesivo a recursos tecnológicos avanzados.",
+      "Falta de apoyo familiar en contextos rurales.",
+      "Presión social para integrarse rápidamente en el mercado laboral."
+    ],
+    "correct_answer": "Estereotipos negativos y falta de oportunidades laborales."
+  },
+  {
+    "question": "¿Qué caracteriza a la discapacidad sensorial según el texto?",
+    "points": 2,
+    "options": [
+      "Alteraciones en la percepción de los sentidos como la vista o el oído.",
+      "Dificultades motoras evidentes.",
+      "Problemas cognitivos relacionados con el aprendizaje.",
+      "Impedimentos exclusivos en la comunicación escrita."
+    ],
+    "correct_answer": "Alteraciones en la percepción de los sentidos como la vista o el oído."
+  },
+  {
+    "question": "¿Qué necesidad principal tienen las personas con discapacidad sensorial?",
+    "points": 2,
+    "options": [
+      "Acceso a dispositivos tecnológicos adaptados.",
+      "Asistencia médica constante.",
+      "Intervención directa en sus habilidades motoras.",
+      "Reducción de su participación en actividades sociales."
+    ],
+    "correct_answer": "Acceso a dispositivos tecnológicos adaptados."
+  },
+  {
+    "question": "¿Qué barreras afectan a la inclusión educativa de personas con discapacidad sensorial?",
+    "points": 2,
+    "options": [
+      "Falta de materiales didácticos adaptados.",
+      "Exceso de recursos educativos disponibles.",
+      "Presión social para sobreintegrarse.",
+      "Demanda reducida de tecnologías inclusivas."
+    ],
+    "correct_answer": "Falta de materiales didácticos adaptados."
+  },
+  {
+    "question": "¿Qué adaptaciones tecnológicas son fundamentales para personas con discapacidad visual?",
+    "points": 2,
+    "options": [
+      "Lectores de pantalla y dispositivos en braille.",
+      "Amplificadores de sonido para uso personal.",
+      "Tecnologías de reconocimiento facial.",
+      "Software exclusivamente educativo."
+    ],
+    "correct_answer": "Lectores de pantalla y dispositivos en braille."
+  },
+  {
+    "question": "¿Qué objetivo tiene la formación de intérpretes de lengua de signos?",
+    "points": 2,
+    "options": [
+      "Facilitar la comunicación entre personas sordas y oyentes en diferentes contextos.",
+      "Promover el uso exclusivo del lenguaje hablado.",
+      "Reducir la necesidad de tecnologías de asistencia.",
+      "Sustituir los programas educativos inclusivos."
+    ],
+    "correct_answer": "Facilitar la comunicación entre personas sordas y oyentes en diferentes contextos."
+  },
+  {
+    "question": "¿Qué objetivo tienen los recursos de atención al colectivo de personas con discapacidad según el texto?",
+    "points": 2,
+    "options": [
+      "Garantizar la integración y la participación social.",
+      "Proveer exclusivamente recursos económicos.",
+      "Establecer normativas generales para todos los colectivos.",
+      "Eliminar los sistemas de apoyo específicos."
+    ],
+    "correct_answer": "Garantizar la integración y la participación social."
+  },
+  {
+    "question": "¿Qué programas destacan para la atención a personas con discapacidad?",
+    "points": 2,
+    "options": [
+      "Programas de rehabilitación, apoyo familiar y accesibilidad.",
+      "Programas centrados únicamente en asistencia económica.",
+      "Iniciativas de segregación educativa para atención especializada.",
+      "Planes exclusivos para desarrollo tecnológico."
+    ],
+    "correct_answer": "Programas de rehabilitación, apoyo familiar y accesibilidad."
+  },
+  {
+    "question": "¿Qué papel juega la normativa en la atención a las personas con discapacidad?",
+    "points": 2,
+    "options": [
+      "Garantizar derechos y establecer bases para la intervención social.",
+      "Eliminación de barreras legales para la integración total.",
+      "Centralizar todas las ayudas en un único organismo.",
+      "Focalizar los esfuerzos únicamente en los colectivos más vulnerables."
+    ],
+    "correct_answer": "Garantizar derechos y establecer bases para la intervención social."
+  },
+  {
+    "question": "¿Qué legislación en España garantiza la igualdad de oportunidades para personas con discapacidad?",
+    "points": 2,
+    "options": [
+      "La Ley General de Derechos de las Personas con Discapacidad y de su Inclusión Social.",
+      "La Ley de Autonomía Personal y Atención a la Dependencia.",
+      "La Constitución Española, artículo 14.",
+      "El Real Decreto sobre educación inclusiva."
+    ],
+    "correct_answer": "La Ley General de Derechos de las Personas con Discapacidad y de su Inclusión Social."
+  },
+  {
+    "question": "¿Qué principio rige las políticas públicas de atención a la discapacidad?",
+    "points": 2,
+    "options": [
+      "Accesibilidad universal y diseño para todos.",
+      "Centralización de los recursos sociales.",
+      "Exclusividad en el ámbito laboral.",
+      "Limitación de ayudas según grado de dependencia."
+    ],
+    "correct_answer": "Accesibilidad universal y diseño para todos."
+  },
+  {
+    "question": "¿Qué establece el marco normativo sobre la discriminación por discapacidad?",
+    "points": 2,
+    "options": [
+      "La prohibición de cualquier forma de discriminación directa o indirecta.",
+      "La limitación de las acciones legales en casos de discriminación.",
+      "La necesidad de justificar la exclusión en ciertos contextos laborales.",
+      "El reconocimiento exclusivo de la discriminación económica."
+    ],
+    "correct_answer": "La prohibición de cualquier forma de discriminación directa o indirecta."
+  },
+  {
+    "question": "¿Qué elementos se deben analizar en el contexto de intervención de las personas con discapacidad?",
+    "points": 2,
+    "options": [
+      "El entorno familiar, los recursos disponibles y las barreras sociales.",
+      "Solo los factores económicos relacionados con su discapacidad.",
+      "Únicamente las barreras arquitectónicas identificadas.",
+      "La influencia de la tecnología sin considerar el entorno social."
+    ],
+    "correct_answer": "El entorno familiar, los recursos disponibles y las barreras sociales."
+  },
+  {
+    "question": "¿Qué estrategias son esenciales para la intervención social en discapacidad?",
+    "points": 2,
+    "options": [
+      "Promoción de la igualdad de oportunidades y accesibilidad universal.",
+      "Prohibir la integración laboral de personas con discapacidades severas.",
+      "Eliminar recursos sociales para promover la autosuficiencia.",
+      "Centrarse únicamente en adaptaciones tecnológicas complejas."
+    ],
+    "correct_answer": "Promoción de la igualdad de oportunidades y accesibilidad universal."
+  },
+  {
+    "question": "¿Qué importancia tiene la accesibilidad universal en la intervención social?",
+    "points": 2,
+    "options": [
+      "Garantiza que todas las personas puedan participar plenamente en la sociedad.",
+      "Solo es relevante para personas con discapacidades físicas.",
+      "Permite la segregación en entornos laborales específicos.",
+      "Es una herramienta exclusiva para mejorar la educación inclusiva."
+    ],
+    "correct_answer": "Garantiza que todas las personas puedan participar plenamente en la sociedad."
+  },
+  {
+    "question": "¿Qué rol juega el análisis del contexto social en la intervención social?",
+    "points": 2,
+    "options": [
+      "Permite diseñar estrategias ajustadas a las necesidades específicas del colectivo.",
+      "Se utiliza únicamente para justificar decisiones políticas.",
+      "Facilita la eliminación de recursos innecesarios.",
+      "Limita la participación de otros profesionales en el proceso."
+    ],
+    "correct_answer": "Permite diseñar estrategias ajustadas a las necesidades específicas del colectivo."
+  },
+  {
+    "question": "¿Qué importancia tiene la participación activa en las estrategias de intervención social?",
+    "points": 2,
+    "options": [
+      "Fomenta la autonomía y el empoderamiento de las personas con discapacidad.",
+      "Limita las decisiones a las instituciones responsables.",
+      "Centraliza el control en los profesionales de intervención.",
+      "Evita la necesidad de adaptaciones específicas en cada caso."
+    ],
+    "correct_answer": "Fomenta la autonomía y el empoderamiento de las personas con discapacidad."
+  },
+  {
+    "question": "¿Qué barreras sociales deben abordarse para promover la inclusión efectiva?",
+    "points": 2,
+    "options": [
+      "Actitudes negativas, falta de sensibilización y recursos insuficientes.",
+      "Exclusivamente las barreras físicas en el entorno construido.",
+      "La saturación de servicios médicos especializados.",
+      "El acceso limitado a programas tecnológicos avanzados."
+    ],
+    "correct_answer": "Actitudes negativas, falta de sensibilización y recursos insuficientes."
+  },
+  {
+    "question": "¿Qué papel juega la colaboración interdisciplinar en la intervención social?",
+    "points": 2,
+    "options": [
+      "Permite diseñar estrategias más integrales y efectivas.",
+      "Sustituye la responsabilidad de los familiares en el proceso.",
+      "Centraliza la atención en un único enfoque profesional.",
+      "Excluye la participación de profesionales del ámbito educativo."
+    ],
+    "correct_answer": "Permite diseñar estrategias más integrales y efectivas."
+  },
+  {
+    "question": "¿Qué objetivo tiene la promoción de la igualdad de oportunidades en la intervención social?",
+    "points": 2,
+    "options": [
+      "Eliminar las barreras que impiden la plena participación de las personas con discapacidad.",
+      "Establecer normativas que limiten los derechos laborales.",
+      "Priorizar la atención a colectivos sin discapacidades.",
+      "Reducir los recursos sociales para garantizar la autosuficiencia económica."
+    ],
+    "correct_answer": "Eliminar las barreras que impiden la plena participación de las personas con discapacidad."
+  },
+  {
+    "question": "¿Qué tipo de adaptaciones se consideran clave en entornos educativos inclusivos?",
+    "points": 2,
+    "options": [
+      "Adaptaciones curriculares y acceso a tecnologías de asistencia.",
+      "Reorganización completa de la estructura física de las escuelas.",
+      "Limitación de la interacción entre estudiantes con y sin discapacidad.",
+      "Eliminación de programas extracurriculares inclusivos."
+    ],
+    "correct_answer": "Adaptaciones curriculares y acceso a tecnologías de asistencia."
+  },
+  {
+    "question": "¿Qué es un trastorno mental según el texto?",
+    "points": 2,
+    "options": [
+      "Un conjunto de patologías de índole y gravedad diversas que afectan de manera diferente a cada persona.",
+      "Un diagnóstico exclusivamente relacionado con causas orgánicas conocidas.",
+      "Una enfermedad tratable únicamente mediante intervenciones psicológicas.",
+      "Un estado emocional temporal causado por factores ambientales."
+    ],
+    "correct_answer": "Un conjunto de patologías de índole y gravedad diversas que afectan de manera diferente a cada persona."
+  },
+  {
+    "question": "¿Qué definición de enfermedad mental sostiene la OMS?",
+    "points": 2,
+    "options": [
+      "Es la alteración de los procesos cognitivos y afectivos del desarrollo.",
+      "Un trastorno limitado al comportamiento social.",
+      "Una deficiencia genética que afecta las habilidades emocionales.",
+      "Un desequilibrio químico exclusivo del sistema nervioso central."
+    ],
+    "correct_answer": "Es la alteración de los procesos cognitivos y afectivos del desarrollo."
+  },
+  {
+    "question": "¿Qué incluye como consecuencia un trastorno mental según el texto?",
+    "points": 2,
+    "options": [
+      "Dificultades en el razonamiento, el comportamiento y la adaptación al contexto social.",
+      "Problemas exclusivamente físicos en la vida cotidiana.",
+      "Una mejora en las habilidades de adaptación en situaciones complejas.",
+      "Cambios rápidos y temporales en el estado emocional."
+    ],
+    "correct_answer": "Dificultades en el razonamiento, el comportamiento y la adaptación al contexto social."
+  },
+  {
+    "question": "¿Qué diferencia a un trastorno mental de una enfermedad mental?",
+    "points": 2,
+    "options": [
+      "El término trastorno es más amplio y puede no tener una causa orgánica conocida.",
+      "La enfermedad mental siempre está relacionada con factores genéticos.",
+      "El trastorno mental afecta únicamente las emociones.",
+      "La enfermedad mental no requiere intervención profesional."
+    ],
+    "correct_answer": "El término trastorno es más amplio y puede no tener una causa orgánica conocida."
+  },
+  {
+    "question": "¿Qué profesional debe realizar el diagnóstico de un trastorno mental?",
+    "points": 2,
+    "options": [
+      "Un psicólogo o psiquiatra.",
+      "Un terapeuta ocupacional.",
+      "Un trabajador social.",
+      "Un médico generalista."
+    ],
+    "correct_answer": "Un psicólogo o psiquiatra."
+  },
+  {
+    "question": "¿Cuáles son los sistemas más utilizados para clasificar trastornos mentales?",
+    "points": 2,
+    "options": [
+      "La CIE y el DSM.",
+      "El DSM y el ICD-10.",
+      "La NANDA y el CIE.",
+      "El ICD-10 y el NANDA."
+    ],
+    "correct_answer": "La CIE y el DSM."
+  },
+  {
+    "question": "¿Qué criterio es necesario para determinar la presencia de un trastorno mental?",
+    "points": 2,
+    "options": [
+      "Un diagnóstico profesional.",
+      "La opinión de familiares y amigos.",
+      "Un análisis genético detallado.",
+      "La observación de síntomas durante menos de un mes."
+    ],
+    "correct_answer": "Un diagnóstico profesional."
+  },
+  {
+    "question": "¿Qué incluye el término enfermedad mental según el texto?",
+    "points": 2,
+    "options": [
+      "Pérdida de salud con causa orgánica conocida.",
+      "Alteraciones en la personalidad exclusivamente.",
+      "Trastornos temporales de la conducta.",
+      "Cambios emocionales que no afectan la vida cotidiana."
+    ],
+    "correct_answer": "Pérdida de salud con causa orgánica conocida."
+  },
+  {
+    "question": "¿Cuál es el objetivo de tratar cada trastorno mental individualmente?",
+    "points": 2,
+    "options": [
+      "Cada persona es afectada de manera diferente por estos trastornos.",
+      "La generalización facilita un tratamiento uniforme.",
+      "Reducir los costos asociados al tratamiento.",
+      "Garantizar una recuperación rápida e igualitaria para todos los pacientes."
+    ],
+    "correct_answer": "Cada persona es afectada de manera diferente por estos trastornos."
+  },
+  {
+    "question": "¿Qué repercusión tienen los trastornos mentales en la vida cotidiana de las personas?",
+    "points": 2,
+    "options": [
+      "Dificultan la adaptación en el contexto social.",
+      "Incrementan la productividad laboral.",
+      "Facilitan las relaciones interpersonales.",
+      "Eliminan las barreras emocionales."
+    ],
+    "correct_answer": "Dificultan la adaptación en el contexto social."
+  },
+  {
+    "question": "¿Qué factores contribuyen al desarrollo de un trastorno mental según el texto?",
+    "points": 2,
+    "options": [
+      "Factores genéticos, biológicos, sociales y psicológicos.",
+      "Exclusivamente factores ambientales y económicos.",
+      "Únicamente antecedentes familiares de trastornos mentales.",
+      "Factores relacionados exclusivamente con la personalidad."
+    ],
+    "correct_answer": "Factores genéticos, biológicos, sociales y psicológicos."
+  },
+  {
+    "question": "¿Qué importancia tiene la prevención en el tratamiento de trastornos mentales?",
+    "points": 2,
+    "options": [
+      "Ayuda a reducir la incidencia y la gravedad de los casos.",
+      "Permite evitar la necesidad de diagnóstico profesional.",
+      "Elimina completamente la aparición de nuevos casos.",
+      "Sustituye los tratamientos psicológicos y psiquiátricos."
+    ],
+    "correct_answer": "Ayuda a reducir la incidencia y la gravedad de los casos."
+  },
+  {
+    "question": "¿Qué rol juega el apoyo social en el manejo de trastornos mentales?",
+    "points": 2,
+    "options": [
+      "Proporciona estabilidad emocional y fomenta la integración social.",
+      "Sustituye los tratamientos médicos especializados.",
+      "Reduce la necesidad de intervenciones terapéuticas.",
+      "Evita la necesidad de supervisión profesional."
+    ],
+    "correct_answer": "Proporciona estabilidad emocional y fomenta la integración social."
+  },
+  {
+    "question": "¿Qué herramienta se utiliza comúnmente para evaluar la salud mental de una persona?",
+    "points": 2,
+    "options": [
+      "Entrevistas clínicas y cuestionarios estandarizados.",
+      "Análisis exclusivamente genéticos.",
+      "Encuestas realizadas por familiares.",
+      "Observaciones no estructuradas."
+    ],
+    "correct_answer": "Entrevistas clínicas y cuestionarios estandarizados."
+  },
+  {
+    "question": "¿Qué caracteriza a un trastorno de ansiedad según el texto?",
+    "points": 2,
+    "options": [
+      "Preocupaciones excesivas y persistentes que interfieren en la vida cotidiana.",
+      "Cambios rápidos en el estado de ánimo sin causa aparente.",
+      "Alteraciones exclusivamente relacionadas con la alimentación.",
+      "Dificultades en la adaptación laboral temporal."
+    ],
+    "correct_answer": "Preocupaciones excesivas y persistentes que interfieren en la vida cotidiana."
+  },
+  {
+    "question": "¿Qué tratamiento es efectivo para abordar los trastornos depresivos?",
+    "points": 2,
+    "options": [
+      "Terapias psicológicas y, en algunos casos, medicamentos antidepresivos.",
+      "Tratamiento exclusivamente farmacológico.",
+      "Ejercicio físico sin supervisión profesional.",
+      "Evitar cualquier tipo de intervención terapéutica."
+    ],
+    "correct_answer": "Terapias psicológicas y, en algunos casos, medicamentos antidepresivos."
+  },
+  {
+    "question": "¿Qué impacto tienen los estigmas sociales en el tratamiento de trastornos mentales?",
+    "points": 2,
+    "options": [
+      "Dificultan el acceso a los servicios de salud mental.",
+      "Incrementan la efectividad de los tratamientos.",
+      "Promueven una mayor comprensión de las condiciones mentales.",
+      "Eliminan la necesidad de apoyo social en el proceso terapéutico."
+    ],
+    "correct_answer": "Dificultan el acceso a los servicios de salud mental."
+  },
+  {
+    "question": "¿Qué objetivo tiene la intervención psicosocial en personas con trastornos mentales?",
+    "points": 2,
+    "options": [
+      "Promover su autonomía y reintegración en la sociedad.",
+      "Aumentar su dependencia de recursos médicos.",
+      "Reducir las oportunidades de interacción social.",
+      "Evitar el uso de tratamientos complementarios."
+    ],
+    "correct_answer": "Promover su autonomía y reintegración en la sociedad."
+  },
+  {
+    "question": "¿Qué papel tienen las políticas públicas en la atención a la salud mental?",
+    "points": 2,
+    "options": [
+      "Garantizar el acceso equitativo a servicios de salud mental de calidad.",
+      "Sustituir la atención individual por estrategias grupales.",
+      "Limitar la intervención en casos graves.",
+      "Centralizar los recursos exclusivamente en zonas urbanas."
+    ],
+    "correct_answer": "Garantizar el acceso equitativo a servicios de salud mental de calidad."
+  },
+  {
+    "question": "¿Qué enfoque es esencial en la educación sobre salud mental?",
+    "points": 2,
+    "options": [
+      "Promover la sensibilización y eliminar prejuicios sobre los trastornos mentales.",
+      "Enseñar exclusivamente técnicas de relajación personal.",
+      "Focalizarse únicamente en la prevención de casos extremos.",
+      "Reducir la información sobre servicios disponibles para evitar su saturación."
+    ],
+    "correct_answer": "Promover la sensibilización y eliminar prejuicios sobre los trastornos mentales."
+  },
+  {
+    "question": "¿Qué son los trastornos psicóticos según el texto?",
+    "points": 2,
+    "options": [
+      "Trastornos caracterizados por la pérdida de contacto con la realidad.",
+      "Trastornos relacionados únicamente con la ansiedad social.",
+      "Trastornos con episodios temporales de agresividad extrema.",
+      "Condiciones físicas que afectan el bienestar mental de forma secundaria."
+    ],
+    "correct_answer": "Trastornos caracterizados por la pérdida de contacto con la realidad."
+  },
+  {
+    "question": "¿Cómo afectan los trastornos mentales a la capacidad de trabajo?",
+    "points": 2,
+    "options": [
+      "Pueden generar dificultades para concentrarse y realizar tareas cotidianas.",
+      "Mejoran la productividad en entornos laborales.",
+      "Tienen un impacto mínimo en la capacidad de trabajo.",
+      "Facilitan la adaptación a nuevos ambientes laborales."
+    ],
+    "correct_answer": "Pueden generar dificultades para concentrarse y realizar tareas cotidianas."
+  },
+  {
+    "question": "¿Qué intervención es recomendada en personas con trastornos de ansiedad generalizada?",
+    "points": 2,
+    "options": [
+      "Psicoterapia cognitivo-conductual y técnicas de relajación.",
+      "Uso exclusivo de medicamentos ansiolíticos.",
+      "Evitar cualquier tipo de intervención médica.",
+      "El aislamiento para evitar situaciones estresantes."
+    ],
+    "correct_answer": "Psicoterapia cognitivo-conductual y técnicas de relajación."
+  },
+  {
+    "question": "¿Qué importancia tiene el diagnóstico temprano de los trastornos mentales?",
+    "points": 2,
+    "options": [
+      "Permite intervenir a tiempo y mejorar la calidad de vida de la persona afectada.",
+      "No tiene un impacto significativo en el tratamiento posterior.",
+      "Solo ayuda a categorizar el tipo de trastorno sin tratar los síntomas.",
+      "Limita las opciones de tratamiento disponibles."
+    ],
+    "correct_answer": "Permite intervenir a tiempo y mejorar la calidad de vida de la persona afectada."
+  },
+  {
+    "question": "¿Cómo se puede reducir el estigma asociado a los trastornos mentales?",
+    "points": 2,
+    "options": [
+      "A través de campañas de sensibilización y educación en salud mental.",
+      "Eliminando la información sobre trastornos mentales de los medios de comunicación.",
+      "Encerrando a las personas con trastornos mentales en instituciones específicas.",
+      "Limitando el acceso a servicios de salud mental únicamente a grupos especializados."
+    ],
+    "correct_answer": "A través de campañas de sensibilización y educación en salud mental."
+  },
+  {
+    "question": "¿Qué tipo de adicción se caracteriza por un impulso descontrolado de participar en juegos de azar?",
+    "points": 2,
+    "options": [
+      "Adicción al juego (ludopatía).",
+      "Adicción a las pantallas.",
+      "Adicción a las compras.",
+      "Adicción al trabajo."
+    ],
+    "correct_answer": "Adicción al juego (ludopatía)."
+  },
+  {
+    "question": "¿Cuál es una de las principales consecuencias de la adicción a las pantallas según el texto?",
+    "points": 2,
+    "options": [
+      "Problemas sociales y económicos.",
+      "Problemas exclusivamente económicos.",
+      "Problemas relacionados con la salud física.",
+      "Dificultades para encontrar empleo."
+    ],
+    "correct_answer": "Problemas sociales y económicos."
+  },
+  {
+    "question": "¿Cómo se describe la adicción al trabajo?",
+    "points": 2,
+    "options": [
+      "Una dedicación excesiva al trabajo por una necesidad personal.",
+      "Un esfuerzo intensivo debido a las exigencias laborales.",
+      "Un compromiso laboral respaldado por la familia.",
+      "Una actividad exclusiva de sectores industriales."
+    ],
+    "correct_answer": "Una dedicación excesiva al trabajo por una necesidad personal."
+  },
+  {
+    "question": "¿Qué elemento actúa como un factor de riesgo para la drogadicción?",
+    "points": 2,
+    "options": [
+      "Factores hereditarios.",
+      "Motivación intrínseca.",
+      "Comunicación eficaz en la familia.",
+      "Apoyo psicológico continuo."
+    ],
+    "correct_answer": "Factores hereditarios."
+  },
+  {
+    "question": "¿Qué nivel de proximidad incluye los procesos de socialización y adopción de roles en la drogadicción?",
+    "points": 2,
+    "options": [
+      "El entorno familiar.",
+      "El entorno escolar.",
+      "La comunidad vecinal.",
+      "Los grupos recreativos."
+    ],
+    "correct_answer": "El entorno familiar."
+  },
+  {
+    "question": "¿Qué define el síndrome de abstinencia según el texto?",
+    "points": 2,
+    "options": [
+      "Conjunto de síntomas al suspender o reducir el consumo de una sustancia.",
+      "Aumento gradual de la tolerancia a una sustancia.",
+      "Adopción de hábitos más saludables tras el consumo.",
+      "Dependencia emocional hacia una sustancia específica."
+    ],
+    "correct_answer": "Conjunto de síntomas al suspender o reducir el consumo de una sustancia."
+  },
+  {
+    "question": "¿Qué implica la tolerancia en el contexto de las adicciones?",
+    "points": 2,
+    "options": [
+      "La necesidad de dosis más altas para conseguir el mismo efecto.",
+      "La ausencia de dependencia física.",
+      "La mejora gradual de la salud tras el consumo.",
+      "La eliminación de riesgos asociados al consumo."
+    ],
+    "correct_answer": "La necesidad de dosis más altas para conseguir el mismo efecto."
+  },
+  {
+    "question": "¿Qué adicción se asocia con personas con trastornos del estado de ánimo?",
+    "points": 2,
+    "options": [
+      "Adicción a las compras.",
+      "Adicción al juego.",
+      "Adicción a las pantallas.",
+      "Adicción al trabajo."
+    ],
+    "correct_answer": "Adicción a las compras."
+  },
+  {
+    "question": "¿Qué problema puede agravar la situación de una persona en situación de drogodependencia?",
+    "points": 2,
+    "options": [
+      "Problemas con la justicia.",
+      "Apoyo comunitario.",
+      "Adopción de valores adecuados.",
+      "Sistemas de comunicación efectivos."
+    ],
+    "correct_answer": "Problemas con la justicia."
+  },
+  {
+    "question": "¿Cuál es una necesidad clave en la intervención de personas con problemas de drogadicción?",
+    "points": 2,
+    "options": [
+      "El abandono total del consumo de sustancias.",
+      "La mejora exclusiva de la salud física.",
+      "El aislamiento del entorno familiar.",
+      "El cumplimiento estricto de normas legales."
+    ],
+    "correct_answer": "El abandono total del consumo de sustancias."
+  },
+  {
+    "question": "¿Qué define una adicción según el texto?",
+    "points": 2,
+    "options": [
+      "Un trastorno crónico caracterizado por la búsqueda compulsiva de una sustancia o comportamiento.",
+      "Una condición temporal que desaparece con el tiempo.",
+      "Un hábito adquirido que no afecta el funcionamiento diario.",
+      "Una dependencia física exclusiva de sustancias ilegales."
+    ],
+    "correct_answer": "Un trastorno crónico caracterizado por la búsqueda compulsiva de una sustancia o comportamiento."
+  },
+  {
+    "question": "¿Qué diferencia existe entre tolerancia y dependencia física?",
+    "points": 2,
+    "options": [
+      "La tolerancia requiere dosis más altas para el mismo efecto, mientras que la dependencia física causa síntomas de abstinencia.",
+      "La dependencia física implica aumento de la dosis, mientras que la tolerancia no.",
+      "La tolerancia genera abstinencia inmediata al reducir el consumo.",
+      "No existe diferencia, ambos términos son equivalentes."
+    ],
+    "correct_answer": "La tolerancia requiere dosis más altas para el mismo efecto, mientras que la dependencia física causa síntomas de abstinencia."
+  },
+  {
+    "question": "¿Qué papel desempeñan los factores sociales en el desarrollo de las adicciones?",
+    "points": 2,
+    "options": [
+      "Influyen en la probabilidad de iniciarse en el consumo de sustancias.",
+      "No tienen relación directa con el desarrollo de las adicciones.",
+      "Solo afectan a personas en entornos rurales.",
+      "Determinan exclusivamente la gravedad del síndrome de abstinencia."
+    ],
+    "correct_answer": "Influyen en la probabilidad de iniciarse en el consumo de sustancias."
+  },
+  {
+    "question": "¿Qué estrategias de prevención son efectivas en el caso de las adicciones?",
+    "points": 2,
+    "options": [
+      "Educación sobre riesgos, promoción de habilidades sociales y acceso a apoyo psicológico.",
+      "Eliminación total de actividades recreativas en el entorno escolar.",
+      "Reforzar exclusivamente el papel de la familia en la intervención.",
+      "Incrementar la penalización legal para personas consumidoras."
+    ],
+    "correct_answer": "Educación sobre riesgos, promoción de habilidades sociales y acceso a apoyo psicológico."
+  },
+  {
+    "question": "¿Qué tipo de drogas son las benzodiacepinas según el texto?",
+    "points": 2,
+    "options": [
+      "Drogas depresoras del sistema nervioso central.",
+      "Drogas estimulantes que aumentan la energía física.",
+      "Sustancias alucinógenas que afectan la percepción.",
+      "Drogas psicoactivas exclusivamente legales."
+    ],
+    "correct_answer": "Drogas depresoras del sistema nervioso central."
+  },
+  {
+    "question": "¿Qué objetivo tiene la reducción de daños en el contexto de las adicciones?",
+    "points": 2,
+    "options": [
+      "Minimizar las consecuencias negativas del consumo sin exigir abstinencia total.",
+      "Asegurar la abstinencia completa en todos los casos.",
+      "Reducir exclusivamente el acceso a sustancias legales.",
+      "Evitar el tratamiento médico a largo plazo."
+    ],
+    "correct_answer": "Minimizar las consecuencias negativas del consumo sin exigir abstinencia total."
+  },
+  {
+    "question": "¿Qué factor de riesgo está asociado con entornos familiares disfuncionales?",
+    "points": 2,
+    "options": [
+      "Mayor probabilidad de desarrollar conductas adictivas.",
+      "Acceso limitado a recursos educativos.",
+      "Incremento del apoyo social en contextos recreativos.",
+      "Disminución de la predisposición genética al consumo."
+    ],
+    "correct_answer": "Mayor probabilidad de desarrollar conductas adictivas."
+  },
+  {
+    "question": "¿Qué adicción está asociada con un aumento en las compras impulsivas según el texto?",
+    "points": 2,
+    "options": [
+      "Adicción a las compras.",
+      "Adicción al juego.",
+      "Adicción al trabajo.",
+      "Adicción a las pantallas."
+    ],
+    "correct_answer": "Adicción a las compras."
+  },
+  {
+    "question": "¿Qué caracteriza a las drogas alucinógenas?",
+    "points": 2,
+    "options": [
+      "Alteran la percepción de la realidad y generan experiencias sensoriales distorsionadas.",
+      "Aumentan los niveles de energía física y concentración mental.",
+      "Reducen la actividad del sistema nervioso central.",
+      "Producen dependencia física inmediata."
+    ],
+    "correct_answer": "Alteran la percepción de la realidad y generan experiencias sensoriales distorsionadas."
+  },
+  {
+    "question": "¿Qué importancia tiene la intervención temprana en casos de drogadicción?",
+    "points": 2,
+    "options": [
+      "Permite abordar factores de riesgo y reducir el impacto negativo del consumo.",
+      "Evita completamente la necesidad de tratamientos médicos.",
+      "Reduce la tolerancia de las sustancias consumidas.",
+      "Elimina automáticamente el síndrome de abstinencia."
+    ],
+    "correct_answer": "Permite abordar factores de riesgo y reducir el impacto negativo del consumo."
+  },
+  {
+    "question": "¿Qué se entiende por inclusión social según el texto?",
+    "points": 2,
+    "options": [
+      "Un proceso que garantiza la participación plena en la vida social, económica y cultural.",
+      "Una estrategia para reducir las desigualdades económicas exclusivamente.",
+      "Un método para centralizar las decisiones políticas en temas laborales.",
+      "Un concepto que se aplica únicamente a personas con discapacidad."
+    ],
+    "correct_answer": "Un proceso que garantiza la participación plena en la vida social, económica y cultural."
+  },
+  {
+    "question": "¿Qué elementos clave promueven la inclusión laboral?",
+    "points": 2,
+    "options": [
+      "Adaptación del puesto de trabajo, políticas inclusivas y formación profesional.",
+      "Centralización de tareas y evaluación estricta de productividad.",
+      "Exclusión de personas con bajo rendimiento laboral.",
+      "Programas limitados a sectores de alta tecnología."
+    ],
+    "correct_answer": "Adaptación del puesto de trabajo, políticas inclusivas y formación profesional."
+  },
+  {
+    "question": "¿Qué objetivo tienen los programas de integración laboral para personas vulnerables?",
+    "points": 2,
+    "options": [
+      "Reducir las barreras de acceso al empleo y fomentar la igualdad de oportunidades.",
+      "Garantizar empleos permanentes en sectores específicos.",
+      "Limitar la participación de personas en sectores competitivos.",
+      "Establecer normativas estrictas que excluyan a sectores desfavorecidos."
+    ],
+    "correct_answer": "Reducir las barreras de acceso al empleo y fomentar la igualdad de oportunidades."
+  },
+  {
+    "question": "¿Qué significa el término 'accesibilidad universal' en el ámbito laboral?",
+    "points": 2,
+    "options": [
+      "Diseñar entornos, productos y servicios utilizables por todas las personas sin necesidad de adaptación.",
+      "Garantizar acceso únicamente a personas con discapacidades físicas.",
+      "Reducir la participación de grupos vulnerables en el ámbito laboral.",
+      "Establecer normativas que limiten las oportunidades de ascenso laboral."
+    ],
+    "correct_answer": "Diseñar entornos, productos y servicios utilizables por todas las personas sin necesidad de adaptación."
+  },
+  {
+    "question": "¿Qué rol desempeñan las políticas públicas en la promoción de la inclusión laboral?",
+    "points": 2,
+    "options": [
+      "Crear programas que eliminen barreras y promuevan igualdad de acceso al empleo.",
+      "Establecer exclusividad en sectores laborales específicos.",
+      "Fomentar la centralización de tareas para mejorar la productividad.",
+      "Limitar los recursos disponibles para personas vulnerables."
+    ],
+    "correct_answer": "Crear programas que eliminen barreras y promuevan igualdad de acceso al empleo."
+  },
+  {
+    "question": "¿Qué característica define a las empresas inclusivas según el texto?",
+    "points": 2,
+    "options": [
+      "Promueven la diversidad y adaptan los entornos de trabajo a las necesidades de los empleados.",
+      "Imponen normas estrictas para maximizar la productividad.",
+      "Centralizan todas las decisiones en las altas direcciones.",
+      "Limitan las oportunidades de crecimiento laboral."
+    ],
+    "correct_answer": "Promueven la diversidad y adaptan los entornos de trabajo a las necesidades de los empleados."
+  },
+  {
+    "question": "¿Qué barreras sociales afectan la inclusión laboral?",
+    "points": 2,
+    "options": [
+      "Estereotipos, prejuicios y falta de formación inclusiva.",
+      "Exceso de recursos sociales en las comunidades.",
+      "Alta competitividad en sectores tecnológicos.",
+      "Normativas laborales que priorizan la diversidad."
+    ],
+    "correct_answer": "Estereotipos, prejuicios y falta de formación inclusiva."
+  },
+  {
+    "question": "¿Qué importancia tiene la formación profesional en la inclusión laboral?",
+    "points": 2,
+    "options": [
+      "Facilita la adquisición de competencias necesarias para acceder al empleo.",
+      "Reduce la necesidad de adaptaciones en los entornos laborales.",
+      "Elimina la participación de sectores vulnerables en programas formativos.",
+      "Se centra exclusivamente en trabajos de alta especialización técnica."
+    ],
+    "correct_answer": "Facilita la adquisición de competencias necesarias para acceder al empleo."
+  },
+  {
+    "question": "¿Qué concepto está relacionado con la integración de personas en riesgo de exclusión social en el empleo?",
+    "points": 2,
+    "options": [
+      "Empoderamiento laboral.",
+      "Competitividad exclusiva.",
+      "Segregación funcional.",
+      "Jerarquización empresarial."
+    ],
+    "correct_answer": "Empoderamiento laboral."
+  },
+  {
+    "question": "¿Qué objetivo tienen las empresas de inserción laboral según el texto?",
+    "points": 2,
+    "options": [
+      "Proporcionar oportunidades laborales a personas en riesgo de exclusión social.",
+      "Incrementar exclusivamente los beneficios económicos.",
+      "Establecer procesos de selección altamente restrictivos.",
+      "Reducir el número de empleados en sectores no inclusivos."
+    ],
+    "correct_answer": "Proporcionar oportunidades laborales a personas en riesgo de exclusión social."
+  },
+  {
+    "question": "¿Qué barreras físicas limitan la inclusión laboral según el texto?",
+    "points": 2,
+    "options": [
+      "Accesos no adaptados, falta de señalización y mobiliario inadecuado.",
+      "Exceso de tecnología en el entorno laboral.",
+      "Falta de supervisión directa de los empleados.",
+      "Disponibilidad de herramientas de trabajo avanzadas."
+    ],
+    "correct_answer": "Accesos no adaptados, falta de señalización y mobiliario inadecuado."
+  },
+  {
+    "question": "¿Qué papel desempeña el entorno laboral inclusivo en el bienestar de los empleados?",
+    "points": 2,
+    "options": [
+      "Fomenta la productividad y el desarrollo personal.",
+      "Incrementa las barreras sociales entre empleados.",
+      "Centraliza las responsabilidades en empleados vulnerables.",
+      "Reduce las oportunidades de capacitación continua."
+    ],
+    "correct_answer": "Fomenta la productividad y el desarrollo personal."
+  },
+  {
+    "question": "¿Qué impacto tiene la diversidad en el ámbito laboral según el texto?",
+    "points": 2,
+    "options": [
+      "Enriquece la cultura organizacional y mejora la toma de decisiones.",
+      "Aumenta las diferencias sociales y económicas.",
+      "Limita las oportunidades de integración social.",
+      "Incrementa los conflictos en los equipos de trabajo."
+    ],
+    "correct_answer": "Enriquece la cultura organizacional y mejora la toma de decisiones."
+  },
+  {
+    "question": "¿Qué características debe cumplir una formación profesional inclusiva?",
+    "points": 2,
+    "options": [
+      "Adaptarse a las capacidades de los participantes y promover la igualdad de acceso.",
+      "Establecer requisitos estrictos de admisión para todos los participantes.",
+      "Centrarse exclusivamente en habilidades técnicas avanzadas.",
+      "Eliminar las adaptaciones específicas para los colectivos vulnerables."
+    ],
+    "correct_answer": "Adaptarse a las capacidades de los participantes y promover la igualdad de acceso."
+  },
+  {
+    "question": "¿Qué beneficios aportan las políticas de contratación inclusiva para las empresas?",
+    "points": 2,
+    "options": [
+      "Aumentan la creatividad, la productividad y la innovación.",
+      "Limitan el acceso de empleados con capacidades diversas.",
+      "Incrementan los costos de producción sin impacto positivo.",
+      "Reducen las oportunidades de ascenso para empleados regulares."
+    ],
+    "correct_answer": "Aumentan la creatividad, la productividad y la innovación."
+  },
+  {
+    "question": "¿Qué define el término 'empleo protegido' según el texto?",
+    "points": 2,
+    "options": [
+      "Un entorno laboral adaptado para personas con discapacidad.",
+      "Un trabajo exclusivo para sectores altamente competitivos.",
+      "Un empleo temporal destinado a jóvenes sin experiencia.",
+      "Un concepto que aplica únicamente en sectores industriales."
+    ],
+    "correct_answer": "Un entorno laboral adaptado para personas con discapacidad."
+  },
+  {
+    "question": "¿Qué estrategia puede mejorar la inclusión laboral de personas con discapacidad?",
+    "points": 2,
+    "options": [
+      "La eliminación de prejuicios mediante sensibilización y educación en la empresa.",
+      "La reducción de las oportunidades de ascenso laboral.",
+      "El aumento de tareas específicas sin capacitación previa.",
+      "La segregación de empleados en diferentes áreas de trabajo."
+    ],
+    "correct_answer": "La eliminación de prejuicios mediante sensibilización y educación en la empresa."
+  },
+  {
+    "question": "¿Qué rol tienen los mediadores laborales en la inclusión social?",
+    "points": 2,
+    "options": [
+      "Facilitan la integración de personas vulnerables en el entorno laboral.",
+      "Supervisan exclusivamente la productividad de los empleados.",
+      "Centralizan la toma de decisiones en las empresas.",
+      "Establecen barreras para garantizar procesos más estrictos."
+    ],
+    "correct_answer": "Facilitan la integración de personas vulnerables en el entorno laboral."
+  },
+  {
+    "question": "¿Qué factor clave asegura la sostenibilidad de los programas de inclusión laboral?",
+    "points": 2,
+    "options": [
+      "El seguimiento continuo y la evaluación de los resultados.",
+      "La reducción de la participación de los empleados en las decisiones.",
+      "La implementación de normativas laborales restrictivas.",
+      "La exclusión de colectivos con menor experiencia profesional."
+    ],
+    "correct_answer": "El seguimiento continuo y la evaluación de los resultados."
+  },
+  {
+    "question": "¿Qué políticas públicas favorecen la inclusión social en el ámbito laboral?",
+    "points": 2,
+    "options": [
+      "Programas de apoyo financiero, formación inclusiva y adaptación de entornos laborales.",
+      "Leyes que limiten la participación de personas sin experiencia.",
+      "Normativas exclusivas para empresas tecnológicas.",
+      "Eliminación de programas de formación continua."
+    ],
+    "correct_answer": "Programas de apoyo financiero, formación inclusiva y adaptación de entornos laborales."
+  },
+  {
+    "question": "¿Qué recurso residencial se destina a mujeres que necesitan recuperarse en un entorno seguro debido al riesgo o peligro en su medio habitual?",
+    "points": 2,
+    "options": [
+      "Centros de día.",
+      "Centros de acogida.",
+      "Pisos tutelados.",
+      "ATENPRO."
+    ],
+    "correct_answer": "Centros de acogida."
+  },
+  {
+    "question": "¿Qué servicio ofrece atención inmediata las 24 horas para víctimas de violencia de género utilizando dispositivos de geolocalización?",
+    "points": 2,
+    "options": [
+      "Centros de acogida.",
+      "ATENPRO.",
+      "Sistemas telemáticos de seguimiento.",
+      "Pisos tutelados."
+    ],
+    "correct_answer": "ATENPRO."
+  },
+  {
+    "question": "¿Qué objetivo tienen los sistemas de seguimiento telemático en casos de violencia de género?",
+    "points": 2,
+    "options": [
+      "Verificar el cumplimiento de órdenes de alejamiento.",
+      "Proveer asistencia económica a las víctimas.",
+      "Monitorear exclusivamente el comportamiento del agresor.",
+      "Reducir las denuncias falsas."
+    ],
+    "correct_answer": "Verificar el cumplimiento de órdenes de alejamiento."
+  },
+  {
+    "question": "¿Qué actividades se realizan en los centros de día para mujeres víctimas de violencia de género?",
+    "points": 2,
+    "options": [
+      "Atención integral, actividades individuales y grupales, formación y ocio.",
+      "Alojar a mujeres en peligro extremo.",
+      "Monitorear el cumplimiento de medidas judiciales.",
+      "Exclusivamente formación laboral intensiva."
+    ],
+    "correct_answer": "Atención integral, actividades individuales y grupales, formación y ocio."
+  },
+  {
+    "question": "¿Qué requisitos deben cumplir las mujeres para acceder al servicio ATENPRO?",
+    "points": 2,
+    "options": [
+      "No convivir con la persona agresora y participar en programas de atención especializada.",
+      "Haber denunciado previamente al agresor en instancias judiciales.",
+      "Estar inscritas en programas laborales públicos.",
+      "No haber solicitado asistencia psicológica previa."
+    ],
+    "correct_answer": "No convivir con la persona agresora y participar en programas de atención especializada."
+  },
+  {
+    "question": "¿Qué define un piso tutelado en el contexto de recursos para mujeres víctimas de violencia de género?",
+    "points": 2,
+    "options": [
+      "Un espacio residencial que fomenta la autonomía con atención profesional.",
+      "Un refugio temporal para emergencias inmediatas.",
+      "Un lugar donde se imparten exclusivamente programas de formación laboral.",
+      "Una alternativa únicamente para mujeres con hijos menores."
+    ],
+    "correct_answer": "Un espacio residencial que fomenta la autonomía con atención profesional."
+  },
+  {
+    "question": "¿Qué normativa establece medidas de protección para las víctimas de violencia de género en España?",
+    "points": 2,
+    "options": [
+      "Ley Orgánica 1/2004.",
+      "Ley de Protección Civil de la Mujer.",
+      "Código Penal Artículo 132.",
+      "Directiva Europea contra la Violencia de Género."
+    ],
+    "correct_answer": "Ley Orgánica 1/2004."
+  },
+  {
+    "question": "¿Qué recurso permite el control mediante GPS para garantizar el alejamiento entre víctima y agresor?",
+    "points": 2,
+    "options": [
+      "Sistemas telemáticos de seguimiento.",
+      "Centros de acogida.",
+      "ATENPRO.",
+      "Programas de orientación familiar."
+    ],
+    "correct_answer": "Sistemas telemáticos de seguimiento."
+  },
+  {
+    "question": "¿Qué recurso busca prevenir la exclusión social de mujeres en riesgo mediante actividades formativas y de empoderamiento?",
+    "points": 2,
+    "options": [
+      "Centros de día.",
+      "Pisos tutelados.",
+      "Centros de acogida.",
+      "Servicios telemáticos."
+    ],
+    "correct_answer": "Centros de día."
+  },
+  {
+    "question": "¿Qué organización gestiona la implementación del servicio ATENPRO en colaboración con los servicios sociales?",
+    "points": 2,
+    "options": [
+      "Servicios sociales comunitarios.",
+      "Instituciones penitenciarias.",
+      "Ayuntamientos locales.",
+      "Agencias de empleo."
+    ],
+    "correct_answer": "Servicios sociales comunitarios."
+  },
+  {
+    "question": "¿Qué objetivo tienen las campañas de sensibilización sobre violencia de género?",
+    "points": 2,
+    "options": [
+      "Concienciar a la población sobre la gravedad del problema y fomentar la prevención.",
+      "Reforzar las normas legales contra el agresor.",
+      "Aumentar la dependencia de las víctimas hacia los servicios sociales.",
+      "Centralizar los recursos solo en zonas urbanas."
+    ],
+    "correct_answer": "Concienciar a la población sobre la gravedad del problema y fomentar la prevención."
+  },
+  {
+    "question": "¿Qué perfil puede ser atendido en los recursos especializados de violencia de género?",
+    "points": 2,
+    "options": [
+      "Cualquier mujer en situación de riesgo, independientemente de su situación económica o social.",
+      "Únicamente mujeres con hijos menores a su cargo.",
+      "Solo mujeres que hayan solicitado ayuda judicial previa.",
+      "Víctimas de cualquier tipo de violencia sin distinción."
+    ],
+    "correct_answer": "Cualquier mujer en situación de riesgo, independientemente de su situación económica o social."
+  },
+  {
+    "question": "¿Qué programa tiene como objetivo la reintegración social y laboral de mujeres víctimas de violencia de género?",
+    "points": 2,
+    "options": [
+      "Programas de empoderamiento.",
+      "ATENPRO.",
+      "Sistemas telemáticos de seguimiento.",
+      "Pisos tutelados."
+    ],
+    "correct_answer": "Programas de empoderamiento."
+  },
+  {
+    "question": "¿Qué barrera emocional puede dificultar que las víctimas de violencia de género busquen ayuda?",
+    "points": 2,
+    "options": [
+      "El miedo al agresor o la dependencia emocional hacia él.",
+      "La falta de recursos económicos inmediatos.",
+      "La inexistencia de servicios sociales disponibles.",
+      "La presencia de sistemas legales excesivamente restrictivos."
+    ],
+    "correct_answer": "El miedo al agresor o la dependencia emocional hacia él."
+  },
+  {
+    "question": "¿Qué recurso combina atención psicológica y formación laboral para mujeres víctimas de violencia?",
+    "points": 2,
+    "options": [
+      "Centros de día.",
+      "ATENPRO.",
+      "Centros de acogida.",
+      "Programas telemáticos."
+    ],
+    "correct_answer": "Centros de día."
+  },
+  {
+    "question": "¿Qué enfoque debe tener la intervención con mujeres víctimas de violencia de género?",
+    "points": 2,
+    "options": [
+      "Integral, abarcando las dimensiones psicológica, social, jurídica y económica.",
+      "Focalizado exclusivamente en la protección física inmediata.",
+      "Centrado únicamente en la dimensión jurídica del problema.",
+      "Basado en la asistencia económica sin intervención psicológica."
+    ],
+    "correct_answer": "Integral, abarcando las dimensiones psicológica, social, jurídica y económica."
+  },
+  {
+    "question": "¿Qué medida judicial garantiza la protección inmediata de la víctima?",
+    "points": 2,
+    "options": [
+      "Órdenes de alejamiento.",
+      "Asignación directa de recursos económicos.",
+      "Inclusión automática en pisos tutelados.",
+      "Suspensión del acceso a programas laborales."
+    ],
+    "correct_answer": "Órdenes de alejamiento."
+  },
+  {
+    "question": "¿Qué prioridad tienen los pisos tutelados dentro de los recursos para víctimas de violencia?",
+    "points": 2,
+    "options": [
+      "Fomentar la autonomía y reintegración de las mujeres en su entorno.",
+      "Proveer una solución habitacional de emergencia.",
+      "Garantizar el monitoreo continuo por dispositivos electrónicos.",
+      "Establecer una residencia permanente para las víctimas."
+    ],
+    "correct_answer": "Fomentar la autonomía y reintegración de las mujeres en su entorno."
+  },
+  {
+    "question": "¿Qué servicio está orientado a mujeres que no están en situación de riesgo inmediato pero necesitan apoyo constante?",
+    "points": 2,
+    "options": [
+      "Centros de día.",
+      "Centros de acogida.",
+      "ATENPRO.",
+      "Sistemas telemáticos."
+    ],
+    "correct_answer": "Centros de día."
+  },
+  {
+    "question": "¿Qué tipo de violencia abarca la Ley Orgánica 1/2004 de Protección Integral contra la Violencia de Género?",
+    "points": 2,
+    "options": [
+      "Violencia física, psicológica, económica y sexual ejercida contra las mujeres.",
+      "Exclusivamente violencia física en el entorno familiar.",
+      "Cualquier tipo de violencia entre individuos.",
+      "Solo violencia económica contra las mujeres."
+    ],
+    "correct_answer": "Violencia física, psicológica, económica y sexual ejercida contra las mujeres."
+  },
+  {
+    "question": "¿Qué se entiende por exclusión social según el texto?",
+    "points": 2,
+    "options": [
+      "Un proceso multidimensional que impide la participación plena en la vida económica, social y cultural.",
+      "Una situación temporal de carencia económica exclusiva.",
+      "Un problema relacionado únicamente con la falta de empleo.",
+      "Una condición que afecta exclusivamente a comunidades rurales."
+    ],
+    "correct_answer": "Un proceso multidimensional que impide la participación plena en la vida económica, social y cultural."
+  },
+  {
+    "question": "¿Qué factores contribuyen a la exclusión social?",
+    "points": 2,
+    "options": [
+      "Pobreza, discriminación, barreras culturales y falta de acceso a recursos.",
+      "Alta competitividad laboral y oportunidades educativas limitadas.",
+      "Exceso de recursos sociales y educativos.",
+      "Participación activa en programas comunitarios."
+    ],
+    "correct_answer": "Pobreza, discriminación, barreras culturales y falta de acceso a recursos."
+  },
+  {
+    "question": "¿Qué caracteriza a la discriminación por razón de origen, etnia o cultura?",
+    "points": 2,
+    "options": [
+      "Actitudes y acciones que excluyen o marginan a personas debido a su identidad cultural o étnica.",
+      "Un fenómeno exclusivamente económico que afecta a comunidades migrantes.",
+      "Un problema que se da únicamente en países en vías de desarrollo.",
+      "Una práctica limitada al ámbito educativo."
+    ],
+    "correct_answer": "Actitudes y acciones que excluyen o marginan a personas debido a su identidad cultural o étnica."
+  },
+  {
+    "question": "¿Qué grupo de población es especialmente vulnerable en situaciones de exclusión social según el texto?",
+    "points": 2,
+    "options": [
+      "Inmigrantes, personas mayores, mujeres y niños.",
+      "Trabajadores en sectores tecnológicos.",
+      "Comunidades rurales con acceso limitado a internet.",
+      "Estudiantes universitarios en entornos urbanos."
+    ],
+    "correct_answer": "Inmigrantes, personas mayores, mujeres y niños."
+  },
+  {
+    "question": "¿Qué estrategias se mencionan para fomentar la inclusión social?",
+    "points": 2,
+    "options": [
+      "Promoción de la igualdad, acceso a recursos básicos y eliminación de barreras culturales.",
+      "Centralización de los recursos en áreas urbanas.",
+      "Creación de normativas que excluyan a comunidades vulnerables.",
+      "Aumentar la competitividad en el ámbito laboral."
+    ],
+    "correct_answer": "Promoción de la igualdad, acceso a recursos básicos y eliminación de barreras culturales."
+  },
+  {
+    "question": "¿Qué rol tienen las políticas públicas en la lucha contra la exclusión social?",
+    "points": 2,
+    "options": [
+      "Garantizar el acceso equitativo a derechos y oportunidades.",
+      "Centralizar los recursos en sectores específicos.",
+      "Limitar la intervención en comunidades rurales.",
+      "Promover únicamente programas laborales temporales."
+    ],
+    "correct_answer": "Garantizar el acceso equitativo a derechos y oportunidades."
+  },
+  {
+    "question": "¿Qué importancia tiene la diversidad cultural en la inclusión social?",
+    "points": 2,
+    "options": [
+      "Enriquece las sociedades y fomenta el respeto mutuo.",
+      "Aumenta las tensiones sociales y limita el acceso a recursos.",
+      "Es irrelevante en contextos de intervención social.",
+      "Implica barreras permanentes para la integración."
+    ],
+    "correct_answer": "Enriquece las sociedades y fomenta el respeto mutuo."
+  },
+  {
+    "question": "¿Qué concepto se relaciona con la eliminación de mitos y prejuicios sobre la inmigración?",
+    "points": 2,
+    "options": [
+      "Sensibilización social.",
+      "Aislamiento cultural.",
+      "Centralización normativa.",
+      "Reducción de derechos comunitarios."
+    ],
+    "correct_answer": "Sensibilización social."
+  },
+  {
+    "question": "¿Qué característica define a las políticas de extranjería en España según el texto?",
+    "points": 2,
+    "options": [
+      "Establecen normativas para regular la inmigración y promover la integración.",
+      "Limitan el acceso a derechos básicos para los inmigrantes.",
+      "Excluyen a los migrantes de los programas de formación laboral.",
+      "Fomentan la segregación en entornos comunitarios."
+    ],
+    "correct_answer": "Establecen normativas para regular la inmigración y promover la integración."
+  },
+  {
+    "question": "¿Qué población enfrenta barreras específicas relacionadas con mitos y estereotipos según el texto?",
+    "points": 2,
+    "options": [
+      "La población gitana.",
+      "Trabajadores del sector tecnológico.",
+      "Personas mayores en áreas urbanas.",
+      "Estudiantes de universidades privadas."
+    ],
+    "correct_answer": "La población gitana."
+  },
+  {
+    "question": "¿Qué papel juegan los servicios sociales en la inclusión de personas en riesgo de exclusión?",
+    "points": 2,
+    "options": [
+      "Proveen apoyo integral para satisfacer necesidades básicas y fomentar la autonomía.",
+      "Centralizan las decisiones en políticas de carácter económico.",
+      "Se limitan exclusivamente a asistencia alimentaria.",
+      "Priorizan la intervención en áreas urbanas específicas."
+    ],
+    "correct_answer": "Proveen apoyo integral para satisfacer necesidades básicas y fomentar la autonomía."
+  },
+  {
+    "question": "¿Qué estrategias pueden fomentar la integración de comunidades migrantes?",
+    "points": 2,
+    "options": [
+      "Acceso a la educación, sensibilización y programas de formación laboral.",
+      "Incremento de las barreras lingüísticas y culturales.",
+      "Centralización de los recursos en comunidades locales.",
+      "Aislamiento temporal para evitar conflictos sociales."
+    ],
+    "correct_answer": "Acceso a la educación, sensibilización y programas de formación laboral."
+  },
+  {
+    "question": "¿Qué efecto tienen los estereotipos en la población gitana según el texto?",
+    "points": 2,
+    "options": [
+      "Limitan su acceso a recursos y fomentan la discriminación social.",
+      "Promueven su integración en sectores laborales específicos.",
+      "Incrementan las oportunidades de acceso a programas educativos.",
+      "Facilitan su participación en actividades comunitarias."
+    ],
+    "correct_answer": "Limitan su acceso a recursos y fomentan la discriminación social."
+  },
+  {
+    "question": "¿Qué importancia tiene la mediación intercultural en la inclusión social?",
+    "points": 2,
+    "options": [
+      "Facilita la comunicación entre personas de diferentes culturas y reduce conflictos.",
+      "Centraliza las normativas culturales para evitar diferencias.",
+      "Elimina la necesidad de programas de sensibilización social.",
+      "Limita las interacciones entre comunidades culturales diversas."
+    ],
+    "correct_answer": "Facilita la comunicación entre personas de diferentes culturas y reduce conflictos."
+  },
+  {
+    "question": "¿Qué medidas promueven la igualdad de oportunidades en poblaciones vulnerables?",
+    "points": 2,
+    "options": [
+      "Acceso a servicios básicos, programas de empleo y formación continua.",
+      "Incremento de los requisitos legales para la participación laboral.",
+      "Reducción de las oportunidades de participación social.",
+      "Centralización de recursos en áreas urbanas exclusivamente."
+    ],
+    "correct_answer": "Acceso a servicios básicos, programas de empleo y formación continua."
+  },
+  {
+    "question": "¿Qué sector de la población puede beneficiarse de las políticas activas de empleo?",
+    "points": 2,
+    "options": [
+      "Jóvenes, mujeres, personas mayores y personas con discapacidad.",
+      "Únicamente personas en edad avanzada con experiencia laboral previa.",
+      "Solo migrantes en situación regular.",
+      "Trabajadores en sectores tecnológicos."
+    ],
+    "correct_answer": "Jóvenes, mujeres, personas mayores y personas con discapacidad."
+  },
+  {
+    "question": "¿Qué concepto describe la privación de derechos, recursos y oportunidades para participar plenamente en la sociedad?",
+    "points": 2,
+    "options": [
+      "Exclusión social.",
+      "Segregación cultural.",
+      "Mediación comunitaria.",
+      "Participación limitada."
+    ],
+    "correct_answer": "Exclusión social."
+  },
+  {
+    "question": "¿Qué herramienta es fundamental para reducir las barreras culturales en comunidades diversas?",
+    "points": 2,
+    "options": [
+      "La mediación intercultural.",
+      "El aislamiento temporal de comunidades vulnerables.",
+      "La centralización de políticas lingüísticas.",
+      "La eliminación de programas de integración."
+    ],
+    "correct_answer": "La mediación intercultural."
+  },
+  {
+    "question": "¿Qué políticas ayudan a combatir la discriminación en el ámbito laboral?",
+    "points": 2,
+    "options": [
+      "Políticas de igualdad, formación inclusiva y adaptación del entorno laboral.",
+      "Restricciones a la participación laboral en sectores específicos.",
+      "Leyes que limitan los derechos de migrantes y minorías culturales.",
+      "Normativas que excluyen a las comunidades rurales del mercado laboral."
+    ],
+    "correct_answer": "Políticas de igualdad, formación inclusiva y adaptación del entorno laboral."
+  },
+  {
+    "question": "¿Qué estrategia es clave para fomentar la convivencia entre diferentes culturas en una sociedad?",
+    "points": 2,
+    "options": [
+      "Programas de sensibilización social y educación intercultural.",
+      "Centralización de políticas en áreas urbanas.",
+      "Aislamiento temporal de comunidades diversas.",
+      "Eliminación de programas de mediación cultural."
+    ],
+    "correct_answer": "Programas de sensibilización social y educación intercultural."
+  },
+  {
+    "question": "¿Qué características biológicas están relacionadas con la exclusión social según el texto?",
+    "points": 2,
+    "options": [
+      "Condiciones de salud específicas que limitan la integración.",
+      "Capacidades genéticas sobresalientes.",
+      "Factores hereditarios exclusivos de ciertas culturas.",
+      "Características físicas que garantizan ventajas sociales."
+    ],
+    "correct_answer": "Condiciones de salud específicas que limitan la integración."
+  },
+  {
+    "question": "¿Qué población enfrenta discriminación significativa por razón de orientación sexual según el texto?",
+    "points": 2,
+    "options": [
+      "Personas pertenecientes al colectivo LGTBI.",
+      "Hombres mayores en áreas rurales.",
+      "Comunidades tecnológicas de alto nivel.",
+      "Estudiantes universitarios en centros privados."
+    ],
+    "correct_answer": "Personas pertenecientes al colectivo LGTBI."
+  },
+  {
+    "question": "¿Qué enfoque es clave en la atención al colectivo LGTBI?",
+    "points": 2,
+    "options": [
+      "Promover su empoderamiento y garantizar sus derechos.",
+      "Centralizar su atención exclusivamente en áreas urbanas.",
+      "Limitar los programas de sensibilización social.",
+      "Enfocarse únicamente en la asistencia económica."
+    ],
+    "correct_answer": "Promover su empoderamiento y garantizar sus derechos."
+  },
+  {
+    "question": "¿Qué medida es fundamental en la intervención con personas en riesgo de exclusión por razón de sexo?",
+    "points": 2,
+    "options": [
+      "Garantizar la igualdad de derechos y oportunidades.",
+      "Promover la segregación para evitar conflictos sociales.",
+      "Eliminar programas de formación inclusiva.",
+      "Centrarse exclusivamente en barreras económicas."
+    ],
+    "correct_answer": "Garantizar la igualdad de derechos y oportunidades."
+  },
+  {
+    "question": "¿Qué rol juegan las fuentes de información en la intervención social?",
+    "points": 2,
+    "options": [
+      "Facilitan el diseño de estrategias basadas en necesidades específicas.",
+      "Centralizan la toma de decisiones en organismos internacionales.",
+      "Limitan el acceso a recursos sociales.",
+      "Eliminan la necesidad de intervención en casos complejos."
+    ],
+    "correct_answer": "Facilitan el diseño de estrategias basadas en necesidades específicas."
+  },
+  {
+    "question": "¿Qué importancia tiene el análisis de necesidades en la atención al colectivo LGTBI?",
+    "points": 2,
+    "options": [
+      "Permite identificar barreras y diseñar intervenciones efectivas.",
+      "Facilita la eliminación de normativas inclusivas.",
+      "Reduce la participación activa del colectivo en decisiones.",
+      "Promueve exclusivamente cambios en áreas rurales."
+    ],
+    "correct_answer": "Permite identificar barreras y diseñar intervenciones efectivas."
+  },
+  {
+    "question": "¿Qué normativa regula la protección del colectivo LGTBI en España?",
+    "points": 2,
+    "options": [
+      "Leyes autonómicas y normativas específicas contra la discriminación.",
+      "El Código Penal exclusivamente.",
+      "Normativas internacionales sin aplicación local.",
+      "Directivas enfocadas únicamente en migrantes."
+    ],
+    "correct_answer": "Leyes autonómicas y normativas específicas contra la discriminación."
+  },
+  {
+    "question": "¿Qué caracteriza la discriminación por orientación sexual según el texto?",
+    "points": 2,
+    "options": [
+      "Actitudes negativas y exclusión social hacia personas LGTBI.",
+      "Dificultades para acceder a programas de empleo rural.",
+      "Limitación de oportunidades educativas exclusivamente.",
+      "Centralización de recursos económicos."
+    ],
+    "correct_answer": "Actitudes negativas y exclusión social hacia personas LGTBI."
+  },
+  {
+    "question": "¿Qué recurso promueve la integración del colectivo LGTBI?",
+    "points": 2,
+    "options": [
+      "Programas de sensibilización y empoderamiento comunitario.",
+      "Normativas que limiten su participación en espacios públicos.",
+      "Centros específicos que fomenten el aislamiento.",
+      "Formación exclusivamente tecnológica."
+    ],
+    "correct_answer": "Programas de sensibilización y empoderamiento comunitario."
+  },
+  {
+    "question": "¿Qué rol desempeñan las organizaciones sociales en la atención al colectivo LGTBI?",
+    "points": 2,
+    "options": [
+      "Ofrecen apoyo integral y diseñan programas inclusivos.",
+      "Centralizan exclusivamente la atención psicológica.",
+      "Promueven la exclusión de espacios laborales tradicionales.",
+      "Restringen la participación activa en actividades comunitarias."
+    ],
+    "correct_answer": "Ofrecen apoyo integral y diseñan programas inclusivos."
+  },
+  {
+    "question": "¿Qué barreras enfrentan las personas trans en el ámbito laboral según el texto?",
+    "points": 2,
+    "options": [
+      "Estereotipos, discriminación y falta de adaptaciones en los entornos de trabajo.",
+      "Limitaciones relacionadas exclusivamente con su nivel educativo.",
+      "Falta de interés en programas de formación profesional.",
+      "Acceso exclusivo a empleos temporales de bajo nivel técnico."
+    ],
+    "correct_answer": "Estereotipos, discriminación y falta de adaptaciones en los entornos de trabajo."
+  },
+  {
+    "question": "¿Qué impacto tienen los prejuicios sociales en la salud mental de las personas LGTBI?",
+    "points": 2,
+    "options": [
+      "Aumentan el riesgo de problemas psicológicos como depresión y ansiedad.",
+      "Mejoran la resiliencia emocional del colectivo.",
+      "Fomentan un mayor acceso a recursos comunitarios.",
+      "Facilitan la integración en programas de salud pública."
+    ],
+    "correct_answer": "Aumentan el riesgo de problemas psicológicos como depresión y ansiedad."
+  },
+  {
+    "question": "¿Qué estrategia es clave para reducir la discriminación hacia el colectivo LGTBI?",
+    "points": 2,
+    "options": [
+      "Sensibilización social mediante campañas educativas y programas de formación.",
+      "Centralizar los recursos en zonas urbanas exclusivamente.",
+      "Crear espacios de segregación para evitar conflictos.",
+      "Limitar la participación del colectivo en decisiones públicas."
+    ],
+    "correct_answer": "Sensibilización social mediante campañas educativas y programas de formación."
+  },
+  {
+    "question": "¿Qué define el término 'interseccionalidad' en la discriminación social?",
+    "points": 2,
+    "options": [
+      "La interacción de múltiples factores de discriminación como sexo, orientación sexual y etnia.",
+      "La centralización de políticas públicas en un solo colectivo.",
+      "La exclusión de ciertos grupos vulnerables en programas sociales.",
+      "El análisis exclusivo de factores económicos en la discriminación."
+    ],
+    "correct_answer": "La interacción de múltiples factores de discriminación como sexo, orientación sexual y etnia."
+  },
+  {
+    "question": "¿Qué población está más expuesta a la violencia por razón de orientación sexual?",
+    "points": 2,
+    "options": [
+      "Personas trans y mujeres lesbianas.",
+      "Hombres heterosexuales en zonas rurales.",
+      "Estudiantes en centros privados.",
+      "Comunidades con acceso limitado a servicios sociales."
+    ],
+    "correct_answer": "Personas trans y mujeres lesbianas."
+  },
+  {
+    "question": "¿Qué medidas se recomiendan para fomentar la inclusión de personas LGTBI en programas educativos?",
+    "points": 2,
+    "options": [
+      "Implementar contenidos inclusivos y promover el respeto a la diversidad.",
+      "Aislar a estudiantes LGTBI para evitar conflictos.",
+      "Reducir los recursos disponibles para este colectivo.",
+      "Eliminar las normativas sobre educación inclusiva."
+    ],
+    "correct_answer": "Implementar contenidos inclusivos y promover el respeto a la diversidad."
+  },
+  {
+    "question": "¿Qué rol juegan las familias en el apoyo a personas LGTBI según el texto?",
+    "points": 2,
+    "options": [
+      "Proveen un entorno seguro y emocionalmente estable.",
+      "Centralizan la atención en problemas económicos únicamente.",
+      "Limitan su participación en espacios comunitarios.",
+      "Imponen normas estrictas para evitar discriminación."
+    ],
+    "correct_answer": "Proveen un entorno seguro y emocionalmente estable."
+  },
+  {
+    "question": "¿Qué legislación en España protege contra la discriminación por orientación sexual?",
+    "points": 2,
+    "options": [
+      "Leyes autonómicas específicas y normativas nacionales.",
+      "El Código Penal en su totalidad.",
+      "Normas internacionales sin aplicación local.",
+      "Ley Orgánica de Protección Civil exclusiva."
+    ],
+    "correct_answer": "Leyes autonómicas específicas y normativas nacionales."
+  },
+  {
+    "question": "¿Qué importancia tiene la formación de profesionales en la atención al colectivo LGTBI?",
+    "points": 2,
+    "options": [
+      "Mejora la calidad de los servicios y fomenta entornos más inclusivos.",
+      "Centraliza la atención en áreas urbanas exclusivamente.",
+      "Elimina la necesidad de programas de sensibilización social.",
+      "Promueve únicamente programas económicos a corto plazo."
+    ],
+    "correct_answer": "Mejora la calidad de los servicios y fomenta entornos más inclusivos."
+  },
+  {
+    "question": "¿Qué estrategias ayudan a prevenir la discriminación múltiple en la intervención social?",
+    "points": 2,
+    "options": [
+      "Enfoque interseccional y promoción de la igualdad de oportunidades.",
+      "Segregación de colectivos con mayores necesidades.",
+      "Centralización de recursos en grupos específicos.",
+      "Eliminación de normativas inclusivas para evitar conflictos."
+    ],
+    "correct_answer": "Enfoque interseccional y promoción de la igualdad de oportunidades."
+  },
+  {
+    "question": "¿Qué características definen a las personas en riesgo de exclusión social por razón de edad?",
+    "points": 2,
+    "options": [
+      "Dificultades económicas, aislamiento social y barreras para acceder a servicios básicos.",
+      "Alta integración en redes sociales y acceso a recursos educativos.",
+      "Exclusión únicamente en el ámbito laboral.",
+      "Falta de participación en actividades recreativas."
+    ],
+    "correct_answer": "Dificultades económicas, aislamiento social y barreras para acceder a servicios básicos."
+  },
+  {
+    "question": "¿Qué necesidades específicas tienen las personas mayores en situación de exclusión?",
+    "points": 2,
+    "options": [
+      "Atención sanitaria, apoyo emocional y acceso a actividades comunitarias.",
+      "Únicamente acceso a recursos económicos.",
+      "Mayor participación en programas laborales.",
+      "Exclusión de programas educativos avanzados."
+    ],
+    "correct_answer": "Atención sanitaria, apoyo emocional y acceso a actividades comunitarias."
+  },
+  {
+    "question": "¿Qué programas están diseñados para fomentar la inclusión social de las personas mayores?",
+    "points": 2,
+    "options": [
+      "Programas de envejecimiento activo y redes de apoyo intergeneracional.",
+      "Iniciativas exclusivas para jóvenes.",
+      "Planes centrados únicamente en la vivienda.",
+      "Normativas específicas para la integración laboral."
+    ],
+    "correct_answer": "Programas de envejecimiento activo y redes de apoyo intergeneracional."
+  },
+  {
+    "question": "¿Qué rol tienen las políticas públicas en la atención a la tercera edad?",
+    "points": 2,
+    "options": [
+      "Garantizar servicios sociales básicos y promover su autonomía.",
+      "Limitar su acceso a recursos tecnológicos avanzados.",
+      "Reducir la participación de personas mayores en programas comunitarios.",
+      "Centralizar la atención en áreas rurales exclusivamente."
+    ],
+    "correct_answer": "Garantizar servicios sociales básicos y promover su autonomía."
+  },
+  {
+    "question": "¿Qué factores pueden incrementar el riesgo de exclusión en personas mayores?",
+    "points": 2,
+    "options": [
+      "Enfermedades crónicas, pérdida de redes de apoyo y discriminación por edad.",
+      "Alta participación en actividades recreativas.",
+      "Exceso de recursos disponibles en su entorno.",
+      "Acceso a programas de formación inclusiva."
+    ],
+    "correct_answer": "Enfermedades crónicas, pérdida de redes de apoyo y discriminación por edad."
+  },
+  {
+    "question": "¿Qué impacto tiene la discriminación por edad en las personas mayores?",
+    "points": 2,
+    "options": [
+      "Limita su acceso a recursos y reduce su participación social.",
+      "Fomenta una mayor integración en actividades recreativas.",
+      "Incrementa las oportunidades de empleo en sectores especializados.",
+      "Elimina las barreras económicas relacionadas con el envejecimiento."
+    ],
+    "correct_answer": "Limita su acceso a recursos y reduce su participación social."
+  },
+  {
+    "question": "¿Qué papel desempeña la tecnología en la inclusión de personas mayores?",
+    "points": 2,
+    "options": [
+      "Facilita el acceso a recursos, servicios y redes de apoyo.",
+      "Incrementa la exclusión en áreas rurales.",
+      "Reduce la interacción con otros grupos generacionales.",
+      "Limita su participación en programas comunitarios."
+    ],
+    "correct_answer": "Facilita el acceso a recursos, servicios y redes de apoyo."
+  },
+  {
+    "question": "¿Qué iniciativa puede mejorar la calidad de vida de las personas mayores en exclusión?",
+    "points": 2,
+    "options": [
+      "Envejecimiento activo a través de actividades culturales y deportivas.",
+      "Aislamiento temporal para garantizar su seguridad.",
+      "Centralización de recursos en áreas urbanas.",
+      "Eliminación de programas de formación intergeneracional."
+    ],
+    "correct_answer": "Envejecimiento activo a través de actividades culturales y deportivas."
+  },
+  {
+    "question": "¿Qué importancia tiene el voluntariado en la inclusión social?",
+    "points": 2,
+    "options": [
+      "Fomenta la participación activa y el desarrollo de redes comunitarias.",
+      "Limita las oportunidades laborales en sectores específicos.",
+      "Centraliza los recursos en zonas urbanas.",
+      "Elimina las barreras de acceso a programas tecnológicos."
+    ],
+    "correct_answer": "Fomenta la participación activa y el desarrollo de redes comunitarias."
+  },
+  {
+    "question": "¿Qué recurso es clave para obtener información sobre servicios de intervención social?",
+    "points": 2,
+    "options": [
+      "La red de servicios sociales y plataformas digitales.",
+      "Sistemas exclusivamente impresos en áreas rurales.",
+      "Acceso directo a bibliotecas municipales.",
+      "Normativas específicas del sector educativo."
+    ],
+    "correct_answer": "La red de servicios sociales y plataformas digitales."
+  },
+  {
+    "question": "¿Qué objetivo tienen las redes de participación social en los colectivos vulnerables?",
+    "points": 2,
+    "options": [
+      "Fortalecer su integración y acceso a recursos comunitarios.",
+      "Centralizar su atención en programas laborales temporales.",
+      "Limitar su interacción con otros colectivos.",
+      "Establecer barreras normativas para su participación."
+    ],
+    "correct_answer": "Fortalecer su integración y acceso a recursos comunitarios."
+  },
+  {
+    "question": "¿Qué medida facilita el acceso a programas de intervención social?",
+    "points": 2,
+    "options": [
+      "Utilización de plataformas digitales para la gestión y difusión de recursos.",
+      "Reducción de las redes de apoyo en comunidades rurales.",
+      "Creación de normativas que excluyan a colectivos vulnerables.",
+      "Aislamiento temporal en comunidades específicas."
+    ],
+    "correct_answer": "Utilización de plataformas digitales para la gestión y difusión de recursos."
+  },
+  {
+    "question": "¿Qué barreras pueden limitar la participación social en colectivos vulnerables?",
+    "points": 2,
+    "options": [
+      "Falta de información, discriminación y escasez de recursos.",
+      "Exceso de recursos educativos en áreas urbanas.",
+      "Alta disponibilidad de programas de formación.",
+      "Redes comunitarias activas y accesibles."
+    ],
+    "correct_answer": "Falta de información, discriminación y escasez de recursos."
+  },
+  {
+    "question": "¿Qué objetivo tienen las redes comunitarias en la inclusión social?",
+    "points": 2,
+    "options": [
+      "Promover el apoyo mutuo y fortalecer la cohesión social.",
+      "Centralizar la toma de decisiones en organismos gubernamentales.",
+      "Limitar la participación activa de colectivos vulnerables.",
+      "Incrementar las barreras normativas en entornos rurales."
+    ],
+    "correct_answer": "Promover el apoyo mutuo y fortalecer la cohesión social."
+  },
+  {
+    "question": "¿Qué estrategia es clave para fortalecer las redes sociales en comunidades vulnerables?",
+    "points": 2,
+    "options": [
+      "Fomentar el voluntariado y la participación en programas comunitarios.",
+      "Reducir los recursos disponibles para actividades recreativas.",
+      "Centralizar las decisiones en un único organismo.",
+      "Limitar la información sobre recursos sociales disponibles."
+    ],
+    "correct_answer": "Fomentar el voluntariado y la participación en programas comunitarios."
+  },
+  {
+    "question": "¿Qué barrera específica afecta la integración en redes sociales comunitarias?",
+    "points": 2,
+    "options": [
+      "Falta de recursos económicos y desconocimiento de los servicios disponibles.",
+      "Exceso de programas laborales en las comunidades rurales.",
+      "Alta disponibilidad de tecnologías accesibles.",
+      "Participación activa en actividades recreativas."
+    ],
+    "correct_answer": "Falta de recursos económicos y desconocimiento de los servicios disponibles."
+  }
+]

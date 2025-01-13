@@ -1,0 +1,101 @@
+[
+  {
+    "question": "¿Qué elementos se deben analizar en el contexto de intervención de las personas con discapacidad?",
+    "points": 2,
+    "options": [
+      "El entorno familiar, los recursos disponibles y las barreras sociales.",
+      "Solo los factores económicos relacionados con su discapacidad.",
+      "Únicamente las barreras arquitectónicas identificadas.",
+      "La influencia de la tecnología sin considerar el entorno social."
+    ],
+    "correct_answer": "El entorno familiar, los recursos disponibles y las barreras sociales."
+  },
+  {
+    "question": "¿Qué estrategias son esenciales para la intervención social en discapacidad?",
+    "points": 2,
+    "options": [
+      "Promoción de la igualdad de oportunidades y accesibilidad universal.",
+      "Prohibir la integración laboral de personas con discapacidades severas.",
+      "Eliminar recursos sociales para promover la autosuficiencia.",
+      "Centrarse únicamente en adaptaciones tecnológicas complejas."
+    ],
+    "correct_answer": "Promoción de la igualdad de oportunidades y accesibilidad universal."
+  },
+  {
+    "question": "¿Qué importancia tiene la accesibilidad universal en la intervención social?",
+    "points": 2,
+    "options": [
+      "Garantiza que todas las personas puedan participar plenamente en la sociedad.",
+      "Solo es relevante para personas con discapacidades físicas.",
+      "Permite la segregación en entornos laborales específicos.",
+      "Es una herramienta exclusiva para mejorar la educación inclusiva."
+    ],
+    "correct_answer": "Garantiza que todas las personas puedan participar plenamente en la sociedad."
+  },
+  {
+    "question": "¿Qué rol juega el análisis del contexto social en la intervención social?",
+    "points": 2,
+    "options": [
+      "Permite diseñar estrategias ajustadas a las necesidades específicas del colectivo.",
+      "Se utiliza únicamente para justificar decisiones políticas.",
+      "Facilita la eliminación de recursos innecesarios.",
+      "Limita la participación de otros profesionales en el proceso."
+    ],
+    "correct_answer": "Permite diseñar estrategias ajustadas a las necesidades específicas del colectivo."
+  },
+  {
+    "question": "¿Qué importancia tiene la participación activa en las estrategias de intervención social?",
+    "points": 2,
+    "options": [
+      "Fomenta la autonomía y el empoderamiento de las personas con discapacidad.",
+      "Limita las decisiones a las instituciones responsables.",
+      "Centraliza el control en los profesionales de intervención.",
+      "Evita la necesidad de adaptaciones específicas en cada caso."
+    ],
+    "correct_answer": "Fomenta la autonomía y el empoderamiento de las personas con discapacidad."
+  },
+  {
+    "question": "¿Qué barreras sociales deben abordarse para promover la inclusión efectiva?",
+    "points": 2,
+    "options": [
+      "Actitudes negativas, falta de sensibilización y recursos insuficientes.",
+      "Exclusivamente las barreras físicas en el entorno construido.",
+      "La saturación de servicios médicos especializados.",
+      "El acceso limitado a programas tecnológicos avanzados."
+    ],
+    "correct_answer": "Actitudes negativas, falta de sensibilización y recursos insuficientes."
+  },
+  {
+    "question": "¿Qué papel juega la colaboración interdisciplinar en la intervención social?",
+    "points": 2,
+    "options": [
+      "Permite diseñar estrategias más integrales y efectivas.",
+      "Sustituye la responsabilidad de los familiares en el proceso.",
+      "Centraliza la atención en un único enfoque profesional.",
+      "Excluye la participación de profesionales del ámbito educativo."
+    ],
+    "correct_answer": "Permite diseñar estrategias más integrales y efectivas."
+  },
+  {
+    "question": "¿Qué objetivo tiene la promoción de la igualdad de oportunidades en la intervención social?",
+    "points": 2,
+    "options": [
+      "Eliminar las barreras que impiden la plena participación de las personas con discapacidad.",
+      "Establecer normativas que limiten los derechos laborales.",
+      "Priorizar la atención a colectivos sin discapacidades.",
+      "Reducir los recursos sociales para garantizar la autosuficiencia económica."
+    ],
+    "correct_answer": "Eliminar las barreras que impiden la plena participación de las personas con discapacidad."
+  },
+  {
+    "question": "¿Qué tipo de adaptaciones se consideran clave en entornos educativos inclusivos?",
+    "points": 2,
+    "options": [
+      "Adaptaciones curriculares y acceso a tecnologías de asistencia.",
+      "Reorganización completa de la estructura física de las escuelas.",
+      "Limitación de la interacción entre estudiantes con y sin discapacidad.",
+      "Eliminación de programas extracurriculares inclusivos."
+    ],
+    "correct_answer": "Adaptaciones curriculares y acceso a tecnologías de asistencia."
+  }
+]

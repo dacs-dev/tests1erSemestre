@@ -111,6 +111,7 @@ function redoTest(event) {
       enunciado.className = "enunciado";
       enunciado.textContent = `${preguntaIndex +1}. ${element.question}`;
       selectedDiv.appendChild(enunciado);
+      element.options = ordenarAleatoriamente(element.options)
       element.options.forEach((element, index) => {
         const answer = document.createElement("input");
         answer.type = "radio";

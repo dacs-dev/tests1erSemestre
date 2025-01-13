@@ -1,0 +1,197 @@
+[
+  {
+    "question": "¿Qué cuatro conceptos básicos explican el desarrollo evolutivo del ser humano?",
+    "points": 2,
+    "options": [
+      "Crecimiento, maduración, aprendizaje y desarrollo.",
+      "Crecimiento, biología, lenguaje y maduración.",
+      "Aprendizaje, memoria, atención y crecimiento.",
+      "Cognición, emociones, maduración y desarrollo."
+    ],
+    "correct_answer": "Crecimiento, maduración, aprendizaje y desarrollo."
+  },
+  {
+    "question": "¿Qué describe el ciclo vital según la psicología del desarrollo?",
+    "points": 2,
+    "options": [
+      "Los cambios psicológicos que ocurren desde el nacimiento hasta la muerte.",
+      "Las etapas biológicas que afectan la estructura del cuerpo humano.",
+      "El aprendizaje de habilidades específicas en la infancia.",
+      "La socialización en el entorno educativo y laboral."
+    ],
+    "correct_answer": "Los cambios psicológicos que ocurren desde el nacimiento hasta la muerte."
+  },
+  {
+    "question": "Según Erikson, ¿qué ocurre en cada etapa del desarrollo del ciclo vital?",
+    "points": 2,
+    "options": [
+      "Surge una crisis planteada como una oposición entre dos polos.",
+      "Se desarrollan habilidades específicas relacionadas con el entorno.",
+      "Se establece la madurez emocional en cada etapa.",
+      "Se experimenta un crecimiento físico significativo."
+    ],
+    "correct_answer": "Surge una crisis planteada como una oposición entre dos polos."
+  },
+  {
+    "question": "¿Cuál es la etapa en la que el adolescente busca su propia identidad?",
+    "points": 2,
+    "options": ["Adolescencia.", "Infancia.", "Edad adulta.", "Vejez."],
+    "correct_answer": "Adolescencia."
+  },
+  {
+    "question": "¿Qué define la socialización según Vander Zanden?",
+    "points": 2,
+    "options": [
+      "El proceso en el que el individuo desarrolla su forma de pensar, sentir y actuar mediante la interacción con los demás.",
+      "La adquisición de habilidades académicas y laborales en la sociedad.",
+      "El aprendizaje de normas sociales exclusivamente en la infancia.",
+      "La adaptación al entorno natural mediante experiencias personales."
+    ],
+    "correct_answer": "El proceso en el que el individuo desarrolla su forma de pensar, sentir y actuar mediante la interacción con los demás."
+  },
+  {
+    "question": "¿Qué estilo educativo parental combina alto control con bajo afecto?",
+    "points": 2,
+    "options": ["Autoritario.", "Democrático.", "Permisivo.", "Indiferente."],
+    "correct_answer": "Autoritario."
+  },
+  {
+    "question": "¿Qué teoría sostiene que las relaciones entre iguales son fundamentales para la autonomía?",
+    "points": 2,
+    "options": [
+      "Teoría de Piaget.",
+      "Teoría de Vygotsky.",
+      "Teoría de la moral autónoma.",
+      "Teoría de la maduración."
+    ],
+    "correct_answer": "Teoría de Piaget."
+  },
+  {
+    "question": "¿Qué componente NO forma parte del autoconcepto según el texto?",
+    "points": 2,
+    "options": ["Cultural.", "Corporal.", "Psíquico.", "Social."],
+    "correct_answer": "Cultural."
+  },
+  {
+    "question": "¿Qué define la autoestima según Branden?",
+    "points": 2,
+    "options": [
+      "La confianza en la capacidad de pensar y enfrentarse a desafíos de la vida, y el derecho a ser felices.",
+      "El reconocimiento social y la adaptación al entorno laboral.",
+      "La aceptación incondicional de las normas sociales establecidas.",
+      "El desarrollo cognitivo que permite alcanzar metas a largo plazo."
+    ],
+    "correct_answer": "La confianza en la capacidad de pensar y enfrentarse a desafíos de la vida, y el derecho a ser felices."
+  },
+  {
+    "question": "¿Qué función desempeñan los medios de comunicación en la socialización?",
+    "points": 2,
+    "options": [
+      "Influyen en valores, opiniones y comportamientos de la sociedad.",
+      "Reemplazan por completo la educación proporcionada por la familia.",
+      "Generan patrones universales de pensamiento en los individuos.",
+      "Eliminan la diversidad cultural y lingüística en las comunidades."
+    ],
+    "correct_answer": "Influyen en valores, opiniones y comportamientos de la sociedad."
+  },
+  {
+    "question": "¿Qué es el desarrollo humano según el texto?",
+    "points": 2,
+    "options": [
+      "El conjunto de cambios físicos, cognitivos y emocionales que ocurren a lo largo de la vida.",
+      "El crecimiento físico experimentado durante la infancia y la adolescencia.",
+      "La capacidad de adaptarse al entorno social y cultural.",
+      "La adquisición de habilidades específicas en el ámbito académico."
+    ],
+    "correct_answer": "El conjunto de cambios físicos, cognitivos y emocionales que ocurren a lo largo de la vida."
+  },
+  {
+    "question": "¿Cuál es la etapa del ciclo vital en la que se consolida la identidad personal?",
+    "points": 2,
+    "options": [
+      "Adolescencia.",
+      "Niñez temprana.",
+      "Edad adulta temprana.",
+      "Vejez."
+    ],
+    "correct_answer": "Adolescencia."
+  },
+  {
+    "question": "Según Piaget, ¿qué caracteriza la etapa preoperacional del desarrollo cognitivo?",
+    "points": 2,
+    "options": [
+      "El pensamiento simbólico y egocéntrico.",
+      "La capacidad para realizar operaciones lógicas concretas.",
+      "El razonamiento abstracto y sistemático.",
+      "El aprendizaje exclusivo a través de estímulos externos."
+    ],
+    "correct_answer": "El pensamiento simbólico y egocéntrico."
+  },
+  {
+    "question": "¿Qué concepto describe la habilidad para adaptarse a nuevas experiencias según el texto?",
+    "points": 2,
+    "options": ["Plasticidad.", "Cognición.", "Maduración.", "Resiliencia."],
+    "correct_answer": "Plasticidad."
+  },
+  {
+    "question": "¿Qué componente de la socialización se aprende principalmente en la infancia?",
+    "points": 2,
+    "options": [
+      "Las normas sociales.",
+      "Los valores económicos.",
+      "Las habilidades técnicas.",
+      "Los comportamientos laborales."
+    ],
+    "correct_answer": "Las normas sociales."
+  },
+  {
+    "question": "¿Cuál es el estilo parental caracterizado por un bajo nivel de control y alto nivel de afecto?",
+    "points": 2,
+    "options": ["Permisivo.", "Autoritario.", "Democrático.", "Indiferente."],
+    "correct_answer": "Permisivo."
+  },
+  {
+    "question": "Según Erikson, ¿qué crisis caracteriza la infancia temprana?",
+    "points": 2,
+    "options": [
+      "Confianza frente a desconfianza.",
+      "Autonomía frente a vergüenza y duda.",
+      "Iniciativa frente a culpa.",
+      "Identidad frente a confusión de roles."
+    ],
+    "correct_answer": "Confianza frente a desconfianza."
+  },
+  {
+    "question": "¿Qué influencia tienen los grupos de iguales en la socialización?",
+    "points": 2,
+    "options": [
+      "Proporcionan apoyo emocional y refuerzan normas sociales.",
+      "Sustituyen completamente la influencia parental.",
+      "Limitan la capacidad de adaptación cultural del individuo.",
+      "Fomentan exclusivamente la competencia entre los miembros."
+    ],
+    "correct_answer": "Proporcionan apoyo emocional y refuerzan normas sociales."
+  },
+  {
+    "question": "¿Qué componente del desarrollo humano incluye la capacidad de empatizar?",
+    "points": 2,
+    "options": [
+      "Desarrollo socioemocional.",
+      "Desarrollo cognitivo.",
+      "Desarrollo físico.",
+      "Desarrollo cultural."
+    ],
+    "correct_answer": "Desarrollo socioemocional."
+  },
+  {
+    "question": "¿Qué característica define a las familias democráticas según el texto?",
+    "points": 2,
+    "options": [
+      "La combinación de normas claras y comunicación abierta.",
+      "La ausencia de reglas establecidas en el hogar.",
+      "El control estricto de las actividades de los hijos.",
+      "El distanciamiento emocional entre padres e hijos."
+    ],
+    "correct_answer": "La combinación de normas claras y comunicación abierta."
+  }
+]

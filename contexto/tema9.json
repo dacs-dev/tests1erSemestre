@@ -1,0 +1,57 @@
+[
+  {
+    "question": "¿Qué caracteriza a la discapacidad sensorial según el texto?",
+    "points": 2,
+    "options": [
+      "Alteraciones en la percepción de los sentidos como la vista o el oído.",
+      "Dificultades motoras evidentes.",
+      "Problemas cognitivos relacionados con el aprendizaje.",
+      "Impedimentos exclusivos en la comunicación escrita."
+    ],
+    "correct_answer": "Alteraciones en la percepción de los sentidos como la vista o el oído."
+  },
+  {
+    "question": "¿Qué necesidad principal tienen las personas con discapacidad sensorial?",
+    "points": 2,
+    "options": [
+      "Acceso a dispositivos tecnológicos adaptados.",
+      "Asistencia médica constante.",
+      "Intervención directa en sus habilidades motoras.",
+      "Reducción de su participación en actividades sociales."
+    ],
+    "correct_answer": "Acceso a dispositivos tecnológicos adaptados."
+  },
+  {
+    "question": "¿Qué barreras afectan a la inclusión educativa de personas con discapacidad sensorial?",
+    "points": 2,
+    "options": [
+      "Falta de materiales didácticos adaptados.",
+      "Exceso de recursos educativos disponibles.",
+      "Presión social para sobreintegrarse.",
+      "Demanda reducida de tecnologías inclusivas."
+    ],
+    "correct_answer": "Falta de materiales didácticos adaptados."
+  },
+  {
+    "question": "¿Qué adaptaciones tecnológicas son fundamentales para personas con discapacidad visual?",
+    "points": 2,
+    "options": [
+      "Lectores de pantalla y dispositivos en braille.",
+      "Amplificadores de sonido para uso personal.",
+      "Tecnologías de reconocimiento facial.",
+      "Software exclusivamente educativo."
+    ],
+    "correct_answer": "Lectores de pantalla y dispositivos en braille."
+  },
+  {
+    "question": "¿Qué objetivo tiene la formación de intérpretes de lengua de signos?",
+    "points": 2,
+    "options": [
+      "Facilitar la comunicación entre personas sordas y oyentes en diferentes contextos.",
+      "Promover el uso exclusivo del lenguaje hablado.",
+      "Reducir la necesidad de tecnologías de asistencia.",
+      "Sustituir los programas educativos inclusivos."
+    ],
+    "correct_answer": "Facilitar la comunicación entre personas sordas y oyentes en diferentes contextos."
+  }
+]

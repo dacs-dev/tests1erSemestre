@@ -1,0 +1,90 @@
+[
+  {
+    "question": "¿Qué importancia tiene el voluntariado en la inclusión social?",
+    "points": 2,
+    "options": [
+      "Fomenta la participación activa y el desarrollo de redes comunitarias.",
+      "Limita las oportunidades laborales en sectores específicos.",
+      "Centraliza los recursos en zonas urbanas.",
+      "Elimina las barreras de acceso a programas tecnológicos."
+    ],
+    "correct_answer": "Fomenta la participación activa y el desarrollo de redes comunitarias."
+  },
+  {
+    "question": "¿Qué recurso es clave para obtener información sobre servicios de intervención social?",
+    "points": 2,
+    "options": [
+      "La red de servicios sociales y plataformas digitales.",
+      "Sistemas exclusivamente impresos en áreas rurales.",
+      "Acceso directo a bibliotecas municipales.",
+      "Normativas específicas del sector educativo."
+    ],
+    "correct_answer": "La red de servicios sociales y plataformas digitales."
+  },
+  {
+    "question": "¿Qué objetivo tienen las redes de participación social en los colectivos vulnerables?",
+    "points": 2,
+    "options": [
+      "Fortalecer su integración y acceso a recursos comunitarios.",
+      "Centralizar su atención en programas laborales temporales.",
+      "Limitar su interacción con otros colectivos.",
+      "Establecer barreras normativas para su participación."
+    ],
+    "correct_answer": "Fortalecer su integración y acceso a recursos comunitarios."
+  },
+  {
+    "question": "¿Qué medida facilita el acceso a programas de intervención social?",
+    "points": 2,
+    "options": [
+      "Utilización de plataformas digitales para la gestión y difusión de recursos.",
+      "Reducción de las redes de apoyo en comunidades rurales.",
+      "Creación de normativas que excluyan a colectivos vulnerables.",
+      "Aislamiento temporal en comunidades específicas."
+    ],
+    "correct_answer": "Utilización de plataformas digitales para la gestión y difusión de recursos."
+  },
+  {
+    "question": "¿Qué barreras pueden limitar la participación social en colectivos vulnerables?",
+    "points": 2,
+    "options": [
+      "Falta de información, discriminación y escasez de recursos.",
+      "Exceso de recursos educativos en áreas urbanas.",
+      "Alta disponibilidad de programas de formación.",
+      "Redes comunitarias activas y accesibles."
+    ],
+    "correct_answer": "Falta de información, discriminación y escasez de recursos."
+  },
+  {
+    "question": "¿Qué objetivo tienen las redes comunitarias en la inclusión social?",
+    "points": 2,
+    "options": [
+      "Promover el apoyo mutuo y fortalecer la cohesión social.",
+      "Centralizar la toma de decisiones en organismos gubernamentales.",
+      "Limitar la participación activa de colectivos vulnerables.",
+      "Incrementar las barreras normativas en entornos rurales."
+    ],
+    "correct_answer": "Promover el apoyo mutuo y fortalecer la cohesión social."
+  },
+  {
+    "question": "¿Qué estrategia es clave para fortalecer las redes sociales en comunidades vulnerables?",
+    "points": 2,
+    "options": [
+      "Fomentar el voluntariado y la participación en programas comunitarios.",
+      "Reducir los recursos disponibles para actividades recreativas.",
+      "Centralizar las decisiones en un único organismo.",
+      "Limitar la información sobre recursos sociales disponibles."
+    ],
+    "correct_answer": "Fomentar el voluntariado y la participación en programas comunitarios."
+  },
+  {
+    "question": "¿Qué barrera específica afecta la integración en redes sociales comunitarias?",
+    "points": 2,
+    "options": [
+      "Falta de recursos económicos y desconocimiento de los servicios disponibles.",
+      "Exceso de programas laborales en las comunidades rurales.",
+      "Alta disponibilidad de tecnologías accesibles.",
+      "Participación activa en actividades recreativas."
+    ],
+    "correct_answer": "Falta de recursos económicos y desconocimiento de los servicios disponibles."
+  }
+]

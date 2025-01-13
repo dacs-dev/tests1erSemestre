@@ -1,0 +1,90 @@
+[
+  {
+    "question": "¿Qué características definen a las personas en riesgo de exclusión social por razón de edad?",
+    "points": 2,
+    "options": [
+      "Dificultades económicas, aislamiento social y barreras para acceder a servicios básicos.",
+      "Alta integración en redes sociales y acceso a recursos educativos.",
+      "Exclusión únicamente en el ámbito laboral.",
+      "Falta de participación en actividades recreativas."
+    ],
+    "correct_answer": "Dificultades económicas, aislamiento social y barreras para acceder a servicios básicos."
+  },
+  {
+    "question": "¿Qué necesidades específicas tienen las personas mayores en situación de exclusión?",
+    "points": 2,
+    "options": [
+      "Atención sanitaria, apoyo emocional y acceso a actividades comunitarias.",
+      "Únicamente acceso a recursos económicos.",
+      "Mayor participación en programas laborales.",
+      "Exclusión de programas educativos avanzados."
+    ],
+    "correct_answer": "Atención sanitaria, apoyo emocional y acceso a actividades comunitarias."
+  },
+  {
+    "question": "¿Qué programas están diseñados para fomentar la inclusión social de las personas mayores?",
+    "points": 2,
+    "options": [
+      "Programas de envejecimiento activo y redes de apoyo intergeneracional.",
+      "Iniciativas exclusivas para jóvenes.",
+      "Planes centrados únicamente en la vivienda.",
+      "Normativas específicas para la integración laboral."
+    ],
+    "correct_answer": "Programas de envejecimiento activo y redes de apoyo intergeneracional."
+  },
+  {
+    "question": "¿Qué rol tienen las políticas públicas en la atención a la tercera edad?",
+    "points": 2,
+    "options": [
+      "Garantizar servicios sociales básicos y promover su autonomía.",
+      "Limitar su acceso a recursos tecnológicos avanzados.",
+      "Reducir la participación de personas mayores en programas comunitarios.",
+      "Centralizar la atención en áreas rurales exclusivamente."
+    ],
+    "correct_answer": "Garantizar servicios sociales básicos y promover su autonomía."
+  },
+  {
+    "question": "¿Qué factores pueden incrementar el riesgo de exclusión en personas mayores?",
+    "points": 2,
+    "options": [
+      "Enfermedades crónicas, pérdida de redes de apoyo y discriminación por edad.",
+      "Alta participación en actividades recreativas.",
+      "Exceso de recursos disponibles en su entorno.",
+      "Acceso a programas de formación inclusiva."
+    ],
+    "correct_answer": "Enfermedades crónicas, pérdida de redes de apoyo y discriminación por edad."
+  },
+  {
+    "question": "¿Qué impacto tiene la discriminación por edad en las personas mayores?",
+    "points": 2,
+    "options": [
+      "Limita su acceso a recursos y reduce su participación social.",
+      "Fomenta una mayor integración en actividades recreativas.",
+      "Incrementa las oportunidades de empleo en sectores especializados.",
+      "Elimina las barreras económicas relacionadas con el envejecimiento."
+    ],
+    "correct_answer": "Limita su acceso a recursos y reduce su participación social."
+  },
+  {
+    "question": "¿Qué papel desempeña la tecnología en la inclusión de personas mayores?",
+    "points": 2,
+    "options": [
+      "Facilita el acceso a recursos, servicios y redes de apoyo.",
+      "Incrementa la exclusión en áreas rurales.",
+      "Reduce la interacción con otros grupos generacionales.",
+      "Limita su participación en programas comunitarios."
+    ],
+    "correct_answer": "Facilita el acceso a recursos, servicios y redes de apoyo."
+  },
+  {
+    "question": "¿Qué iniciativa puede mejorar la calidad de vida de las personas mayores en exclusión?",
+    "points": 2,
+    "options": [
+      "Envejecimiento activo a través de actividades culturales y deportivas.",
+      "Aislamiento temporal para garantizar su seguridad.",
+      "Centralización de recursos en áreas urbanas.",
+      "Eliminación de programas de formación intergeneracional."
+    ],
+    "correct_answer": "Envejecimiento activo a través de actividades culturales y deportivas."
+  }
+]

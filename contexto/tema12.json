@@ -1,0 +1,277 @@
+[
+  {
+    "question": "¿Qué es un trastorno mental según el texto?",
+    "points": 2,
+    "options": [
+      "Un conjunto de patologías de índole y gravedad diversas que afectan de manera diferente a cada persona.",
+      "Un diagnóstico exclusivamente relacionado con causas orgánicas conocidas.",
+      "Una enfermedad tratable únicamente mediante intervenciones psicológicas.",
+      "Un estado emocional temporal causado por factores ambientales."
+    ],
+    "correct_answer": "Un conjunto de patologías de índole y gravedad diversas que afectan de manera diferente a cada persona."
+  },
+  {
+    "question": "¿Qué definición de enfermedad mental sostiene la OMS?",
+    "points": 2,
+    "options": [
+      "Es la alteración de los procesos cognitivos y afectivos del desarrollo.",
+      "Un trastorno limitado al comportamiento social.",
+      "Una deficiencia genética que afecta las habilidades emocionales.",
+      "Un desequilibrio químico exclusivo del sistema nervioso central."
+    ],
+    "correct_answer": "Es la alteración de los procesos cognitivos y afectivos del desarrollo."
+  },
+  {
+    "question": "¿Qué incluye como consecuencia un trastorno mental según el texto?",
+    "points": 2,
+    "options": [
+      "Dificultades en el razonamiento, el comportamiento y la adaptación al contexto social.",
+      "Problemas exclusivamente físicos en la vida cotidiana.",
+      "Una mejora en las habilidades de adaptación en situaciones complejas.",
+      "Cambios rápidos y temporales en el estado emocional."
+    ],
+    "correct_answer": "Dificultades en el razonamiento, el comportamiento y la adaptación al contexto social."
+  },
+  {
+    "question": "¿Qué diferencia a un trastorno mental de una enfermedad mental?",
+    "points": 2,
+    "options": [
+      "El término trastorno es más amplio y puede no tener una causa orgánica conocida.",
+      "La enfermedad mental siempre está relacionada con factores genéticos.",
+      "El trastorno mental afecta únicamente las emociones.",
+      "La enfermedad mental no requiere intervención profesional."
+    ],
+    "correct_answer": "El término trastorno es más amplio y puede no tener una causa orgánica conocida."
+  },
+  {
+    "question": "¿Qué profesional debe realizar el diagnóstico de un trastorno mental?",
+    "points": 2,
+    "options": [
+      "Un psicólogo o psiquiatra.",
+      "Un terapeuta ocupacional.",
+      "Un trabajador social.",
+      "Un médico generalista."
+    ],
+    "correct_answer": "Un psicólogo o psiquiatra."
+  },
+  {
+    "question": "¿Cuáles son los sistemas más utilizados para clasificar trastornos mentales?",
+    "points": 2,
+    "options": [
+      "La CIE y el DSM.",
+      "El DSM y el ICD-10.",
+      "La NANDA y el CIE.",
+      "El ICD-10 y el NANDA."
+    ],
+    "correct_answer": "La CIE y el DSM."
+  },
+  {
+    "question": "¿Qué criterio es necesario para determinar la presencia de un trastorno mental?",
+    "points": 2,
+    "options": [
+      "Un diagnóstico profesional.",
+      "La opinión de familiares y amigos.",
+      "Un análisis genético detallado.",
+      "La observación de síntomas durante menos de un mes."
+    ],
+    "correct_answer": "Un diagnóstico profesional."
+  },
+  {
+    "question": "¿Qué incluye el término enfermedad mental según el texto?",
+    "points": 2,
+    "options": [
+      "Pérdida de salud con causa orgánica conocida.",
+      "Alteraciones en la personalidad exclusivamente.",
+      "Trastornos temporales de la conducta.",
+      "Cambios emocionales que no afectan la vida cotidiana."
+    ],
+    "correct_answer": "Pérdida de salud con causa orgánica conocida."
+  },
+  {
+    "question": "¿Cuál es el objetivo de tratar cada trastorno mental individualmente?",
+    "points": 2,
+    "options": [
+      "Cada persona es afectada de manera diferente por estos trastornos.",
+      "La generalización facilita un tratamiento uniforme.",
+      "Reducir los costos asociados al tratamiento.",
+      "Garantizar una recuperación rápida e igualitaria para todos los pacientes."
+    ],
+    "correct_answer": "Cada persona es afectada de manera diferente por estos trastornos."
+  },
+  {
+    "question": "¿Qué repercusión tienen los trastornos mentales en la vida cotidiana de las personas?",
+    "points": 2,
+    "options": [
+      "Dificultan la adaptación en el contexto social.",
+      "Incrementan la productividad laboral.",
+      "Facilitan las relaciones interpersonales.",
+      "Eliminan las barreras emocionales."
+    ],
+    "correct_answer": "Dificultan la adaptación en el contexto social."
+  },
+  {
+    "question": "¿Qué factores contribuyen al desarrollo de un trastorno mental según el texto?",
+    "points": 2,
+    "options": [
+      "Factores genéticos, biológicos, sociales y psicológicos.",
+      "Exclusivamente factores ambientales y económicos.",
+      "Únicamente antecedentes familiares de trastornos mentales.",
+      "Factores relacionados exclusivamente con la personalidad."
+    ],
+    "correct_answer": "Factores genéticos, biológicos, sociales y psicológicos."
+  },
+  {
+    "question": "¿Qué importancia tiene la prevención en el tratamiento de trastornos mentales?",
+    "points": 2,
+    "options": [
+      "Ayuda a reducir la incidencia y la gravedad de los casos.",
+      "Permite evitar la necesidad de diagnóstico profesional.",
+      "Elimina completamente la aparición de nuevos casos.",
+      "Sustituye los tratamientos psicológicos y psiquiátricos."
+    ],
+    "correct_answer": "Ayuda a reducir la incidencia y la gravedad de los casos."
+  },
+  {
+    "question": "¿Qué rol juega el apoyo social en el manejo de trastornos mentales?",
+    "points": 2,
+    "options": [
+      "Proporciona estabilidad emocional y fomenta la integración social.",
+      "Sustituye los tratamientos médicos especializados.",
+      "Reduce la necesidad de intervenciones terapéuticas.",
+      "Evita la necesidad de supervisión profesional."
+    ],
+    "correct_answer": "Proporciona estabilidad emocional y fomenta la integración social."
+  },
+  {
+    "question": "¿Qué herramienta se utiliza comúnmente para evaluar la salud mental de una persona?",
+    "points": 2,
+    "options": [
+      "Entrevistas clínicas y cuestionarios estandarizados.",
+      "Análisis exclusivamente genéticos.",
+      "Encuestas realizadas por familiares.",
+      "Observaciones no estructuradas."
+    ],
+    "correct_answer": "Entrevistas clínicas y cuestionarios estandarizados."
+  },
+  {
+    "question": "¿Qué caracteriza a un trastorno de ansiedad según el texto?",
+    "points": 2,
+    "options": [
+      "Preocupaciones excesivas y persistentes que interfieren en la vida cotidiana.",
+      "Cambios rápidos en el estado de ánimo sin causa aparente.",
+      "Alteraciones exclusivamente relacionadas con la alimentación.",
+      "Dificultades en la adaptación laboral temporal."
+    ],
+    "correct_answer": "Preocupaciones excesivas y persistentes que interfieren en la vida cotidiana."
+  },
+  {
+    "question": "¿Qué tratamiento es efectivo para abordar los trastornos depresivos?",
+    "points": 2,
+    "options": [
+      "Terapias psicológicas y, en algunos casos, medicamentos antidepresivos.",
+      "Tratamiento exclusivamente farmacológico.",
+      "Ejercicio físico sin supervisión profesional.",
+      "Evitar cualquier tipo de intervención terapéutica."
+    ],
+    "correct_answer": "Terapias psicológicas y, en algunos casos, medicamentos antidepresivos."
+  },
+  {
+    "question": "¿Qué impacto tienen los estigmas sociales en el tratamiento de trastornos mentales?",
+    "points": 2,
+    "options": [
+      "Dificultan el acceso a los servicios de salud mental.",
+      "Incrementan la efectividad de los tratamientos.",
+      "Promueven una mayor comprensión de las condiciones mentales.",
+      "Eliminan la necesidad de apoyo social en el proceso terapéutico."
+    ],
+    "correct_answer": "Dificultan el acceso a los servicios de salud mental."
+  },
+  {
+    "question": "¿Qué objetivo tiene la intervención psicosocial en personas con trastornos mentales?",
+    "points": 2,
+    "options": [
+      "Promover su autonomía y reintegración en la sociedad.",
+      "Aumentar su dependencia de recursos médicos.",
+      "Reducir las oportunidades de interacción social.",
+      "Evitar el uso de tratamientos complementarios."
+    ],
+    "correct_answer": "Promover su autonomía y reintegración en la sociedad."
+  },
+  {
+    "question": "¿Qué papel tienen las políticas públicas en la atención a la salud mental?",
+    "points": 2,
+    "options": [
+      "Garantizar el acceso equitativo a servicios de salud mental de calidad.",
+      "Sustituir la atención individual por estrategias grupales.",
+      "Limitar la intervención en casos graves.",
+      "Centralizar los recursos exclusivamente en zonas urbanas."
+    ],
+    "correct_answer": "Garantizar el acceso equitativo a servicios de salud mental de calidad."
+  },
+  {
+    "question": "¿Qué enfoque es esencial en la educación sobre salud mental?",
+    "points": 2,
+    "options": [
+      "Promover la sensibilización y eliminar prejuicios sobre los trastornos mentales.",
+      "Enseñar exclusivamente técnicas de relajación personal.",
+      "Focalizarse únicamente en la prevención de casos extremos.",
+      "Reducir la información sobre servicios disponibles para evitar su saturación."
+    ],
+    "correct_answer": "Promover la sensibilización y eliminar prejuicios sobre los trastornos mentales."
+  },
+  {
+    "question": "¿Qué son los trastornos psicóticos según el texto?",
+    "points": 2,
+    "options": [
+      "Trastornos caracterizados por la pérdida de contacto con la realidad.",
+      "Trastornos relacionados únicamente con la ansiedad social.",
+      "Trastornos con episodios temporales de agresividad extrema.",
+      "Condiciones físicas que afectan el bienestar mental de forma secundaria."
+    ],
+    "correct_answer": "Trastornos caracterizados por la pérdida de contacto con la realidad."
+  },
+  {
+    "question": "¿Cómo afectan los trastornos mentales a la capacidad de trabajo?",
+    "points": 2,
+    "options": [
+      "Pueden generar dificultades para concentrarse y realizar tareas cotidianas.",
+      "Mejoran la productividad en entornos laborales.",
+      "Tienen un impacto mínimo en la capacidad de trabajo.",
+      "Facilitan la adaptación a nuevos ambientes laborales."
+    ],
+    "correct_answer": "Pueden generar dificultades para concentrarse y realizar tareas cotidianas."
+  },
+  {
+    "question": "¿Qué intervención es recomendada en personas con trastornos de ansiedad generalizada?",
+    "points": 2,
+    "options": [
+      "Psicoterapia cognitivo-conductual y técnicas de relajación.",
+      "Uso exclusivo de medicamentos ansiolíticos.",
+      "Evitar cualquier tipo de intervención médica.",
+      "El aislamiento para evitar situaciones estresantes."
+    ],
+    "correct_answer": "Psicoterapia cognitivo-conductual y técnicas de relajación."
+  },
+  {
+    "question": "¿Qué importancia tiene el diagnóstico temprano de los trastornos mentales?",
+    "points": 2,
+    "options": [
+      "Permite intervenir a tiempo y mejorar la calidad de vida de la persona afectada.",
+      "No tiene un impacto significativo en el tratamiento posterior.",
+      "Solo ayuda a categorizar el tipo de trastorno sin tratar los síntomas.",
+      "Limita las opciones de tratamiento disponibles."
+    ],
+    "correct_answer": "Permite intervenir a tiempo y mejorar la calidad de vida de la persona afectada."
+  },
+  {
+    "question": "¿Cómo se puede reducir el estigma asociado a los trastornos mentales?",
+    "points": 2,
+    "options": [
+      "A través de campañas de sensibilización y educación en salud mental.",
+      "Eliminando la información sobre trastornos mentales de los medios de comunicación.",
+      "Encerrando a las personas con trastornos mentales en instituciones específicas.",
+      "Limitando el acceso a servicios de salud mental únicamente a grupos especializados."
+    ],
+    "correct_answer": "A través de campañas de sensibilización y educación en salud mental."
+  }
+]

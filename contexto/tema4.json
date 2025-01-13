@@ -1,0 +1,167 @@
+[
+  {
+    "question": "¿Qué función desempeñó Luis Vives en la historia de la acción social?",
+    "points": 2,
+    "options": [
+      "Proclamó el derecho de asistencia en favor de los pobres y afectados por desgracias.",
+      "Lideró movimientos sociales contra la beneficencia pública.",
+      "Prohibió la intervención estatal en la asistencia social.",
+      "Defendió únicamente la caridad individual como solución a la pobreza."
+    ],
+    "correct_answer": "Proclamó el derecho de asistencia en favor de los pobres y afectados por desgracias."
+  },
+  {
+    "question": "¿Qué etapa de intervención social en España culminó con la Ley de Beneficencia de 1849?",
+    "points": 2,
+    "options": [
+      "Sistema de beneficencia público y de asistencia social.",
+      "Consolidación del Estado de bienestar.",
+      "Introducción del modelo de previsión social.",
+      "Implementación del sistema universal de salud."
+    ],
+    "correct_answer": "Sistema de beneficencia público y de asistencia social."
+  },
+  {
+    "question": "¿Qué objetivos tiene la protección social según el texto?",
+    "points": 2,
+    "options": [
+      "Reducir la vulnerabilidad y la exclusión socioeconómica.",
+      "Proveer ingresos solo a las personas en situación laboral activa.",
+      "Garantizar la riqueza económica para las grandes empresas.",
+      "Fortalecer exclusivamente las políticas de seguridad pública."
+    ],
+    "correct_answer": "Reducir la vulnerabilidad y la exclusión socioeconómica."
+  },
+  {
+    "question": "¿Qué modelo de Estado de bienestar se basa en derechos sociales y es típico de países nórdicos?",
+    "points": 2,
+    "options": [
+      "Socialdemócrata.",
+      "Conservador.",
+      "Liberal.",
+      "Mediterráneo."
+    ],
+    "correct_answer": "Socialdemócrata."
+  },
+  {
+    "question": "¿Qué principios rigen los servicios sociales municipales según el texto?",
+    "points": 2,
+    "options": [
+      "Proximidad, descentralización, integración y participación.",
+      "Centralización, exclusividad, neutralidad y selectividad.",
+      "Flexibilidad, autonomía absoluta y minimización de recursos.",
+      "Jerarquización, exclusión y discrecionalidad administrativa."
+    ],
+    "correct_answer": "Proximidad, descentralización, integración y participación."
+  },
+  {
+    "question": "¿Qué objetivo tiene la asistencia social según el texto?",
+    "points": 2,
+    "options": [
+      "Atender necesidades básicas de personas en situación de exclusión o vulnerabilidad.",
+      "Garantizar un ingreso mínimo a todas las personas activas laboralmente.",
+      "Promover el desarrollo exclusivamente económico en las comunidades rurales.",
+      "Limitar la intervención estatal en cuestiones sociales."
+    ],
+    "correct_answer": "Atender necesidades básicas de personas en situación de exclusión o vulnerabilidad."
+  },
+  {
+    "question": "¿Qué principio se considera esencial en el modelo de bienestar social mediterráneo?",
+    "points": 2,
+    "options": [
+      "La familia como principal proveedora de apoyo social.",
+      "La intervención mínima del estado en la economía.",
+      "La priorización de políticas laborales sobre servicios sociales.",
+      "El financiamiento exclusivo a través de organizaciones privadas."
+    ],
+    "correct_answer": "La familia como principal proveedora de apoyo social."
+  },
+  {
+    "question": "¿Qué establece el artículo 50 de la Constitución española sobre las personas mayores?",
+    "points": 2,
+    "options": [
+      "Garantiza pensiones adecuadas y promueve su bienestar mediante servicios sociales.",
+      "Restringe los servicios sociales solo a personas mayores en situación de dependencia.",
+      "Fomenta únicamente la participación laboral de las personas mayores.",
+      "Limita el acceso a recursos sociales para las personas mayores sin recursos económicos."
+    ],
+    "correct_answer": "Garantiza pensiones adecuadas y promueve su bienestar mediante servicios sociales."
+  },
+  {
+    "question": "¿Qué se entiende por prestaciones no contributivas en el sistema de seguridad social?",
+    "points": 2,
+    "options": [
+      "Prestaciones destinadas a quienes no han cotizado lo suficiente para acceder a prestaciones contributivas.",
+      "Subsidios dirigidos exclusivamente a familias con altos ingresos económicos.",
+      "Ayudas económicas temporales para empresas privadas.",
+      "Apoyos otorgados exclusivamente por organizaciones no gubernamentales."
+    ],
+    "correct_answer": "Prestaciones destinadas a quienes no han cotizado lo suficiente para acceder a prestaciones contributivas."
+  },
+  {
+    "question": "¿Qué función tienen los planes de servicios sociales comunitarios?",
+    "points": 2,
+    "options": [
+      "Promover la participación activa y la integración en la comunidad.",
+      "Centralizar todos los recursos sociales en una administración principal.",
+      "Limitar la accesibilidad de los servicios sociales en zonas urbanas.",
+      "Privatizar servicios básicos como educación y salud comunitaria."
+    ],
+    "correct_answer": "Promover la participación activa y la integración en la comunidad."
+  },
+  {
+    "question": "¿Qué características tienen los servicios sociales generales según el texto?",
+    "points": 2,
+    "options": [
+      "Ofrecen información, orientación y apoyo a toda la población.",
+      "Se enfocan exclusivamente en la atención de colectivos vulnerables.",
+      "Incluyen programas específicos dirigidos a empresas privadas.",
+      "Se limitan a la entrega de ayudas económicas temporales."
+    ],
+    "correct_answer": "Ofrecen información, orientación y apoyo a toda la población."
+  },
+  {
+    "question": "¿Qué establece la Estrategia Nacional de Inclusión Social en España?",
+    "points": 2,
+    "options": [
+      "Reducir la pobreza y promover la inclusión activa de las personas en riesgo de exclusión.",
+      "Centralizar todos los recursos sociales en un único organismo gubernamental.",
+      "Eliminar las prestaciones no contributivas en regiones rurales.",
+      "Priorizar los servicios privados sobre los públicos en zonas urbanas."
+    ],
+    "correct_answer": "Reducir la pobreza y promover la inclusión activa de las personas en riesgo de exclusión."
+  },
+  {
+    "question": "¿Qué define la pobreza energética según el texto?",
+    "points": 2,
+    "options": [
+      "La dificultad de un hogar para mantener una temperatura adecuada en la vivienda.",
+      "La falta de acceso a servicios educativos básicos.",
+      "La ausencia de ingresos económicos para adquirir alimentos básicos.",
+      "El incremento del costo de vida en áreas urbanas."
+    ],
+    "correct_answer": "La dificultad de un hogar para mantener una temperatura adecuada en la vivienda."
+  },
+  {
+    "question": "¿Qué tipo de políticas promueve el Fondo Social Europeo? ",
+    "points": 2,
+    "options": [
+      "El acceso al empleo, la formación profesional y la igualdad de oportunidades.",
+      "La privatización de los sistemas de seguridad social en Europa.",
+      "La centralización de los servicios sociales en grandes ciudades.",
+      "La limitación de ayudas a las pequeñas y medianas empresas."
+    ],
+    "correct_answer": "El acceso al empleo, la formación profesional y la igualdad de oportunidades."
+  },
+  {
+    "question": "¿Qué elemento es clave en la planificación de los servicios sociales municipales? ",
+    "points": 2,
+    "options": [
+      "La proximidad al usuario para garantizar una atención adecuada.",
+      "El uso exclusivo de herramientas tecnológicas avanzadas.",
+      "La centralización de recursos en una administración principal.",
+      "La exclusión de participación ciudadana en las decisiones sociales."
+    ],
+    "correct_answer": "La proximidad al usuario para garantizar una atención adecuada."
+  }
+]

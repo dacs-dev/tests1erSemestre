@@ -25,6 +25,7 @@ fetch(jsonFile).then((response) => {
       enunciado.className = "enunciado";
       enunciado.textContent = `${preguntaIndex +1}. ${element.question}`;
       selectedDiv.appendChild(enunciado);
+      element.options = ordenarAleatoriamente(element.options)
       element.options.forEach((element, index) => {
         const answer = document.createElement("input");
         answer.type = "radio";
@@ -43,6 +44,14 @@ fetch(jsonFile).then((response) => {
     });
   });
 });
+
+function ordenarAleatoriamente(array) {
+  for (let i = array.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));  // Genera un índice aleatorio
+    [array[i], array[j]] = [array[j], array[i]];    // Intercambia los elementos
+  }
+  return array;
+}
 
 function deleteme(){
   for (let i = 0; i < data.length; i++) {

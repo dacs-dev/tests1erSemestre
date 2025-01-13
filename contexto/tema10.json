@@ -1,0 +1,68 @@
+[
+  {
+    "question": "¿Qué objetivo tienen los recursos de atención al colectivo de personas con discapacidad según el texto?",
+    "points": 2,
+    "options": [
+      "Garantizar la integración y la participación social.",
+      "Proveer exclusivamente recursos económicos.",
+      "Establecer normativas generales para todos los colectivos.",
+      "Eliminar los sistemas de apoyo específicos."
+    ],
+    "correct_answer": "Garantizar la integración y la participación social."
+  },
+  {
+    "question": "¿Qué programas destacan para la atención a personas con discapacidad?",
+    "points": 2,
+    "options": [
+      "Programas de rehabilitación, apoyo familiar y accesibilidad.",
+      "Programas centrados únicamente en asistencia económica.",
+      "Iniciativas de segregación educativa para atención especializada.",
+      "Planes exclusivos para desarrollo tecnológico."
+    ],
+    "correct_answer": "Programas de rehabilitación, apoyo familiar y accesibilidad."
+  },
+  {
+    "question": "¿Qué papel juega la normativa en la atención a las personas con discapacidad?",
+    "points": 2,
+    "options": [
+      "Garantizar derechos y establecer bases para la intervención social.",
+      "Eliminación de barreras legales para la integración total.",
+      "Centralizar todas las ayudas en un único organismo.",
+      "Focalizar los esfuerzos únicamente en los colectivos más vulnerables."
+    ],
+    "correct_answer": "Garantizar derechos y establecer bases para la intervención social."
+  },
+  {
+    "question": "¿Qué legislación en España garantiza la igualdad de oportunidades para personas con discapacidad?",
+    "points": 2,
+    "options": [
+      "La Ley General de Derechos de las Personas con Discapacidad y de su Inclusión Social.",
+      "La Ley de Autonomía Personal y Atención a la Dependencia.",
+      "La Constitución Española, artículo 14.",
+      "El Real Decreto sobre educación inclusiva."
+    ],
+    "correct_answer": "La Ley General de Derechos de las Personas con Discapacidad y de su Inclusión Social."
+  },
+  {
+    "question": "¿Qué principio rige las políticas públicas de atención a la discapacidad?",
+    "points": 2,
+    "options": [
+      "Accesibilidad universal y diseño para todos.",
+      "Centralización de los recursos sociales.",
+      "Exclusividad en el ámbito laboral.",
+      "Limitación de ayudas según grado de dependencia."
+    ],
+    "correct_answer": "Accesibilidad universal y diseño para todos."
+  },
+  {
+    "question": "¿Qué establece el marco normativo sobre la discriminación por discapacidad?",
+    "points": 2,
+    "options": [
+      "La prohibición de cualquier forma de discriminación directa o indirecta.",
+      "La limitación de las acciones legales en casos de discriminación.",
+      "La necesidad de justificar la exclusión en ciertos contextos laborales.",
+      "El reconocimiento exclusivo de la discriminación económica."
+    ],
+    "correct_answer": "La prohibición de cualquier forma de discriminación directa o indirecta."
+  }
+]

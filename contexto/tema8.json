@@ -1,0 +1,57 @@
+[
+  {
+    "question": "¿Qué aspecto define a la discapacidad intelectual según el texto?",
+    "points": 2,
+    "options": [
+      "Limitaciones significativas en el funcionamiento intelectual y conductas adaptativas.",
+      "Limitaciones físicas evidentes desde el nacimiento.",
+      "Dificultades exclusivas en la comunicación verbal.",
+      "Impedimentos únicamente relacionados con problemas sensoriales."
+    ],
+    "correct_answer": "Limitaciones significativas en el funcionamiento intelectual y conductas adaptativas."
+  },
+  {
+    "question": "¿Qué fuentes son clave para obtener información sobre situaciones de discapacidad intelectual?",
+    "points": 2,
+    "options": [
+      "Informes de profesionales especializados y estudios académicos.",
+      "Comentarios en foros de internet.",
+      "Experiencias personales de cuidadores informales.",
+      "Análisis estadístico de redes sociales."
+    ],
+    "correct_answer": "Informes de profesionales especializados y estudios académicos."
+  },
+  {
+    "question": "¿Qué objetivo debe cumplir una intervención dirigida a personas con discapacidad intelectual?",
+    "points": 2,
+    "options": [
+      "Favorecer su autonomía y promover la inclusión social.",
+      "Aumentar su dependencia de las ayudas externas.",
+      "Reducir su acceso a recursos educativos para centrarse en programas específicos.",
+      "Fomentar su aislamiento para minimizar conflictos."
+    ],
+    "correct_answer": "Favorecer su autonomía y promover la inclusión social."
+  },
+  {
+    "question": "¿Qué estrategias promueven la inclusión de personas con discapacidad intelectual en el entorno educativo?",
+    "points": 2,
+    "options": [
+      "Diseñar planes personalizados de aprendizaje y fomentar la participación activa.",
+      "Segregar a los estudiantes en grupos separados para atención especializada.",
+      "Eliminar los apoyos adicionales en el aula para garantizar la igualdad.",
+      "Limitar el acceso a actividades extracurriculares grupales."
+    ],
+    "correct_answer": "Diseñar planes personalizados de aprendizaje y fomentar la participación activa."
+  },
+  {
+    "question": "¿Qué barreras sociales pueden enfrentar las personas con discapacidad intelectual?",
+    "points": 2,
+    "options": [
+      "Estereotipos negativos y falta de oportunidades laborales.",
+      "Acceso excesivo a recursos tecnológicos avanzados.",
+      "Falta de apoyo familiar en contextos rurales.",
+      "Presión social para integrarse rápidamente en el mercado laboral."
+    ],
+    "correct_answer": "Estereotipos negativos y falta de oportunidades laborales."
+  }
+]
