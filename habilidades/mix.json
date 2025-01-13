@@ -1,0 +1,1407 @@
+[
+  {
+    "question": "¿Qué son las habilidades sociales según el texto?",
+    "points": 2,
+    "options": [
+      "Capacidades conductuales para desenvolverse en relaciones sociales.",
+      "Técnicas de aprendizaje cognitivo en la infancia.",
+      "Herramientas digitales para mejorar la comunicación.",
+      "Programas educativos especializados en interacción."
+    ],
+    "correct_answer": "Capacidades conductuales para desenvolverse en relaciones sociales."
+  },
+  {
+    "question": "¿Qué tipo de aprendizaje involucra la observación de un modelo?",
+    "points": 2,
+    "options": [
+      "Aprendizaje por observación de un modelo.",
+      "Aprendizaje por retroalimentación interpersonal.",
+      "Aprendizaje experiencial directo.",
+      "Aprendizaje por instrucción."
+    ],
+    "correct_answer": "Aprendizaje por observación de un modelo."
+  },
+  {
+    "question": "¿Qué objetivo persiguen las habilidades sociales?",
+    "points": 2,
+    "options": [
+      "Enseñar estrategias y competencias interpersonales.",
+      "Evitar conflictos mediante la comunicación no verbal.",
+      "Reducir la intervención del entorno en las relaciones.",
+      "Desarrollar habilidades técnicas en entornos digitales."
+    ],
+    "correct_answer": "Enseñar estrategias y competencias interpersonales."
+  },
+  {
+    "question": "¿Qué define una conducta socialmente hábil?",
+    "points": 2,
+    "options": [
+      "Expresar sentimientos de manera adecuada respetando a los demás.",
+      "Mantener relaciones estrictamente profesionales.",
+      "Evitar confrontaciones en cualquier situación.",
+      "Adoptar un papel pasivo en las interacciones."
+    ],
+    "correct_answer": "Expresar sentimientos de manera adecuada respetando a los demás."
+  },
+  {
+    "question": "¿Qué clasificación utiliza Goldstein para las habilidades sociales?",
+    "points": 2,
+    "options": [
+      "Básicas y complejas.",
+      "Individuales y grupales.",
+      "Teóricas y prácticas.",
+      "Interactivas y adaptativas."
+    ],
+    "correct_answer": "Básicas y complejas."
+  },
+  {
+    "question": "¿Cuál es el propósito principal de las habilidades sociales según el texto?",
+    "points": 2,
+    "options": [
+      "Formar relaciones positivas e interaccionar adecuadamente.",
+      "Simplificar las relaciones interpersonales mediante la observación.",
+      "Generar experiencias exclusivamente emocionales.",
+      "Limitar las interacciones en contextos complejos."
+    ],
+    "correct_answer": "Formar relaciones positivas e interaccionar adecuadamente."
+  },
+  {
+    "question": "¿Qué elemento es indispensable en cualquier proceso de comunicación?",
+    "points": 2,
+    "options": [
+      "Un mensaje transmitido a través de un canal.",
+      "La presencia de un mediador neutral.",
+      "Un receptor que asume el rol de emisor.",
+      "El uso de símbolos visuales exclusivamente."
+    ],
+    "correct_answer": "Un mensaje transmitido a través de un canal."
+  },
+  {
+    "question": "¿Qué define la comunicación no verbal?",
+    "points": 2,
+    "options": [
+      "Aspectos corporales como contacto visual, postura y gestos.",
+      "Exclusivamente el uso de símbolos visuales.",
+      "Mensajes escritos en ausencia de interacción oral.",
+      "Emociones transmitidas mediante texto escrito."
+    ],
+    "correct_answer": "Aspectos corporales como contacto visual, postura y gestos."
+  },
+  {
+    "question": "¿Qué función tiene la mirada en la comunicación?",
+    "points": 2,
+    "options": [
+      "Abrir y cerrar los canales de comunicación.",
+      "Sustituir el lenguaje verbal en su totalidad.",
+      "Generar una barrera emocional entre interlocutores.",
+      "Simplificar la interacción a través de gestos simples."
+    ],
+    "correct_answer": "Abrir y cerrar los canales de comunicación."
+  },
+  {
+    "question": "¿Qué influye en la distorsión de los mensajes según el texto?",
+    "points": 2,
+    "options": [
+      "Filtros neurológicos, culturales e individuales.",
+      "Exclusivamente las barreras físicas.",
+      "Los niveles altos de estrés emocional.",
+      "La falta de claridad en los gestos no verbales."
+    ],
+    "correct_answer": "Filtros neurológicos, culturales e individuales."
+  },
+  {
+    "question": "¿Qué impacto tiene la competencia interpersonal en el crecimiento evolutivo de las personas?",
+    "points": 2,
+    "options": [
+      "Desempeña un papel fundamental, especialmente en los primeros años de vida.",
+      "Es irrelevante durante la infancia, pero importante en la adultez.",
+      "Se desarrolla exclusivamente en el ámbito académico.",
+      "Está limitada al entorno profesional."
+    ],
+    "correct_answer": "Desempeña un papel fundamental, especialmente en los primeros años de vida."
+  },
+  {
+    "question": "¿Cómo se adquieren las habilidades sociales según el texto?",
+    "points": 2,
+    "options": [
+      "A través de la interacción con familiares, iguales y educadores.",
+      "Mediante técnicas exclusivamente autodidactas.",
+      "Por la observación de contenidos audiovisuales.",
+      "A través de experiencias exclusivamente laborales."
+    ],
+    "correct_answer": "A través de la interacción con familiares, iguales y educadores."
+  },
+  {
+    "question": "¿Qué ejemplo pertenece a las habilidades sociales básicas según Goldstein?",
+    "points": 2,
+    "options": [
+      "Dar las gracias.",
+      "Resolver conflictos grupales.",
+      "Mediar en conversaciones complejas.",
+      "Implementar estrategias organizativas."
+    ],
+    "correct_answer": "Dar las gracias."
+  },
+  {
+    "question": "¿Qué objetivo tiene el desarrollo de habilidades sociales?",
+    "points": 2,
+    "options": [
+      "Formar relaciones positivas e interaccionar adecuadamente.",
+      "Promover el aislamiento individual para evitar conflictos.",
+      "Centrarse en tareas técnicas para aumentar la productividad.",
+      "Reducir la interacción social en ambientes laborales."
+    ],
+    "correct_answer": "Formar relaciones positivas e interaccionar adecuadamente."
+  },
+  {
+    "question": "¿Qué caracteriza una conducta socialmente hábil?",
+    "points": 2,
+    "options": [
+      "Expresar sentimientos y opiniones respetando a los demás.",
+      "Evitar todo tipo de conflictos interpersonales.",
+      "Mantener una postura pasiva en las relaciones sociales.",
+      "Promover comportamientos rígidos en todas las situaciones."
+    ],
+    "correct_answer": "Expresar sentimientos y opiniones respetando a los demás."
+  },
+  {
+    "question": "¿Qué aspecto es fundamental en el proceso de comunicación según el texto?",
+    "points": 2,
+    "options": [
+      "El intercambio de información influye de manera recíproca.",
+      "La comunicación debe ser estrictamente verbal.",
+      "Las emociones no influyen en la comunicación.",
+      "La comunicación se limita a contextos formales."
+    ],
+    "correct_answer": "El intercambio de información influye de manera recíproca."
+  },
+  {
+    "question": "¿Qué facilita el uso adecuado de la comunicación no verbal?",
+    "points": 2,
+    "options": [
+      "Abrir y cerrar los canales de comunicación entre interlocutores.",
+      "Reducir la interacción social en situaciones de conflicto.",
+      "Aumentar la dependencia de recursos tecnológicos.",
+      "Promover emociones negativas en los participantes."
+    ],
+    "correct_answer": "Abrir y cerrar los canales de comunicación entre interlocutores."
+  },
+  {
+    "question": "¿Qué define la empatía como habilidad social?",
+    "points": 2,
+    "options": [
+      "Ponerse en el lugar del otro y comprender sus emociones.",
+      "Adoptar una postura neutral en las interacciones.",
+      "Centrarse en los aspectos técnicos de la conversación.",
+      "Limitar las emociones para evitar distracciones."
+    ],
+    "correct_answer": "Ponerse en el lugar del otro y comprender sus emociones."
+  },
+  {
+    "question": "¿Qué elemento mejora la calidad de vida en los ámbitos de intervención?",
+    "points": 2,
+    "options": [
+      "El manejo adecuado de la comunicación verbal y no verbal.",
+      "La dependencia de protocolos técnicos rígidos.",
+      "El aislamiento de las emociones en las relaciones sociales.",
+      "La ausencia de retroalimentación en las interacciones."
+    ],
+    "correct_answer": "El manejo adecuado de la comunicación verbal y no verbal."
+  },
+  {
+    "question": "¿Qué técnica fomenta la adquisición de habilidades sociales?",
+    "points": 2,
+    "options": [
+      "El modelado, donde se observa y replica una conducta adecuada.",
+      "La limitación de interacciones grupales para evitar conflictos.",
+      "El uso exclusivo de recursos digitales en las relaciones.",
+      "La eliminación de dinámicas sociales en entornos académicos."
+    ],
+    "correct_answer": "El modelado, donde se observa y replica una conducta adecuada."
+  },
+  {
+    "question": "¿Qué tipos de causas generan conflictos según el texto?",
+    "points": 2,
+    "options": [
+      "Interpersonales, estructurales, de valores y comunicativas.",
+      "Económicas, educativas y sanitarias.",
+      "Relacionadas únicamente con problemas de recursos.",
+      "Exclusivamente derivadas de dinámicas grupales."
+    ],
+    "correct_answer": "Interpersonales, estructurales, de valores y comunicativas."
+  },
+  {
+    "question": "¿Qué caracteriza la fase de conflicto en una dinámica grupal?",
+    "points": 2,
+    "options": [
+      "El surgimiento de discrepancias y aumento de tensiones entre los miembros.",
+      "La plena colaboración entre todos los participantes.",
+      "El establecimiento de normas claras desde el inicio.",
+      "La ausencia total de desacuerdos o tensiones."
+    ],
+    "correct_answer": "El surgimiento de discrepancias y aumento de tensiones entre los miembros."
+  },
+  {
+    "question": "¿Qué objetivo tiene el proceso de toma de decisiones en un grupo?",
+    "points": 2,
+    "options": [
+      "Resolver problemas mediante consenso y evaluación de opciones.",
+      "Centralizar todas las decisiones en una figura de autoridad.",
+      "Evitar conflictos al no debatir diferentes alternativas.",
+      "Limitar las opciones disponibles para reducir el tiempo invertido."
+    ],
+    "correct_answer": "Resolver problemas mediante consenso y evaluación de opciones."
+  },
+  {
+    "question": "¿Qué técnica ayuda a clarificar la situación en la toma de decisiones grupales?",
+    "points": 2,
+    "options": [
+      "La terapia de solución de problemas de D’Zurilla y Goldfried.",
+      "El análisis de valores individuales.",
+      "La centralización de la autoridad en el líder del grupo.",
+      "El uso exclusivo de cuestionarios estandarizados."
+    ],
+    "correct_answer": "La terapia de solución de problemas de D’Zurilla y Goldfried."
+  },
+  {
+    "question": "¿Qué estilo de negociación prioriza la relación por encima del resultado?",
+    "points": 2,
+    "options": [
+      "Estilo acomodativo.",
+      "Estilo competitivo.",
+      "Estilo evitativo.",
+      "Estilo dominativo."
+    ],
+    "correct_answer": "Estilo acomodativo."
+  },
+  {
+    "question": "¿Qué estilo de negociación se asocia con ganar/ganar?",
+    "points": 2,
+    "options": [
+      "Estilo colaborativo.",
+      "Estilo competitivo.",
+      "Estilo evitativo.",
+      "Estilo servilista."
+    ],
+    "correct_answer": "Estilo colaborativo."
+  },
+  {
+    "question": "¿Qué recurso puede ayudar a gestionar conflictos en dinámicas grupales?",
+    "points": 2,
+    "options": [
+      "La mediación, que fomenta el diálogo entre las partes.",
+      "La eliminación de las tareas compartidas.",
+      "El liderazgo autoritario para imponer decisiones.",
+      "El uso de encuestas no estructuradas para evaluar opiniones."
+    ],
+    "correct_answer": "La mediación, que fomenta el diálogo entre las partes."
+  },
+  {
+    "question": "¿Qué define el concepto de empoderamiento en la resolución de conflictos grupales?",
+    "points": 2,
+    "options": [
+      "La mejora de capacidades individuales o grupales para tomar decisiones.",
+      "La centralización del poder en un solo individuo.",
+      "La exclusión de las partes involucradas en el conflicto.",
+      "La eliminación de responsabilidades individuales."
+    ],
+    "correct_answer": "La mejora de capacidades individuales o grupales para tomar decisiones."
+  },
+  {
+    "question": "¿Qué estilo de manejo de conflictos implica un alto interés por ambas partes?",
+    "points": 2,
+    "options": ["Integración.", "Dominación.", "Evitación.", "Servilismo."],
+    "correct_answer": "Integración."
+  },
+  {
+    "question": "¿Qué técnica es útil para evaluar las soluciones generadas en la toma de decisiones?",
+    "points": 2,
+    "options": [
+      "Pronosticar las consecuencias y comprobar las soluciones.",
+      "Observar las emociones de los participantes exclusivamente.",
+      "Evitar debates y pasar directamente a la acción.",
+      "Eliminar las alternativas no consideradas inicialmente."
+    ],
+    "correct_answer": "Pronosticar las consecuencias y comprobar las soluciones."
+  },
+  {
+    "question": "¿Qué estilo de negociación es más adecuado cuando el resultado no importa a las partes?",
+    "points": 2,
+    "options": ["Evitativo.", "Competitivo.", "Colaborativo.", "Dominativo."],
+    "correct_answer": "Evitativo."
+  },
+  {
+    "question": "¿Qué papel cumple el mediador en la resolución de conflictos?",
+    "points": 2,
+    "options": [
+      "Facilitar el diálogo sin tomar partido por ninguna de las partes.",
+      "Imponer soluciones rápidas y definitivas.",
+      "Actuar como juez y decidir el resultado del conflicto.",
+      "Evitar la comunicación directa entre los involucrados."
+    ],
+    "correct_answer": "Facilitar el diálogo sin tomar partido por ninguna de las partes."
+  },
+  {
+    "question": "¿Qué ventaja ofrece el estilo colaborativo en la negociación?",
+    "points": 2,
+    "options": [
+      "Promueve soluciones que benefician a ambas partes.",
+      "Reduce el tiempo invertido al no debatir alternativas.",
+      "Fomenta la dominación de una parte sobre la otra.",
+      "Evita el enfrentamiento directo al no tomar decisiones."
+    ],
+    "correct_answer": "Promueve soluciones que benefician a ambas partes."
+  },
+  {
+    "question": "¿Qué implica la evaluación de resultados en la toma de decisiones?",
+    "points": 2,
+    "options": [
+      "Determinar si la solución implementada fue la más adecuada.",
+      "Centrarse exclusivamente en las consecuencias negativas.",
+      "Eliminar la posibilidad de reevaluar la situación.",
+      "Evitar cualquier tipo de retroalimentación del grupo."
+    ],
+    "correct_answer": "Determinar si la solución implementada fue la más adecuada."
+  },
+  {
+    "question": "¿Qué define el estilo de negociación competitivo?",
+    "points": 2,
+    "options": [
+      "Priorizar el resultado sobre la relación entre las partes.",
+      "Fomentar la colaboración entre las partes involucradas.",
+      "Evitar el conflicto mediante concesiones mutuas.",
+      "Promover soluciones que beneficien a ambas partes por igual."
+    ],
+    "correct_answer": "Priorizar el resultado sobre la relación entre las partes."
+  },
+  {
+    "question": "¿Qué se entiende por conflicto latente según el texto?",
+    "points": 2,
+    "options": [
+      "Un conflicto que no ha sido manifestado aún pero está presente.",
+      "Un desacuerdo evidente entre dos o más partes.",
+      "Un enfrentamiento abierto sin posibilidades de solución.",
+      "Un conflicto que ya ha sido resuelto y no tiene repercusiones."
+    ],
+    "correct_answer": "Un conflicto que no ha sido manifestado aún pero está presente."
+  },
+  {
+    "question": "¿Cuáles son las fases de desarrollo de un conflicto?",
+    "points": 2,
+    "options": [
+      "Conflicto latente, fase de escalada, fase de negociación y resolución.",
+      "Inicio, confrontación y finalización.",
+      "Identificación del problema y resolución directa.",
+      "Exploración del conflicto y evitación."
+    ],
+    "correct_answer": "Conflicto latente, fase de escalada, fase de negociación y resolución."
+  },
+  {
+    "question": "¿Qué tipo de dinámicas grupales favorecen la cohesión del equipo?",
+    "points": 2,
+    "options": [
+      "Dinámicas de confianza y cohesión como la 'gran tortuga'.",
+      "Dinámicas de conocimiento inicial como el intercambio de nombres.",
+      "Dinámicas de roles centradas en la competencia.",
+      "Ejercicios individuales sin interacción grupal."
+    ],
+    "correct_answer": "Dinámicas de confianza y cohesión como la 'gran tortuga'."
+  },
+  {
+    "question": "¿Qué caracteriza el estilo integrativo en la gestión de conflictos?",
+    "points": 2,
+    "options": [
+      "Un alto interés por ambas partes mediante la colaboración.",
+      "Un bajo interés por ambas partes, evitando el problema.",
+      "La dominación de una parte sobre la otra.",
+      "El compromiso que busca una solución intermedia."
+    ],
+    "correct_answer": "Un alto interés por ambas partes mediante la colaboración."
+  },
+  {
+    "question": "¿Qué objetivo tiene la mediación en la resolución de conflictos?",
+    "points": 2,
+    "options": [
+      "Facilitar la comunicación entre las partes y alcanzar un acuerdo mutuamente aceptable.",
+      "Imponer soluciones externas a las partes en conflicto.",
+      "Evitar el contacto directo entre las partes involucradas.",
+      "Delegar la solución del conflicto en un grupo externo."
+    ],
+    "correct_answer": "Facilitar la comunicación entre las partes y alcanzar un acuerdo mutuamente aceptable."
+  },
+  {
+    "question": "¿Qué técnica se utiliza en dinámicas para mejorar la comunicación grupal?",
+    "points": 2,
+    "options": [
+      "Role playing o dinámicas de rol.",
+      "Resolución de problemas individuales.",
+      "Evitación de conflictos mediante el silencio.",
+      "Técnicas de dominación y control."
+    ],
+    "correct_answer": "Role playing o dinámicas de rol."
+  },
+  {
+    "question": "¿Qué implica la fase de escalada en un conflicto?",
+    "points": 2,
+    "options": [
+      "La intensificación del conflicto con comportamientos cada vez más agresivos.",
+      "La solución inmediata mediante negociación directa.",
+      "La reducción de las tensiones y la búsqueda de consenso.",
+      "El paso a una resolución formal mediante arbitraje."
+    ],
+    "correct_answer": "La intensificación del conflicto con comportamientos cada vez más agresivos."
+  },
+  {
+    "question": "¿Qué técnica se recomienda para controlar las emociones durante un conflicto?",
+    "points": 2,
+    "options": [
+      "Prácticas de control emocional y escucha activa.",
+      "Evitación completa de la discusión.",
+      "Aumentar el tono de voz para expresar sentimientos.",
+      "Ignorar los sentimientos de la otra parte involucrada."
+    ],
+    "correct_answer": "Prácticas de control emocional y escucha activa."
+  },
+  {
+    "question": "¿Qué estrategia fomenta la solución de conflictos grupales?",
+    "points": 2,
+    "options": [
+      "Promover la negociación y la cooperación.",
+      "Centrarse en las diferencias y los desacuerdos.",
+      "Imponer reglas estrictas a las partes.",
+      "Fomentar la competitividad entre los miembros del grupo."
+    ],
+    "correct_answer": "Promover la negociación y la cooperación."
+  },
+  {
+    "question": "¿Qué ventaja ofrece la educación en el conflicto según el texto?",
+    "points": 2,
+    "options": [
+      "Preparar a los individuos para enfrentar conflictos de manera activa y constructiva.",
+      "Evitar conflictos mediante estrategias de evasión.",
+      "Reducir la cohesión del grupo para mejorar la toma de decisiones.",
+      "Centralizar las decisiones en un mediador externo."
+    ],
+    "correct_answer": "Preparar a los individuos para enfrentar conflictos de manera activa y constructiva."
+  },
+  {
+    "question": "¿Qué define la evaluación según el texto?",
+    "points": 2,
+    "options": [
+      "Recoger información organizada y sistemáticamente e interpretarla.",
+      "Registrar datos únicamente cuantitativos para análisis futuro.",
+      "Observar conductas sin contexto y evaluar subjetivamente.",
+      "Aplicar cuestionarios al final de una intervención para recopilar opiniones."
+    ],
+    "correct_answer": "Recoger información organizada y sistemáticamente e interpretarla."
+  },
+  {
+    "question": "¿Qué momento de evaluación permite conocer el punto de partida antes de una intervención?",
+    "points": 2,
+    "options": [
+      "Evaluación inicial.",
+      "Evaluación continua.",
+      "Evaluación sumativa.",
+      "Autoevaluación."
+    ],
+    "correct_answer": "Evaluación inicial."
+  },
+  {
+    "question": "¿Qué técnica permite evaluar las conductas de niños en las primeras etapas?",
+    "points": 2,
+    "options": [
+      "La observación directa.",
+      "Las entrevistas.",
+      "El uso de cuestionarios cerrados.",
+      "La observación indirecta exclusivamente."
+    ],
+    "correct_answer": "La observación directa."
+  },
+  {
+    "question": "¿Qué instrumento de observación recoge información sobre aspectos puntuales y aislados?",
+    "points": 2,
+    "options": [
+      "El registro anecdotario.",
+      "El diario.",
+      "La lista de control.",
+      "La escala de estimación."
+    ],
+    "correct_answer": "El registro anecdotario."
+  },
+  {
+    "question": "¿Qué instrumento permite valorar el alcance de ítems mediante escalas descriptivas o numéricas?",
+    "points": 2,
+    "options": [
+      "Escala de estimación.",
+      "Lista de control.",
+      "Anecdotario.",
+      "Guion de entrevista."
+    ],
+    "correct_answer": "Escala de estimación."
+  },
+  {
+    "question": "¿Qué técnica interrogativa se emplea especialmente en la evaluación inicial?",
+    "points": 2,
+    "options": [
+      "El guion de entrevista.",
+      "La observación directa.",
+      "El registro anecdotario.",
+      "El uso de listas de control."
+    ],
+    "correct_answer": "El guion de entrevista."
+  },
+  {
+    "question": "¿Qué objetivo tiene la autoevaluación en la competencia social del profesional?",
+    "points": 2,
+    "options": [
+      "Valorar y analizar la propia práctica para mejorarla.",
+      "Controlar exclusivamente el aprendizaje de los estudiantes.",
+      "Evaluar solo el progreso grupal.",
+      "Aplicar estándares genéricos sin personalización."
+    ],
+    "correct_answer": "Valorar y analizar la propia práctica para mejorarla."
+  },
+  {
+    "question": "¿Qué elemento se debe respetar en la autoevaluación continua del profesional?",
+    "points": 2,
+    "options": [
+      "La adecuación de los elementos que participan en la intervención.",
+      "La exclusión de las relaciones interpersonales.",
+      "La automatización de todas las decisiones.",
+      "El rechazo de herramientas tecnológicas en la evaluación."
+    ],
+    "correct_answer": "La adecuación de los elementos que participan en la intervención."
+  },
+  {
+    "question": "¿Qué características hacen eficaz la supervisión de equipos según el texto?",
+    "points": 2,
+    "options": [
+      "Coordinar tareas, fomentar la reflexión y estimular habilidades.",
+      "Centrar la supervisión solo en los aspectos técnicos.",
+      "Evitar la interacción entre miembros del equipo.",
+      "Priorizar tareas individuales sobre las grupales."
+    ],
+    "correct_answer": "Coordinar tareas, fomentar la reflexión y estimular habilidades."
+  },
+  {
+    "question": "¿Qué ventaja ofrece la observación directa frente a la indirecta?",
+    "points": 2,
+    "options": [
+      "Permite evaluar dentro del contexto real de la acción o aprendizaje.",
+      "Requiere menor implicación del profesional en el proceso.",
+      "Evita cualquier tipo de análisis posterior.",
+      "Excluye el uso de instrumentos complementarios como diarios."
+    ],
+    "correct_answer": "Permite evaluar dentro del contexto real de la acción o aprendizaje."
+  },
+  {
+    "question": "¿Qué características hacen válida una evaluación?",
+    "points": 2,
+    "options": [
+      "Debe ser objetiva, fiable y ajustada a los objetivos establecidos.",
+      "Debe centrarse únicamente en datos numéricos.",
+      "Debe depender exclusivamente de las herramientas tecnológicas utilizadas.",
+      "Debe evitar analizar aspectos cualitativos del proceso."
+    ],
+    "correct_answer": "Debe ser objetiva, fiable y ajustada a los objetivos establecidos."
+  },
+  {
+    "question": "¿Qué función tiene la lista de control en la observación?",
+    "points": 2,
+    "options": [
+      "Registrar la presencia o ausencia de conductas específicas.",
+      "Recoger información detallada sobre un evento concreto.",
+      "Valorar el alcance de ítems mediante escalas numéricas.",
+      "Observar indirectamente patrones de comportamiento."
+    ],
+    "correct_answer": "Registrar la presencia o ausencia de conductas específicas."
+  },
+  {
+    "question": "¿Qué elemento clave permite que la evaluación sea una herramienta útil en la intervención?",
+    "points": 2,
+    "options": [
+      "La sistematización de la recogida de datos para mejorar la toma de decisiones.",
+      "La exclusión de las percepciones subjetivas de los participantes.",
+      "La utilización de métodos exclusivamente cualitativos.",
+      "La realización de evaluaciones únicamente al final del proceso."
+    ],
+    "correct_answer": "La sistematización de la recogida de datos para mejorar la toma de decisiones."
+  },
+  {
+    "question": "¿Qué técnica de observación utiliza una escala cualitativa para describir comportamientos?",
+    "points": 2,
+    "options": [
+      "La escala de estimación.",
+      "El registro anecdótico.",
+      "La lista de control.",
+      "El guion de entrevista."
+    ],
+    "correct_answer": "La escala de estimación."
+  },
+  {
+    "question": "¿Qué papel desempeña la supervisión en un equipo profesional?",
+    "points": 2,
+    "options": [
+      "Permitir reflexionar sobre la práctica y fomentar el desarrollo grupal.",
+      "Limitar la interacción entre los miembros del equipo.",
+      "Evitar el análisis de las competencias individuales.",
+      "Imponer estándares de trabajo sin consulta previa."
+    ],
+    "correct_answer": "Permitir reflexionar sobre la práctica y fomentar el desarrollo grupal."
+  },
+  {
+    "question": "¿Qué ventajas ofrece el registro anecdótico en la observación?",
+    "points": 2,
+    "options": [
+      "Recoge detalles de eventos significativos en momentos concretos.",
+      "Proporciona datos exclusivamente numéricos.",
+      "Evalúa patrones generales sin profundizar en contextos específicos.",
+      "Evita la subjetividad en las interpretaciones."
+    ],
+    "correct_answer": "Recoge detalles de eventos significativos en momentos concretos."
+  },
+  {
+    "question": "¿Qué técnica de evaluación se utiliza para analizar la dinámica grupal?",
+    "points": 2,
+    "options": [
+      "La observación participante.",
+      "El cuestionario de satisfacción.",
+      "El registro anecdótico.",
+      "La autoevaluación técnica."
+    ],
+    "correct_answer": "La observación participante."
+  },
+  {
+    "question": "¿Qué define a un grupo social según el texto?",
+    "points": 2,
+    "options": [
+      "Un número determinado de miembros con un objetivo común.",
+      "Un conjunto de personas que comparten recursos materiales.",
+      "Una agrupación informal basada en relaciones familiares.",
+      "Un grupo de personas que interactúan exclusivamente en línea."
+    ],
+    "correct_answer": "Un número determinado de miembros con un objetivo común."
+  },
+  {
+    "question": "¿Cuál es una función básica de los grupos?",
+    "points": 2,
+    "options": [
+      "Función emocional para satisfacer necesidades psicológicas.",
+      "Función de liderazgo compartido por todos los miembros.",
+      "Función económica para gestionar recursos financieros.",
+      "Función innovadora basada en tecnologías avanzadas."
+    ],
+    "correct_answer": "Función emocional para satisfacer necesidades psicológicas."
+  },
+  {
+    "question": "¿Cómo se define un grupo primario según su relación afectiva?",
+    "points": 2,
+    "options": [
+      "Relaciones afectivas intensas y continuas.",
+      "Relaciones impersonales y centradas en objetivos.",
+      "Interacciones breves con poca conexión emocional.",
+      "Vínculos formales y establecidos por instituciones."
+    ],
+    "correct_answer": "Relaciones afectivas intensas y continuas."
+  },
+  {
+    "question": "¿Qué tipo de estructura grupal está basada en relaciones afectivas?",
+    "points": 2,
+    "options": [
+      "Estructuras de afinidad.",
+      "Estructuras de poder.",
+      "Estructuras de comunicación.",
+      "Estructuras jerárquicas."
+    ],
+    "correct_answer": "Estructuras de afinidad."
+  },
+  {
+    "question": "¿Qué implica el estilo de liderazgo 'laissez-faire'?",
+    "points": 2,
+    "options": [
+      "Dejar libertad a los miembros para tomar decisiones.",
+      "Imponer decisiones rápidas por el líder del grupo.",
+      "Fomentar la participación de todos los miembros.",
+      "Intercambiar recompensas entre líder y miembros."
+    ],
+    "correct_answer": "Dejar libertad a los miembros para tomar decisiones."
+  },
+  {
+    "question": "Según el modelo lineal de Tuckman, ¿cuál es la primera etapa del desarrollo grupal?",
+    "points": 2,
+    "options": [
+      "Etapa de formación.",
+      "Etapa de conflicto.",
+      "Etapa normativa.",
+      "Etapa de ejecución."
+    ],
+    "correct_answer": "Etapa de formación."
+  },
+  {
+    "question": "¿Cuál es el objetivo principal de la ventana de Johari?",
+    "points": 2,
+    "options": [
+      "Aumentar el área pública y reducir las demás áreas.",
+      "Identificar los líderes del grupo rápidamente.",
+      "Promover conflictos interpersonales controlados.",
+      "Establecer jerarquías rígidas en el grupo."
+    ],
+    "correct_answer": "Aumentar el área pública y reducir las demás áreas."
+  },
+  {
+    "question": "¿Qué define la comunicación grupal efectiva?",
+    "points": 2,
+    "options": [
+      "Establecer relaciones largas y duraderas para alcanzar objetivos comunes.",
+      "Utilizar exclusivamente comunicación verbal clara.",
+      "Eliminar todas las barreras físicas y semánticas.",
+      "Promover mensajes individuales sobre grupales."
+    ],
+    "correct_answer": "Establecer relaciones largas y duraderas para alcanzar objetivos comunes."
+  },
+  {
+    "question": "¿Qué caracteriza a las dinámicas de grupo vivenciales?",
+    "points": 2,
+    "options": [
+      "Hacer vivir una situación como si fuera real.",
+      "Fomentar la competitividad entre los participantes.",
+      "Resolver conflictos exclusivamente en grupos grandes.",
+      "Reducir la interacción directa entre los participantes."
+    ],
+    "correct_answer": "Hacer vivir una situación como si fuera real."
+  },
+  {
+    "question": "¿Qué rol dentro del grupo propone caminos diferentes y originales?",
+    "points": 2,
+    "options": [
+      "El creativo.",
+      "El secretario.",
+      "El colaborador.",
+      "El informador."
+    ],
+    "correct_answer": "El creativo."
+  },
+  {
+    "question": "¿Qué caracteriza a un grupo secundario según el texto?",
+    "points": 2,
+    "options": [
+      "Relaciones impersonales y centradas en objetivos.",
+      "Relaciones afectivas intensas y continuas.",
+      "Vínculos exclusivamente familiares.",
+      "Interacciones basadas en amistad y simpatía."
+    ],
+    "correct_answer": "Relaciones impersonales y centradas en objetivos."
+  },
+  {
+    "question": "¿Qué tipo de grupo se forma deliberadamente con normas claras?",
+    "points": 2,
+    "options": [
+      "Grupo formal.",
+      "Grupo informal.",
+      "Grupo de referencia.",
+      "Grupo de pertenencia."
+    ],
+    "correct_answer": "Grupo formal."
+  },
+  {
+    "question": "¿Qué etapa del modelo lineal de Tuckman se centra en resolver conflictos internos?",
+    "points": 2,
+    "options": [
+      "Etapa del conflicto.",
+      "Etapa de ejecución.",
+      "Etapa de formación.",
+      "Etapa normativa."
+    ],
+    "correct_answer": "Etapa del conflicto."
+  },
+  {
+    "question": "¿Qué elemento define a los grupos de referencia?",
+    "points": 2,
+    "options": [
+      "Sirven de guía para desarrollar valores y actitudes.",
+      "Se forman exclusivamente por vínculos familiares.",
+      "Promueven interacciones breves y sin conexión emocional.",
+      "Dependen de instituciones formales para su funcionamiento."
+    ],
+    "correct_answer": "Sirven de guía para desarrollar valores y actitudes."
+  },
+  {
+    "question": "¿Qué es el modelo de ciclo vital según Lacoursiere?",
+    "points": 2,
+    "options": [
+      "Un modelo que refleja el desarrollo grupal en cinco fases.",
+      "Una técnica para analizar estructuras de poder.",
+      "Un método para clasificar grupos según su tamaño.",
+      "Una estrategia para resolver conflictos grupales."
+    ],
+    "correct_answer": "Un modelo que refleja el desarrollo grupal en cinco fases."
+  },
+  {
+    "question": "¿Qué estructura grupal está relacionada con las preferencias personales y los rechazos?",
+    "points": 2,
+    "options": [
+      "Estructuras de afinidad.",
+      "Estructuras de poder.",
+      "Estructuras de comunicación.",
+      "Estructuras jerárquicas."
+    ],
+    "correct_answer": "Estructuras de afinidad."
+  },
+  {
+    "question": "¿Qué técnica permite analizar el comportamiento interpersonal dentro de un grupo?",
+    "points": 2,
+    "options": [
+      "Ventana de Johari.",
+      "Modelo de Tuckman.",
+      "Modelo de ciclo vital.",
+      "Estructuras de comunicación."
+    ],
+    "correct_answer": "Ventana de Johari."
+  },
+  {
+    "question": "¿Qué estilo de comunicación busca evitar conflictos a toda costa?",
+    "points": 2,
+    "options": [
+      "Estilo pasivo.",
+      "Estilo agresivo.",
+      "Estilo asertivo.",
+      "Estilo transformacional."
+    ],
+    "correct_answer": "Estilo pasivo."
+  },
+  {
+    "question": "¿Qué implica el liderazgo transformacional dentro de un grupo?",
+    "points": 2,
+    "options": [
+      "Fomentar la comunicación bidireccional y la participación activa.",
+      "Dar órdenes claras y esperar que se sigan sin cuestionamientos.",
+      "Dejar que los miembros actúen con total autonomía.",
+      "Promover la competitividad entre los integrantes del grupo."
+    ],
+    "correct_answer": "Fomentar la comunicación bidireccional y la participación activa."
+  },
+  {
+    "question": "¿Qué define la dinámica de grupo lúdica?",
+    "points": 2,
+    "options": [
+      "Se presenta en forma de juego y estimula la creatividad.",
+      "Busca exclusivamente resolver conflictos grupales.",
+      "Se utiliza únicamente para evaluar conocimientos.",
+      "Consiste en actividades competitivas entre subgrupos."
+    ],
+    "correct_answer": "Se presenta en forma de juego y estimula la creatividad."
+  },
+  {
+    "question": "¿Qué define a una reunión según el texto?",
+    "points": 2,
+    "options": [
+      "Un grupo de personas con un objetivo concreto en un tiempo y lugar determinado.",
+      "Un evento social para mejorar relaciones personales.",
+      "Un espacio para expresar opiniones sin limitaciones.",
+      "Un encuentro exclusivamente formal entre profesionales."
+    ],
+    "correct_answer": "Un grupo de personas con un objetivo concreto en un tiempo y lugar determinado."
+  },
+  {
+    "question": "¿Cuál es el objetivo principal de una reunión informativa?",
+    "points": 2,
+    "options": [
+      "Dar información a las personas convocadas.",
+      "Reflexionar sobre problemas y factores asociados.",
+      "Tomar decisiones rápidas e informales.",
+      "Desarrollar nuevas técnicas de trabajo grupal."
+    ],
+    "correct_answer": "Dar información a las personas convocadas."
+  },
+  {
+    "question": "¿Qué caracteriza a las reuniones creativas?",
+    "points": 2,
+    "options": [
+      "Fomentar ideas nuevas y una visión diferente.",
+      "Tomar decisiones de manera consensuada.",
+      "Resolver problemas de forma estructurada.",
+      "Compartir información relevante sobre un tema."
+    ],
+    "correct_answer": "Fomentar ideas nuevas y una visión diferente."
+  },
+  {
+    "question": "¿Qué tipo de decisión se toma tras consultar a los afectados?",
+    "points": 2,
+    "options": [
+      "Decisión consultiva.",
+      "Decisión autocrática.",
+      "Decisión democrática.",
+      "Decisión consensuada."
+    ],
+    "correct_answer": "Decisión consultiva."
+  },
+  {
+    "question": "¿Qué instrumento se utiliza para planificar las tareas de una reunión?",
+    "points": 2,
+    "options": [
+      "El diagrama de Gantt.",
+      "El sociograma grupal.",
+      "La hoja de convocatoria.",
+      "El registro anecdótico."
+    ],
+    "correct_answer": "El diagrama de Gantt."
+  },
+  {
+    "question": "¿Qué se debe incluir en la hoja de convocatoria de una reunión?",
+    "points": 2,
+    "options": [
+      "El orden del día, el lugar y la duración aproximada.",
+      "El objetivo general y las posibles decisiones.",
+      "El informe financiero del último trimestre.",
+      "Los roles asignados para cada participante."
+    ],
+    "correct_answer": "El orden del día, el lugar y la duración aproximada."
+  },
+  {
+    "question": "¿Qué rol en una reunión propone soluciones originales a problemas?",
+    "points": 2,
+    "options": [
+      "El creativo.",
+      "El informador.",
+      "El secretario.",
+      "El conciliador."
+    ],
+    "correct_answer": "El creativo."
+  },
+  {
+    "question": "¿Qué técnica busca la participación activa de todos los miembros para tomar decisiones conjuntas?",
+    "points": 2,
+    "options": [
+      "La asamblea.",
+      "La mesa redonda.",
+      "El debate controlado.",
+      "El focus group."
+    ],
+    "correct_answer": "La asamblea."
+  },
+  {
+    "question": "¿Qué caracteriza a las reuniones de toma de decisiones?",
+    "points": 2,
+    "options": [
+      "El objetivo es llegar a un consenso sobre un problema o proyecto.",
+      "El propósito es compartir información relevante con un grupo.",
+      "Son lideradas exclusivamente por expertos en el tema.",
+      "Son informales y no requieren un plan previo."
+    ],
+    "correct_answer": "El objetivo es llegar a un consenso sobre un problema o proyecto."
+  },
+  {
+    "question": "¿Qué define el diagrama de Pert?",
+    "points": 2,
+    "options": [
+      "Es una herramienta para administrar proyectos y tareas de una reunión.",
+      "Es un método para evaluar la dinámica emocional de los grupos.",
+      "Es un esquema para asignar roles a los participantes de una reunión.",
+      "Es una técnica para analizar problemas sociales complejos."
+    ],
+    "correct_answer": "Es una herramienta para administrar proyectos y tareas de una reunión."
+  },
+  {
+    "question": "¿Cuál es el objetivo principal de una reunión formativa?",
+    "points": 2,
+    "options": [
+      "Poner en común experiencias y aprendizajes sobre un tema.",
+      "Reflexionar sobre problemas específicos del grupo.",
+      "Tomar decisiones rápidas ante situaciones imprevistas.",
+      "Revisar la estructura jerárquica del equipo de trabajo."
+    ],
+    "correct_answer": "Poner en común experiencias y aprendizajes sobre un tema."
+  },
+  {
+    "question": "¿Qué técnica de moderación fomenta la comunicación entre expertos y audiencia?",
+    "points": 2,
+    "options": [
+      "La mesa redonda.",
+      "La asamblea.",
+      "El debate abierto.",
+      "El focus group."
+    ],
+    "correct_answer": "La mesa redonda."
+  },
+  {
+    "question": "¿Qué rol en una reunión asegura que se documenten las decisiones tomadas?",
+    "points": 2,
+    "options": ["El secretario.", "El líder.", "El creativo.", "El moderador."],
+    "correct_answer": "El secretario."
+  },
+  {
+    "question": "¿Qué factor se considera esencial para el éxito de una reunión creativa?",
+    "points": 2,
+    "options": [
+      "Evitar expresiones que destruyan la creatividad.",
+      "Mantener el enfoque en problemas técnicos únicamente.",
+      "Repetir las mismas ideas para reforzar su importancia.",
+      "Limitar la participación a los líderes del grupo."
+    ],
+    "correct_answer": "Evitar expresiones que destruyan la creatividad."
+  },
+  {
+    "question": "¿Qué distingue a una decisión democrática en una reunión?",
+    "points": 2,
+    "options": [
+      "La participación equitativa de todos los miembros del grupo.",
+      "La consulta a un pequeño grupo de expertos.",
+      "La decisión tomada por una persona con autoridad.",
+      "La eliminación de puntos de vista divergentes."
+    ],
+    "correct_answer": "La participación equitativa de todos los miembros del grupo."
+  },
+  {
+    "question": "¿Cuál es la función principal de un moderador en una reunión?",
+    "points": 2,
+    "options": [
+      "Conceder turnos de intervención y mantener el orden.",
+      "Proponer nuevas ideas para la discusión grupal.",
+      "Asumir el liderazgo del equipo durante toda la reunión.",
+      "Documentar las decisiones tomadas y distribuirlas."
+    ],
+    "correct_answer": "Conceder turnos de intervención y mantener el orden."
+  },
+  {
+    "question": "¿Qué tipo de reunión está orientada a reflexionar sobre causas de problemas?",
+    "points": 2,
+    "options": [
+      "Reunión de análisis de problemas.",
+      "Reunión informativa.",
+      "Reunión creativa.",
+      "Reunión de toma de decisiones."
+    ],
+    "correct_answer": "Reunión de análisis de problemas."
+  },
+  {
+    "question": "¿Qué principio es clave para un moderador en una asamblea?",
+    "points": 2,
+    "options": [
+      "Motivar la reflexión y fomentar la participación igualitaria.",
+      "Imponer un enfoque específico sin concesiones.",
+      "Priorizar los temas propuestos por la autoridad del grupo.",
+      "Evitar intervenir en las discusiones y mantener el silencio."
+    ],
+    "correct_answer": "Motivar la reflexión y fomentar la participación igualitaria."
+  },
+  {
+    "question": "¿Qué elemento debe evaluarse en la supervisión de equipos?",
+    "points": 2,
+    "options": [
+      "La coordinación, la comunicación y la consecución de objetivos.",
+      "El nivel de conflicto individual en cada miembro.",
+      "La capacidad de los equipos para trabajar de manera aislada.",
+      "La exclusión de miembros con habilidades diferentes."
+    ],
+    "correct_answer": "La coordinación, la comunicación y la consecución de objetivos."
+  },
+  {
+    "question": "¿Qué rol tiene el supervisor en el contexto de la evaluación grupal?",
+    "points": 2,
+    "options": [
+      "Coordinar, distribuir tareas y gestionar las emociones grupales.",
+      "Imponer decisiones en todas las dinámicas del grupo.",
+      "Evaluar exclusivamente a los líderes del grupo.",
+      "Evitar cualquier intervención en los procesos grupales."
+    ],
+    "correct_answer": "Coordinar, distribuir tareas y gestionar las emociones grupales."
+  },
+  {
+    "question": "¿Qué herramienta permite visualizar la interacción social dentro de un grupo?",
+    "points": 2,
+    "options": [
+      "El sociograma.",
+      "El cuestionario abierto.",
+      "La lista de control.",
+      "La escala de Likert."
+    ],
+    "correct_answer": "El sociograma."
+  },
+  {
+    "question": "¿Qué aspecto se analiza al utilizar la sociometría?",
+    "points": 2,
+    "options": [
+      "Las relaciones de afinidad y rechazo en un grupo.",
+      "La efectividad de las dinámicas individuales.",
+      "La supervisión directa de los líderes grupales.",
+      "Los resultados finales de las evaluaciones formativas."
+    ],
+    "correct_answer": "Las relaciones de afinidad y rechazo en un grupo."
+  },
+  {
+    "question": "¿Qué define la evaluación de procesos grupales?",
+    "points": 2,
+    "options": [
+      "El análisis del progreso, cohesión y efectividad del grupo.",
+      "La identificación de conflictos individuales.",
+      "El diseño de dinámicas exclusivamente competitivas.",
+      "El registro de las actividades finales del grupo."
+    ],
+    "correct_answer": "El análisis del progreso, cohesión y efectividad del grupo."
+  },
+  {
+    "question": "¿Qué es la evaluación sumativa según el texto?",
+    "points": 2,
+    "options": [
+      "Una evaluación que verifica el impacto al finalizar un conjunto de sesiones.",
+      "Una técnica para identificar problemas durante el proceso de intervención.",
+      "Un método para recolectar datos iniciales de los participantes.",
+      "Una herramienta para analizar conflictos grupales exclusivamente."
+    ],
+    "correct_answer": "Una evaluación que verifica el impacto al finalizar un conjunto de sesiones."
+  },
+  {
+    "question": "¿Qué caracteriza a la evaluación formativa?",
+    "points": 2,
+    "options": [
+      "Se realiza de manera continua durante todo el proceso.",
+      "Es un análisis posterior para diseñar futuras intervenciones.",
+      "Es una revisión única centrada en resultados finales.",
+      "Evalúa únicamente el comportamiento individual de los participantes."
+    ],
+    "correct_answer": "Se realiza de manera continua durante todo el proceso."
+  },
+  {
+    "question": "¿Qué instrumento se utiliza para identificar las relaciones de afinidad en un grupo?",
+    "points": 2,
+    "options": [
+      "El sociograma.",
+      "La escala de estimación.",
+      "El registro anecdótico.",
+      "La lista de control."
+    ],
+    "correct_answer": "El sociograma."
+  },
+  {
+    "question": "¿Cuál es el propósito principal de la sociometría?",
+    "points": 2,
+    "options": [
+      "Analizar las relaciones interpersonales en un grupo.",
+      "Evaluar el progreso individual de los participantes.",
+      "Diseñar dinámicas grupales para prevenir conflictos.",
+      "Observar la comunicación no verbal entre miembros."
+    ],
+    "correct_answer": "Analizar las relaciones interpersonales en un grupo."
+  },
+  {
+    "question": "¿Qué representa un nodo en un sociograma?",
+    "points": 2,
+    "options": [
+      "Un individuo dentro del grupo.",
+      "Una relación de conflicto.",
+      "Un resultado de la evaluación sumativa.",
+      "Una dinámica grupal específica."
+    ],
+    "correct_answer": "Un individuo dentro del grupo."
+  },
+  {
+    "question": "¿Qué técnica permite medir la cohesión de un grupo?",
+    "points": 2,
+    "options": [
+      "La sociometría.",
+      "La observación directa.",
+      "El guion de entrevista.",
+      "La escala de estimación."
+    ],
+    "correct_answer": "La sociometría."
+  },
+  {
+    "question": "¿Qué enfoque permite realizar ajustes durante el proceso de intervención?",
+    "points": 2,
+    "options": [
+      "Evaluación formativa.",
+      "Evaluación sumativa.",
+      "Sociometría.",
+      "Lista de control."
+    ],
+    "correct_answer": "Evaluación formativa."
+  },
+  {
+    "question": "¿Qué se analiza al evaluar los procesos grupales?",
+    "points": 2,
+    "options": [
+      "El progreso, la cohesión y la efectividad del grupo.",
+      "Los resultados individuales de cada miembro del grupo.",
+      "Las dinámicas competitivas exclusivamente.",
+      "La capacidad de un líder para resolver conflictos."
+    ],
+    "correct_answer": "El progreso, la cohesión y la efectividad del grupo."
+  },
+  {
+    "question": "¿Qué técnica facilita el análisis visual de las elecciones dentro de un grupo?",
+    "points": 2,
+    "options": [
+      "El sociograma.",
+      "La observación indirecta.",
+      "La escala de Likert.",
+      "El cuestionario cerrado."
+    ],
+    "correct_answer": "El sociograma."
+  },
+  {
+    "question": "¿Qué define la supervisión de equipos según el texto?",
+    "points": 2,
+    "options": [
+      "La actividad que coordina tareas y fomenta el intercambio de información.",
+      "Una técnica que mide el impacto final de las dinámicas grupales.",
+      "Un método para evaluar exclusivamente el liderazgo grupal.",
+      "Una herramienta para analizar conflictos individuales en el equipo."
+    ],
+    "correct_answer": "La actividad que coordina tareas y fomenta el intercambio de información."
+  },
+  {
+    "question": "¿Qué es la toma de decisiones según el texto?",
+    "points": 2,
+    "options": [
+      "El proceso de elegir entre diferentes opciones para solucionar un problema.",
+      "Un método para evitar problemas en contextos complejos.",
+      "La estrategia de imponer decisiones en conflictos grupales.",
+      "Una técnica exclusivamente utilizada en mediación formal."
+    ],
+    "correct_answer": "El proceso de elegir entre diferentes opciones para solucionar un problema."
+  },
+  {
+    "question": "¿Qué objetivo tienen las dinámicas como 'La telaraña' en el contexto de resolución de conflictos?",
+    "points": 2,
+    "options": [
+      "Desarrollar la capacidad colectiva de tomar decisiones y resolver conflictos.",
+      "Identificar los líderes naturales del grupo.",
+      "Evaluar el rendimiento individual de los participantes.",
+      "Aumentar la competitividad entre los equipos."
+    ],
+    "correct_answer": "Desarrollar la capacidad colectiva de tomar decisiones y resolver conflictos."
+  },
+  {
+    "question": "¿Qué estrategia se debe aplicar para prevenir conflictos en un grupo?",
+    "points": 2,
+    "options": [
+      "Fomentar una organización y un grupo realistas.",
+      "Imponer decisiones rápidas para evitar desacuerdos.",
+      "Aumentar las reglas y restricciones en las dinámicas grupales.",
+      "Evitar cualquier tipo de interacción directa entre los miembros."
+    ],
+    "correct_answer": "Fomentar una organización y un grupo realistas."
+  },
+  {
+    "question": "¿Cuál de las siguientes conductas limita el conflicto en un grupo?",
+    "points": 2,
+    "options": [
+      "Convertirse en un comunicador eficaz.",
+      "Imponer sanciones estrictas en cada reunión.",
+      "Reducir las oportunidades de interacción grupal.",
+      "Evitar el uso de dinámicas participativas."
+    ],
+    "correct_answer": "Convertirse en un comunicador eficaz."
+  },
+  {
+    "question": "¿Qué implica el estilo de manejo de conflictos 'integración'?",
+    "points": 2,
+    "options": [
+      "Un alto interés por ambas partes y la colaboración directa.",
+      "Un bajo interés propio y un alto interés por la otra parte.",
+      "Un enfoque competitivo donde una parte gana y otra pierde.",
+      "La retirada completa del problema para evitar confrontación."
+    ],
+    "correct_answer": "Un alto interés por ambas partes y la colaboración directa."
+  },
+  {
+    "question": "¿Qué estilo de manejo de conflictos se asocia con un bajo interés por ambas partes?",
+    "points": 2,
+    "options": ["Evitación.", "Dominación.", "Compromiso.", "Integración."],
+    "correct_answer": "Evitación."
+  },
+  {
+    "question": "¿Cuál es un factor importante para que una negociación sea exitosa?",
+    "points": 2,
+    "options": [
+      "Que ambas partes se consideren ganadoras.",
+      "Que una parte renuncie a todos sus intereses.",
+      "Que el mediador tome decisiones por ambas partes.",
+      "Que la negociación se centre exclusivamente en valores personales."
+    ],
+    "correct_answer": "Que ambas partes se consideren ganadoras."
+  },
+  {
+    "question": "¿Qué estilo de negociación prioriza el resultado sobre la relación entre las partes?",
+    "points": 2,
+    "options": ["Competitiva.", "Colaborativa.", "Acomodativa.", "Evitativa."],
+    "correct_answer": "Competitiva."
+  },
+  {
+    "question": "¿Qué define la negociación colaborativa?",
+    "points": 2,
+    "options": [
+      "Busca que ambas partes ganen y mantengan una buena relación.",
+      "Prioriza los intereses de una parte sobre los de la otra.",
+      "Impone soluciones rápidas sin participación activa.",
+      "Se centra en minimizar los objetivos individuales de cada parte."
+    ],
+    "correct_answer": "Busca que ambas partes ganen y mantengan una buena relación."
+  },
+  {
+    "question": "¿Cuál es la meta principal de la gestión de conflictos grupales?",
+    "points": 2,
+    "options": [
+      "Buscar soluciones compartidas mediante la responsabilidad grupal.",
+      "Asignar la responsabilidad a un mediador externo.",
+      "Evitar cualquier tipo de conflicto a través de reglas estrictas.",
+      "Resolver problemas individuales sin involucrar al grupo."
+    ],
+    "correct_answer": "Buscar soluciones compartidas mediante la responsabilidad grupal."
+  },
+  {
+    "question": "¿Qué técnica es útil para fomentar la confianza y la cooperación en un grupo?",
+    "points": 2,
+    "options": [
+      "Dinámicas vivenciales como 'La telaraña'.",
+      "Implementar sanciones grupales.",
+      "Evitar interacciones en situaciones de conflicto.",
+      "Realizar reuniones competitivas exclusivamente."
+    ],
+    "correct_answer": "Dinámicas vivenciales como 'La telaraña'."
+  },
+  {
+    "question": "¿Qué caracteriza el manejo de conflictos basado en el compromiso?",
+    "points": 2,
+    "options": [
+      "Ceder parcialmente en los intereses para alcanzar una solución mutua.",
+      "Buscar una retirada total para evitar el conflicto.",
+      "Imponer una solución unilateral.",
+      "Centrarse exclusivamente en los intereses individuales."
+    ],
+    "correct_answer": "Ceder parcialmente en los intereses para alcanzar una solución mutua."
+  },
+  {
+    "question": "¿Qué define el servilismo como estilo de manejo de conflictos?",
+    "points": 2,
+    "options": [
+      "Un bajo interés propio y un alto interés por la otra parte.",
+      "Un enfoque en el beneficio mutuo entre las partes.",
+      "Un alto interés propio y un bajo interés por los demás.",
+      "Evitar abordar el problema para reducir la tensión."
+    ],
+    "correct_answer": "Un bajo interés propio y un alto interés por la otra parte."
+  },
+  {
+    "question": "¿Qué implica la negociación distributiva?",
+    "points": 2,
+    "options": [
+      "Un enfoque competitivo para dividir los recursos disponibles.",
+      "Colaborar para maximizar los beneficios para ambas partes.",
+      "Evitar el conflicto por completo.",
+      "Ceder todos los intereses para mantener la relación."
+    ],
+    "correct_answer": "Un enfoque competitivo para dividir los recursos disponibles."
+  },
+  {
+    "question": "¿Cuál es el enfoque principal de la mediación en un conflicto?",
+    "points": 2,
+    "options": [
+      "Facilitar el diálogo entre las partes para que encuentren una solución.",
+      "Imponer una solución a las partes implicadas.",
+      "Aumentar la competitividad entre las partes.",
+      "Evitar que las partes interactúen directamente."
+    ],
+    "correct_answer": "Facilitar el diálogo entre las partes para que encuentren una solución."
+  }
+]

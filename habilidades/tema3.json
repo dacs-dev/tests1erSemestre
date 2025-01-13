@@ -1,0 +1,189 @@
+[
+  {
+    "question": "¿Qué define la evaluación según el texto?",
+    "points": 2,
+    "options": [
+      "Recoger información organizada y sistemáticamente e interpretarla.",
+      "Registrar datos únicamente cuantitativos para análisis futuro.",
+      "Observar conductas sin contexto y evaluar subjetivamente.",
+      "Aplicar cuestionarios al final de una intervención para recopilar opiniones."
+    ],
+    "correct_answer": "Recoger información organizada y sistemáticamente e interpretarla."
+  },
+  {
+    "question": "¿Qué momento de evaluación permite conocer el punto de partida antes de una intervención?",
+    "points": 2,
+    "options": [
+      "Evaluación inicial.",
+      "Evaluación continua.",
+      "Evaluación sumativa.",
+      "Autoevaluación."
+    ],
+    "correct_answer": "Evaluación inicial."
+  },
+  {
+    "question": "¿Qué técnica permite evaluar las conductas de niños en las primeras etapas?",
+    "points": 2,
+    "options": [
+      "La observación directa.",
+      "Las entrevistas.",
+      "El uso de cuestionarios cerrados.",
+      "La observación indirecta exclusivamente."
+    ],
+    "correct_answer": "La observación directa."
+  },
+  {
+    "question": "¿Qué instrumento de observación recoge información sobre aspectos puntuales y aislados?",
+    "points": 2,
+    "options": [
+      "El registro anecdotario.",
+      "El diario.",
+      "La lista de control.",
+      "La escala de estimación."
+    ],
+    "correct_answer": "El registro anecdotario."
+  },
+  {
+    "question": "¿Qué instrumento permite valorar el alcance de ítems mediante escalas descriptivas o numéricas?",
+    "points": 2,
+    "options": [
+      "Escala de estimación.",
+      "Lista de control.",
+      "Anecdotario.",
+      "Guion de entrevista."
+    ],
+    "correct_answer": "Escala de estimación."
+  },
+  {
+    "question": "¿Qué técnica interrogativa se emplea especialmente en la evaluación inicial?",
+    "points": 2,
+    "options": [
+      "El guion de entrevista.",
+      "La observación directa.",
+      "El registro anecdotario.",
+      "El uso de listas de control."
+    ],
+    "correct_answer": "El guion de entrevista."
+  },
+  {
+    "question": "¿Qué objetivo tiene la autoevaluación en la competencia social del profesional?",
+    "points": 2,
+    "options": [
+      "Valorar y analizar la propia práctica para mejorarla.",
+      "Controlar exclusivamente el aprendizaje de los estudiantes.",
+      "Evaluar solo el progreso grupal.",
+      "Aplicar estándares genéricos sin personalización."
+    ],
+    "correct_answer": "Valorar y analizar la propia práctica para mejorarla."
+  },
+  {
+    "question": "¿Qué elemento se debe respetar en la autoevaluación continua del profesional?",
+    "points": 2,
+    "options": [
+      "La adecuación de los elementos que participan en la intervención.",
+      "La exclusión de las relaciones interpersonales.",
+      "La automatización de todas las decisiones.",
+      "El rechazo de herramientas tecnológicas en la evaluación."
+    ],
+    "correct_answer": "La adecuación de los elementos que participan en la intervención."
+  },
+  {
+    "question": "¿Qué características hacen eficaz la supervisión de equipos según el texto?",
+    "points": 2,
+    "options": [
+      "Coordinar tareas, fomentar la reflexión y estimular habilidades.",
+      "Centrar la supervisión solo en los aspectos técnicos.",
+      "Evitar la interacción entre miembros del equipo.",
+      "Priorizar tareas individuales sobre las grupales."
+    ],
+    "correct_answer": "Coordinar tareas, fomentar la reflexión y estimular habilidades."
+  },
+  {
+    "question": "¿Qué ventaja ofrece la observación directa frente a la indirecta?",
+    "points": 2,
+    "options": [
+      "Permite evaluar dentro del contexto real de la acción o aprendizaje.",
+      "Requiere menor implicación del profesional en el proceso.",
+      "Evita cualquier tipo de análisis posterior.",
+      "Excluye el uso de instrumentos complementarios como diarios."
+    ],
+    "correct_answer": "Permite evaluar dentro del contexto real de la acción o aprendizaje."
+  },
+  {
+    "question": "¿Qué características hacen válida una evaluación?",
+    "points": 2,
+    "options": [
+      "Debe ser objetiva, fiable y ajustada a los objetivos establecidos.",
+      "Debe centrarse únicamente en datos numéricos.",
+      "Debe depender exclusivamente de las herramientas tecnológicas utilizadas.",
+      "Debe evitar analizar aspectos cualitativos del proceso."
+    ],
+    "correct_answer": "Debe ser objetiva, fiable y ajustada a los objetivos establecidos."
+  },
+  {
+    "question": "¿Qué función tiene la lista de control en la observación?",
+    "points": 2,
+    "options": [
+      "Registrar la presencia o ausencia de conductas específicas.",
+      "Recoger información detallada sobre un evento concreto.",
+      "Valorar el alcance de ítems mediante escalas numéricas.",
+      "Observar indirectamente patrones de comportamiento."
+    ],
+    "correct_answer": "Registrar la presencia o ausencia de conductas específicas."
+  },
+  {
+    "question": "¿Qué elemento clave permite que la evaluación sea una herramienta útil en la intervención?",
+    "points": 2,
+    "options": [
+      "La sistematización de la recogida de datos para mejorar la toma de decisiones.",
+      "La exclusión de las percepciones subjetivas de los participantes.",
+      "La utilización de métodos exclusivamente cualitativos.",
+      "La realización de evaluaciones únicamente al final del proceso."
+    ],
+    "correct_answer": "La sistematización de la recogida de datos para mejorar la toma de decisiones."
+  },
+  {
+    "question": "¿Qué técnica de observación utiliza una escala cualitativa para describir comportamientos?",
+    "points": 2,
+    "options": [
+      "La escala de estimación.",
+      "El registro anecdótico.",
+      "La lista de control.",
+      "El guion de entrevista."
+    ],
+    "correct_answer": "La escala de estimación."
+  },
+  {
+    "question": "¿Qué papel desempeña la supervisión en un equipo profesional?",
+    "points": 2,
+    "options": [
+      "Permitir reflexionar sobre la práctica y fomentar el desarrollo grupal.",
+      "Limitar la interacción entre los miembros del equipo.",
+      "Evitar el análisis de las competencias individuales.",
+      "Imponer estándares de trabajo sin consulta previa."
+    ],
+    "correct_answer": "Permitir reflexionar sobre la práctica y fomentar el desarrollo grupal."
+  },
+  {
+    "question": "¿Qué ventajas ofrece el registro anecdótico en la observación?",
+    "points": 2,
+    "options": [
+      "Recoge detalles de eventos significativos en momentos concretos.",
+      "Proporciona datos exclusivamente numéricos.",
+      "Evalúa patrones generales sin profundizar en contextos específicos.",
+      "Evita la subjetividad en las interpretaciones."
+    ],
+    "correct_answer": "Recoge detalles de eventos significativos en momentos concretos."
+  },
+  {
+    "question": "¿Qué técnica de evaluación se utiliza para analizar la dinámica grupal?",
+    "points": 2,
+    "options": [
+      "La observación participante.",
+      "El cuestionario de satisfacción.",
+      "El registro anecdótico.",
+      "La autoevaluación técnica."
+    ],
+    "correct_answer": "La observación participante."
+  }
+]

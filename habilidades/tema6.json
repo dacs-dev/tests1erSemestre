@@ -1,0 +1,157 @@
+[
+  {
+    "question": "¿Qué es la toma de decisiones según el texto?",
+    "points": 2,
+    "options": [
+      "El proceso de elegir entre diferentes opciones para solucionar un problema.",
+      "Un método para evitar problemas en contextos complejos.",
+      "La estrategia de imponer decisiones en conflictos grupales.",
+      "Una técnica exclusivamente utilizada en mediación formal."
+    ],
+    "correct_answer": "El proceso de elegir entre diferentes opciones para solucionar un problema."
+  },
+  {
+    "question": "¿Qué objetivo tienen las dinámicas como 'La telaraña' en el contexto de resolución de conflictos?",
+    "points": 2,
+    "options": [
+      "Desarrollar la capacidad colectiva de tomar decisiones y resolver conflictos.",
+      "Identificar los líderes naturales del grupo.",
+      "Evaluar el rendimiento individual de los participantes.",
+      "Aumentar la competitividad entre los equipos."
+    ],
+    "correct_answer": "Desarrollar la capacidad colectiva de tomar decisiones y resolver conflictos."
+  },
+  {
+    "question": "¿Qué estrategia se debe aplicar para prevenir conflictos en un grupo?",
+    "points": 2,
+    "options": [
+      "Fomentar una organización y un grupo realistas.",
+      "Imponer decisiones rápidas para evitar desacuerdos.",
+      "Aumentar las reglas y restricciones en las dinámicas grupales.",
+      "Evitar cualquier tipo de interacción directa entre los miembros."
+    ],
+    "correct_answer": "Fomentar una organización y un grupo realistas."
+  },
+  {
+    "question": "¿Cuál de las siguientes conductas limita el conflicto en un grupo?",
+    "points": 2,
+    "options": [
+      "Convertirse en un comunicador eficaz.",
+      "Imponer sanciones estrictas en cada reunión.",
+      "Reducir las oportunidades de interacción grupal.",
+      "Evitar el uso de dinámicas participativas."
+    ],
+    "correct_answer": "Convertirse en un comunicador eficaz."
+  },
+  {
+    "question": "¿Qué implica el estilo de manejo de conflictos 'integración'?",
+    "points": 2,
+    "options": [
+      "Un alto interés por ambas partes y la colaboración directa.",
+      "Un bajo interés propio y un alto interés por la otra parte.",
+      "Un enfoque competitivo donde una parte gana y otra pierde.",
+      "La retirada completa del problema para evitar confrontación."
+    ],
+    "correct_answer": "Un alto interés por ambas partes y la colaboración directa."
+  },
+  {
+    "question": "¿Qué estilo de manejo de conflictos se asocia con un bajo interés por ambas partes?",
+    "points": 2,
+    "options": ["Evitación.", "Dominación.", "Compromiso.", "Integración."],
+    "correct_answer": "Evitación."
+  },
+  {
+    "question": "¿Cuál es un factor importante para que una negociación sea exitosa?",
+    "points": 2,
+    "options": [
+      "Que ambas partes se consideren ganadoras.",
+      "Que una parte renuncie a todos sus intereses.",
+      "Que el mediador tome decisiones por ambas partes.",
+      "Que la negociación se centre exclusivamente en valores personales."
+    ],
+    "correct_answer": "Que ambas partes se consideren ganadoras."
+  },
+  {
+    "question": "¿Qué estilo de negociación prioriza el resultado sobre la relación entre las partes?",
+    "points": 2,
+    "options": ["Competitiva.", "Colaborativa.", "Acomodativa.", "Evitativa."],
+    "correct_answer": "Competitiva."
+  },
+  {
+    "question": "¿Qué define la negociación colaborativa?",
+    "points": 2,
+    "options": [
+      "Busca que ambas partes ganen y mantengan una buena relación.",
+      "Prioriza los intereses de una parte sobre los de la otra.",
+      "Impone soluciones rápidas sin participación activa.",
+      "Se centra en minimizar los objetivos individuales de cada parte."
+    ],
+    "correct_answer": "Busca que ambas partes ganen y mantengan una buena relación."
+  },
+  {
+    "question": "¿Cuál es la meta principal de la gestión de conflictos grupales?",
+    "points": 2,
+    "options": [
+      "Buscar soluciones compartidas mediante la responsabilidad grupal.",
+      "Asignar la responsabilidad a un mediador externo.",
+      "Evitar cualquier tipo de conflicto a través de reglas estrictas.",
+      "Resolver problemas individuales sin involucrar al grupo."
+    ],
+    "correct_answer": "Buscar soluciones compartidas mediante la responsabilidad grupal."
+  },
+  {
+    "question": "¿Qué técnica es útil para fomentar la confianza y la cooperación en un grupo?",
+    "points": 2,
+    "options": [
+      "Dinámicas vivenciales como 'La telaraña'.",
+      "Implementar sanciones grupales.",
+      "Evitar interacciones en situaciones de conflicto.",
+      "Realizar reuniones competitivas exclusivamente."
+    ],
+    "correct_answer": "Dinámicas vivenciales como 'La telaraña'."
+  },
+  {
+    "question": "¿Qué caracteriza el manejo de conflictos basado en el compromiso?",
+    "points": 2,
+    "options": [
+      "Ceder parcialmente en los intereses para alcanzar una solución mutua.",
+      "Buscar una retirada total para evitar el conflicto.",
+      "Imponer una solución unilateral.",
+      "Centrarse exclusivamente en los intereses individuales."
+    ],
+    "correct_answer": "Ceder parcialmente en los intereses para alcanzar una solución mutua."
+  },
+  {
+    "question": "¿Qué define el servilismo como estilo de manejo de conflictos?",
+    "points": 2,
+    "options": [
+      "Un bajo interés propio y un alto interés por la otra parte.",
+      "Un enfoque en el beneficio mutuo entre las partes.",
+      "Un alto interés propio y un bajo interés por los demás.",
+      "Evitar abordar el problema para reducir la tensión."
+    ],
+    "correct_answer": "Un bajo interés propio y un alto interés por la otra parte."
+  },
+  {
+    "question": "¿Qué implica la negociación distributiva?",
+    "points": 2,
+    "options": [
+      "Un enfoque competitivo para dividir los recursos disponibles.",
+      "Colaborar para maximizar los beneficios para ambas partes.",
+      "Evitar el conflicto por completo.",
+      "Ceder todos los intereses para mantener la relación."
+    ],
+    "correct_answer": "Un enfoque competitivo para dividir los recursos disponibles."
+  },
+  {
+    "question": "¿Cuál es el enfoque principal de la mediación en un conflicto?",
+    "points": 2,
+    "options": [
+      "Facilitar el diálogo entre las partes para que encuentren una solución.",
+      "Imponer una solución a las partes implicadas.",
+      "Aumentar la competitividad entre las partes.",
+      "Evitar que las partes interactúen directamente."
+    ],
+    "correct_answer": "Facilitar el diálogo entre las partes para que encuentren una solución."
+  }
+]

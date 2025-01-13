@@ -1,0 +1,167 @@
+[
+  {
+    "question": "¿Qué elemento debe evaluarse en la supervisión de equipos?",
+    "points": 2,
+    "options": [
+      "La coordinación, la comunicación y la consecución de objetivos.",
+      "El nivel de conflicto individual en cada miembro.",
+      "La capacidad de los equipos para trabajar de manera aislada.",
+      "La exclusión de miembros con habilidades diferentes."
+    ],
+    "correct_answer": "La coordinación, la comunicación y la consecución de objetivos."
+  },
+  {
+    "question": "¿Qué rol tiene el supervisor en el contexto de la evaluación grupal?",
+    "points": 2,
+    "options": [
+      "Coordinar, distribuir tareas y gestionar las emociones grupales.",
+      "Imponer decisiones en todas las dinámicas del grupo.",
+      "Evaluar exclusivamente a los líderes del grupo.",
+      "Evitar cualquier intervención en los procesos grupales."
+    ],
+    "correct_answer": "Coordinar, distribuir tareas y gestionar las emociones grupales."
+  },
+  {
+    "question": "¿Qué herramienta permite visualizar la interacción social dentro de un grupo?",
+    "points": 2,
+    "options": [
+      "El sociograma.",
+      "El cuestionario abierto.",
+      "La lista de control.",
+      "La escala de Likert."
+    ],
+    "correct_answer": "El sociograma."
+  },
+  {
+    "question": "¿Qué aspecto se analiza al utilizar la sociometría?",
+    "points": 2,
+    "options": [
+      "Las relaciones de afinidad y rechazo en un grupo.",
+      "La efectividad de las dinámicas individuales.",
+      "La supervisión directa de los líderes grupales.",
+      "Los resultados finales de las evaluaciones formativas."
+    ],
+    "correct_answer": "Las relaciones de afinidad y rechazo en un grupo."
+  },
+  {
+    "question": "¿Qué define la evaluación de procesos grupales?",
+    "points": 2,
+    "options": [
+      "El análisis del progreso, cohesión y efectividad del grupo.",
+      "La identificación de conflictos individuales.",
+      "El diseño de dinámicas exclusivamente competitivas.",
+      "El registro de las actividades finales del grupo."
+    ],
+    "correct_answer": "El análisis del progreso, cohesión y efectividad del grupo."
+  },
+  {
+    "question": "¿Qué es la evaluación sumativa según el texto?",
+    "points": 2,
+    "options": [
+      "Una evaluación que verifica el impacto al finalizar un conjunto de sesiones.",
+      "Una técnica para identificar problemas durante el proceso de intervención.",
+      "Un método para recolectar datos iniciales de los participantes.",
+      "Una herramienta para analizar conflictos grupales exclusivamente."
+    ],
+    "correct_answer": "Una evaluación que verifica el impacto al finalizar un conjunto de sesiones."
+  },
+  {
+    "question": "¿Qué caracteriza a la evaluación formativa?",
+    "points": 2,
+    "options": [
+      "Se realiza de manera continua durante todo el proceso.",
+      "Es un análisis posterior para diseñar futuras intervenciones.",
+      "Es una revisión única centrada en resultados finales.",
+      "Evalúa únicamente el comportamiento individual de los participantes."
+    ],
+    "correct_answer": "Se realiza de manera continua durante todo el proceso."
+  },
+  {
+    "question": "¿Qué instrumento se utiliza para identificar las relaciones de afinidad en un grupo?",
+    "points": 2,
+    "options": [
+      "El sociograma.",
+      "La escala de estimación.",
+      "El registro anecdótico.",
+      "La lista de control."
+    ],
+    "correct_answer": "El sociograma."
+  },
+  {
+    "question": "¿Cuál es el propósito principal de la sociometría?",
+    "points": 2,
+    "options": [
+      "Analizar las relaciones interpersonales en un grupo.",
+      "Evaluar el progreso individual de los participantes.",
+      "Diseñar dinámicas grupales para prevenir conflictos.",
+      "Observar la comunicación no verbal entre miembros."
+    ],
+    "correct_answer": "Analizar las relaciones interpersonales en un grupo."
+  },
+  {
+    "question": "¿Qué representa un nodo en un sociograma?",
+    "points": 2,
+    "options": [
+      "Un individuo dentro del grupo.",
+      "Una relación de conflicto.",
+      "Un resultado de la evaluación sumativa.",
+      "Una dinámica grupal específica."
+    ],
+    "correct_answer": "Un individuo dentro del grupo."
+  },
+  {
+    "question": "¿Qué técnica permite medir la cohesión de un grupo?",
+    "points": 2,
+    "options": [
+      "La sociometría.",
+      "La observación directa.",
+      "El guion de entrevista.",
+      "La escala de estimación."
+    ],
+    "correct_answer": "La sociometría."
+  },
+  {
+    "question": "¿Qué enfoque permite realizar ajustes durante el proceso de intervención?",
+    "points": 2,
+    "options": [
+      "Evaluación formativa.",
+      "Evaluación sumativa.",
+      "Sociometría.",
+      "Lista de control."
+    ],
+    "correct_answer": "Evaluación formativa."
+  },
+  {
+    "question": "¿Qué se analiza al evaluar los procesos grupales?",
+    "points": 2,
+    "options": [
+      "El progreso, la cohesión y la efectividad del grupo.",
+      "Los resultados individuales de cada miembro del grupo.",
+      "Las dinámicas competitivas exclusivamente.",
+      "La capacidad de un líder para resolver conflictos."
+    ],
+    "correct_answer": "El progreso, la cohesión y la efectividad del grupo."
+  },
+  {
+    "question": "¿Qué técnica facilita el análisis visual de las elecciones dentro de un grupo?",
+    "points": 2,
+    "options": [
+      "El sociograma.",
+      "La observación indirecta.",
+      "La escala de Likert.",
+      "El cuestionario cerrado."
+    ],
+    "correct_answer": "El sociograma."
+  },
+  {
+    "question": "¿Qué define la supervisión de equipos según el texto?",
+    "points": 2,
+    "options": [
+      "La actividad que coordina tareas y fomenta el intercambio de información.",
+      "Una técnica que mide el impacto final de las dinámicas grupales.",
+      "Un método para evaluar exclusivamente el liderazgo grupal.",
+      "Una herramienta para analizar conflictos individuales en el equipo."
+    ],
+    "correct_answer": "La actividad que coordina tareas y fomenta el intercambio de información."
+  }
+]

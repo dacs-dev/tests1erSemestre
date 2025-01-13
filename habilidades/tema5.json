@@ -1,0 +1,195 @@
+[
+  {
+    "question": "¿Qué define a una reunión según el texto?",
+    "points": 2,
+    "options": [
+      "Un grupo de personas con un objetivo concreto en un tiempo y lugar determinado.",
+      "Un evento social para mejorar relaciones personales.",
+      "Un espacio para expresar opiniones sin limitaciones.",
+      "Un encuentro exclusivamente formal entre profesionales."
+    ],
+    "correct_answer": "Un grupo de personas con un objetivo concreto en un tiempo y lugar determinado."
+  },
+  {
+    "question": "¿Cuál es el objetivo principal de una reunión informativa?",
+    "points": 2,
+    "options": [
+      "Dar información a las personas convocadas.",
+      "Reflexionar sobre problemas y factores asociados.",
+      "Tomar decisiones rápidas e informales.",
+      "Desarrollar nuevas técnicas de trabajo grupal."
+    ],
+    "correct_answer": "Dar información a las personas convocadas."
+  },
+  {
+    "question": "¿Qué caracteriza a las reuniones creativas?",
+    "points": 2,
+    "options": [
+      "Fomentar ideas nuevas y una visión diferente.",
+      "Tomar decisiones de manera consensuada.",
+      "Resolver problemas de forma estructurada.",
+      "Compartir información relevante sobre un tema."
+    ],
+    "correct_answer": "Fomentar ideas nuevas y una visión diferente."
+  },
+  {
+    "question": "¿Qué tipo de decisión se toma tras consultar a los afectados?",
+    "points": 2,
+    "options": [
+      "Decisión consultiva.",
+      "Decisión autocrática.",
+      "Decisión democrática.",
+      "Decisión consensuada."
+    ],
+    "correct_answer": "Decisión consultiva."
+  },
+  {
+    "question": "¿Qué instrumento se utiliza para planificar las tareas de una reunión?",
+    "points": 2,
+    "options": [
+      "El diagrama de Gantt.",
+      "El sociograma grupal.",
+      "La hoja de convocatoria.",
+      "El registro anecdótico."
+    ],
+    "correct_answer": "El diagrama de Gantt."
+  },
+  {
+    "question": "¿Qué se debe incluir en la hoja de convocatoria de una reunión?",
+    "points": 2,
+    "options": [
+      "El orden del día, el lugar y la duración aproximada.",
+      "El objetivo general y las posibles decisiones.",
+      "El informe financiero del último trimestre.",
+      "Los roles asignados para cada participante."
+    ],
+    "correct_answer": "El orden del día, el lugar y la duración aproximada."
+  },
+  {
+    "question": "¿Qué rol en una reunión propone soluciones originales a problemas?",
+    "points": 2,
+    "options": [
+      "El creativo.",
+      "El informador.",
+      "El secretario.",
+      "El conciliador."
+    ],
+    "correct_answer": "El creativo."
+  },
+  {
+    "question": "¿Qué técnica busca la participación activa de todos los miembros para tomar decisiones conjuntas?",
+    "points": 2,
+    "options": [
+      "La asamblea.",
+      "La mesa redonda.",
+      "El debate controlado.",
+      "El focus group."
+    ],
+    "correct_answer": "La asamblea."
+  },
+  {
+    "question": "¿Qué caracteriza a las reuniones de toma de decisiones?",
+    "points": 2,
+    "options": [
+      "El objetivo es llegar a un consenso sobre un problema o proyecto.",
+      "El propósito es compartir información relevante con un grupo.",
+      "Son lideradas exclusivamente por expertos en el tema.",
+      "Son informales y no requieren un plan previo."
+    ],
+    "correct_answer": "El objetivo es llegar a un consenso sobre un problema o proyecto."
+  },
+  {
+    "question": "¿Qué define el diagrama de Pert?",
+    "points": 2,
+    "options": [
+      "Es una herramienta para administrar proyectos y tareas de una reunión.",
+      "Es un método para evaluar la dinámica emocional de los grupos.",
+      "Es un esquema para asignar roles a los participantes de una reunión.",
+      "Es una técnica para analizar problemas sociales complejos."
+    ],
+    "correct_answer": "Es una herramienta para administrar proyectos y tareas de una reunión."
+  },
+  {
+    "question": "¿Cuál es el objetivo principal de una reunión formativa?",
+    "points": 2,
+    "options": [
+      "Poner en común experiencias y aprendizajes sobre un tema.",
+      "Reflexionar sobre problemas específicos del grupo.",
+      "Tomar decisiones rápidas ante situaciones imprevistas.",
+      "Revisar la estructura jerárquica del equipo de trabajo."
+    ],
+    "correct_answer": "Poner en común experiencias y aprendizajes sobre un tema."
+  },
+  {
+    "question": "¿Qué técnica de moderación fomenta la comunicación entre expertos y audiencia?",
+    "points": 2,
+    "options": [
+      "La mesa redonda.",
+      "La asamblea.",
+      "El debate abierto.",
+      "El focus group."
+    ],
+    "correct_answer": "La mesa redonda."
+  },
+  {
+    "question": "¿Qué rol en una reunión asegura que se documenten las decisiones tomadas?",
+    "points": 2,
+    "options": ["El secretario.", "El líder.", "El creativo.", "El moderador."],
+    "correct_answer": "El secretario."
+  },
+  {
+    "question": "¿Qué factor se considera esencial para el éxito de una reunión creativa?",
+    "points": 2,
+    "options": [
+      "Evitar expresiones que destruyan la creatividad.",
+      "Mantener el enfoque en problemas técnicos únicamente.",
+      "Repetir las mismas ideas para reforzar su importancia.",
+      "Limitar la participación a los líderes del grupo."
+    ],
+    "correct_answer": "Evitar expresiones que destruyan la creatividad."
+  },
+  {
+    "question": "¿Qué distingue a una decisión democrática en una reunión?",
+    "points": 2,
+    "options": [
+      "La participación equitativa de todos los miembros del grupo.",
+      "La consulta a un pequeño grupo de expertos.",
+      "La decisión tomada por una persona con autoridad.",
+      "La eliminación de puntos de vista divergentes."
+    ],
+    "correct_answer": "La participación equitativa de todos los miembros del grupo."
+  },
+  {
+    "question": "¿Cuál es la función principal de un moderador en una reunión?",
+    "points": 2,
+    "options": [
+      "Conceder turnos de intervención y mantener el orden.",
+      "Proponer nuevas ideas para la discusión grupal.",
+      "Asumir el liderazgo del equipo durante toda la reunión.",
+      "Documentar las decisiones tomadas y distribuirlas."
+    ],
+    "correct_answer": "Conceder turnos de intervención y mantener el orden."
+  },
+  {
+    "question": "¿Qué tipo de reunión está orientada a reflexionar sobre causas de problemas?",
+    "points": 2,
+    "options": [
+      "Reunión de análisis de problemas.",
+      "Reunión informativa.",
+      "Reunión creativa.",
+      "Reunión de toma de decisiones."
+    ],
+    "correct_answer": "Reunión de análisis de problemas."
+  },
+  {
+    "question": "¿Qué principio es clave para un moderador en una asamblea?",
+    "points": 2,
+    "options": [
+      "Motivar la reflexión y fomentar la participación igualitaria.",
+      "Imponer un enfoque específico sin concesiones.",
+      "Priorizar los temas propuestos por la autoridad del grupo.",
+      "Evitar intervenir en las discusiones y mantener el silencio."
+    ],
+    "correct_answer": "Motivar la reflexión y fomentar la participación igualitaria."
+  }
+]

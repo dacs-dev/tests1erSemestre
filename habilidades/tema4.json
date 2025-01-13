@@ -1,0 +1,222 @@
+[
+  {
+    "question": "¿Qué define a un grupo social según el texto?",
+    "points": 2,
+    "options": [
+      "Un número determinado de miembros con un objetivo común.",
+      "Un conjunto de personas que comparten recursos materiales.",
+      "Una agrupación informal basada en relaciones familiares.",
+      "Un grupo de personas que interactúan exclusivamente en línea."
+    ],
+    "correct_answer": "Un número determinado de miembros con un objetivo común."
+  },
+  {
+    "question": "¿Cuál es una función básica de los grupos?",
+    "points": 2,
+    "options": [
+      "Función emocional para satisfacer necesidades psicológicas.",
+      "Función de liderazgo compartido por todos los miembros.",
+      "Función económica para gestionar recursos financieros.",
+      "Función innovadora basada en tecnologías avanzadas."
+    ],
+    "correct_answer": "Función emocional para satisfacer necesidades psicológicas."
+  },
+  {
+    "question": "¿Cómo se define un grupo primario según su relación afectiva?",
+    "points": 2,
+    "options": [
+      "Relaciones afectivas intensas y continuas.",
+      "Relaciones impersonales y centradas en objetivos.",
+      "Interacciones breves con poca conexión emocional.",
+      "Vínculos formales y establecidos por instituciones."
+    ],
+    "correct_answer": "Relaciones afectivas intensas y continuas."
+  },
+  {
+    "question": "¿Qué tipo de estructura grupal está basada en relaciones afectivas?",
+    "points": 2,
+    "options": [
+      "Estructuras de afinidad.",
+      "Estructuras de poder.",
+      "Estructuras de comunicación.",
+      "Estructuras jerárquicas."
+    ],
+    "correct_answer": "Estructuras de afinidad."
+  },
+  {
+    "question": "¿Qué implica el estilo de liderazgo 'laissez-faire'?",
+    "points": 2,
+    "options": [
+      "Dejar libertad a los miembros para tomar decisiones.",
+      "Imponer decisiones rápidas por el líder del grupo.",
+      "Fomentar la participación de todos los miembros.",
+      "Intercambiar recompensas entre líder y miembros."
+    ],
+    "correct_answer": "Dejar libertad a los miembros para tomar decisiones."
+  },
+  {
+    "question": "Según el modelo lineal de Tuckman, ¿cuál es la primera etapa del desarrollo grupal?",
+    "points": 2,
+    "options": [
+      "Etapa de formación.",
+      "Etapa de conflicto.",
+      "Etapa normativa.",
+      "Etapa de ejecución."
+    ],
+    "correct_answer": "Etapa de formación."
+  },
+  {
+    "question": "¿Cuál es el objetivo principal de la ventana de Johari?",
+    "points": 2,
+    "options": [
+      "Aumentar el área pública y reducir las demás áreas.",
+      "Identificar los líderes del grupo rápidamente.",
+      "Promover conflictos interpersonales controlados.",
+      "Establecer jerarquías rígidas en el grupo."
+    ],
+    "correct_answer": "Aumentar el área pública y reducir las demás áreas."
+  },
+  {
+    "question": "¿Qué define la comunicación grupal efectiva?",
+    "points": 2,
+    "options": [
+      "Establecer relaciones largas y duraderas para alcanzar objetivos comunes.",
+      "Utilizar exclusivamente comunicación verbal clara.",
+      "Eliminar todas las barreras físicas y semánticas.",
+      "Promover mensajes individuales sobre grupales."
+    ],
+    "correct_answer": "Establecer relaciones largas y duraderas para alcanzar objetivos comunes."
+  },
+  {
+    "question": "¿Qué caracteriza a las dinámicas de grupo vivenciales?",
+    "points": 2,
+    "options": [
+      "Hacer vivir una situación como si fuera real.",
+      "Fomentar la competitividad entre los participantes.",
+      "Resolver conflictos exclusivamente en grupos grandes.",
+      "Reducir la interacción directa entre los participantes."
+    ],
+    "correct_answer": "Hacer vivir una situación como si fuera real."
+  },
+  {
+    "question": "¿Qué rol dentro del grupo propone caminos diferentes y originales?",
+    "points": 2,
+    "options": [
+      "El creativo.",
+      "El secretario.",
+      "El colaborador.",
+      "El informador."
+    ],
+    "correct_answer": "El creativo."
+  },
+  {
+    "question": "¿Qué caracteriza a un grupo secundario según el texto?",
+    "points": 2,
+    "options": [
+      "Relaciones impersonales y centradas en objetivos.",
+      "Relaciones afectivas intensas y continuas.",
+      "Vínculos exclusivamente familiares.",
+      "Interacciones basadas en amistad y simpatía."
+    ],
+    "correct_answer": "Relaciones impersonales y centradas en objetivos."
+  },
+  {
+    "question": "¿Qué tipo de grupo se forma deliberadamente con normas claras?",
+    "points": 2,
+    "options": [
+      "Grupo formal.",
+      "Grupo informal.",
+      "Grupo de referencia.",
+      "Grupo de pertenencia."
+    ],
+    "correct_answer": "Grupo formal."
+  },
+  {
+    "question": "¿Qué etapa del modelo lineal de Tuckman se centra en resolver conflictos internos?",
+    "points": 2,
+    "options": [
+      "Etapa del conflicto.",
+      "Etapa de ejecución.",
+      "Etapa de formación.",
+      "Etapa normativa."
+    ],
+    "correct_answer": "Etapa del conflicto."
+  },
+  {
+    "question": "¿Qué elemento define a los grupos de referencia?",
+    "points": 2,
+    "options": [
+      "Sirven de guía para desarrollar valores y actitudes.",
+      "Se forman exclusivamente por vínculos familiares.",
+      "Promueven interacciones breves y sin conexión emocional.",
+      "Dependen de instituciones formales para su funcionamiento."
+    ],
+    "correct_answer": "Sirven de guía para desarrollar valores y actitudes."
+  },
+  {
+    "question": "¿Qué es el modelo de ciclo vital según Lacoursiere?",
+    "points": 2,
+    "options": [
+      "Un modelo que refleja el desarrollo grupal en cinco fases.",
+      "Una técnica para analizar estructuras de poder.",
+      "Un método para clasificar grupos según su tamaño.",
+      "Una estrategia para resolver conflictos grupales."
+    ],
+    "correct_answer": "Un modelo que refleja el desarrollo grupal en cinco fases."
+  },
+  {
+    "question": "¿Qué estructura grupal está relacionada con las preferencias personales y los rechazos?",
+    "points": 2,
+    "options": [
+      "Estructuras de afinidad.",
+      "Estructuras de poder.",
+      "Estructuras de comunicación.",
+      "Estructuras jerárquicas."
+    ],
+    "correct_answer": "Estructuras de afinidad."
+  },
+  {
+    "question": "¿Qué técnica permite analizar el comportamiento interpersonal dentro de un grupo?",
+    "points": 2,
+    "options": [
+      "Ventana de Johari.",
+      "Modelo de Tuckman.",
+      "Modelo de ciclo vital.",
+      "Estructuras de comunicación."
+    ],
+    "correct_answer": "Ventana de Johari."
+  },
+  {
+    "question": "¿Qué estilo de comunicación busca evitar conflictos a toda costa?",
+    "points": 2,
+    "options": [
+      "Estilo pasivo.",
+      "Estilo agresivo.",
+      "Estilo asertivo.",
+      "Estilo transformacional."
+    ],
+    "correct_answer": "Estilo pasivo."
+  },
+  {
+    "question": "¿Qué implica el liderazgo transformacional dentro de un grupo?",
+    "points": 2,
+    "options": [
+      "Fomentar la comunicación bidireccional y la participación activa.",
+      "Dar órdenes claras y esperar que se sigan sin cuestionamientos.",
+      "Dejar que los miembros actúen con total autonomía.",
+      "Promover la competitividad entre los integrantes del grupo."
+    ],
+    "correct_answer": "Fomentar la comunicación bidireccional y la participación activa."
+  },
+  {
+    "question": "¿Qué define la dinámica de grupo lúdica?",
+    "points": 2,
+    "options": [
+      "Se presenta en forma de juego y estimula la creatividad.",
+      "Busca exclusivamente resolver conflictos grupales.",
+      "Se utiliza únicamente para evaluar conocimientos.",
+      "Consiste en actividades competitivas entre subgrupos."
+    ],
+    "correct_answer": "Se presenta en forma de juego y estimula la creatividad."
+  }
+]

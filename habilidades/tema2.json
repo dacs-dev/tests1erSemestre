@@ -1,0 +1,267 @@
+[
+  {
+    "question": "¿Qué tipos de causas generan conflictos según el texto?",
+    "points": 2,
+    "options": [
+      "Interpersonales, estructurales, de valores y comunicativas.",
+      "Económicas, educativas y sanitarias.",
+      "Relacionadas únicamente con problemas de recursos.",
+      "Exclusivamente derivadas de dinámicas grupales."
+    ],
+    "correct_answer": "Interpersonales, estructurales, de valores y comunicativas."
+  },
+  {
+    "question": "¿Qué caracteriza la fase de conflicto en una dinámica grupal?",
+    "points": 2,
+    "options": [
+      "El surgimiento de discrepancias y aumento de tensiones entre los miembros.",
+      "La plena colaboración entre todos los participantes.",
+      "El establecimiento de normas claras desde el inicio.",
+      "La ausencia total de desacuerdos o tensiones."
+    ],
+    "correct_answer": "El surgimiento de discrepancias y aumento de tensiones entre los miembros."
+  },
+  {
+    "question": "¿Qué objetivo tiene el proceso de toma de decisiones en un grupo?",
+    "points": 2,
+    "options": [
+      "Resolver problemas mediante consenso y evaluación de opciones.",
+      "Centralizar todas las decisiones en una figura de autoridad.",
+      "Evitar conflictos al no debatir diferentes alternativas.",
+      "Limitar las opciones disponibles para reducir el tiempo invertido."
+    ],
+    "correct_answer": "Resolver problemas mediante consenso y evaluación de opciones."
+  },
+  {
+    "question": "¿Qué técnica ayuda a clarificar la situación en la toma de decisiones grupales?",
+    "points": 2,
+    "options": [
+      "La terapia de solución de problemas de D’Zurilla y Goldfried.",
+      "El análisis de valores individuales.",
+      "La centralización de la autoridad en el líder del grupo.",
+      "El uso exclusivo de cuestionarios estandarizados."
+    ],
+    "correct_answer": "La terapia de solución de problemas de D’Zurilla y Goldfried."
+  },
+  {
+    "question": "¿Qué estilo de negociación prioriza la relación por encima del resultado?",
+    "points": 2,
+    "options": [
+      "Estilo acomodativo.",
+      "Estilo competitivo.",
+      "Estilo evitativo.",
+      "Estilo dominativo."
+    ],
+    "correct_answer": "Estilo acomodativo."
+  },
+  {
+    "question": "¿Qué estilo de negociación se asocia con ganar/ganar?",
+    "points": 2,
+    "options": [
+      "Estilo colaborativo.",
+      "Estilo competitivo.",
+      "Estilo evitativo.",
+      "Estilo servilista."
+    ],
+    "correct_answer": "Estilo colaborativo."
+  },
+  {
+    "question": "¿Qué recurso puede ayudar a gestionar conflictos en dinámicas grupales?",
+    "points": 2,
+    "options": [
+      "La mediación, que fomenta el diálogo entre las partes.",
+      "La eliminación de las tareas compartidas.",
+      "El liderazgo autoritario para imponer decisiones.",
+      "El uso de encuestas no estructuradas para evaluar opiniones."
+    ],
+    "correct_answer": "La mediación, que fomenta el diálogo entre las partes."
+  },
+  {
+    "question": "¿Qué define el concepto de empoderamiento en la resolución de conflictos grupales?",
+    "points": 2,
+    "options": [
+      "La mejora de capacidades individuales o grupales para tomar decisiones.",
+      "La centralización del poder en un solo individuo.",
+      "La exclusión de las partes involucradas en el conflicto.",
+      "La eliminación de responsabilidades individuales."
+    ],
+    "correct_answer": "La mejora de capacidades individuales o grupales para tomar decisiones."
+  },
+  {
+    "question": "¿Qué estilo de manejo de conflictos implica un alto interés por ambas partes?",
+    "points": 2,
+    "options": ["Integración.", "Dominación.", "Evitación.", "Servilismo."],
+    "correct_answer": "Integración."
+  },
+  {
+    "question": "¿Qué técnica es útil para evaluar las soluciones generadas en la toma de decisiones?",
+    "points": 2,
+    "options": [
+      "Pronosticar las consecuencias y comprobar las soluciones.",
+      "Observar las emociones de los participantes exclusivamente.",
+      "Evitar debates y pasar directamente a la acción.",
+      "Eliminar las alternativas no consideradas inicialmente."
+    ],
+    "correct_answer": "Pronosticar las consecuencias y comprobar las soluciones."
+  },
+  {
+    "question": "¿Qué estilo de negociación es más adecuado cuando el resultado no importa a las partes?",
+    "points": 2,
+    "options": ["Evitativo.", "Competitivo.", "Colaborativo.", "Dominativo."],
+    "correct_answer": "Evitativo."
+  },
+  {
+    "question": "¿Qué papel cumple el mediador en la resolución de conflictos?",
+    "points": 2,
+    "options": [
+      "Facilitar el diálogo sin tomar partido por ninguna de las partes.",
+      "Imponer soluciones rápidas y definitivas.",
+      "Actuar como juez y decidir el resultado del conflicto.",
+      "Evitar la comunicación directa entre los involucrados."
+    ],
+    "correct_answer": "Facilitar el diálogo sin tomar partido por ninguna de las partes."
+  },
+  {
+    "question": "¿Qué ventaja ofrece el estilo colaborativo en la negociación?",
+    "points": 2,
+    "options": [
+      "Promueve soluciones que benefician a ambas partes.",
+      "Reduce el tiempo invertido al no debatir alternativas.",
+      "Fomenta la dominación de una parte sobre la otra.",
+      "Evita el enfrentamiento directo al no tomar decisiones."
+    ],
+    "correct_answer": "Promueve soluciones que benefician a ambas partes."
+  },
+  {
+    "question": "¿Qué implica la evaluación de resultados en la toma de decisiones?",
+    "points": 2,
+    "options": [
+      "Determinar si la solución implementada fue la más adecuada.",
+      "Centrarse exclusivamente en las consecuencias negativas.",
+      "Eliminar la posibilidad de reevaluar la situación.",
+      "Evitar cualquier tipo de retroalimentación del grupo."
+    ],
+    "correct_answer": "Determinar si la solución implementada fue la más adecuada."
+  },
+  {
+    "question": "¿Qué define el estilo de negociación competitivo?",
+    "points": 2,
+    "options": [
+      "Priorizar el resultado sobre la relación entre las partes.",
+      "Fomentar la colaboración entre las partes involucradas.",
+      "Evitar el conflicto mediante concesiones mutuas.",
+      "Promover soluciones que beneficien a ambas partes por igual."
+    ],
+    "correct_answer": "Priorizar el resultado sobre la relación entre las partes."
+  },
+  {
+    "question": "¿Qué se entiende por conflicto latente según el texto?",
+    "points": 2,
+    "options": [
+      "Un conflicto que no ha sido manifestado aún pero está presente.",
+      "Un desacuerdo evidente entre dos o más partes.",
+      "Un enfrentamiento abierto sin posibilidades de solución.",
+      "Un conflicto que ya ha sido resuelto y no tiene repercusiones."
+    ],
+    "correct_answer": "Un conflicto que no ha sido manifestado aún pero está presente."
+  },
+  {
+    "question": "¿Cuáles son las fases de desarrollo de un conflicto?",
+    "points": 2,
+    "options": [
+      "Conflicto latente, fase de escalada, fase de negociación y resolución.",
+      "Inicio, confrontación y finalización.",
+      "Identificación del problema y resolución directa.",
+      "Exploración del conflicto y evitación."
+    ],
+    "correct_answer": "Conflicto latente, fase de escalada, fase de negociación y resolución."
+  },
+  {
+    "question": "¿Qué tipo de dinámicas grupales favorecen la cohesión del equipo?",
+    "points": 2,
+    "options": [
+      "Dinámicas de confianza y cohesión como la 'gran tortuga'.",
+      "Dinámicas de conocimiento inicial como el intercambio de nombres.",
+      "Dinámicas de roles centradas en la competencia.",
+      "Ejercicios individuales sin interacción grupal."
+    ],
+    "correct_answer": "Dinámicas de confianza y cohesión como la 'gran tortuga'."
+  },
+  {
+    "question": "¿Qué caracteriza el estilo integrativo en la gestión de conflictos?",
+    "points": 2,
+    "options": [
+      "Un alto interés por ambas partes mediante la colaboración.",
+      "Un bajo interés por ambas partes, evitando el problema.",
+      "La dominación de una parte sobre la otra.",
+      "El compromiso que busca una solución intermedia."
+    ],
+    "correct_answer": "Un alto interés por ambas partes mediante la colaboración."
+  },
+  {
+    "question": "¿Qué objetivo tiene la mediación en la resolución de conflictos?",
+    "points": 2,
+    "options": [
+      "Facilitar la comunicación entre las partes y alcanzar un acuerdo mutuamente aceptable.",
+      "Imponer soluciones externas a las partes en conflicto.",
+      "Evitar el contacto directo entre las partes involucradas.",
+      "Delegar la solución del conflicto en un grupo externo."
+    ],
+    "correct_answer": "Facilitar la comunicación entre las partes y alcanzar un acuerdo mutuamente aceptable."
+  },
+  {
+    "question": "¿Qué técnica se utiliza en dinámicas para mejorar la comunicación grupal?",
+    "points": 2,
+    "options": [
+      "Role playing o dinámicas de rol.",
+      "Resolución de problemas individuales.",
+      "Evitación de conflictos mediante el silencio.",
+      "Técnicas de dominación y control."
+    ],
+    "correct_answer": "Role playing o dinámicas de rol."
+  },
+  {
+    "question": "¿Qué implica la fase de escalada en un conflicto?",
+    "points": 2,
+    "options": [
+      "La intensificación del conflicto con comportamientos cada vez más agresivos.",
+      "La solución inmediata mediante negociación directa.",
+      "La reducción de las tensiones y la búsqueda de consenso.",
+      "El paso a una resolución formal mediante arbitraje."
+    ],
+    "correct_answer": "La intensificación del conflicto con comportamientos cada vez más agresivos."
+  },
+  {
+    "question": "¿Qué técnica se recomienda para controlar las emociones durante un conflicto?",
+    "points": 2,
+    "options": [
+      "Prácticas de control emocional y escucha activa.",
+      "Evitación completa de la discusión.",
+      "Aumentar el tono de voz para expresar sentimientos.",
+      "Ignorar los sentimientos de la otra parte involucrada."
+    ],
+    "correct_answer": "Prácticas de control emocional y escucha activa."
+  },
+  {
+    "question": "¿Qué estrategia fomenta la solución de conflictos grupales?",
+    "points": 2,
+    "options": [
+      "Promover la negociación y la cooperación.",
+      "Centrarse en las diferencias y los desacuerdos.",
+      "Imponer reglas estrictas a las partes.",
+      "Fomentar la competitividad entre los miembros del grupo."
+    ],
+    "correct_answer": "Promover la negociación y la cooperación."
+  },
+  {
+    "question": "¿Qué ventaja ofrece la educación en el conflicto según el texto?",
+    "points": 2,
+    "options": [
+      "Preparar a los individuos para enfrentar conflictos de manera activa y constructiva.",
+      "Evitar conflictos mediante estrategias de evasión.",
+      "Reducir la cohesión del grupo para mejorar la toma de decisiones.",
+      "Centralizar las decisiones en un mediador externo."
+    ],
+    "correct_answer": "Preparar a los individuos para enfrentar conflictos de manera activa y constructiva."
+  }
+]
